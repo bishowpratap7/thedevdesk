@@ -1,45 +1,63 @@
 {
- "generated_at": "2026-11-02T17:12:17.247154+00:00",
+ "generated_at": "2026-11-02T17:22:01.994504+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-02T17:11:53.633058+00:00",
+   "fetched_at": "2026-11-02T17:21:38.947362+00:00",
    "stale": false,
    "items": [
     {
-     "id": 50338747,
-     "title": "Moving our warehouse off DuckDB",
-     "url": "https://posthog.com/blog/moving-off-duckdb",
-     "score": 61,
-     "by": "emschwartz",
-     "time": 1793635346,
-     "comments": 35
+     "id": 50339913,
+     "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+     "url": "https://momentic.ai/",
+     "score": 24,
+     "by": "wuweiweiwu",
+     "time": 1793639125,
+     "comments": 0
     },
     {
      "id": 50338728,
      "title": "Ask HN: Who is hiring? (November 2026)",
      "url": null,
-     "score": 49,
+     "score": 53,
      "by": "whoishiring",
      "time": 1793635297,
-     "comments": 39
+     "comments": 42
     },
     {
      "id": 50339221,
      "title": "Show HN: Warsaw in voxels \u2013 an interactive 3D map of the city centre",
      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-     "score": 27,
+     "score": 34,
      "by": "stared",
      "time": 1793636726,
-     "comments": 6
+     "comments": 7
     },
     {
-     "id": 50339913,
-     "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
-     "url": "https://momentic.ai/",
-     "score": 11,
-     "by": "wuweiweiwu",
-     "time": 1793639125,
-     "comments": 0
+     "id": 50338747,
+     "title": "Moving our warehouse off DuckDB",
+     "url": "https://posthog.com/blog/moving-off-duckdb",
+     "score": 68,
+     "by": "emschwartz",
+     "time": 1793635346,
+     "comments": 38
+    },
+    {
+     "id": 50336518,
+     "title": "If you love a website, back it up",
+     "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+     "score": 120,
+     "by": "ingve",
+     "time": 1793625935,
+     "comments": 30
+    },
+    {
+     "id": 50339815,
+     "title": "My Favourite Laptop",
+     "url": "https://blog.jsbarretto.com/post/laptop",
+     "score": 10,
+     "by": "ibobev",
+     "time": 1793638797,
+     "comments": 4
     },
     {
      "id": 50339827,
@@ -51,19 +69,10 @@
      "comments": 0
     },
     {
-     "id": 50336518,
-     "title": "If you love a website, back it up",
-     "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-     "score": 107,
-     "by": "ingve",
-     "time": 1793625935,
-     "comments": 28
-    },
-    {
      "id": 50337503,
      "title": "GPT-Rosalind-6 System Card Addendum",
      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-     "score": 26,
+     "score": 31,
      "by": "gmays",
      "time": 1793630642,
      "comments": 21
@@ -72,51 +81,42 @@
      "id": 50337558,
      "title": "We halved DNS build delay and cut memory use by 85%",
      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-     "score": 27,
+     "score": 32,
      "by": "wondersky",
      "time": 1793630848,
-     "comments": 11
+     "comments": 15
     },
     {
      "id": 50337716,
      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
      "url": "https://longcat.ai/blog/longcat-2.5/",
-     "score": 39,
+     "score": 41,
      "by": "pretext",
      "time": 1793631626,
-     "comments": 13
+     "comments": 14
     },
     {
-     "id": 50339815,
-     "title": "My Favourite Laptop",
-     "url": "https://blog.jsbarretto.com/post/laptop",
-     "score": 6,
-     "by": "ibobev",
-     "time": 1793638797,
-     "comments": 1
+     "id": 50340109,
+     "title": "Vibe-Coding a Game in 2026: What AI Builds, What Breaks",
+     "url": "https://vlstudio.app/blog/vibe-coding-a-game-2026/",
+     "score": 3,
+     "by": "vladosskins",
+     "time": 1793639861,
+     "comments": 0
     },
     {
-     "id": 50312408,
-     "title": "Postgres 19 is late because so many more bugs are being found now",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-     "score": 753,
-     "by": "soheilpro",
-     "time": 1793410736,
-     "comments": 452
-    },
-    {
-     "id": 50334704,
-     "title": "Show HN: I've updated my Linux System Call website and API",
-     "url": "https://syscall.sh/",
-     "score": 160,
-     "by": "guitmz",
-     "time": 1793611756,
-     "comments": 45
+     "id": 50340088,
+     "title": "Show HN: Talk to your computer without talking out loud",
+     "url": "https://subvocal.company/",
+     "score": 3,
+     "by": "aarushyadav",
+     "time": 1793639777,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-02T17:12:01.402527+00:00",
+   "fetched_at": "2026-11-02T17:21:45.180723+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-02T17:12:12.210287+00:00",
+   "fetched_at": "2026-11-02T17:21:56.984486+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 12379,
+     "stars": 12405,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 5870,
+     "stars": 5883,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 5148,
+     "stars": 5150,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 3799,
+     "stars": 3811,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 3374,
+     "stars": 3379,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 3183,
+     "stars": 3204,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2322,
+     "stars": 2326,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "haydenschmitty/floorplan",
      "url": "https://github.com/haydenschmitty/floorplan",
-     "stars": 2139,
+     "stars": 2143,
      "language": "JavaScript",
      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
      "created_at": "2026-10-27T12:03:01Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-02T17:12:13.938777+00:00",
+   "fetched_at": "2026-11-02T17:21:58.732446+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-02T17:12:14.696804+00:00",
+   "fetched_at": "2026-11-02T17:21:59.367520+00:00",
    "stale": false,
    "items": [
     {
