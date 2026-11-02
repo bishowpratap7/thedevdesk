@@ -17,12 +17,17 @@ one static page.
 - **Community Pulse** — dev.to top articles of the week (official API)
 - **Outage Watch** — live status from GitHub, Cloudflare, npm, Vercel status pages
 
+## Live page
+- Public mirror repo `thedevdesk` (public, hosting only) serves the page via GitHub Pages:
+  https://bishowpratap7.github.io/thedevdesk/
+- The hourly scanner commits to this private repo (remote `origin`) and mirrors the same
+  commit to the public repo (remote `live`), so the public page stays current.
+
 ## Notes & limits
 - Unauthenticated GitHub API allows ~60 requests/hour per IP; the page is built to fail
   gracefully per section and retry on refresh.
-- Repo is PRIVATE by Bishow's standing rule — the code lives here; publishing the page
-  publicly (GitHub Pages needs a public repo on the free plan, or any static host) is a
-  separate step taken only when he says so.
+- This repo is PRIVATE by Bishow's standing rule — the newsroom lives here; only the
+  finished page is mirrored to the public hosting repo.
 - Design/launch plan: CHANNEL_AND_SITE_STRUCTURE.md in the project files; this repo is the
   machine room for the show — rundowns for episodes get drafted from this wire.
 

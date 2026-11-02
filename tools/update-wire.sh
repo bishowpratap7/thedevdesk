@@ -11,4 +11,5 @@ fi
 git add data/wire.json
 git commit -q -m "Wire update $(date -u +%Y-%m-%dT%H:%MZ)"
 git push -q origin main || exit 1
+git push -q live main || echo "WIRE: warning — live mirror push failed"
 echo "WIRE: updated and pushed"
