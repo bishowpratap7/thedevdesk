@@ -3,8 +3,40 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Dev Desk — Live Developer News Wire</title>
-<meta name="description" content="The Dev Desk with Bishow Pandey: tech news, code pushes, trending repos, and the developer conversation — tracked live from public sources.">
+<title>The Dev Desk — Developer News Today: Tech News, GitHub Trending, Latest Releases & Hacker News | Bishow Pandey</title>
+<meta name="description" content="The Dev Desk by Bishow Pandey tracks developer news as it happens: today's top tech stories, GitHub trending repositories, the latest Spring Boot, Kubernetes, Node.js and VS Code releases, Hacker News front page, dev.to community pulse, and live cloud outage status — updated hourly.">
+<meta name="keywords" content="developer news, tech news today, GitHub trending, Hacker News top stories, latest software releases, Spring Boot release, Kubernetes release, Node.js release, programming news, dev.to top posts, cloud outage status, Bishow Pandey">
+<meta name="author" content="Bishow Pandey">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="canonical" href="https://bishowpratap7.github.io/thedevdesk/">
+<meta name="theme-color" content="#0a1628">
+<link rel="icon" type="image/jpeg" href="assets/bishow-pandey.jpg">
+<link rel="apple-touch-icon" href="assets/bishow-pandey.jpg">
+<link rel="alternate" type="application/atom+xml" title="The Dev Desk — Wire Feed" href="feed.xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Dev Desk">
+<meta property="og:title" content="The Dev Desk — Developer News Today, with Bishow Pandey">
+<meta property="og:description" content="Tech news, code pushes, GitHub trending repos, Hacker News and the developer conversation — tracked live and updated hourly by anchor Bishow Pandey.">
+<meta property="og:url" content="https://bishowpratap7.github.io/thedevdesk/">
+<meta property="og:image" content="https://bishowpratap7.github.io/thedevdesk/assets/bishow-pandey.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@bishowppandey">
+<meta name="twitter:creator" content="@bishowppandey">
+<meta name="twitter:title" content="The Dev Desk — Developer News Today, with Bishow Pandey">
+<meta name="twitter:description" content="Tech news, code pushes, GitHub trending, Hacker News & the developer conversation — live, hourly, with Bishow Pandey.">
+<meta name="twitter:image" content="https://bishowpratap7.github.io/thedevdesk/assets/bishow-pandey.jpg">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"WebSite","@id":"https://bishowpratap7.github.io/thedevdesk/#website","url":"https://bishowpratap7.github.io/thedevdesk/","name":"The Dev Desk","description":"Developer news wire: tech news, code pushes, GitHub trending repositories, latest framework releases, Hacker News and community pulse — updated hourly.","publisher":{"@id":"https://bishowpratap7.github.io/thedevdesk/#bishow"},"inLanguage":"en"},
+{"@type":"Person","@id":"https://bishowpratap7.github.io/thedevdesk/#bishow","name":"Bishow Pandey","url":"https://bishowpratap7.github.io/thedevdesk/","image":"https://bishowpratap7.github.io/thedevdesk/assets/bishow-pandey.jpg","jobTitle":"Senior Software Engineer & Platform Engineer","description":"Bishow Pandey is a Senior Software Engineer and Platform Engineer specializing in Java, Spring Boot, Kubernetes (AWS EKS) and application security, and the anchor of The Dev Desk developer news wire.","address":{"@type":"PostalAddress","addressRegion":"KY","addressCountry":"US"},"sameAs":["https://x.com/bishowppandey","https://github.com/bishowpratap7","https://www.linkedin.com/in/bishowpandey","https://www.youtube.com/@bishowpandey","https://bishowpratap7.github.io/bishow-pandey-tech-blogs/"]},
+{"@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"What is The Dev Desk?","acceptedAnswer":{"@type":"Answer","text":"The Dev Desk is a live developer news wire by Bishow Pandey. It tracks tech news, code pushes and releases, GitHub trending repositories, the Hacker News front page, dev.to community discussions, and cloud platform status — updated hourly from public sources."}},
+{"@type":"Question","name":"What developer news does The Dev Desk track?","acceptedAnswer":{"@type":"Answer","text":"Top tech stories from Hacker News, the latest releases of Spring Boot, Kubernetes, Node.js, VS Code, Rust and Go, new GitHub repositories trending by stars, the most discussed dev.to articles of the week, and live outage status for GitHub, Cloudflare, npm and Vercel."}},
+{"@type":"Question","name":"How often is The Dev Desk updated?","acceptedAnswer":{"@type":"Answer","text":"The wire is rescanned and updated every hour, and the page also refreshes live in the browser every five minutes."}},
+{"@type":"Question","name":"Who is Bishow Pandey?","acceptedAnswer":{"@type":"Answer","text":"Bishow Pandey is a Senior Software Engineer and Platform Engineer (Java, Spring Boot, Kubernetes/EKS, application security) based in Kentucky, USA. He anchors The Dev Desk and writes the Bishow Pandey Tech Blogs."}}
+]}
+]}
+</script>
 <style>
   :root{
     --navy:#0a1628; --navy2:#10233d; --red:#d92323; --ink:#17222e; --mut:#5b6b7a;
@@ -45,6 +77,15 @@
   .ok{background:var(--green)} .warn{background:var(--amber)} .bad{background:var(--red)} .unk{background:#aab6c0}
   .err{font-family:Arial,sans-serif;font-size:12.5px;color:var(--mut);padding:8px 0}
   footer{font-family:Arial,sans-serif;font-size:12px;color:var(--mut);text-align:center;padding:22px 14px 30px;line-height:1.7}
+  h1.brand{margin:0;font-size:40px}
+  .desknav{background:#fff;border-bottom:1px solid var(--line);padding:9px 16px;font-family:Arial,sans-serif;font-size:13px;display:flex;gap:16px;flex-wrap:wrap}
+  .desknav a{color:var(--navy);font-weight:700}
+  .seointro{max-width:1240px;margin:0 auto;padding:14px 18px 0;font-size:15.5px;line-height:1.6}
+  .baked h3{font-size:16px;margin:12px 0 4px;color:var(--navy)}
+  .baked ul{margin:4px 0 10px;padding-left:18px}
+  .baked li{font-size:14.5px;margin:3px 0;line-height:1.4}
+  .faq p{font-size:14.5px;line-height:1.55;margin:6px 0}
+  .faq b.q{color:var(--navy)}
   .refresh{font-family:Arial,sans-serif;font-size:12px;color:var(--mut)}
   button{font-family:Arial,sans-serif;font-size:12px;background:var(--navy);color:#fff;border:none;padding:5px 12px;border-radius:3px;cursor:pointer}
   /* Sticky anchor bar — the name never leaves the screen */
@@ -82,7 +123,7 @@
 </div>
 
 <header class="masthead">
-  <div class="brand">THE DEV <span class="desk">DESK</span></div>
+  <h1 class="brand">THE DEV <span class="desk">DESK</span></h1>
   <div class="tag">Tech news, code pushes, and the developer conversation — with <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener">Bishow Pandey</a>, Senior Software Engineer &amp; Platform Engineer</div>
   <div class="meta">
     <span class="live">LIVE WIRE</span>
@@ -96,33 +137,44 @@
 
 <div class="ticker"><div class="inner" id="ticker">Loading the wire…</div></div>
 
+<nav class="desknav">
+  <a href="#top-stories">Top Stories</a><a href="#release-radar">Release Radar</a><a href="#trending-github">Trending on GitHub</a><a href="#community-pulse">Community Pulse</a><a href="#outage-watch">Outage Watch</a><a href="#latest-wire">Latest Headlines</a><a href="#faq">FAQ</a>
+</nav>
+<p class="seointro"><strong>The Dev Desk</strong> is a live <strong>developer news</strong> wire anchored by <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--navy)">Bishow Pandey</a>. Every hour it scans the places developer news actually happens — the <strong>Hacker News</strong> front page, <strong>GitHub trending</strong> repositories and the latest <strong>code pushes</strong> (Spring Boot, Kubernetes, Node.js, VS Code, Rust, Go releases), the <strong>dev.to</strong> community, and live <strong>cloud status</strong> pages — and lays them out like a newsroom rundown, with every story linked to its primary source.</p>
 <main class="wrap">
+  <!--WIRE:START-->
+  <section class="card baked" id="latest-wire" style="margin-bottom:16px">
+    <h2>🗞️ Latest Headlines From the Wire</h2>
+    <div class="sub">Baked in hourly by the newsroom scanner · the desks below also update live</div>
+    <div id="baked-body"><p class="err">The first baked edition arrives with the next hourly scan.</p></div>
+  </section>
+  <!--WIRE:END-->
   <div class="grid">
-    <section class="card red">
+    <section class="card red" id="top-stories">
       <h2>🔴 Top Stories</h2>
       <div class="sub">Hacker News front page · ranked by the community</div>
       <div id="hn"><p class="err">Loading…</p></div>
     </section>
 
-    <section class="card blue">
+    <section class="card blue" id="release-radar">
       <h2>🚀 Release Radar</h2>
       <div class="sub">Latest code pushes from watched projects</div>
       <div id="releases"><p class="err">Loading…</p></div>
     </section>
 
-    <section class="card green">
+    <section class="card green" id="trending-github">
       <h2>⭐ Trending on GitHub</h2>
       <div class="sub">Newest repos gaining stars this week</div>
       <div id="trending"><p class="err">Loading…</p></div>
     </section>
 
-    <section class="card purple">
+    <section class="card purple" id="community-pulse">
       <h2>💬 Community Pulse</h2>
       <div class="sub">What developers are writing &amp; debating · dev.to top this week</div>
       <div id="devto"><p class="err">Loading…</p></div>
     </section>
 
-    <section class="card">
+    <section class="card" id="outage-watch">
       <h2>⚠️ Outage Watch</h2>
       <div class="sub">Live status of the platforms developers depend on</div>
       <div id="status"><p class="err">Loading…</p></div>
@@ -144,12 +196,21 @@
       <p style="font-size:14.5px;line-height:1.55;margin:6px 0">Every rundown on the show is drafted from this wire and approved by <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--ink)">Bishow Pandey</a> before it airs — follow him on X for the takes between episodes.</p>
     </section>
   </div>
+  <section class="card faq" id="faq" style="margin-top:16px">
+    <h2>❓ Developer News — Questions, Answered</h2>
+    <div class="sub">About The Dev Desk wire</div>
+    <p><b class="q">What is The Dev Desk?</b><br>A live developer news wire by Bishow Pandey — tech news, code pushes, trending repos and the developer conversation, tracked from public sources and updated hourly.</p>
+    <p><b class="q">Where do I find today's GitHub trending repositories?</b><br>The Trending on GitHub desk above ranks repositories created in the last 7 days by stars, refreshed hourly — alongside the Hacker News front page and the latest Spring Boot, Kubernetes, Node.js, VS Code, Rust and Go releases on Release Radar.</p>
+    <p><b class="q">How do I check if GitHub, Cloudflare, npm or Vercel is down?</b><br>The Outage Watch desk reads their official status pages live and shows the current state on this page.</p>
+    <p><b class="q">Who is Bishow Pandey?</b><br>A Senior Software Engineer &amp; Platform Engineer (Java · Spring Boot · Kubernetes/EKS · Application Security) based in Kentucky, USA — he anchors The Dev Desk, writes the Bishow Pandey Tech Blogs, and posts as <a href="https://x.com/bishowppandey" target="_blank" rel="noopener">@bishowppandey</a> on X.</p>
+    <p><b class="q">Topics covered:</b> developer news today · tech news · GitHub trending today · Hacker News top stories · Spring Boot release news · Kubernetes release news · Node.js and VS Code updates · open source launches · dev.to top posts · cloud outage status · AI developer tools.</p>
+  </section>
 </main>
 
 <footer>
   THE DEV DESK · A developer news wire by <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--navy)">Bishow Pandey</a> · <a href="https://x.com/bishowppandey" target="_blank" rel="noopener">Follow @bishowppandey on X</a><br>
   Sources: Hacker News · GitHub · dev.to · official status pages — all public feeds, always linked.<br>
-  This is a tracking prototype (v0.5). Not affiliated with any source platform.
+  This is a tracking prototype (v0.6). Not affiliated with any source platform.
 </footer>
 
 <script>

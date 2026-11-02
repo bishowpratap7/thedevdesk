@@ -129,11 +129,81 @@ def main():
             else:
                 sections[name] = {"fetched_at": None, "stale": True, "items": []}
                 report.append(f"{name}: FAILED ({e}) — no previous data")
+    # If no section's items actually changed, leave all files untouched so the
+    # hourly job produces no empty churn commits.
+    prev_items = {k: (v or {}).get("items", []) for k, v in prev.items()}
+    new_items = {k: v["items"] for k, v in sections.items()}
+    if prev_items == new_items:
+        print("Wire scan: no content change — files untouched")
+        return
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    json.dump({"generated_at": now_iso(), "sections": sections}, open(OUT, "w"), indent=1)
+    wire = {"generated_at": now_iso(), "sections": sections}
+    json.dump(wire, open(OUT, "w"), indent=1)
     print("Wire scan @", now_iso())
     for line in report:
         print(" ", line)
+    publish_static(wire)
+
+SITE = "https://bishowpratap7.github.io/thedevdesk/"
+
+def publish_static(wire):
+    """Bake the latest wire into index.html (crawlable headlines), regenerate
+    feed.xml (Atom) and sitemap.xml. Runs on every scan; git decides if the
+    result actually changed."""
+    import html as H
+    s = wire["sections"]
+    gen = wire["generated_at"]
+    def ul(items, fmt):
+        return "<ul>" + "".join(f"<li>{fmt(i)}</li>" for i in items) + "</ul>"
+    hn = (s.get("top_stories") or {}).get("items", [])
+    rel = (s.get("releases") or {}).get("items", [])
+    tr = (s.get("trending") or {}).get("items", [])
+    cm = (s.get("community") or {}).get("items", [])
+    baked = f'''<!--WIRE:START-->
+  <section class="card baked" id="latest-wire" style="margin-bottom:16px">
+    <h2>🗞️ Latest Headlines From the Wire</h2>
+    <div class="sub">Edition of {H.escape(gen[:16].replace("T", " "))} UTC · baked in hourly by the newsroom scanner · the desks below also update live</div>
+    <h3>Top Stories — Hacker News</h3>
+    {ul(hn[:8], lambda i: f'<a href="{H.escape(i.get("url") or "https://news.ycombinator.com/item?id=" + str(i["id"]))}">{H.escape(i["title"])}</a> — {i.get("score", 0)} points, {i.get("comments", 0)} comments')}
+    <h3>Release Radar — Latest Code Pushes</h3>
+    {ul(rel, lambda r: f'<a href="{H.escape(r.get("url") or "")}">{H.escape(r["repo"])} {H.escape(r.get("tag") or "")}</a> — {H.escape(r.get("name") or "")}')}
+    <h3>Trending on GitHub — New Repos by Stars</h3>
+    {ul(tr[:8], lambda r: f'<a href="{H.escape(r["url"])}">{H.escape(r["full_name"])}</a> — ⭐ {r["stars"]} {("· " + H.escape(r["language"])) if r.get("language") else ""}')}
+    <h3>Community Pulse — dev.to</h3>
+    {ul(cm[:6], lambda a: f'<a href="{H.escape(a["url"])}">{H.escape(a["title"])}</a> — by {H.escape(a.get("author") or "")}')}
+  </section>
+  <!--WIRE:END-->'''
+    idx_path = os.path.join(ROOT, "index.html")
+    idx = open(idx_path).read()
+    start = idx.index("<!--WIRE:START-->")
+    end = idx.index("<!--WIRE:END-->") + len("<!--WIRE:END-->")
+    open(idx_path, "w").write(idx[:start] + baked + idx[end:])
+
+    # Atom feed from top stories + trending
+    import datetime as _dt
+    def ts(epoch):
+        return _dt.datetime.fromtimestamp(epoch, _dt.timezone.utc).isoformat()
+    entries = []
+    for i in hn[:10]:
+        entries.append(f'''<entry><title>{H.escape(i["title"])}</title><link href="{H.escape(i.get("url") or "")}"/><id>urn:hn:{i["id"]}</id><updated>{ts(i.get("time") or 0)}</updated><summary>Top story on Hacker News — {i.get("score", 0)} points, {i.get("comments", 0)} comments. Tracked by The Dev Desk.</summary></entry>''')
+    feed = f'''<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>The Dev Desk — Developer News Wire</title>
+<subtitle>Tech news, code pushes, GitHub trending and the developer conversation — with Bishow Pandey</subtitle>
+<link href="{SITE}feed.xml" rel="self"/><link href="{SITE}"/>
+<id>{SITE}</id><updated>{gen}</updated>
+<author><name>Bishow Pandey</name></author>
+{chr(10).join(entries)}
+</feed>
+'''
+    open(os.path.join(ROOT, "feed.xml"), "w").write(feed)
+    sitemap = f'''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>{SITE}</loc><lastmod>{gen[:10]}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+</urlset>
+'''
+    open(os.path.join(ROOT, "sitemap.xml"), "w").write(sitemap)
+    print("  static: index.html baked, feed.xml + sitemap.xml regenerated")
 
 if __name__ == "__main__":
     main()
