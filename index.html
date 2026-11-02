@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Dev Desk — Live Developer News Wire</title>
+<meta name="description" content="The Dev Desk with Bishow Pandey: tech news, code pushes, trending repos, and the developer conversation — tracked live from public sources.">
+<style>
+  :root{
+    --navy:#0a1628; --navy2:#10233d; --red:#d92323; --ink:#17222e; --mut:#5b6b7a;
+    --bg:#f4f6f8; --card:#ffffff; --line:#dde4ea; --green:#1a9e54; --amber:#e8a13a; --blue:#2563eb; --purple:#7c3aed;
+  }
+  *{box-sizing:border-box} body{margin:0;font-family:Georgia,'Times New Roman',serif;background:var(--bg);color:var(--ink)}
+  a{color:var(--blue);text-decoration:none} a:hover{text-decoration:underline}
+  /* Masthead */
+  .masthead{background:var(--navy);color:#fff;padding:18px 22px 12px;border-bottom:5px solid var(--red)}
+  .masthead .brand{font-size:40px;font-weight:900;letter-spacing:.5px;line-height:1}
+  .masthead .brand .desk{color:var(--red)}
+  .masthead .tag{font-family:Arial,sans-serif;font-size:13px;color:#c8d4e2;margin-top:6px}
+  .masthead .meta{display:flex;gap:18px;flex-wrap:wrap;font-family:Arial,sans-serif;font-size:12px;color:#9fb2c6;margin-top:10px}
+  .live{display:inline-block;background:var(--red);color:#fff;font-weight:700;padding:1px 8px;border-radius:3px;letter-spacing:1px}
+  /* Ticker */
+  .ticker{background:var(--navy2);color:#e8eef5;overflow:hidden;white-space:nowrap;font-family:Arial,sans-serif;font-size:13px;padding:7px 0;border-bottom:1px solid var(--line)}
+  .ticker .inner{display:inline-block;padding-left:100%;animation:tick 90s linear infinite}
+  @keyframes tick{0%{transform:translateX(0)}100%{transform:translateX(-100%)}}
+  .ticker b{color:var(--red);margin:0 10px}
+  /* Layout */
+  .wrap{max-width:1240px;margin:0 auto;padding:18px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--navy);padding:14px 16px}
+  .card.red{border-top-color:var(--red)} .card.blue{border-top-color:var(--blue)}
+  .card.green{border-top-color:var(--green)} .card.purple{border-top-color:var(--purple)}
+  .card h2{font-size:19px;margin:2px 0 4px}
+  .card .sub{font-family:Arial,sans-serif;font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:1px;margin-bottom:10px}
+  .item{padding:8px 0;border-bottom:1px solid var(--line)} .item:last-child{border-bottom:none}
+  .item .t{font-size:15.5px;font-weight:700;line-height:1.3}
+  .item .t a{color:var(--ink)} .item .t a:hover{color:var(--blue)}
+  .item .m{font-family:Arial,sans-serif;font-size:12px;color:var(--mut);margin-top:3px}
+  .item .m a{color:var(--mut);text-decoration:underline}
+  .badge{display:inline-block;font-family:Arial,sans-serif;font-size:10.5px;font-weight:700;padding:1px 6px;border-radius:3px;background:#eef2f6;color:var(--navy);margin-right:5px}
+  .badge.rel{background:#e7eefe;color:var(--blue)} .badge.hot{background:#fde8e8;color:var(--red)}
+  .status{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-bottom:1px solid var(--line);font-family:Arial,sans-serif;font-size:13.5px}
+  .status:last-child{border-bottom:none}
+  .dot{width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:7px;vertical-align:middle}
+  .ok{background:var(--green)} .warn{background:var(--amber)} .bad{background:var(--red)} .unk{background:#aab6c0}
+  .err{font-family:Arial,sans-serif;font-size:12.5px;color:var(--mut);padding:8px 0}
+  footer{font-family:Arial,sans-serif;font-size:12px;color:var(--mut);text-align:center;padding:22px 14px 30px;line-height:1.7}
+  .refresh{font-family:Arial,sans-serif;font-size:12px;color:var(--mut)}
+  button{font-family:Arial,sans-serif;font-size:12px;background:var(--navy);color:#fff;border:none;padding:5px 12px;border-radius:3px;cursor:pointer}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="brand">THE DEV <span class="desk">DESK</span></div>
+  <div class="tag">Tech news, code pushes, and the developer conversation — with <b>Bishow Pandey</b>, Senior Software Engineer &amp; Platform Engineer</div>
+  <div class="meta">
+    <span class="live">LIVE WIRE</span>
+    <span id="clock">—</span>
+    <span>Last updated: <span id="updated">loading…</span></span>
+    <span><button onclick="loadAll()">↻ Refresh now</button></span>
+    <span class="refresh">Auto-refreshes every 5 minutes · All data from public sources, linked at the source</span>
+  </div>
+</header>
+
+<div class="ticker"><div class="inner" id="ticker">Loading the wire…</div></div>
+
+<main class="wrap">
+  <div class="grid">
+    <section class="card red">
+      <h2>🔴 Top Stories</h2>
+      <div class="sub">Hacker News front page · ranked by the community</div>
+      <div id="hn"><p class="err">Loading…</p></div>
+    </section>
+
+    <section class="card blue">
+      <h2>🚀 Release Radar</h2>
+      <div class="sub">Latest code pushes from watched projects</div>
+      <div id="releases"><p class="err">Loading…</p></div>
+    </section>
+
+    <section class="card green">
+      <h2>⭐ Trending on GitHub</h2>
+      <div class="sub">Newest repos gaining stars this week</div>
+      <div id="trending"><p class="err">Loading…</p></div>
+    </section>
+
+    <section class="card purple">
+      <h2>💬 Community Pulse</h2>
+      <div class="sub">What developers are writing &amp; debating · dev.to top this week</div>
+      <div id="devto"><p class="err">Loading…</p></div>
+    </section>
+
+    <section class="card">
+      <h2>⚠️ Outage Watch</h2>
+      <div class="sub">Live status of the platforms developers depend on</div>
+      <div id="status"><p class="err">Loading…</p></div>
+    </section>
+
+    <section class="card">
+      <h2>🗞️ About this wire</h2>
+      <div class="sub">How The Dev Desk tracks the news</div>
+      <p style="font-size:14.5px;line-height:1.55;margin:6px 0">This page is the live research wire behind <b>The Dev Desk</b> show. It watches the places developer news actually happens — GitHub releases and trending repos, the Hacker News front page, the dev.to community, and the status pages of major platforms — and lays them out like a newsroom rundown.</p>
+      <p style="font-size:14.5px;line-height:1.55;margin:6px 0">Every item links to its primary source. Stories are verified against the original release, post, or status page before they make the show. Errors get corrected on the record.</p>
+      <p style="font-size:14.5px;line-height:1.55;margin:6px 0">Anchor: <b>Bishow Pandey</b> — Java · Spring Boot · Kubernetes/EKS · Application Security.</p>
+    </section>
+  </div>
+</main>
+
+<footer>
+  THE DEV DESK · A developer news wire by Bishow Pandey<br>
+  Sources: Hacker News · GitHub · dev.to · official status pages — all public feeds, always linked.<br>
+  This is a tracking prototype (v0.1). Not affiliated with any source platform.
+</footer>
+
+<script>
+// ---------- config: edit the wire here ----------
+const WATCHED_REPOS = [
+  "spring-projects/spring-boot",
+  "kubernetes/kubernetes",
+  "nodejs/node",
+  "microsoft/vscode",
+  "rust-lang/rust",
+  "golang/go"
+];
+const STATUS_PAGES = [
+  {name:"GitHub",     url:"https://www.githubstatus.com/api/v2/status.json",      home:"https://www.githubstatus.com"},
+  {name:"Cloudflare", url:"https://www.cloudflarestatus.com/api/v2/status.json", home:"https://www.cloudflarestatus.com"},
+  {name:"npm",        url:"https://status.npmjs.org/api/v2/status.json",         home:"https://status.npmjs.org"},
+  {name:"Vercel",     url:"https://www.vercel-status.com/api/v2/status.json",    home:"https://www.vercel-status.com"}
+];
+const $ = id => document.getElementById(id);
+const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const ago = ts => { const s=(Date.now()-ts)/1e3; if(s<3600) return Math.max(1,Math.round(s/60))+"m ago"; if(s<86400) return Math.round(s/3600)+"h ago"; return Math.round(s/86400)+"d ago"; };
+async function jget(url){ const r = await fetch(url); if(!r.ok) throw new Error(r.status); return r.json(); }
+
+// ---------- Hacker News: Top Stories + ticker ----------
+async function loadHN(){
+  try{
+    const ids = await jget("https://hacker-news.firebaseio.com/v0/topstories.json");
+    const items = await Promise.all(ids.slice(0,10).map(id => jget(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)));
+    const ok = items.filter(i => i && i.title);
+    $("hn").innerHTML = ok.map(i => `
+      <div class="item"><div class="t"><a href="${esc(i.url || ("https://news.ycombinator.com/item?id="+i.id))}" target="_blank" rel="noopener">${esc(i.title)}</a></div>
+      <div class="m">▲ ${i.score||0} points · by ${esc(i.by||"")} · ${ago(i.time*1000)} · <a href="https://news.ycombinator.com/item?id=${i.id}" target="_blank" rel="noopener">${i.descendants||0} comments</a></div></div>`).join("");
+    $("ticker").innerHTML = ok.map(i => `<b>■</b>${esc(i.title)}`).join("");
+  }catch(e){ $("hn").innerHTML = '<p class="err">Wire hiccup — Hacker News feed unreachable right now. It retries on the next refresh.</p>'; }
+}
+
+// ---------- Release Radar: GitHub releases of watched repos ----------
+async function loadReleases(){
+  const out = [];
+  for(const repo of WATCHED_REPOS){
+    try{
+      const rels = await jget(`https://api.github.com/repos/${repo}/releases?per_page=1`);
+      if(rels && rels[0]){
+        const r = rels[0];
+        out.push(`<div class="item"><div class="t"><span class="badge rel">${esc(r.tag_name||"release")}</span><a href="${esc(r.html_url)}" target="_blank" rel="noopener">${esc(repo)}</a></div>
+        <div class="m">${esc(r.name||"")} · pushed ${ago(new Date(r.published_at||r.created_at).getTime())}</div></div>`);
+      }
+    }catch(e){ /* one repo failing must not kill the desk */ }
+  }
+  $("releases").innerHTML = out.length ? out.join("") :
+    '<p class="err">GitHub API rate limit reached for this connection — Release Radar retries on the next refresh. (Unauthenticated GitHub API allows 60 requests/hour per IP.)</p>';
+}
+
+// ---------- Trending on GitHub: newest repos by stars (7-day window) ----------
+async function loadTrending(){
+  try{
+    const since = new Date(Date.now() - 7*864e5).toISOString().slice(0,10);
+    const data = await jget(`https://api.github.com/search/repositories?q=created:>${since}&sort=stars&order=desc&per_page=8`);
+    $("trending").innerHTML = (data.items||[]).map(r => `
+      <div class="item"><div class="t"><a href="${esc(r.html_url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a></div>
+      <div class="m">⭐ ${r.stargazers_count.toLocaleString()}${r.language ? " · "+esc(r.language) : ""} · created ${ago(new Date(r.created_at).getTime())}</div>
+      ${r.description ? `<div class="m">${esc(r.description)}</div>` : ""}</div>`).join("");
+  }catch(e){ $("trending").innerHTML = '<p class="err">GitHub search unreachable or rate-limited right now — retries on the next refresh.</p>'; }
+}
+
+// ---------- Community Pulse: dev.to top of the week ----------
+async function loadDevto(){
+  try{
+    const arts = await jget("https://dev.to/api/articles?top=7&per_page=6");
+    $("devto").innerHTML = arts.map(a => `
+      <div class="item"><div class="t"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+      <div class="m">by ${esc(a.user && a.user.name || "")} · ❤ ${a.public_reactions_count||0} · 💬 ${a.comments_count||0} · ${ago(new Date(a.published_at).getTime())}</div></div>`).join("");
+  }catch(e){ $("devto").innerHTML = '<p class="err">dev.to feed unreachable right now — retries on the next refresh.</p>'; }
+}
+
+// ---------- Outage Watch: status pages ----------
+async function loadStatus(){
+  const rows = [];
+  for(const s of STATUS_PAGES){
+    try{
+      const d = await jget(s.url);
+      const ind = (d.status && d.status.indicator) || "unknown";
+      const cls = ind === "none" ? "ok" : (ind === "minor" ? "warn" : (ind === "unknown" ? "unk" : "bad"));
+      rows.push(`<div class="status"><span><span class="dot ${cls}"></span><a href="${s.home}" target="_blank" rel="noopener" style="color:var(--ink)"><b>${s.name}</b></a></span><span>${esc((d.status && d.status.description) || ind)}</span></div>`);
+    }catch(e){
+      rows.push(`<div class="status"><span><span class="dot unk"></span><b>${s.name}</b></span><span>status unreachable</span></div>`);
+    }
+  }
+  $("status").innerHTML = rows.join("");
+}
+
+// ---------- clock + boot ----------
+function tickClock(){
+  $("clock").textContent = new Date().toLocaleString("en-US",{timeZone:"America/New_York",weekday:"long",month:"long",day:"numeric",year:"numeric",hour:"numeric",minute:"2-digit",second:"2-digit"}) + " ET";
+}
+function loadAll(){
+  loadHN(); loadReleases(); loadTrending(); loadDevto(); loadStatus();
+  $("updated").textContent = new Date().toLocaleTimeString("en-US",{timeZone:"America/New_York",hour:"numeric",minute:"2-digit",second:"2-digit"}) + " ET";
+}
+tickClock(); setInterval(tickClock, 1000);
+loadAll(); setInterval(loadAll, 5*60*1000);
+</script>
+</body>
+</html>
