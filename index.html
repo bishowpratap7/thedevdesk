@@ -47,13 +47,43 @@
   footer{font-family:Arial,sans-serif;font-size:12px;color:var(--mut);text-align:center;padding:22px 14px 30px;line-height:1.7}
   .refresh{font-family:Arial,sans-serif;font-size:12px;color:var(--mut)}
   button{font-family:Arial,sans-serif;font-size:12px;background:var(--navy);color:#fff;border:none;padding:5px 12px;border-radius:3px;cursor:pointer}
+  /* Sticky anchor bar — the name never leaves the screen */
+  .stickybar{position:sticky;top:0;z-index:50;background:var(--navy);color:#fff;display:flex;align-items:center;gap:12px;padding:7px 16px;border-bottom:3px solid var(--red);font-family:Arial,sans-serif}
+  .stickybar img{width:30px;height:30px;border-radius:50%;object-fit:cover;border:2px solid var(--red)}
+  .stickybar .sb-brand{font-weight:900;letter-spacing:.4px;font-size:14px;white-space:nowrap}
+  .stickybar .sb-brand span{color:var(--red)}
+  .stickybar .sb-name{font-size:13px;color:#dbe6f2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .stickybar .sb-name b{color:#fff}
+  .stickybar .spacer{flex:1}
+  /* Name link — designed to be clicked */
+  a.name-link{color:inherit;font-weight:800;text-decoration:none;background-image:linear-gradient(var(--red),var(--red));background-size:0% 2px;background-repeat:no-repeat;background-position:0 100%;transition:background-size .25s ease,color .25s ease;padding-bottom:2px}
+  a.name-link:hover{background-size:100% 2px;color:#ffd7d7}
+  .card a.name-link:hover{color:var(--red)}
+  /* Follow button */
+  .follow-btn{display:inline-block;background:#000;color:#fff;font-family:Arial,sans-serif;font-weight:700;font-size:13px;padding:7px 16px;border-radius:999px;border:1px solid #fff;text-decoration:none;white-space:nowrap;transition:transform .15s ease,background .15s ease}
+  .follow-btn:hover{background:var(--red);text-decoration:none;transform:translateY(-1px)}
+  .follow-btn.dark{border-color:#000}
+  .follow-btn.dark:hover{background:var(--red)}
+  /* Anchor card */
+  .anchor{display:flex;gap:14px;align-items:center;background:#f7fafc;border:1px solid var(--line);padding:12px;margin:4px 0 10px}
+  .anchor img{width:74px;height:74px;border-radius:50%;object-fit:cover;border:3px solid var(--red)}
+  .anchor .a-name{font-size:19px;font-weight:900}
+  .anchor .a-role{font-family:Arial,sans-serif;font-size:12px;color:var(--mut);margin:2px 0 8px;line-height:1.45}
 </style>
 </head>
 <body>
 
+<div class="stickybar">
+  <img src="assets/bishow-pandey.jpg" alt="Bishow Pandey">
+  <span class="sb-brand">THE DEV <span>DESK</span></span>
+  <span class="sb-name">with <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener"><b>Bishow Pandey</b></a></span>
+  <span class="spacer"></span>
+  <a class="follow-btn" href="https://x.com/bishowppandey" target="_blank" rel="noopener">𝕏&nbsp; Follow @bishowppandey</a>
+</div>
+
 <header class="masthead">
   <div class="brand">THE DEV <span class="desk">DESK</span></div>
-  <div class="tag">Tech news, code pushes, and the developer conversation — with <b>Bishow Pandey</b>, Senior Software Engineer &amp; Platform Engineer</div>
+  <div class="tag">Tech news, code pushes, and the developer conversation — with <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener">Bishow Pandey</a>, Senior Software Engineer &amp; Platform Engineer</div>
   <div class="meta">
     <span class="live">LIVE WIRE</span>
     <span id="clock">—</span>
@@ -102,15 +132,23 @@
       <div class="sub">How The Dev Desk tracks the news</div>
       <p style="font-size:14.5px;line-height:1.55;margin:6px 0">This page is the live research wire behind <b>The Dev Desk</b> show. It watches the places developer news actually happens — GitHub releases and trending repos, the Hacker News front page, the dev.to community, and the status pages of major platforms — and lays them out like a newsroom rundown.</p>
       <p style="font-size:14.5px;line-height:1.55;margin:6px 0">Every item links to its primary source. Stories are verified against the original release, post, or status page before they make the show. Errors get corrected on the record.</p>
-      <p style="font-size:14.5px;line-height:1.55;margin:6px 0">Anchor: <b>Bishow Pandey</b> — Java · Spring Boot · Kubernetes/EKS · Application Security.</p>
+      <div class="anchor">
+        <img src="assets/bishow-pandey.jpg" alt="Bishow Pandey">
+        <div>
+          <div class="a-name"><a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--ink)">Bishow Pandey</a></div>
+          <div class="a-role">Your anchor — Senior Software Engineer &amp; Platform Engineer<br>Java · Spring Boot · Kubernetes/EKS · Application Security</div>
+          <a class="follow-btn dark" href="https://x.com/bishowppandey" target="_blank" rel="noopener">𝕏&nbsp; Follow @bishowppandey</a>
+        </div>
+      </div>
+      <p style="font-size:14.5px;line-height:1.55;margin:6px 0">Every rundown on the show is drafted from this wire and approved by <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--ink)">Bishow Pandey</a> before it airs — follow him on X for the takes between episodes.</p>
     </section>
   </div>
 </main>
 
 <footer>
-  THE DEV DESK · A developer news wire by Bishow Pandey<br>
+  THE DEV DESK · A developer news wire by <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--navy)">Bishow Pandey</a> · <a href="https://x.com/bishowppandey" target="_blank" rel="noopener">Follow @bishowppandey on X</a><br>
   Sources: Hacker News · GitHub · dev.to · official status pages — all public feeds, always linked.<br>
-  This is a tracking prototype (v0.1). Not affiliated with any source platform.
+  This is a tracking prototype (v0.2). Not affiliated with any source platform.
 </footer>
 
 <script>
@@ -143,7 +181,7 @@ async function loadHN(){
     $("hn").innerHTML = ok.map(i => `
       <div class="item"><div class="t"><a href="${esc(i.url || ("https://news.ycombinator.com/item?id="+i.id))}" target="_blank" rel="noopener">${esc(i.title)}</a></div>
       <div class="m">▲ ${i.score||0} points · by ${esc(i.by||"")} · ${ago(i.time*1000)} · <a href="https://news.ycombinator.com/item?id=${i.id}" target="_blank" rel="noopener">${i.descendants||0} comments</a></div></div>`).join("");
-    $("ticker").innerHTML = ok.map(i => `<b>■</b>${esc(i.title)}`).join("");
+    $("ticker").innerHTML = `<b>■</b>YOU'RE WATCHING THE DEV DESK WITH BISHOW PANDEY — FOLLOW @BISHOWPPANDEY ON X` + ok.map(i => `<b>■</b>${esc(i.title)}`).join("");
   }catch(e){ $("hn").innerHTML = '<p class="err">Wire hiccup — Hacker News feed unreachable right now. It retries on the next refresh.</p>'; }
 }
 
