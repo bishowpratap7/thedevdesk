@@ -88,7 +88,8 @@
     <span class="live">LIVE WIRE</span>
     <span id="clock">—</span>
     <span>Last updated: <span id="updated">loading…</span></span>
-    <span><button onclick="loadAll()">↻ Refresh now</button></span>
+    <span id="snapnote"></span>
+    <span><button onclick="loadAll(true)">↻ Refresh live</button></span>
     <span class="refresh">Auto-refreshes every 5 minutes · All data from public sources, linked at the source</span>
   </div>
 </header>
@@ -148,7 +149,7 @@
 <footer>
   THE DEV DESK · A developer news wire by <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--navy)">Bishow Pandey</a> · <a href="https://x.com/bishowppandey" target="_blank" rel="noopener">Follow @bishowppandey on X</a><br>
   Sources: Hacker News · GitHub · dev.to · official status pages — all public feeds, always linked.<br>
-  This is a tracking prototype (v0.3). Not affiliated with any source platform.
+  This is a tracking prototype (v0.4). Not affiliated with any source platform.
 </footer>
 
 <script>
@@ -172,84 +173,114 @@ const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&
 const ago = ts => { const s=(Date.now()-ts)/1e3; if(s<3600) return Math.max(1,Math.round(s/60))+"m ago"; if(s<86400) return Math.round(s/3600)+"h ago"; return Math.round(s/86400)+"d ago"; };
 async function jget(url){ const r = await fetch(url); if(!r.ok) throw new Error(r.status); return r.json(); }
 
-// ---------- Hacker News: Top Stories + ticker ----------
-async function loadHN(){
+// ---------- renderers (shared by snapshot + live) ----------
+function renderHN(items){
+  const ok = (items||[]).filter(i => i && i.title);
+  if(!ok.length){ $("hn").innerHTML = '<p class="err">No stories in the current snapshot.</p>'; return; }
+  $("hn").innerHTML = ok.map(i => `
+    <div class="item"><div class="t"><a href="${esc(i.url || ("https://news.ycombinator.com/item?id="+i.id))}" target="_blank" rel="noopener">${esc(i.title)}</a></div>
+    <div class="m">▲ ${i.score||0} points · by ${esc(i.by||"")} · ${ago(i.time*1000)} · <a href="https://news.ycombinator.com/item?id=${i.id}" target="_blank" rel="noopener">${i.comments ?? i.descendants ?? 0} comments</a></div></div>`).join("");
+  $("ticker").innerHTML = `<b>■</b>YOU'RE WATCHING THE DEV DESK WITH BISHOW PANDEY — FOLLOW @BISHOWPPANDEY ON X` + ok.map(i => `<b>■</b>${esc(i.title)}`).join("");
+}
+function renderReleases(items){
+  if(!items || !items.length){ $("releases").innerHTML = '<p class="err">GitHub API rate limit reached — Release Radar retries on the next refresh. (Unauthenticated GitHub API allows 60 requests/hour per IP.)</p>'; return; }
+  $("releases").innerHTML = items.map(r => `
+    <div class="item"><div class="t"><span class="badge rel">${esc(r.tag||"release")}</span><a href="${esc(r.url || r.html_url)}" target="_blank" rel="noopener">${esc(r.repo)}</a></div>
+    <div class="m">${esc(r.name||"")} · pushed ${ago(new Date(r.published_at).getTime())}</div></div>`).join("");
+}
+function renderTrending(items){
+  if(!items || !items.length){ $("trending").innerHTML = '<p class="err">No trending data in the current snapshot.</p>'; return; }
+  $("trending").innerHTML = items.map(r => `
+    <div class="item"><div class="t"><a href="${esc(r.url || r.html_url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a></div>
+    <div class="m">⭐ ${(r.stars ?? r.stargazers_count ?? 0).toLocaleString()}${r.language ? " · "+esc(r.language) : ""} · created ${ago(new Date(r.created_at).getTime())}</div>
+    ${r.description ? `<div class="m">${esc(r.description)}</div>` : ""}</div>`).join("");
+}
+function renderDevto(items){
+  if(!items || !items.length){ $("devto").innerHTML = '<p class="err">No community posts in the current snapshot.</p>'; return; }
+  $("devto").innerHTML = items.map(a => `
+    <div class="item"><div class="t"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+    <div class="m">by ${esc(a.author || (a.user && a.user.name) || "")} · ❤ ${a.reactions ?? a.public_reactions_count ?? 0} · 💬 ${a.comments ?? a.comments_count ?? 0} · ${ago(new Date(a.published_at).getTime())}</div></div>`).join("");
+}
+function renderStatus(items){
+  $("status").innerHTML = (items||[]).map(s => {
+    const ind = s.indicator || "unknown";
+    const cls = ind === "none" ? "ok" : (ind === "minor" ? "warn" : (ind === "unknown" ? "unk" : "bad"));
+    return `<div class="status"><span><span class="dot ${cls}"></span><a href="${esc(s.home)}" target="_blank" rel="noopener" style="color:var(--ink)"><b>${esc(s.name)}</b></a></span><span>${esc(s.description || ind)}</span></div>`;
+  }).join("");
+}
+
+// ---------- snapshot (written hourly by the newsroom cron scanner) ----------
+async function loadSnapshot(){
+  const wire = await jget("data/wire.json");
+  const s = wire.sections || {};
+  if(s.top_stories) renderHN(s.top_stories.items);
+  if(s.releases) renderReleases(s.releases.items);
+  if(s.trending) renderTrending(s.trending.items);
+  if(s.community) renderDevto(s.community.items);
+  if(s.status) renderStatus(s.status.items);
+  const t = new Date(wire.generated_at);
+  $("snapnote").textContent = "Wire snapshot: " + t.toLocaleString("en-US",{timeZone:"America/New_York",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) + " ET (scanner runs hourly)";
+  return Date.now() - t.getTime();
+}
+
+// ---------- live loaders (fallback / forced refresh) ----------
+async function liveHN(){
   try{
     const ids = await jget("https://hacker-news.firebaseio.com/v0/topstories.json");
     const items = await Promise.all(ids.slice(0,10).map(id => jget(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)));
-    const ok = items.filter(i => i && i.title);
-    $("hn").innerHTML = ok.map(i => `
-      <div class="item"><div class="t"><a href="${esc(i.url || ("https://news.ycombinator.com/item?id="+i.id))}" target="_blank" rel="noopener">${esc(i.title)}</a></div>
-      <div class="m">▲ ${i.score||0} points · by ${esc(i.by||"")} · ${ago(i.time*1000)} · <a href="https://news.ycombinator.com/item?id=${i.id}" target="_blank" rel="noopener">${i.descendants||0} comments</a></div></div>`).join("");
-    $("ticker").innerHTML = `<b>■</b>YOU'RE WATCHING THE DEV DESK WITH BISHOW PANDEY — FOLLOW @BISHOWPPANDEY ON X` + ok.map(i => `<b>■</b>${esc(i.title)}`).join("");
+    renderHN(items.filter(i => i && i.title).map(i => ({id:i.id,title:i.title,url:i.url,score:i.score,by:i.by,time:i.time,comments:i.descendants||0})));
   }catch(e){ $("hn").innerHTML = '<p class="err">Wire hiccup — Hacker News feed unreachable right now. It retries on the next refresh.</p>'; }
 }
-
-// ---------- Release Radar: GitHub releases of watched repos ----------
-async function loadReleases(){
+async function liveReleases(){
   const out = [];
   for(const repo of WATCHED_REPOS){
     try{
       const rels = await jget(`https://api.github.com/repos/${repo}/releases?per_page=1`);
-      if(rels && rels[0]){
-        const r = rels[0];
-        out.push(`<div class="item"><div class="t"><span class="badge rel">${esc(r.tag_name||"release")}</span><a href="${esc(r.html_url)}" target="_blank" rel="noopener">${esc(repo)}</a></div>
-        <div class="m">${esc(r.name||"")} · pushed ${ago(new Date(r.published_at||r.created_at).getTime())}</div></div>`);
-      }
+      if(rels && rels[0]) out.push({repo, tag:rels[0].tag_name, name:rels[0].name, url:rels[0].html_url, published_at:rels[0].published_at || rels[0].created_at});
     }catch(e){ /* one repo failing must not kill the desk */ }
   }
-  $("releases").innerHTML = out.length ? out.join("") :
-    '<p class="err">GitHub API rate limit reached for this connection — Release Radar retries on the next refresh. (Unauthenticated GitHub API allows 60 requests/hour per IP.)</p>';
+  renderReleases(out);
 }
-
-// ---------- Trending on GitHub: newest repos by stars (7-day window) ----------
-async function loadTrending(){
+async function liveTrending(){
   try{
     const since = new Date(Date.now() - 7*864e5).toISOString().slice(0,10);
     const data = await jget(`https://api.github.com/search/repositories?q=created:>${since}&sort=stars&order=desc&per_page=8`);
-    $("trending").innerHTML = (data.items||[]).map(r => `
-      <div class="item"><div class="t"><a href="${esc(r.html_url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a></div>
-      <div class="m">⭐ ${r.stargazers_count.toLocaleString()}${r.language ? " · "+esc(r.language) : ""} · created ${ago(new Date(r.created_at).getTime())}</div>
-      ${r.description ? `<div class="m">${esc(r.description)}</div>` : ""}</div>`).join("");
+    renderTrending(data.items||[]);
   }catch(e){ $("trending").innerHTML = '<p class="err">GitHub search unreachable or rate-limited right now — retries on the next refresh.</p>'; }
 }
-
-// ---------- Community Pulse: dev.to top of the week ----------
-async function loadDevto(){
-  try{
-    const arts = await jget("https://dev.to/api/articles?top=7&per_page=6");
-    $("devto").innerHTML = arts.map(a => `
-      <div class="item"><div class="t"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
-      <div class="m">by ${esc(a.user && a.user.name || "")} · ❤ ${a.public_reactions_count||0} · 💬 ${a.comments_count||0} · ${ago(new Date(a.published_at).getTime())}</div></div>`).join("");
-  }catch(e){ $("devto").innerHTML = '<p class="err">dev.to feed unreachable right now — retries on the next refresh.</p>'; }
+async function liveDevto(){
+  try{ renderDevto(await jget("https://dev.to/api/articles?top=7&per_page=6")); }
+  catch(e){ $("devto").innerHTML = '<p class="err">dev.to feed unreachable right now — retries on the next refresh.</p>'; }
 }
-
-// ---------- Outage Watch: status pages ----------
-async function loadStatus(){
+async function liveStatus(){
   const rows = [];
   for(const s of STATUS_PAGES){
     try{
       const d = await jget(s.url);
-      const ind = (d.status && d.status.indicator) || "unknown";
-      const cls = ind === "none" ? "ok" : (ind === "minor" ? "warn" : (ind === "unknown" ? "unk" : "bad"));
-      rows.push(`<div class="status"><span><span class="dot ${cls}"></span><a href="${s.home}" target="_blank" rel="noopener" style="color:var(--ink)"><b>${s.name}</b></a></span><span>${esc((d.status && d.status.description) || ind)}</span></div>`);
-    }catch(e){
-      rows.push(`<div class="status"><span><span class="dot unk"></span><b>${s.name}</b></span><span>status unreachable</span></div>`);
-    }
+      rows.push({name:s.name, home:s.home, indicator:(d.status && d.status.indicator) || "unknown", description:(d.status && d.status.description) || ""});
+    }catch(e){ rows.push({name:s.name, home:s.home, indicator:"unknown", description:"status unreachable"}); }
   }
-  $("status").innerHTML = rows.join("");
+  renderStatus(rows);
 }
+function liveAll(){ liveHN(); liveReleases(); liveTrending(); liveDevto(); liveStatus(); $("snapnote").textContent = "Showing live feeds (direct from sources)"; }
 
-// ---------- clock + boot ----------
+// ---------- boot ----------
 function tickClock(){
   $("clock").textContent = new Date().toLocaleString("en-US",{timeZone:"America/New_York",weekday:"long",month:"long",day:"numeric",year:"numeric",hour:"numeric",minute:"2-digit",second:"2-digit"}) + " ET";
 }
-function loadAll(){
-  loadHN(); loadReleases(); loadTrending(); loadDevto(); loadStatus();
+async function loadAll(forceLive){
+  if(!forceLive){
+    try{
+      const ageMs = await loadSnapshot();
+      $("updated").textContent = new Date().toLocaleTimeString("en-US",{timeZone:"America/New_York",hour:"numeric",minute:"2-digit",second:"2-digit"}) + " ET";
+      if(ageMs < 2*3600*1000) return; // fresh snapshot is enough
+    }catch(e){ /* no snapshot reachable (e.g. opened as a local file) — go live */ }
+  }
+  liveAll();
   $("updated").textContent = new Date().toLocaleTimeString("en-US",{timeZone:"America/New_York",hour:"numeric",minute:"2-digit",second:"2-digit"}) + " ET";
 }
 tickClock(); setInterval(tickClock, 1000);
-loadAll(); setInterval(loadAll, 5*60*1000);
+loadAll(false); setInterval(() => loadAll(false), 5*60*1000);
 </script>
 </body>
 </html>
