@@ -1,72 +1,90 @@
 {
- "generated_at": "2026-11-02T18:13:22.272305+00:00",
+ "generated_at": "2026-11-02T19:13:27.325385+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-02T18:13:04.786504+00:00",
+   "fetched_at": "2026-11-02T19:13:07.238201+00:00",
    "stale": false,
    "items": [
     {
      "id": 50340088,
      "title": "Show HN: Subvocal \u2013\u00a0Talk to your computer without making noise",
      "url": "https://subvocal.company/",
-     "score": 106,
+     "score": 242,
      "by": "aarushyadav",
      "time": 1793639777,
-     "comments": 80
+     "comments": 169
+    },
+    {
+     "id": 50341174,
+     "title": "Astra can read and write weights to improve Qwen",
+     "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+     "score": 163,
+     "by": "dbreunig",
+     "time": 1793643688,
+     "comments": 25
     },
     {
      "id": 50339913,
      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
      "url": "https://momentic.ai/",
-     "score": 44,
+     "score": 64,
      "by": "wuweiweiwu",
      "time": 1793639125,
-     "comments": 27
-    },
-    {
-     "id": 50339221,
-     "title": "Show HN: Warsaw in voxels \u2013 an interactive 3D map of the city centre",
-     "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-     "score": 75,
-     "by": "stared",
-     "time": 1793636726,
-     "comments": 14
-    },
-    {
-     "id": 50338728,
-     "title": "Ask HN: Who is hiring? (November 2026)",
-     "url": null,
-     "score": 92,
-     "by": "whoishiring",
-     "time": 1793635297,
-     "comments": 65
-    },
-    {
-     "id": 50339815,
-     "title": "My Favourite Laptop",
-     "url": "https://blog.jsbarretto.com/post/laptop",
-     "score": 49,
-     "by": "ibobev",
-     "time": 1793638797,
-     "comments": 28
+     "comments": 45
     },
     {
      "id": 50339397,
      "title": "US boy names that became girl names and vice versa",
      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-     "score": 53,
+     "score": 113,
      "by": "xoobdev",
      "time": 1793637276,
-     "comments": 25
+     "comments": 101
+    },
+    {
+     "id": 50341334,
+     "title": "Agentic Backdoors via Pretraining Poisoning",
+     "url": "https://arxiv.org/abs/2610.37741",
+     "score": 19,
+     "by": "gmays",
+     "time": 1793644258,
+     "comments": 2
+    },
+    {
+     "id": 50339221,
+     "title": "Show HN: Warsaw in voxels \u2013 an interactive 3D map of the city centre",
+     "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+     "score": 110,
+     "by": "stared",
+     "time": 1793636726,
+     "comments": 21
+    },
+    {
+     "id": 50338728,
+     "title": "Ask HN: Who is hiring? (November 2026)",
+     "url": null,
+     "score": 110,
+     "by": "whoishiring",
+     "time": 1793635297,
+     "comments": 82
+    },
+    {
+     "id": 50340369,
+     "title": "Let Me Ch...",
+     "url": "https://blog.alxgsv.com/let-me-check/",
+     "score": 66,
+     "by": "alxgsv",
+     "time": 1793640800,
+     "comments": 9
     },
     {
      "id": 50336518,
      "title": "If you love a website, back it up",
      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-     "score": 170,
+     "score": 208,
      "by": "ingve",
      "time": 1793625935,
-     "comments": 40
+     "comments": 49
     },
     {
      "id": 50339827,
@@ -78,45 +96,27 @@
      "comments": 0
     },
     {
-     "id": 50338747,
-     "title": "Moving our warehouse off DuckDB",
-     "url": "https://posthog.com/blog/moving-off-duckdb",
-     "score": 94,
-     "by": "emschwartz",
-     "time": 1793635346,
-     "comments": 46
+     "id": 50341736,
+     "title": "Egoless Mathematics in the AI Era",
+     "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+     "score": 7,
+     "by": "smilelamp",
+     "time": 1793645684,
+     "comments": 0
     },
     {
      "id": 50337608,
      "title": "WTF Ubuntu?",
      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-     "score": 778,
+     "score": 911,
      "by": "chalmovsky",
      "time": 1793631120,
-     "comments": 394
-    },
-    {
-     "id": 50337558,
-     "title": "We halved DNS build delay and cut memory use by 85%",
-     "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-     "score": 58,
-     "by": "wondersky",
-     "time": 1793630848,
-     "comments": 22
-    },
-    {
-     "id": 50339494,
-     "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-     "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-     "score": 92,
-     "by": "entryleveljobsc",
-     "time": 1793637629,
-     "comments": 64
+     "comments": 458
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-02T18:13:13.445967+00:00",
+   "fetched_at": "2026-11-02T19:13:16.583354+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-02T18:13:17.584621+00:00",
+   "fetched_at": "2026-11-02T19:13:21.233399+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 12515,
+     "stars": 12644,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 5935,
+     "stars": 5983,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "anhao/ai-pose-gallery-zh",
      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-     "stars": 5461,
+     "stars": 5467,
      "language": "TypeScript",
      "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
      "created_at": "2026-10-27T12:24:37Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 5180,
+     "stars": 5199,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,31 +195,31 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 3844,
+     "stars": 3870,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
     },
     {
-     "full_name": "patch-gg/pixelfx",
-     "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 3391,
-     "language": "JavaScript",
-     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-     "created_at": "2026-10-30T06:43:25Z"
-    },
-    {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 3313,
+     "stars": 3436,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
     },
     {
+     "full_name": "patch-gg/pixelfx",
+     "url": "https://github.com/patch-gg/pixelfx",
+     "stars": 3409,
+     "language": "JavaScript",
+     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+     "created_at": "2026-10-30T06:43:25Z"
+    },
+    {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2342,
+     "stars": 2367,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "haydenschmitty/floorplan",
      "url": "https://github.com/haydenschmitty/floorplan",
-     "stars": 2159,
+     "stars": 2172,
      "language": "JavaScript",
      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
      "created_at": "2026-10-27T12:03:01Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-02T18:13:18.484517+00:00",
+   "fetched_at": "2026-11-02T19:13:22.298514+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Yes, {} + [] = 0. No, JavaScript Isn\u2019t Broken",
      "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
      "author": "Sylwia Laskowska",
-     "reactions": 149,
+     "reactions": 150,
      "comments": 120,
      "published_at": "2026-10-29T20:08:53Z"
     },
@@ -266,8 +266,8 @@
      "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
      "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
      "author": "Daniel Nwaneri",
-     "reactions": 57,
-     "comments": 53,
+     "reactions": 58,
+     "comments": 54,
      "published_at": "2026-10-29T09:34:19Z"
     },
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
      "author": "Daniel Balcarek",
      "reactions": 122,
-     "comments": 107,
+     "comments": 110,
      "published_at": "2026-10-29T07:02:39Z"
     },
     {
@@ -306,21 +306,21 @@
      "title": "\ud83d\udc3e DEV Pet Corner #4: Show Us Your Pets!",
      "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-4-show-us-your-pets-55jh",
      "author": "Hemapriya Kanagala",
-     "reactions": 82,
+     "reactions": 83,
      "comments": 18,
      "published_at": "2026-11-01T17:53:50Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-02T18:13:19.241048+00:00",
+   "fetched_at": "2026-11-02T19:13:23.505145+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "minor",
-     "description": "Partially Degraded Service"
+     "indicator": "none",
+     "description": "All Systems Operational"
     },
     {
      "name": "Cloudflare",
