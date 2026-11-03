@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-03T17:57:28.441296+00:00",
+ "generated_at": "2026-11-03T17:57:53.360093+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T17:57:23.527655+00:00",
+   "fetched_at": "2026-11-03T17:57:49.182088+00:00",
    "stale": false,
    "items": [
     {
      "id": 50354960,
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 133,
+     "score": 136,
      "by": "sidgarimella",
      "time": 1793726557,
      "comments": 38
@@ -18,7 +18,7 @@
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 256,
+     "score": 259,
      "by": "xx_ns",
      "time": 1793636959,
      "comments": 86
@@ -48,7 +48,7 @@
      "score": 206,
      "by": "ceejayoz",
      "time": 1793719547,
-     "comments": 172
+     "comments": 173
     },
     {
      "id": 50351111,
@@ -81,10 +81,10 @@
      "id": 50353229,
      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-     "score": 144,
+     "score": 146,
      "by": "rbanffy",
      "time": 1793719755,
-     "comments": 81
+     "comments": 82
     },
     {
      "id": 50342119,
@@ -99,7 +99,7 @@
      "id": 50354250,
      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
      "url": "https://arxiv.org/abs/2611.02618",
-     "score": 10,
+     "score": 11,
      "by": "1equalsequals1",
      "time": 1793724002,
      "comments": 0
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T17:57:24.868680+00:00",
+   "fetched_at": "2026-11-03T17:57:50.636799+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T17:57:26.953580+00:00",
+   "fetched_at": "2026-11-03T17:57:52.149590+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 7458,
+     "stars": 7460,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7244,
+     "stars": 7245,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2902,
+     "stars": 2903,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T17:57:27.585343+00:00",
+   "fetched_at": "2026-11-03T17:57:52.580835+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T17:57:27.831356+00:00",
+   "fetched_at": "2026-11-03T17:57:52.770057+00:00",
    "stale": false,
    "items": [
     {
