@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-03T21:52:53.369896+00:00",
+ "generated_at": "2026-11-03T22:23:00.873286+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T21:52:48.536054+00:00",
+   "fetched_at": "2026-11-03T22:22:55.677533+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50358582,
+     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+     "url": "https://arxiv.org/abs/2605.29713",
+     "score": 44,
+     "by": "ibobev",
+     "time": 1793742053,
+     "comments": 6
+    },
     {
      "id": 50358562,
      "title": "Safari introduces Adaptive Dark Mode in 27.3",
      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-     "score": 18,
+     "score": 91,
      "by": "paddingtone",
      "time": 1793741945,
-     "comments": 3
+     "comments": 66
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 504,
+     "score": 528,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 198
+     "comments": 210
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 220,
+     "score": 252,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 94
+     "comments": 103
+    },
+    {
+     "id": 50358702,
+     "title": "The Internals of PostgreSQL",
+     "url": "https://www.interdb.jp/pg/index.html",
+     "score": 9,
+     "by": "ibobev",
+     "time": 1793742666,
+     "comments": 0
     },
     {
      "id": 50355251,
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "score": 382,
+     "score": 399,
      "by": "theanonymousone",
      "time": 1793727600,
-     "comments": 128
-    },
-    {
-     "id": 50354960,
-     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 821,
-     "by": "sidgarimella",
-     "time": 1793726557,
-     "comments": 268
+     "comments": 135
     },
     {
      "id": 50346755,
      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
      "url": "https://hackertv.org",
-     "score": 44,
+     "score": 70,
      "by": "dsalzman",
      "time": 1793668689,
-     "comments": 14
-    },
-    {
-     "id": 50336918,
-     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 327,
-     "by": "bookofjoe",
-     "time": 1793628162,
-     "comments": 131
-    },
-    {
-     "id": 50356913,
-     "title": "Introduction to Programming in ATS",
-     "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-     "score": 36,
-     "by": "ibobev",
-     "time": 1793733918,
-     "comments": 6
-    },
-    {
-     "id": 50358582,
-     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-     "url": "https://arxiv.org/abs/2605.29713",
-     "score": 6,
-     "by": "ibobev",
-     "time": 1793742053,
-     "comments": 0
+     "comments": 20
     },
     {
      "id": 50356944,
      "title": "macOS 27 does not support CoreStorage volumes",
      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-     "score": 35,
+     "score": 50,
      "by": "colejohnson66",
      "time": 1793734073,
-     "comments": 14
+     "comments": 22
     },
     {
-     "id": 50356994,
-     "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-     "url": "https://flipper.net/pages/flipper-one",
-     "score": 128,
-     "by": "user_7832",
-     "time": 1793734333,
-     "comments": 59
+     "id": 50354960,
+     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+     "score": 866,
+     "by": "sidgarimella",
+     "time": 1793726557,
+     "comments": 283
+    },
+    {
+     "id": 50333131,
+     "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+     "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+     "score": 43,
+     "by": "zdw",
+     "time": 1793593880,
+     "comments": 11
+    },
+    {
+     "id": 50336918,
+     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+     "score": 334,
+     "by": "bookofjoe",
+     "time": 1793628162,
+     "comments": 136
     },
     {
      "id": 50358314,
      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
      "url": "https://github.com/finic-ai/kairos",
-     "score": 12,
+     "score": 21,
      "by": "ayanb9440",
      "time": 1793740608,
-     "comments": 0
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T21:52:49.841942+00:00",
+   "fetched_at": "2026-11-03T22:22:57.283373+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T21:52:51.922225+00:00",
+   "fetched_at": "2026-11-03T22:22:59.337686+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 16557,
+     "stars": 16594,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 8035,
+     "stars": 8116,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7442,
+     "stars": 7452,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6022,
+     "stars": 6025,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4471,
+     "stars": 4479,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4073,
+     "stars": 4079,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 2985,
+     "stars": 2989,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2977,
+     "stars": 2984,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1751,
+     "stars": 1755,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T21:52:52.556868+00:00",
+   "fetched_at": "2026-11-03T22:22:59.931222+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 80,
-     "comments": 43,
+     "comments": 45,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T21:52:52.636648+00:00",
+   "fetched_at": "2026-11-03T22:23:00.251704+00:00",
    "stale": false,
    "items": [
     {
