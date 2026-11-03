@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-03T11:35:08.635821+00:00",
+ "generated_at": "2026-11-03T17:57:28.441296+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T11:35:04.343823+00:00",
+   "fetched_at": "2026-11-03T17:57:23.527655+00:00",
    "stale": false,
    "items": [
     {
-     "id": 50341174,
-     "title": "Astra can read and write weights to improve Qwen",
-     "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-     "score": 2721,
-     "by": "dbreunig",
-     "time": 1793643688,
-     "comments": 823
+     "id": 50354960,
+     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+     "score": 133,
+     "by": "sidgarimella",
+     "time": 1793726557,
+     "comments": 38
     },
     {
-     "id": 50348962,
-     "title": "Nvidia \u2013 open-source auto-ontology",
-     "url": "https://github.com/NVIDIA/auto-ontology",
-     "score": 91,
-     "by": "campervans",
-     "time": 1793689490,
-     "comments": 30
+     "id": 50339288,
+     "title": "Jailbreaking my car's navigation system just so I can change the time",
+     "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+     "score": 256,
+     "by": "xx_ns",
+     "time": 1793636959,
+     "comments": 86
     },
     {
-     "id": 50321605,
-     "title": "Toit v2.0.0",
-     "url": "https://toit.io/blog/toit-v2-0-0/",
-     "score": 102,
-     "by": "floitsch",
-     "time": 1793492704,
-     "comments": 33
+     "id": 50352758,
+     "title": "Mac at Any Scale",
+     "url": "https://namespace.so/blog/mac-at-any-scale",
+     "score": 133,
+     "by": "anner_",
+     "time": 1793717622,
+     "comments": 59
     },
     {
-     "id": 50346849,
-     "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-     "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-     "score": 245,
-     "by": "bpierre",
-     "time": 1793669623,
-     "comments": 50
+     "id": 50336918,
+     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+     "score": 204,
+     "by": "bookofjoe",
+     "time": 1793628162,
+     "comments": 81
     },
     {
-     "id": 50346981,
-     "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-     "url": "https://hackertimes.ca/",
-     "score": 304,
-     "by": "polpenn",
-     "time": 1793670814,
-     "comments": 90
+     "id": 50353192,
+     "title": "Schools that block Google\u2019s A.I. will lose student access to its search engine",
+     "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+     "score": 206,
+     "by": "ceejayoz",
+     "time": 1793719547,
+     "comments": 172
     },
     {
-     "id": 50350004,
-     "title": "Revolut moves to self-hosted GLM",
-     "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
-     "score": 87,
-     "by": "pretext",
-     "time": 1793699639,
-     "comments": 45
+     "id": 50351111,
+     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+     "score": 709,
+     "by": "syllogism",
+     "time": 1793708477,
+     "comments": 163
     },
     {
-     "id": 50340088,
-     "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+     "id": 50352757,
+     "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
      "url": null,
-     "score": 713,
-     "by": "aarushyadav",
-     "time": 1793639777,
-     "comments": 344
+     "score": 152,
+     "by": "user052919",
+     "time": 1793717621,
+     "comments": 57
     },
     {
-     "id": 50334523,
-     "title": "European RISC-V Industrial Computing Initiative",
-     "url": "https://erici.eu",
-     "score": 128,
-     "by": "ymz5",
-     "time": 1793609913,
-     "comments": 67
+     "id": 50354582,
+     "title": "Ashby (YC W19) Is Hiring EMs",
+     "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+     "score": 1,
+     "by": "abhikp",
+     "time": 1793725253,
+     "comments": 0
     },
     {
-     "id": 50332342,
-     "title": "Katamari Damacy but it's The Met collection",
-     "url": "https://katamari.vaguespac.es/",
-     "score": 13,
-     "by": "thebigship",
-     "time": 1793586067,
-     "comments": 4
+     "id": 50353229,
+     "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+     "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+     "score": 144,
+     "by": "rbanffy",
+     "time": 1793719755,
+     "comments": 81
     },
     {
-     "id": 50336518,
-     "title": "If you love a website, back it up",
-     "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-     "score": 571,
-     "by": "ingve",
-     "time": 1793625935,
-     "comments": 128
+     "id": 50342119,
+     "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+     "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+     "score": 69,
+     "by": "benbreen",
+     "time": 1793647126,
+     "comments": 8
     },
     {
-     "id": 50339397,
-     "title": "US boy names that became girl names and vice versa",
-     "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-     "score": 413,
-     "by": "xoobdev",
-     "time": 1793637276,
-     "comments": 394
+     "id": 50354250,
+     "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+     "url": "https://arxiv.org/abs/2611.02618",
+     "score": 10,
+     "by": "1equalsequals1",
+     "time": 1793724002,
+     "comments": 0
     },
     {
-     "id": 50331800,
-     "title": "Vathographs: Photographic depth maps as creative expression",
-     "url": "https://vathography.com/",
-     "score": 22,
-     "by": "hankbond",
-     "time": 1793581879,
-     "comments": 5
+     "id": 50353073,
+     "title": "Tiny Basic for Arduino",
+     "url": "https://dilshan.github.io/tiny-basic/",
+     "score": 30,
+     "by": "AlexeyBrin",
+     "time": 1793719027,
+     "comments": 9
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T11:35:05.704698+00:00",
+   "fetched_at": "2026-11-03T17:57:24.868680+00:00",
    "stale": false,
    "items": [
     {
@@ -157,37 +157,37 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T11:35:07.333560+00:00",
+   "fetched_at": "2026-11-03T17:57:26.953580+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 15441,
+     "stars": 16271,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
     },
     {
-     "full_name": "heydamir/unslop",
-     "url": "https://github.com/heydamir/unslop",
-     "stars": 6863,
-     "language": "JavaScript",
-     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-     "created_at": "2026-10-29T15:41:21Z"
-    },
-    {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 5996,
+     "stars": 7458,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
     },
     {
+     "full_name": "heydamir/unslop",
+     "url": "https://github.com/heydamir/unslop",
+     "stars": 7244,
+     "language": "JavaScript",
+     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+     "created_at": "2026-10-29T15:41:21Z"
+    },
+    {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 5832,
+     "stars": 6001,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4278,
+     "stars": 4418,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,117 +203,117 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 3835,
+     "stars": 4028,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
     },
     {
-     "full_name": "Djihads80/Eglantine",
-     "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2741,
-     "language": "C++",
-     "description": "VERY experimental Nintendo Switch 2 emulator",
-     "created_at": "2026-10-29T00:25:18Z"
-    },
-    {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 2557,
+     "stars": 2937,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
     },
     {
+     "full_name": "Djihads80/Eglantine",
+     "url": "https://github.com/Djihads80/Eglantine",
+     "stars": 2902,
+     "language": "C++",
+     "description": "VERY experimental Nintendo Switch 2 emulator",
+     "created_at": "2026-10-29T00:25:18Z"
+    },
+    {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2092,
+     "stars": 2117,
      "language": "Go",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
     },
     {
-     "full_name": "lexifina/global-law",
-     "url": "https://github.com/lexifina/global-law",
-     "stars": 1725,
-     "language": "HTML",
-     "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
-     "created_at": "2026-10-28T13:34:16Z"
+     "full_name": "Verlintas/NOIR",
+     "url": "https://github.com/Verlintas/NOIR",
+     "stars": 1736,
+     "language": "Kotlin",
+     "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+     "created_at": "2026-10-31T21:34:39Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T11:35:07.897727+00:00",
+   "fetched_at": "2026-11-03T17:57:27.585343+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Your DEV posts have a beautiful new share card \u2728",
-     "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
-     "author": "Jess Lee",
-     "reactions": 167,
-     "comments": 36,
-     "published_at": "2026-10-27T16:44:29Z"
-    },
     {
      "title": "Yes, {} + [] = 0. No, JavaScript Isn\u2019t Broken",
      "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
      "author": "Sylwia Laskowska",
-     "reactions": 157,
-     "comments": 121,
+     "reactions": 167,
+     "comments": 123,
      "published_at": "2026-10-29T20:08:53Z"
     },
     {
      "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
      "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
      "author": "Daniel Nwaneri",
-     "reactions": 58,
+     "reactions": 59,
      "comments": 54,
      "published_at": "2026-10-29T09:34:19Z"
+    },
+    {
+     "title": "This is my first HacktoberFest, and I don't know what to feel.",
+     "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
+     "author": "FrancisTR\u1d05\u1d07\u1d20",
+     "reactions": 78,
+     "comments": 37,
+     "published_at": "2026-11-02T16:11:59Z"
     },
     {
      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
      "author": "Daniel Balcarek",
      "reactions": 126,
-     "comments": 114,
+     "comments": 115,
      "published_at": "2026-10-29T07:02:39Z"
-    },
-    {
-     "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
-     "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
-     "author": "xulingfeng",
-     "reactions": 117,
-     "comments": 85,
-     "published_at": "2026-10-27T16:46:17Z"
-    },
-    {
-     "title": "This is my first HacktoberFest, and I don't know what to feel.",
-     "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
-     "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 69,
-     "comments": 27,
-     "published_at": "2026-11-02T16:11:59Z"
     },
     {
      "title": "What was your win this week?",
      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci",
      "author": "Jess Lee",
      "reactions": 30,
-     "comments": 33,
+     "comments": 34,
      "published_at": "2026-10-30T13:00:00Z"
+    },
+    {
+     "title": "I built a 3D game about my Nigerian childhood (and I'm not a game developer)",
+     "url": "https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g",
+     "author": "Deborah Emeni",
+     "reactions": 31,
+     "comments": 7,
+     "published_at": "2026-11-02T13:31:20Z"
     },
     {
      "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me \ud83e\udd14",
      "url": "https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g",
      "author": "nyaomaru",
-     "reactions": 127,
+     "reactions": 128,
      "comments": 54,
      "published_at": "2026-10-28T15:37:53Z"
+    },
+    {
+     "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
+     "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+     "author": "Dhruv Jani",
+     "reactions": 79,
+     "comments": 47,
+     "published_at": "2026-10-31T17:57:27Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T11:35:08.010306+00:00",
+   "fetched_at": "2026-11-03T17:57:27.831356+00:00",
    "stale": false,
    "items": [
     {
