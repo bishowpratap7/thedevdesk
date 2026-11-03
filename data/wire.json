@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-03T18:20:06.583305+00:00",
+ "generated_at": "2026-11-03T18:20:38.350871+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T18:20:03.360783+00:00",
+   "fetched_at": "2026-11-03T18:20:34.747679+00:00",
    "stale": false,
    "items": [
     {
      "id": 50354960,
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 236,
+     "score": 241,
      "by": "sidgarimella",
      "time": 1793726557,
-     "comments": 70
+     "comments": 71
     },
     {
      "id": 50355251,
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "score": 55,
+     "score": 58,
      "by": "theanonymousone",
      "time": 1793727600,
      "comments": 6
@@ -27,7 +27,7 @@
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 294,
+     "score": 295,
      "by": "xx_ns",
      "time": 1793636959,
      "comments": 98
@@ -52,18 +52,18 @@
     },
     {
      "id": 50353192,
-     "title": "Schools that block Google\u2019s A.I. will lose student access to its search engine",
+     "title": "Google Will Turn Off Search for Schools That Reject A.I",
      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-     "score": 249,
+     "score": 250,
      "by": "ceejayoz",
      "time": 1793719547,
-     "comments": 198
+     "comments": 200
     },
     {
      "id": 50352757,
      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
      "url": null,
-     "score": 189,
+     "score": 190,
      "by": "user052919",
      "time": 1793717621,
      "comments": 64
@@ -75,7 +75,7 @@
      "score": 57,
      "by": "psxuaw",
      "time": 1793720506,
-     "comments": 29
+     "comments": 30
     },
     {
      "id": 50354582,
@@ -108,7 +108,7 @@
      "id": 50353229,
      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-     "score": 186,
+     "score": 187,
      "by": "rbanffy",
      "time": 1793719755,
      "comments": 115
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T18:20:04.441479+00:00",
+   "fetched_at": "2026-11-03T18:20:36.148860+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T18:20:05.601253+00:00",
+   "fetched_at": "2026-11-03T18:20:37.249657+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T18:20:06.021823+00:00",
+   "fetched_at": "2026-11-03T18:20:37.506069+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T18:20:06.197841+00:00",
+   "fetched_at": "2026-11-03T18:20:37.601782+00:00",
    "stale": false,
    "items": [
     {
