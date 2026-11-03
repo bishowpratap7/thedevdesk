@@ -1,81 +1,90 @@
 {
- "generated_at": "2026-11-03T18:20:38.350871+00:00",
+ "generated_at": "2026-11-03T18:50:55.375477+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T18:20:34.747679+00:00",
+   "fetched_at": "2026-11-03T18:50:50.408876+00:00",
    "stale": false,
    "items": [
     {
      "id": 50354960,
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 241,
+     "score": 380,
      "by": "sidgarimella",
      "time": 1793726557,
-     "comments": 71
+     "comments": 120
     },
     {
      "id": 50355251,
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "score": 58,
+     "score": 136,
      "by": "theanonymousone",
      "time": 1793727600,
-     "comments": 6
+     "comments": 27
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 295,
+     "score": 325,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 98
+     "comments": 110
     },
     {
      "id": 50352758,
      "title": "Mac at Any Scale",
      "url": "https://namespace.so/blog/mac-at-any-scale",
-     "score": 159,
+     "score": 176,
      "by": "anner_",
      "time": 1793717622,
-     "comments": 71
+     "comments": 85
     },
     {
      "id": 50336918,
      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 222,
+     "score": 246,
      "by": "bookofjoe",
      "time": 1793628162,
-     "comments": 84
+     "comments": 91
     },
     {
-     "id": 50353192,
-     "title": "Google Will Turn Off Search for Schools That Reject A.I",
-     "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-     "score": 250,
-     "by": "ceejayoz",
-     "time": 1793719547,
-     "comments": 200
+     "id": 50354358,
+     "title": "Stringman, an $800 open-source room scale gripper robot",
+     "url": "https://neufangled.com/",
+     "score": 39,
+     "by": "nharada",
+     "time": 1793724449,
+     "comments": 5
     },
     {
      "id": 50352757,
      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
      "url": null,
-     "score": 190,
+     "score": 229,
      "by": "user052919",
      "time": 1793717621,
-     "comments": 64
+     "comments": 74
     },
     {
-     "id": 50353383,
-     "title": "Bear turns 10, and it still feels like day one",
-     "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
-     "score": 57,
-     "by": "psxuaw",
-     "time": 1793720506,
-     "comments": 30
+     "id": 50354250,
+     "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+     "url": "https://arxiv.org/abs/2611.02618",
+     "score": 23,
+     "by": "1equalsequals1",
+     "time": 1793724002,
+     "comments": 2
+    },
+    {
+     "id": 50351111,
+     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+     "score": 744,
+     "by": "syllogism",
+     "time": 1793708477,
+     "comments": 171
     },
     {
      "id": 50354582,
@@ -87,36 +96,27 @@
      "comments": 0
     },
     {
-     "id": 50351111,
-     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-     "score": 720,
-     "by": "syllogism",
-     "time": 1793708477,
-     "comments": 167
-    },
-    {
-     "id": 50354250,
-     "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-     "url": "https://arxiv.org/abs/2611.02618",
-     "score": 18,
-     "by": "1equalsequals1",
-     "time": 1793724002,
-     "comments": 1
-    },
-    {
      "id": 50353229,
      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-     "score": 187,
+     "score": 210,
      "by": "rbanffy",
      "time": 1793719755,
-     "comments": 115
+     "comments": 147
+    },
+    {
+     "id": 50342119,
+     "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+     "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+     "score": 78,
+     "by": "benbreen",
+     "time": 1793647126,
+     "comments": 10
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T18:20:36.148860+00:00",
+   "fetched_at": "2026-11-03T18:50:51.804092+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T18:20:37.249657+00:00",
+   "fetched_at": "2026-11-03T18:50:53.933642+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 16311,
+     "stars": 16346,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 7528,
+     "stars": 7613,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7266,
+     "stars": 7290,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6003,
+     "stars": 6005,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4421,
+     "stars": 4432,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4034,
+     "stars": 4040,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 2948,
+     "stars": 2960,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2916,
+     "stars": 2930,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1737,
+     "stars": 1738,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T18:20:37.506069+00:00",
+   "fetched_at": "2026-11-03T18:50:54.544477+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "This is my first HacktoberFest, and I don't know what to feel.",
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 79,
+     "reactions": 80,
      "comments": 38,
      "published_at": "2026-11-02T16:11:59Z"
     },
@@ -299,7 +299,7 @@
      "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
      "author": "Ashley Childress",
      "reactions": 30,
-     "comments": 1,
+     "comments": 2,
      "published_at": "2026-11-03T16:08:07Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T18:20:37.601782+00:00",
+   "fetched_at": "2026-11-03T18:50:54.793867+00:00",
    "stale": false,
    "items": [
     {
