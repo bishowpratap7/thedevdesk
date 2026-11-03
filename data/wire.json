@@ -1,72 +1,81 @@
 {
- "generated_at": "2026-11-03T17:57:53.360093+00:00",
+ "generated_at": "2026-11-03T18:18:51.336056+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T17:57:49.182088+00:00",
+   "fetched_at": "2026-11-03T18:18:48.080729+00:00",
    "stale": false,
    "items": [
     {
      "id": 50354960,
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 136,
+     "score": 232,
      "by": "sidgarimella",
      "time": 1793726557,
-     "comments": 38
+     "comments": 68
+    },
+    {
+     "id": 50355251,
+     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+     "score": 52,
+     "by": "theanonymousone",
+     "time": 1793727600,
+     "comments": 5
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 259,
+     "score": 292,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 86
+     "comments": 97
     },
     {
      "id": 50352758,
      "title": "Mac at Any Scale",
      "url": "https://namespace.so/blog/mac-at-any-scale",
-     "score": 133,
+     "score": 157,
      "by": "anner_",
      "time": 1793717622,
-     "comments": 59
+     "comments": 69
     },
     {
      "id": 50336918,
      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 204,
+     "score": 222,
      "by": "bookofjoe",
      "time": 1793628162,
-     "comments": 81
+     "comments": 83
     },
     {
      "id": 50353192,
      "title": "Schools that block Google\u2019s A.I. will lose student access to its search engine",
      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-     "score": 206,
+     "score": 250,
      "by": "ceejayoz",
      "time": 1793719547,
-     "comments": 173
-    },
-    {
-     "id": 50351111,
-     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-     "score": 709,
-     "by": "syllogism",
-     "time": 1793708477,
-     "comments": 163
+     "comments": 197
     },
     {
      "id": 50352757,
      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
      "url": null,
-     "score": 152,
+     "score": 189,
      "by": "user052919",
      "time": 1793717621,
-     "comments": 57
+     "comments": 63
+    },
+    {
+     "id": 50353383,
+     "title": "Bear turns 10, and it still feels like day one",
+     "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
+     "score": 57,
+     "by": "psxuaw",
+     "time": 1793720506,
+     "comments": 28
     },
     {
      "id": 50354582,
@@ -78,45 +87,36 @@
      "comments": 0
     },
     {
-     "id": 50353229,
-     "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-     "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-     "score": 146,
-     "by": "rbanffy",
-     "time": 1793719755,
-     "comments": 82
-    },
-    {
-     "id": 50342119,
-     "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-     "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
-     "score": 69,
-     "by": "benbreen",
-     "time": 1793647126,
-     "comments": 8
+     "id": 50355782,
+     "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
+     "url": "https://aftershock.media/military-satellites-balfour/",
+     "score": 4,
+     "by": "lorecore",
+     "time": 1793729539,
+     "comments": 0
     },
     {
      "id": 50354250,
      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
      "url": "https://arxiv.org/abs/2611.02618",
-     "score": 11,
+     "score": 18,
      "by": "1equalsequals1",
      "time": 1793724002,
-     "comments": 0
+     "comments": 1
     },
     {
-     "id": 50353073,
-     "title": "Tiny Basic for Arduino",
-     "url": "https://dilshan.github.io/tiny-basic/",
-     "score": 30,
-     "by": "AlexeyBrin",
-     "time": 1793719027,
-     "comments": 9
+     "id": 50351111,
+     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+     "score": 719,
+     "by": "syllogism",
+     "time": 1793708477,
+     "comments": 167
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T17:57:50.636799+00:00",
+   "fetched_at": "2026-11-03T18:18:49.000226+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T17:57:52.149590+00:00",
+   "fetched_at": "2026-11-03T18:18:50.174354+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 16271,
+     "stars": 16309,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 7460,
+     "stars": 7525,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7245,
+     "stars": 7265,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6001,
+     "stars": 6002,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4418,
+     "stars": 4421,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4028,
+     "stars": 4033,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 2937,
+     "stars": 2948,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2903,
+     "stars": 2915,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1736,
+     "stars": 1737,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T17:57:52.580835+00:00",
+   "fetched_at": "2026-11-03T18:18:50.589991+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "This is my first HacktoberFest, and I don't know what to feel.",
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 78,
-     "comments": 37,
+     "reactions": 79,
+     "comments": 38,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
@@ -295,25 +295,25 @@
      "published_at": "2026-11-02T13:31:20Z"
     },
     {
+     "title": "One Last Post, and a Proper Goodbye",
+     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+     "author": "Ashley Childress",
+     "reactions": 30,
+     "comments": 1,
+     "published_at": "2026-11-03T16:08:07Z"
+    },
+    {
      "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me \ud83e\udd14",
      "url": "https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g",
      "author": "nyaomaru",
      "reactions": 128,
      "comments": 54,
      "published_at": "2026-10-28T15:37:53Z"
-    },
-    {
-     "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
-     "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
-     "author": "Dhruv Jani",
-     "reactions": 79,
-     "comments": 47,
-     "published_at": "2026-10-31T17:57:27Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T17:57:52.770057+00:00",
+   "fetched_at": "2026-11-03T18:18:50.885899+00:00",
    "stale": false,
    "items": [
     {
