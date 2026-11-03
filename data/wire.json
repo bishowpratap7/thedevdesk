@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-11-03T18:18:51.336056+00:00",
+ "generated_at": "2026-11-03T18:20:06.583305+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T18:18:48.080729+00:00",
+   "fetched_at": "2026-11-03T18:20:03.360783+00:00",
    "stale": false,
    "items": [
     {
      "id": 50354960,
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 232,
+     "score": 236,
      "by": "sidgarimella",
      "time": 1793726557,
-     "comments": 68
+     "comments": 70
     },
     {
      "id": 50355251,
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "score": 52,
+     "score": 55,
      "by": "theanonymousone",
      "time": 1793727600,
-     "comments": 5
+     "comments": 6
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 292,
+     "score": 294,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 97
+     "comments": 98
     },
     {
      "id": 50352758,
      "title": "Mac at Any Scale",
      "url": "https://namespace.so/blog/mac-at-any-scale",
-     "score": 157,
+     "score": 159,
      "by": "anner_",
      "time": 1793717622,
-     "comments": 69
+     "comments": 71
     },
     {
      "id": 50336918,
@@ -48,16 +48,16 @@
      "score": 222,
      "by": "bookofjoe",
      "time": 1793628162,
-     "comments": 83
+     "comments": 84
     },
     {
      "id": 50353192,
      "title": "Schools that block Google\u2019s A.I. will lose student access to its search engine",
      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-     "score": 250,
+     "score": 249,
      "by": "ceejayoz",
      "time": 1793719547,
-     "comments": 197
+     "comments": 198
     },
     {
      "id": 50352757,
@@ -66,7 +66,7 @@
      "score": 189,
      "by": "user052919",
      "time": 1793717621,
-     "comments": 63
+     "comments": 64
     },
     {
      "id": 50353383,
@@ -75,7 +75,7 @@
      "score": 57,
      "by": "psxuaw",
      "time": 1793720506,
-     "comments": 28
+     "comments": 29
     },
     {
      "id": 50354582,
@@ -87,13 +87,13 @@
      "comments": 0
     },
     {
-     "id": 50355782,
-     "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
-     "url": "https://aftershock.media/military-satellites-balfour/",
-     "score": 4,
-     "by": "lorecore",
-     "time": 1793729539,
-     "comments": 0
+     "id": 50351111,
+     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+     "score": 720,
+     "by": "syllogism",
+     "time": 1793708477,
+     "comments": 167
     },
     {
      "id": 50354250,
@@ -105,18 +105,18 @@
      "comments": 1
     },
     {
-     "id": 50351111,
-     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-     "score": 719,
-     "by": "syllogism",
-     "time": 1793708477,
-     "comments": 167
+     "id": 50353229,
+     "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+     "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+     "score": 186,
+     "by": "rbanffy",
+     "time": 1793719755,
+     "comments": 115
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T18:18:49.000226+00:00",
+   "fetched_at": "2026-11-03T18:20:04.441479+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T18:18:50.174354+00:00",
+   "fetched_at": "2026-11-03T18:20:05.601253+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 16309,
+     "stars": 16311,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 7525,
+     "stars": 7528,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7265,
+     "stars": 7266,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6002,
+     "stars": 6003,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4033,
+     "stars": 4034,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2915,
+     "stars": 2916,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T18:18:50.589991+00:00",
+   "fetched_at": "2026-11-03T18:20:06.021823+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T18:18:50.885899+00:00",
+   "fetched_at": "2026-11-03T18:20:06.197841+00:00",
    "stale": false,
    "items": [
     {
