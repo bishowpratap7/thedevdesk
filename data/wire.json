@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-03T20:22:07.511512+00:00",
+ "generated_at": "2026-11-03T20:52:25.624003+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T20:22:02.457091+00:00",
+   "fetched_at": "2026-11-03T20:52:20.519586+00:00",
    "stale": false,
    "items": [
     {
      "id": 50356994,
      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
      "url": "https://flipper.net/pages/flipper-one",
-     "score": 38,
+     "score": 78,
      "by": "user_7832",
      "time": 1793734333,
-     "comments": 13
+     "comments": 31
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 404,
+     "score": 429,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 146
+     "comments": 166
+    },
+    {
+     "id": 50357862,
+     "title": "Subvocal raised $1.3M. A developer recreated it with AirPods in 9 minutes",
+     "url": "https://github.com/joeblau/subvox",
+     "score": 15,
+     "by": "Cappybara12",
+     "time": 1793738400,
+     "comments": 0
     },
     {
      "id": 50355251,
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "score": 292,
+     "score": 329,
      "by": "theanonymousone",
      "time": 1793727600,
-     "comments": 89
-    },
-    {
-     "id": 50354960,
-     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 697,
-     "by": "sidgarimella",
-     "time": 1793726557,
-     "comments": 226
-    },
-    {
-     "id": 50356913,
-     "title": "Introduction to Programming in ATS",
-     "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-     "score": 22,
-     "by": "ibobev",
-     "time": 1793733918,
-     "comments": 1
+     "comments": 106
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 123,
+     "score": 155,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 66
+     "comments": 78
+    },
+    {
+     "id": 50354960,
+     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+     "score": 737,
+     "by": "sidgarimella",
+     "time": 1793726557,
+     "comments": 244
+    },
+    {
+     "id": 50356913,
+     "title": "Introduction to Programming in ATS",
+     "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+     "score": 26,
+     "by": "ibobev",
+     "time": 1793733918,
+     "comments": 3
     },
     {
      "id": 50336918,
      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 289,
+     "score": 303,
      "by": "bookofjoe",
      "time": 1793628162,
-     "comments": 117
+     "comments": 122
     },
     {
      "id": 50352758,
      "title": "Mac at Any Scale",
      "url": "https://namespace.so/blog/mac-at-any-scale",
-     "score": 227,
+     "score": 244,
      "by": "anner_",
      "time": 1793717622,
-     "comments": 118
-    },
-    {
-     "id": 50352757,
-     "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-     "url": null,
-     "score": 346,
-     "by": "user052919",
-     "time": 1793717621,
-     "comments": 104
+     "comments": 128
     },
     {
      "id": 50351111,
      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-     "score": 786,
+     "score": 795,
      "by": "syllogism",
      "time": 1793708477,
-     "comments": 183
+     "comments": 185
     },
     {
      "id": 50353229,
      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-     "score": 314,
+     "score": 343,
      "by": "rbanffy",
      "time": 1793719755,
-     "comments": 234
+     "comments": 265
     },
     {
      "id": 50357457,
      "title": "Pratt parsing is a black box",
      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-     "score": 3,
+     "score": 10,
      "by": "ibobev",
      "time": 1793736461,
-     "comments": 0
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T20:22:03.733475+00:00",
+   "fetched_at": "2026-11-03T20:52:21.902720+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T20:22:05.905989+00:00",
+   "fetched_at": "2026-11-03T20:52:24.027027+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 16453,
+     "stars": 16487,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 7820,
+     "stars": 7869,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7363,
+     "stars": 7392,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6014,
+     "stars": 6017,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4452,
+     "stars": 4461,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4061,
+     "stars": 4063,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 2973,
+     "stars": 2978,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 2955,
+     "stars": 2962,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1744,
+     "stars": 1746,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T20:22:06.492973+00:00",
+   "fetched_at": "2026-11-03T20:52:24.622283+00:00",
    "stale": false,
    "items": [
     {
      "title": "Yes, {} + [] = 0. No, JavaScript Isn\u2019t Broken",
      "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
      "author": "Sylwia Laskowska",
-     "reactions": 167,
+     "reactions": 168,
      "comments": 124,
      "published_at": "2026-10-29T20:08:53Z"
     },
@@ -279,6 +279,14 @@
      "published_at": "2026-10-29T07:02:39Z"
     },
     {
+     "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
+     "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+     "author": "Dhruv Jani",
+     "reactions": 84,
+     "comments": 51,
+     "published_at": "2026-10-31T17:57:27Z"
+    },
+    {
      "title": "What was your win this week?",
      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci",
      "author": "Jess Lee",
@@ -298,22 +306,14 @@
      "title": "One Last Post, and a Proper Goodbye",
      "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
      "author": "Ashley Childress",
-     "reactions": 32,
+     "reactions": 33,
      "comments": 4,
      "published_at": "2026-11-03T16:08:07Z"
-    },
-    {
-     "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
-     "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
-     "author": "Dhruv Jani",
-     "reactions": 82,
-     "comments": 51,
-     "published_at": "2026-10-31T17:57:27Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T20:22:06.910697+00:00",
+   "fetched_at": "2026-11-03T20:52:24.996212+00:00",
    "stale": false,
    "items": [
     {
