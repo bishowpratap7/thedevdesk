@@ -1,33 +1,33 @@
 {
- "generated_at": "2026-11-03T23:53:50.687891+00:00",
+ "generated_at": "2026-11-04T00:23:57.733050+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-03T23:53:46.455015+00:00",
+   "fetched_at": "2026-11-04T00:23:52.104489+00:00",
    "stale": false,
    "items": [
     {
      "id": 50358582,
      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
      "url": "https://arxiv.org/abs/2605.29713",
-     "score": 148,
+     "score": 174,
      "by": "ibobev",
      "time": 1793742053,
-     "comments": 18
+     "comments": 27
     },
     {
      "id": 50358562,
      "title": "Safari introduces Adaptive Dark Mode in 27.3",
      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-     "score": 203,
+     "score": 232,
      "by": "paddingtone",
      "time": 1793741945,
-     "comments": 133
+     "comments": 148
     },
     {
      "id": 50358702,
      "title": "The Internals of PostgreSQL",
      "url": "https://www.interdb.jp/pg/index.html",
-     "score": 55,
+     "score": 66,
      "by": "ibobev",
      "time": 1793742666,
      "comments": 2
@@ -36,52 +36,43 @@
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 565,
+     "score": 581,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 226
+     "comments": 230
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 318,
+     "score": 336,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 125
+     "comments": 132
     },
     {
      "id": 50346755,
      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
      "url": "https://hackertv.org",
-     "score": 122,
+     "score": 141,
      "by": "dsalzman",
      "time": 1793668689,
-     "comments": 31
+     "comments": 33
     },
     {
      "id": 50355251,
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "score": 452,
+     "score": 466,
      "by": "theanonymousone",
      "time": 1793727600,
-     "comments": 142
-    },
-    {
-     "id": 50356944,
-     "title": "macOS 27 does not support CoreStorage volumes",
-     "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-     "score": 84,
-     "by": "colejohnson66",
-     "time": 1793734073,
-     "comments": 44
+     "comments": 148
     },
     {
      "id": 50333131,
      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-     "score": 76,
+     "score": 84,
      "by": "zdw",
      "time": 1793593880,
      "comments": 14
@@ -90,25 +81,34 @@
      "id": 50336918,
      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 353,
+     "score": 361,
      "by": "bookofjoe",
      "time": 1793628162,
-     "comments": 141
+     "comments": 148
+    },
+    {
+     "id": 50356944,
+     "title": "macOS 27 does not support CoreStorage volumes",
+     "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+     "score": 88,
+     "by": "colejohnson66",
+     "time": 1793734073,
+     "comments": 52
     },
     {
      "id": 50354960,
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 958,
+     "score": 977,
      "by": "sidgarimella",
      "time": 1793726557,
-     "comments": 313
+     "comments": 322
     },
     {
      "id": 50358314,
      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
      "url": "https://github.com/finic-ai/kairos",
-     "score": 36,
+     "score": 38,
      "by": "ayanb9440",
      "time": 1793740608,
      "comments": 4
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-03T23:53:48.300735+00:00",
+   "fetched_at": "2026-11-04T00:23:53.863153+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-03T23:53:49.702165+00:00",
+   "fetched_at": "2026-11-04T00:23:55.543594+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 16668,
+     "stars": 16706,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 8290,
+     "stars": 8356,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7515,
+     "stars": 7529,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6035,
+     "stars": 6045,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4498,
+     "stars": 4503,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4105,
+     "stars": 4114,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3020,
+     "stars": 3028,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3009,
+     "stars": 3027,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2120,
+     "stars": 2122,
      "language": "Go",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1758,
+     "stars": 1759,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-03T23:53:50.156991+00:00",
+   "fetched_at": "2026-11-04T00:23:56.052002+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
      "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
      "author": "Daniel Nwaneri",
-     "reactions": 60,
+     "reactions": 61,
      "comments": 54,
      "published_at": "2026-10-29T09:34:19Z"
     },
@@ -266,8 +266,8 @@
      "title": "This is my first HacktoberFest, and I don't know what to feel.",
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 79,
-     "comments": 53,
+     "reactions": 80,
+     "comments": 55,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
@@ -279,41 +279,41 @@
      "published_at": "2026-10-29T07:02:39Z"
     },
     {
+     "title": "One Last Post, and a Proper Goodbye",
+     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+     "author": "Ashley Childress",
+     "reactions": 38,
+     "comments": 5,
+     "published_at": "2026-11-03T16:08:07Z"
+    },
+    {
      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
      "author": "Dhruv Jani",
-     "reactions": 85,
+     "reactions": 86,
      "comments": 51,
      "published_at": "2026-10-31T17:57:27Z"
+    },
+    {
+     "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
+     "url": "https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin",
+     "author": "Dhruv Jani",
+     "reactions": 79,
+     "comments": 29,
+     "published_at": "2026-10-30T11:35:31Z"
     },
     {
      "title": "What was your win this week?",
      "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci",
      "author": "Jess Lee",
-     "reactions": 30,
+     "reactions": 32,
      "comments": 34,
      "published_at": "2026-10-30T13:00:00Z"
-    },
-    {
-     "title": "I built a 3D game about my Nigerian childhood (and I'm not a game developer)",
-     "url": "https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g",
-     "author": "Deborah Emeni",
-     "reactions": 31,
-     "comments": 7,
-     "published_at": "2026-11-02T13:31:20Z"
-    },
-    {
-     "title": "One Last Post, and a Proper Goodbye",
-     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
-     "author": "Ashley Childress",
-     "reactions": 33,
-     "comments": 5,
-     "published_at": "2026-11-03T16:08:07Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-03T23:53:50.179973+00:00",
+   "fetched_at": "2026-11-04T00:23:57.006228+00:00",
    "stale": false,
    "items": [
     {
