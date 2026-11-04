@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-04T17:28:55.997816+00:00",
+ "generated_at": "2026-11-04T17:59:03.249017+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T17:28:50.714963+00:00",
+   "fetched_at": "2026-11-04T17:58:57.790143+00:00",
    "stale": false,
    "items": [
     {
      "id": 50364336,
      "title": "AI is forcing us to pay off 40 years of technical debt",
      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-     "score": 653,
+     "score": 691,
      "by": "pseudolus",
      "time": 1793793137,
-     "comments": 422
-    },
-    {
-     "id": 50366522,
-     "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-     "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-     "score": 110,
-     "by": "zenincognito",
-     "time": 1793804504,
-     "comments": 34
+     "comments": 438
     },
     {
      "id": 50368626,
      "title": "Progress on provable inference for large language models",
      "url": "https://www.anthropic.com/research/provable-inference",
-     "score": 13,
+     "score": 41,
      "by": "ltononro",
      "time": 1793812666,
-     "comments": 2
+     "comments": 16
+    },
+    {
+     "id": 50366522,
+     "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+     "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+     "score": 132,
+     "by": "zenincognito",
+     "time": 1793804504,
+     "comments": 58
     },
     {
      "id": 50362905,
      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-     "score": 435,
+     "score": 451,
      "by": "novaRom",
      "time": 1793781989,
-     "comments": 194
-    },
-    {
-     "id": 50366919,
-     "title": "Evergreen: A Provably Safe Systems Language",
-     "url": "https://evergreenlang.net",
-     "score": 52,
-     "by": "jordan_bonecut",
-     "time": 1793805904,
-     "comments": 30
-    },
-    {
-     "id": 50365755,
-     "title": "North Korean fake job interview led to $6.3B Binance heist",
-     "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-     "score": 315,
-     "by": "smalltech",
-     "time": 1793801395,
-     "comments": 184
+     "comments": 197
     },
     {
      "id": 50367125,
      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-     "score": 129,
+     "score": 173,
      "by": "rbanffy",
      "time": 1793806714,
-     "comments": 39
+     "comments": 52
+    },
+    {
+     "id": 50365755,
+     "title": "North Korean fake job interview led to $6.3B Binance heist",
+     "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+     "score": 357,
+     "by": "smalltech",
+     "time": 1793801395,
+     "comments": 214
     },
     {
      "id": 50368439,
      "title": "An end to buggy web apps",
      "url": "https://replay.io/blog/an-end-to-buggy-web-apps",
-     "score": 17,
+     "score": 26,
      "by": "bhackett",
      "time": 1793811704,
-     "comments": 5
-    },
-    {
-     "id": 50363019,
-     "title": "Verification Is Not Knowledge: Science needs more than answers",
-     "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-     "score": 176,
-     "by": "ersinesen",
-     "time": 1793782918,
-     "comments": 99
-    },
-    {
-     "id": 50363378,
-     "title": "Incident with Pull Requests, Git Operations and Issues",
-     "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-     "score": 200,
-     "by": "kevcampb",
-     "time": 1793786406,
-     "comments": 104
+     "comments": 20
     },
     {
      "id": 50366929,
      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
      "url": "https://pcdealcheck.com/",
-     "score": 21,
+     "score": 32,
      "by": "adlep",
      "time": 1793805933,
-     "comments": 6
+     "comments": 9
+    },
+    {
+     "id": 50363019,
+     "title": "Verification Is Not Knowledge: Science needs more than answers",
+     "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+     "score": 180,
+     "by": "ersinesen",
+     "time": 1793782918,
+     "comments": 103
+    },
+    {
+     "id": 50368804,
+     "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+     "url": null,
+     "score": 2,
+     "by": "lukeigel",
+     "time": 1793813513,
+     "comments": 1
     },
     {
      "id": 50366999,
      "title": "Kimi K3.1 Pro model weights are out",
      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-     "score": 104,
+     "score": 138,
      "by": "abrarthought",
      "time": 1793806230,
-     "comments": 16
+     "comments": 22
+    },
+    {
+     "id": 50363378,
+     "title": "Incident with Pull Requests, Git Operations and Issues",
+     "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+     "score": 209,
+     "by": "kevcampb",
+     "time": 1793786406,
+     "comments": 109
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T17:28:52.176898+00:00",
+   "fetched_at": "2026-11-04T17:58:59.345239+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T17:28:54.352514+00:00",
+   "fetched_at": "2026-11-04T17:59:01.531572+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 18418,
+     "stars": 18429,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 10772,
+     "stars": 10843,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 8359,
+     "stars": 8397,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6562,
+     "stars": 6567,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4758,
+     "stars": 4768,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4608,
+     "stars": 4616,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3593,
+     "stars": 3597,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3455,
+     "stars": 3473,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 2332,
+     "stars": 2355,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2189,
+     "stars": 2191,
      "language": "HTML",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T17:28:54.986381+00:00",
+   "fetched_at": "2026-11-04T17:59:02.150375+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 71,
-     "comments": 40,
+     "reactions": 74,
+     "comments": 41,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -291,7 +291,7 @@
      "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
      "author": "Ashley Childress",
      "reactions": 45,
-     "comments": 8,
+     "comments": 10,
      "published_at": "2026-11-03T16:08:07Z"
     },
     {
@@ -299,7 +299,7 @@
      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
      "author": "Daniel Balcarek",
      "reactions": 129,
-     "comments": 115,
+     "comments": 116,
      "published_at": "2026-10-29T07:02:39Z"
     },
     {
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T17:28:55.089987+00:00",
+   "fetched_at": "2026-11-04T17:59:02.414633+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "none",
-     "description": "All Systems Operational"
+     "indicator": "minor",
+     "description": "Minor Service Outage"
     },
     {
      "name": "Cloudflare",
