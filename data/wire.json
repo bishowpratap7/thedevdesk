@@ -1,78 +1,96 @@
 {
- "generated_at": "2026-11-04T09:26:24.480894+00:00",
+ "generated_at": "2026-11-04T09:56:30.452547+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T09:26:20.930068+00:00",
+   "fetched_at": "2026-11-04T09:56:25.958120+00:00",
    "stale": false,
    "items": [
     {
      "id": 50362980,
      "title": "Kitty 0.50",
      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-     "score": 37,
+     "score": 77,
      "by": "porridgeraisin",
      "time": 1793782630,
-     "comments": 9
-    },
-    {
-     "id": 50361268,
-     "title": "Jelly Sheet",
-     "url": "https://mrdoob.github.io/codevember-2026/01/",
-     "score": 234,
-     "by": "memalign",
-     "time": 1793763650,
-     "comments": 62
+     "comments": 24
     },
     {
      "id": 50363019,
      "title": "Verification Is Not Knowledge: Science needs more than answers",
      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-     "score": 9,
+     "score": 27,
      "by": "ersinesen",
      "time": 1793782918,
-     "comments": 0
+     "comments": 9
     },
     {
-     "id": 50360164,
-     "title": "C++26 Disapproved",
-     "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-     "score": 288,
-     "by": "thatxliner",
-     "time": 1793752402,
-     "comments": 175
+     "id": 50362905,
+     "title": "Nvidia DGX Spark encrypted firmware slows inference speed to 35% on Linux",
+     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+     "score": 22,
+     "by": "novaRom",
+     "time": 1793781989,
+     "comments": 4
+    },
+    {
+     "id": 50361268,
+     "title": "Jelly Sheet",
+     "url": "https://mrdoob.github.io/codevember-2026/01/",
+     "score": 242,
+     "by": "memalign",
+     "time": 1793763650,
+     "comments": 64
+    },
+    {
+     "id": 50362993,
+     "title": "Milkman \u2013 The Better Alternative to Postman",
+     "url": "https://milkman.dev/",
+     "score": 6,
+     "by": "jplunien",
+     "time": 1793782683,
+     "comments": 8
     },
     {
      "id": 50362466,
      "title": "The lost malloc()",
      "url": "https://napcakes.nekoweb.org/posts/malloc/",
-     "score": 32,
+     "score": 41,
      "by": "matt_d",
      "time": 1793777850,
-     "comments": 5
+     "comments": 7
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 796,
+     "score": 809,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 314
+     "comments": 320
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 587,
+     "score": 596,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 194
+     "comments": 198
+    },
+    {
+     "id": 50360164,
+     "title": "C++26 Disapproved",
+     "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+     "score": 295,
+     "by": "thatxliner",
+     "time": 1793752402,
+     "comments": 187
     },
     {
      "id": 50358702,
      "title": "The Internals of PostgreSQL",
      "url": "https://www.interdb.jp/pg/index.html",
-     "score": 268,
+     "score": 274,
      "by": "ibobev",
      "time": 1793742666,
      "comments": 21
@@ -81,7 +99,7 @@
      "id": 50358352,
      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
      "url": "https://uncracked.city",
-     "score": 57,
+     "score": 62,
      "by": "passkey1510",
      "time": 1793740803,
      "comments": 20
@@ -90,33 +108,15 @@
      "id": 50361154,
      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-     "score": 68,
+     "score": 71,
      "by": "gmays",
      "time": 1793762413,
-     "comments": 14
-    },
-    {
-     "id": 50360573,
-     "title": "Giant canyon on Mars is still tectonically active",
-     "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-     "score": 84,
-     "by": "gmays",
-     "time": 1793756442,
-     "comments": 9
-    },
-    {
-     "id": 50346755,
-     "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
-     "url": "https://hackertv.org",
-     "score": 323,
-     "by": "dsalzman",
-     "time": 1793668689,
-     "comments": 67
+     "comments": 18
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T09:26:22.612186+00:00",
+   "fetched_at": "2026-11-04T09:56:27.517352+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T09:26:23.246125+00:00",
+   "fetched_at": "2026-11-04T09:56:28.909230+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 17940,
+     "stars": 17980,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 9612,
+     "stars": 9674,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7860,
+     "stars": 7884,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6281,
+     "stars": 6300,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4647,
+     "stars": 4652,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4399,
+     "stars": 4421,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3416,
+     "stars": 3431,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3235,
+     "stars": 3245,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2163,
+     "stars": 2166,
      "language": "Go",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1849,
+     "stars": 1853,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T09:26:23.781371+00:00",
+   "fetched_at": "2026-11-04T09:56:29.479590+00:00",
    "stale": false,
    "items": [
     {
@@ -255,6 +255,14 @@
      "published_at": "2026-10-29T20:08:53Z"
     },
     {
+     "title": "This is my first HacktoberFest, and I don't know what to feel.",
+     "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
+     "author": "FrancisTR\u1d05\u1d07\u1d20",
+     "reactions": 98,
+     "comments": 60,
+     "published_at": "2026-11-02T16:11:59Z"
+    },
+    {
      "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
      "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
      "author": "Daniel Nwaneri",
@@ -263,12 +271,12 @@
      "published_at": "2026-10-29T09:34:19Z"
     },
     {
-     "title": "This is my first HacktoberFest, and I don't know what to feel.",
-     "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
-     "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 93,
-     "comments": 59,
-     "published_at": "2026-11-02T16:11:59Z"
+     "title": "One Last Post, and a Proper Goodbye",
+     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+     "author": "Ashley Childress",
+     "reactions": 44,
+     "comments": 8,
+     "published_at": "2026-11-03T16:08:07Z"
     },
     {
      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
@@ -277,14 +285,6 @@
      "reactions": 129,
      "comments": 115,
      "published_at": "2026-10-29T07:02:39Z"
-    },
-    {
-     "title": "One Last Post, and a Proper Goodbye",
-     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
-     "author": "Ashley Childress",
-     "reactions": 40,
-     "comments": 8,
-     "published_at": "2026-11-03T16:08:07Z"
     },
     {
      "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T09:26:23.912083+00:00",
+   "fetched_at": "2026-11-04T09:56:30.014543+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "none",
-     "description": "All Systems Operational"
+     "indicator": "minor",
+     "description": "Minor Service Outage"
     },
     {
      "name": "Cloudflare",
