@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T04:24:47.746302+00:00",
+ "generated_at": "2026-11-04T04:25:03.783881+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T04:24:43.227014+00:00",
+   "fetched_at": "2026-11-04T04:24:59.613639+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T04:24:44.992245+00:00",
+   "fetched_at": "2026-11-04T04:25:01.049487+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T04:24:46.376762+00:00",
+   "fetched_at": "2026-11-04T04:25:02.541009+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 17282,
+     "stars": 17283,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6165,
+     "stars": 6166,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3201,
+     "stars": 3202,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T04:24:46.823049+00:00",
+   "fetched_at": "2026-11-04T04:25:03.055909+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T04:24:47.229070+00:00",
+   "fetched_at": "2026-11-04T04:25:03.153335+00:00",
    "stale": false,
    "items": [
     {
