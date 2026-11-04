@@ -1,54 +1,72 @@
 {
- "generated_at": "2026-11-04T08:25:52.346591+00:00",
+ "generated_at": "2026-11-04T08:55:58.540658+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T08:25:48.384632+00:00",
+   "fetched_at": "2026-11-04T08:55:53.834495+00:00",
    "stale": false,
    "items": [
     {
      "id": 50361268,
      "title": "Jelly Sheet",
      "url": "https://mrdoob.github.io/codevember-2026/01/",
-     "score": 184,
+     "score": 217,
      "by": "memalign",
      "time": 1793763650,
-     "comments": 41
+     "comments": 52
     },
     {
      "id": 50360164,
      "title": "C++26 Disapproved",
      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-     "score": 261,
+     "score": 272,
      "by": "thatxliner",
      "time": 1793752402,
-     "comments": 153
+     "comments": 162
+    },
+    {
+     "id": 50362466,
+     "title": "The lost malloc()",
+     "url": "https://napcakes.nekoweb.org/posts/malloc/",
+     "score": 17,
+     "by": "matt_d",
+     "time": 1793777850,
+     "comments": 3
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 771,
+     "score": 786,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 307
+     "comments": 312
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 557,
+     "score": 576,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 191
+     "comments": 193
     },
     {
      "id": 50358702,
      "title": "The Internals of PostgreSQL",
      "url": "https://www.interdb.jp/pg/index.html",
-     "score": 252,
+     "score": 261,
      "by": "ibobev",
      "time": 1793742666,
-     "comments": 16
+     "comments": 18
+    },
+    {
+     "id": 50358352,
+     "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+     "url": "https://uncracked.city",
+     "score": 50,
+     "by": "passkey1510",
+     "time": 1793740803,
+     "comments": 17
     },
     {
      "id": 50361154,
@@ -57,16 +75,7 @@
      "score": 65,
      "by": "gmays",
      "time": 1793762413,
-     "comments": 4
-    },
-    {
-     "id": 50362466,
-     "title": "The lost malloc()",
-     "url": "https://napcakes.nekoweb.org/posts/malloc/",
-     "score": 6,
-     "by": "matt_d",
-     "time": 1793777850,
-     "comments": 1
+     "comments": 10
     },
     {
      "id": 50360573,
@@ -75,31 +84,22 @@
      "score": 77,
      "by": "gmays",
      "time": 1793756442,
-     "comments": 7
-    },
-    {
-     "id": 50358352,
-     "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-     "url": "https://uncracked.city",
-     "score": 41,
-     "by": "passkey1510",
-     "time": 1793740803,
-     "comments": 13
+     "comments": 9
     },
     {
      "id": 50346755,
      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
      "url": "https://hackertv.org",
-     "score": 304,
+     "score": 318,
      "by": "dsalzman",
      "time": 1793668689,
-     "comments": 63
+     "comments": 65
     },
     {
      "id": 50361107,
      "title": "Arrows to arrows, categories to queries (2025)",
      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-     "score": 40,
+     "score": 45,
      "by": "firstbase",
      "time": 1793761887,
      "comments": 2
@@ -108,15 +108,15 @@
      "id": 50336918,
      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 461,
+     "score": 466,
      "by": "bookofjoe",
      "time": 1793628162,
-     "comments": 192
+     "comments": 193
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T08:25:49.801185+00:00",
+   "fetched_at": "2026-11-04T08:55:55.316027+00:00",
    "stale": false,
    "items": [
     {
@@ -142,10 +142,10 @@
     },
     {
      "repo": "microsoft/vscode",
-     "tag": "1.144.0",
-     "name": "1.144.0",
-     "url": "https://github.com/microsoft/vscode/releases/tag/1.144.0",
-     "published_at": "2026-10-28T18:51:38Z"
+     "tag": "1.145.0",
+     "name": "1.145.0",
+     "url": "https://github.com/microsoft/vscode/releases/tag/1.145.0",
+     "published_at": "2026-11-04T08:36:49Z"
     },
     {
      "repo": "rust-lang/rust",
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T08:25:50.984252+00:00",
+   "fetched_at": "2026-11-04T08:55:56.979690+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 17795,
+     "stars": 17878,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 9459,
+     "stars": 9536,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7820,
+     "stars": 7842,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6242,
+     "stars": 6263,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4628,
+     "stars": 4641,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4343,
+     "stars": 4371,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3360,
+     "stars": 3383,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3201,
+     "stars": 3215,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2153,
+     "stars": 2155,
      "language": "Go",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1846,
+     "stars": 1848,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T08:25:51.485347+00:00",
+   "fetched_at": "2026-11-04T08:55:57.523563+00:00",
    "stale": false,
    "items": [
     {
      "title": "Yes, {} + [] = 0. No, JavaScript Isn\u2019t Broken",
      "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
      "author": "Sylwia Laskowska",
-     "reactions": 169,
+     "reactions": 170,
      "comments": 126,
      "published_at": "2026-10-29T20:08:53Z"
     },
@@ -290,8 +290,8 @@
      "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
      "url": "https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin",
      "author": "Dhruv Jani",
-     "reactions": 88,
-     "comments": 34,
+     "reactions": 89,
+     "comments": 35,
      "published_at": "2026-10-30T11:35:31Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T08:25:51.779112+00:00",
+   "fetched_at": "2026-11-04T08:55:57.866221+00:00",
    "stale": false,
    "items": [
     {
