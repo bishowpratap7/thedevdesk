@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T19:29:25.114687+00:00",
+ "generated_at": "2026-11-04T19:29:40.693189+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T19:29:19.609565+00:00",
+   "fetched_at": "2026-11-04T19:29:37.144045+00:00",
    "stale": false,
    "items": [
     {
@@ -27,10 +27,19 @@
      "id": 50368626,
      "title": "Progress on provable inference for large language models",
      "url": "https://www.anthropic.com/research/provable-inference",
-     "score": 101,
+     "score": 102,
      "by": "ltononro",
      "time": 1793812666,
-     "comments": 44
+     "comments": 45
+    },
+    {
+     "id": 50369657,
+     "title": "Education Shouldn't Be Held for Ransom",
+     "url": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+     "score": 34,
+     "by": "notfried",
+     "time": 1793817226,
+     "comments": 1
     },
     {
      "id": 50369840,
@@ -39,7 +48,7 @@
      "score": 20,
      "by": "askedrelic",
      "time": 1793818053,
-     "comments": 24
+     "comments": 25
     },
     {
      "id": 50362905,
@@ -49,15 +58,6 @@
      "by": "novaRom",
      "time": 1793781989,
      "comments": 226
-    },
-    {
-     "id": 50369657,
-     "title": "Education Shouldn't Be Held for Ransom",
-     "url": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
-     "score": 32,
-     "by": "notfried",
-     "time": 1793817226,
-     "comments": 1
     },
     {
      "id": 50368804,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T19:29:21.046881+00:00",
+   "fetched_at": "2026-11-04T19:29:38.460452+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T19:29:23.268150+00:00",
+   "fetched_at": "2026-11-04T19:29:39.365454+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T19:29:23.985528+00:00",
+   "fetched_at": "2026-11-04T19:29:39.564066+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T19:29:24.334385+00:00",
+   "fetched_at": "2026-11-04T19:29:39.695209+00:00",
    "stale": false,
    "items": [
     {
