@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-04T00:54:04.155364+00:00",
+ "generated_at": "2026-11-04T01:24:09.624237+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T00:53:59.326412+00:00",
+   "fetched_at": "2026-11-04T01:24:05.527863+00:00",
    "stale": false,
    "items": [
     {
      "id": 50358582,
      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
      "url": "https://arxiv.org/abs/2605.29713",
-     "score": 196,
+     "score": 220,
      "by": "ibobev",
      "time": 1793742053,
-     "comments": 31
-    },
-    {
-     "id": 50358562,
-     "title": "Safari introduces Adaptive Dark Mode in 27.3",
-     "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-     "score": 257,
-     "by": "paddingtone",
-     "time": 1793741945,
-     "comments": 160
-    },
-    {
-     "id": 50358702,
-     "title": "The Internals of PostgreSQL",
-     "url": "https://www.interdb.jp/pg/index.html",
-     "score": 78,
-     "by": "ibobev",
-     "time": 1793742666,
-     "comments": 2
+     "comments": 34
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 591,
+     "score": 604,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 238
+     "comments": 240
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 353,
+     "score": 367,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 136
+     "comments": 141
+    },
+    {
+     "id": 50358702,
+     "title": "The Internals of PostgreSQL",
+     "url": "https://www.interdb.jp/pg/index.html",
+     "score": 93,
+     "by": "ibobev",
+     "time": 1793742666,
+     "comments": 2
+    },
+    {
+     "id": 50358562,
+     "title": "Safari introduces Adaptive Dark Mode in 27.3",
+     "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+     "score": 276,
+     "by": "paddingtone",
+     "time": 1793741945,
+     "comments": 182
     },
     {
      "id": 50346755,
      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
      "url": "https://hackertv.org",
-     "score": 155,
+     "score": 161,
      "by": "dsalzman",
      "time": 1793668689,
-     "comments": 34
+     "comments": 35
     },
     {
      "id": 50333131,
      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-     "score": 91,
+     "score": 100,
      "by": "zdw",
      "time": 1793593880,
-     "comments": 15
+     "comments": 17
     },
     {
      "id": 50355251,
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "score": 474,
+     "score": 482,
      "by": "theanonymousone",
      "time": 1793727600,
-     "comments": 149
+     "comments": 151
     },
     {
      "id": 50336918,
      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 367,
+     "score": 377,
      "by": "bookofjoe",
      "time": 1793628162,
-     "comments": 154
-    },
-    {
-     "id": 50358314,
-     "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
-     "url": "https://github.com/finic-ai/kairos",
-     "score": 48,
-     "by": "ayanb9440",
-     "time": 1793740608,
-     "comments": 5
+     "comments": 160
     },
     {
      "id": 50356944,
      "title": "macOS 27 does not support CoreStorage volumes",
      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-     "score": 95,
+     "score": 106,
      "by": "colejohnson66",
      "time": 1793734073,
-     "comments": 57
+     "comments": 62
+    },
+    {
+     "id": 50358314,
+     "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+     "url": "https://github.com/finic-ai/kairos",
+     "score": 54,
+     "by": "ayanb9440",
+     "time": 1793740608,
+     "comments": 7
     },
     {
      "id": 50354960,
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-     "score": 997,
+     "score": 1012,
      "by": "sidgarimella",
      "time": 1793726557,
-     "comments": 331
+     "comments": 338
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T00:54:01.050328+00:00",
+   "fetched_at": "2026-11-04T01:24:07.328035+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T00:54:02.768306+00:00",
+   "fetched_at": "2026-11-04T01:24:08.712372+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 16752,
+     "stars": 16829,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 8415,
+     "stars": 8478,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7540,
+     "stars": 7557,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6057,
+     "stars": 6078,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4512,
+     "stars": 4521,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4120,
+     "stars": 4139,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3043,
+     "stars": 3063,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3041,
+     "stars": 3054,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2122,
+     "stars": 2125,
      "language": "Go",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1763,
+     "stars": 1771,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T00:54:03.250024+00:00",
+   "fetched_at": "2026-11-04T01:24:09.152026+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T00:54:03.500146+00:00",
+   "fetched_at": "2026-11-04T01:24:09.176679+00:00",
    "stale": false,
    "items": [
     {
