@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-04T13:27:39.533659+00:00",
+ "generated_at": "2026-11-04T13:57:46.073324+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T13:27:35.432171+00:00",
+   "fetched_at": "2026-11-04T13:57:41.408577+00:00",
    "stale": false,
    "items": [
     {
      "id": 50364336,
      "title": "AI is forcing us to pay off 40 years of technical debt",
      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-     "score": 203,
+     "score": 257,
      "by": "pseudolus",
      "time": 1793793137,
-     "comments": 103
+     "comments": 141
     },
     {
      "id": 50362905,
      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-     "score": 219,
+     "score": 238,
      "by": "novaRom",
      "time": 1793781989,
-     "comments": 115
+     "comments": 137
     },
     {
      "id": 50363378,
      "title": "Incident with Pull Requests, Git Operations and Issues",
      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-     "score": 128,
+     "score": 136,
      "by": "kevcampb",
      "time": 1793786406,
-     "comments": 60
+     "comments": 68
     },
     {
      "id": 50363019,
      "title": "Verification Is Not Knowledge: Science needs more than answers",
      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-     "score": 98,
+     "score": 105,
      "by": "ersinesen",
      "time": 1793782918,
-     "comments": 51
+     "comments": 60
     },
     {
      "id": 50363461,
      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
      "url": null,
-     "score": 166,
+     "score": 202,
      "by": "jameslk",
      "time": 1793787027,
-     "comments": 45
-    },
-    {
-     "id": 50362980,
-     "title": "Kitty 0.50",
-     "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-     "score": 219,
-     "by": "porridgeraisin",
-     "time": 1793782630,
-     "comments": 136
+     "comments": 54
     },
     {
      "id": 50361268,
      "title": "Jelly Sheet",
      "url": "https://mrdoob.github.io/codevember-2026/01/",
-     "score": 310,
+     "score": 321,
      "by": "memalign",
      "time": 1793763650,
-     "comments": 79
+     "comments": 81
     },
     {
-     "id": 50364561,
-     "title": "A map of 5000+ midterm ads",
-     "url": "https://admap.org/",
-     "score": 34,
-     "by": "Eden09",
-     "time": 1793794715,
-     "comments": 7
+     "id": 50362980,
+     "title": "Kitty 0.50",
+     "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+     "score": 230,
+     "by": "porridgeraisin",
+     "time": 1793782630,
+     "comments": 142
     },
     {
      "id": 50364814,
      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
-     "score": 27,
+     "score": 44,
      "by": "vesinisa",
      "time": 1793796418,
-     "comments": 14
+     "comments": 37
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 875,
+     "score": 878,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 330
+     "comments": 332
     },
     {
      "id": 50363554,
      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-     "score": 132,
+     "score": 158,
      "by": "alkyon",
      "time": 1793787814,
-     "comments": 81
+     "comments": 104
+    },
+    {
+     "id": 50362466,
+     "title": "The lost malloc()",
+     "url": "https://napcakes.nekoweb.org/posts/malloc/",
+     "score": 82,
+     "by": "matt_d",
+     "time": 1793777850,
+     "comments": 25
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 661,
+     "score": 670,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 210
+     "comments": 211
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T13:27:36.954266+00:00",
+   "fetched_at": "2026-11-04T13:57:43.263358+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T13:27:38.314511+00:00",
+   "fetched_at": "2026-11-04T13:57:44.907653+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 18216,
+     "stars": 18250,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 10110,
+     "stars": 10183,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 8078,
+     "stars": 8121,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6427,
+     "stars": 6443,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4700,
+     "stars": 4710,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4507,
+     "stars": 4517,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3517,
+     "stars": 3527,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3326,
+     "stars": 3342,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2182,
+     "stars": 2184,
      "language": "Go",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 2028,
+     "stars": 2071,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T13:27:38.807174+00:00",
+   "fetched_at": "2026-11-04T13:57:45.345165+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
      "reactions": 62,
-     "comments": 26,
+     "comments": 29,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T13:27:39.112049+00:00",
+   "fetched_at": "2026-11-04T13:57:45.589694+00:00",
    "stale": false,
    "items": [
     {
