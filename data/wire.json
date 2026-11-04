@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-04T14:58:17.347776+00:00",
+ "generated_at": "2026-11-04T15:28:24.847915+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T14:58:11.666243+00:00",
+   "fetched_at": "2026-11-04T15:28:19.273849+00:00",
    "stale": false,
    "items": [
     {
      "id": 50364336,
      "title": "AI is forcing us to pay off 40 years of technical debt",
      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-     "score": 359,
+     "score": 418,
      "by": "pseudolus",
      "time": 1793793137,
-     "comments": 249
+     "comments": 291
     },
     {
      "id": 50362905,
      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-     "score": 305,
+     "score": 336,
      "by": "novaRom",
      "time": 1793781989,
-     "comments": 158
-    },
-    {
-     "id": 50365982,
-     "title": "US voters roundly reject data centers in ballot measures",
-     "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
-     "score": 71,
-     "by": "justonepost2",
-     "time": 1793802422,
-     "comments": 43
+     "comments": 171
     },
     {
      "id": 50363378,
      "title": "Incident with Pull Requests, Git Operations and Issues",
      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-     "score": 165,
+     "score": 177,
      "by": "kevcampb",
      "time": 1793786406,
-     "comments": 80
+     "comments": 83
     },
     {
      "id": 50363019,
      "title": "Verification Is Not Knowledge: Science needs more than answers",
      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-     "score": 128,
+     "score": 141,
      "by": "ersinesen",
      "time": 1793782918,
-     "comments": 75
-    },
-    {
-     "id": 50363461,
-     "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-     "url": null,
-     "score": 293,
-     "by": "jameslk",
-     "time": 1793787027,
-     "comments": 79
+     "comments": 84
     },
     {
      "id": 50365755,
      "title": "North Korean fake job interview led to $6.3B Binance heist",
      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-     "score": 64,
+     "score": 107,
      "by": "smalltech",
      "time": 1793801395,
-     "comments": 36
+     "comments": 64
+    },
+    {
+     "id": 50363461,
+     "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+     "url": null,
+     "score": 325,
+     "by": "jameslk",
+     "time": 1793787027,
+     "comments": 88
+    },
+    {
+     "id": 50366522,
+     "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+     "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+     "score": 7,
+     "by": "zenincognito",
+     "time": 1793804504,
+     "comments": 0
+    },
+    {
+     "id": 50366575,
+     "title": "Debian apt security update (man-in-the-middle)",
+     "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+     "score": 25,
+     "by": "SG-",
+     "time": 1793804654,
+     "comments": 2
     },
     {
      "id": 50362980,
      "title": "Kitty 0.50",
      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-     "score": 262,
+     "score": 267,
      "by": "porridgeraisin",
      "time": 1793782630,
-     "comments": 160
+     "comments": 167
+    },
+    {
+     "id": 50365982,
+     "title": "US voters roundly reject data centers in ballot measures",
+     "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+     "score": 153,
+     "by": "justonepost2",
+     "time": 1793802422,
+     "comments": 205
     },
     {
      "id": 50361268,
      "title": "Jelly Sheet",
      "url": "https://mrdoob.github.io/codevember-2026/01/",
-     "score": 341,
+     "score": 350,
      "by": "memalign",
      "time": 1793763650,
-     "comments": 88
+     "comments": 91
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 893,
+     "score": 899,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 335
-    },
-    {
-     "id": 50362466,
-     "title": "The lost malloc()",
-     "url": "https://napcakes.nekoweb.org/posts/malloc/",
-     "score": 102,
-     "by": "matt_d",
-     "time": 1793777850,
-     "comments": 37
-    },
-    {
-     "id": 50354358,
-     "title": "Stringman, an $800 open-source room scale gripper robot",
-     "url": "https://neufangled.com/",
-     "score": 695,
-     "by": "nharada",
-     "time": 1793724449,
-     "comments": 212
+     "comments": 337
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T14:58:13.049645+00:00",
+   "fetched_at": "2026-11-04T15:28:20.601275+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T14:58:15.308937+00:00",
+   "fetched_at": "2026-11-04T15:28:22.873998+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 18299,
+     "stars": 18329,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 10358,
+     "stars": 10433,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 8195,
+     "stars": 8233,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6492,
+     "stars": 6513,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4726,
+     "stars": 4730,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4541,
+     "stars": 4556,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3549,
+     "stars": 3563,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,31 +219,31 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3371,
+     "stars": 3392,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
     },
     {
-     "full_name": "paipiange/nvzhuang",
-     "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2188,
-     "language": "Go",
-     "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
-     "created_at": "2026-10-29T06:08:00Z"
-    },
-    {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 2164,
+     "stars": 2213,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
+    },
+    {
+     "full_name": "paipiange/nvzhuang",
+     "url": "https://github.com/paipiange/nvzhuang",
+     "stars": 2188,
+     "language": "HTML",
+     "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
+     "created_at": "2026-10-29T06:08:00Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T14:58:16.001855+00:00",
+   "fetched_at": "2026-11-04T15:28:23.685191+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
      "reactions": 65,
-     "comments": 34,
+     "comments": 36,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T14:58:16.503817+00:00",
+   "fetched_at": "2026-11-04T15:28:24.206268+00:00",
    "stale": false,
    "items": [
     {
