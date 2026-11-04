@@ -1,114 +1,114 @@
 {
- "generated_at": "2026-11-04T07:25:40.925438+00:00",
+ "generated_at": "2026-11-04T07:55:46.845419+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T07:25:36.713921+00:00",
+   "fetched_at": "2026-11-04T07:55:42.742326+00:00",
    "stale": false,
    "items": [
     {
      "id": 50361268,
      "title": "Jelly Sheet",
      "url": "https://mrdoob.github.io/codevember-2026/01/",
-     "score": 137,
+     "score": 157,
      "by": "memalign",
      "time": 1793763650,
-     "comments": 31
+     "comments": 37
     },
     {
      "id": 50360164,
      "title": "C++26 Disapproved",
      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-     "score": 241,
+     "score": 250,
      "by": "thatxliner",
      "time": 1793752402,
-     "comments": 128
-    },
-    {
-     "id": 50361154,
-     "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-     "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-     "score": 58,
-     "by": "gmays",
-     "time": 1793762413,
-     "comments": 1
+     "comments": 143
     },
     {
      "id": 50339288,
      "title": "Jailbreaking my car's navigation system just so I can change the time",
      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-     "score": 743,
+     "score": 753,
      "by": "xx_ns",
      "time": 1793636959,
-     "comments": 300
+     "comments": 301
     },
     {
-     "id": 50358702,
-     "title": "The Internals of PostgreSQL",
-     "url": "https://www.interdb.jp/pg/index.html",
-     "score": 236,
-     "by": "ibobev",
-     "time": 1793742666,
-     "comments": 15
+     "id": 50361154,
+     "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+     "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+     "score": 59,
+     "by": "gmays",
+     "time": 1793762413,
+     "comments": 2
     },
     {
      "id": 50354358,
      "title": "Stringman, an $800 open-source room scale gripper robot",
      "url": "https://neufangled.com/",
-     "score": 529,
+     "score": 543,
      "by": "nharada",
      "time": 1793724449,
-     "comments": 178
+     "comments": 184
+    },
+    {
+     "id": 50358702,
+     "title": "The Internals of PostgreSQL",
+     "url": "https://www.interdb.jp/pg/index.html",
+     "score": 245,
+     "by": "ibobev",
+     "time": 1793742666,
+     "comments": 15
     },
     {
      "id": 50360573,
      "title": "Giant canyon on Mars is still tectonically active",
      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-     "score": 68,
+     "score": 71,
      "by": "gmays",
      "time": 1793756442,
-     "comments": 5
-    },
-    {
-     "id": 50358352,
-     "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-     "url": "https://uncracked.city",
-     "score": 31,
-     "by": "passkey1510",
-     "time": 1793740803,
-     "comments": 9
+     "comments": 6
     },
     {
      "id": 50346755,
      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
      "url": "https://hackertv.org",
-     "score": 284,
+     "score": 295,
      "by": "dsalzman",
      "time": 1793668689,
-     "comments": 59
+     "comments": 61
     },
     {
-     "id": 50336918,
-     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-     "score": 446,
-     "by": "bookofjoe",
-     "time": 1793628162,
-     "comments": 188
+     "id": 50358352,
+     "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+     "url": "https://uncracked.city",
+     "score": 34,
+     "by": "passkey1510",
+     "time": 1793740803,
+     "comments": 9
     },
     {
      "id": 50361107,
      "title": "Arrows to arrows, categories to queries (2025)",
      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-     "score": 30,
+     "score": 34,
      "by": "firstbase",
      "time": 1793761887,
-     "comments": 1
+     "comments": 2
+    },
+    {
+     "id": 50336918,
+     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+     "score": 452,
+     "by": "bookofjoe",
+     "time": 1793628162,
+     "comments": 189
     },
     {
      "id": 50333131,
      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-     "score": 170,
+     "score": 174,
      "by": "zdw",
      "time": 1793593880,
      "comments": 29
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T07:25:38.175583+00:00",
+   "fetched_at": "2026-11-04T07:55:44.446273+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T07:25:39.736558+00:00",
+   "fetched_at": "2026-11-04T07:55:45.538478+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 17637,
+     "stars": 17719,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 9310,
+     "stars": 9382,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 7776,
+     "stars": 7799,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6220,
+     "stars": 6230,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4619,
+     "stars": 4624,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4308,
+     "stars": 4322,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3321,
+     "stars": 3337,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3172,
+     "stars": 3190,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "paipiange/nvzhuang",
      "url": "https://github.com/paipiange/nvzhuang",
-     "stars": 2150,
+     "stars": 2151,
      "language": "Go",
      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
      "created_at": "2026-10-29T06:08:00Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 1837,
+     "stars": 1841,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T07:25:40.235365+00:00",
+   "fetched_at": "2026-11-04T07:55:46.147456+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
      "author": "Daniel Balcarek",
-     "reactions": 128,
+     "reactions": 129,
      "comments": 115,
      "published_at": "2026-10-29T07:02:39Z"
     },
@@ -274,7 +274,7 @@
      "title": "This is my first HacktoberFest, and I don't know what to feel.",
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 89,
+     "reactions": 90,
      "comments": 58,
      "published_at": "2026-11-02T16:11:59Z"
     },
@@ -287,20 +287,20 @@
      "published_at": "2026-11-03T16:08:07Z"
     },
     {
+     "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
+     "url": "https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin",
+     "author": "Dhruv Jani",
+     "reactions": 88,
+     "comments": 33,
+     "published_at": "2026-10-30T11:35:31Z"
+    },
+    {
      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
      "author": "Dhruv Jani",
      "reactions": 96,
      "comments": 53,
      "published_at": "2026-10-31T17:57:27Z"
-    },
-    {
-     "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
-     "url": "https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin",
-     "author": "Dhruv Jani",
-     "reactions": 84,
-     "comments": 32,
-     "published_at": "2026-10-30T11:35:31Z"
     },
     {
      "title": "What was your win this week?",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T07:25:40.365276+00:00",
+   "fetched_at": "2026-11-04T07:55:46.396742+00:00",
    "stale": false,
    "items": [
     {
