@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-04T21:30:10.637155+00:00",
+ "generated_at": "2026-11-04T22:00:17.973352+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-04T21:30:03.986947+00:00",
+   "fetched_at": "2026-11-04T22:00:12.477358+00:00",
    "stale": false,
    "items": [
     {
      "id": 50371246,
-     "title": "Residential Proxies Detected on White House Network",
+     "title": "Residential proxies detected on White House network",
      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-     "score": 152,
+     "score": 244,
      "by": "Rasbora",
      "time": 1793825118,
-     "comments": 31
+     "comments": 64
     },
     {
-     "id": 50371508,
-     "title": "Everything is an AI scam now",
-     "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-     "score": 32,
+     "id": 50370610,
+     "title": "Insects don't swarm at LED lights",
+     "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+     "score": 93,
      "by": "speckx",
-     "time": 1793826319,
-     "comments": 7
+     "time": 1793821823,
+     "comments": 54
     },
     {
      "id": 50369925,
      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
      "url": "https://www.ricursive.com/ripple",
-     "score": 128,
+     "score": 143,
      "by": "Philpax",
      "time": 1793818409,
-     "comments": 47
-    },
-    {
-     "id": 50370610,
-     "title": "Insects Don't Swarm at LED Lights",
-     "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-     "score": 73,
-     "by": "speckx",
-     "time": 1793821823,
-     "comments": 42
+     "comments": 55
     },
     {
      "id": 50364336,
      "title": "AI is forcing us to pay off 40 years of technical debt",
      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-     "score": 946,
+     "score": 958,
      "by": "pseudolus",
      "time": 1793793137,
-     "comments": 576
+     "comments": 587
     },
     {
      "id": 50369106,
      "title": "A new Go API for JSON",
      "url": "https://go.dev/blog/jsonv2",
-     "score": 141,
+     "score": 156,
      "by": "olexsmir",
      "time": 1793814731,
-     "comments": 54
-    },
-    {
-     "id": 50368626,
-     "title": "Progress on provable inference for large language models",
-     "url": "https://www.anthropic.com/research/provable-inference",
-     "score": 142,
-     "by": "ltononro",
-     "time": 1793812666,
-     "comments": 70
+     "comments": 63
     },
     {
      "id": 50370654,
      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-     "score": 44,
+     "score": 53,
      "by": "peter_d_sherman",
      "time": 1793822114,
-     "comments": 18
+     "comments": 22
+    },
+    {
+     "id": 50368626,
+     "title": "Progress on provable inference for large language models",
+     "url": "https://www.anthropic.com/research/provable-inference",
+     "score": 146,
+     "by": "ltononro",
+     "time": 1793812666,
+     "comments": 74
     },
     {
      "id": 50362905,
      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-     "score": 551,
+     "score": 560,
      "by": "novaRom",
      "time": 1793781989,
-     "comments": 252
+     "comments": 255
     },
     {
      "id": 50371370,
      "title": "AR guitar with just a laptop and scissors",
      "url": "https://www.arguitar.com/",
-     "score": 7,
+     "score": 11,
      "by": "castlew",
      "time": 1793825674,
-     "comments": 2
-    },
-    {
-     "id": 50368804,
-     "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
-     "url": null,
-     "score": 47,
-     "by": "lukeigel",
-     "time": 1793813513,
-     "comments": 24
+     "comments": 4
     },
     {
      "id": 50369895,
      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
      "url": "https://fireflyk64.github.io/wcmulti/",
-     "score": 33,
+     "score": 52,
      "by": "daniel_rh",
      "time": 1793818287,
      "comments": 4
+    },
+    {
+     "id": 50368804,
+     "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+     "url": null,
+     "score": 53,
+     "by": "lukeigel",
+     "time": 1793813513,
+     "comments": 24
+    },
+    {
+     "id": 50369503,
+     "title": "Conductor Is Joining Meta",
+     "url": "https://www.conductor.build/announcement",
+     "score": 51,
+     "by": "kenrose",
+     "time": 1793816560,
+     "comments": 97
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-04T21:30:06.970735+00:00",
+   "fetched_at": "2026-11-04T22:00:14.278075+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-04T21:30:08.932477+00:00",
+   "fetched_at": "2026-11-04T22:00:16.316206+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 18496,
+     "stars": 18506,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 11299,
+     "stars": 11394,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "heydamir/unslop",
      "url": "https://github.com/heydamir/unslop",
-     "stars": 8548,
+     "stars": 8569,
      "language": "JavaScript",
      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
      "created_at": "2026-10-29T15:41:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "wangzan101/Mika",
      "url": "https://github.com/wangzan101/Mika",
-     "stars": 6596,
+     "stars": 6599,
      "language": "Kotlin",
      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
      "created_at": "2026-10-29T14:34:07Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "valentderah/totk-pc-recomp",
      "url": "https://github.com/valentderah/totk-pc-recomp",
-     "stars": 4811,
+     "stars": 4815,
      "language": "C",
      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
      "created_at": "2026-10-29T12:32:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4663,
+     "stars": 4674,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "BryceYuuu/RUN",
      "url": "https://github.com/BryceYuuu/RUN",
-     "stars": 3617,
+     "stars": 3618,
      "language": "Python",
      "description": "RUN \u00b7 \u6da6\uff1a\u6d77\u5916\u79fb\u5c45\u624b\u518c\uff08\u6b27\u6d32 36 \u56fd \u00b7 110 \u6761\u8def\u7ebf \u00b7 \u4e3b\u8981\u79fb\u6c11\u5730\u533a\uff09",
      "created_at": "2026-10-29T11:28:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Djihads80/Eglantine",
      "url": "https://github.com/Djihads80/Eglantine",
-     "stars": 3577,
+     "stars": 3593,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-29T00:25:18Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 2394,
+     "stars": 2403,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-04T21:30:09.480376+00:00",
+   "fetched_at": "2026-11-04T22:00:16.876907+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 82,
-     "comments": 58,
+     "reactions": 87,
+     "comments": 59,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -306,14 +306,14 @@
      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
      "author": "Dhruv Jani",
-     "reactions": 105,
+     "reactions": 106,
      "comments": 59,
      "published_at": "2026-10-31T17:57:27Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-04T21:30:09.864764+00:00",
+   "fetched_at": "2026-11-04T22:00:17.188886+00:00",
    "stale": false,
    "items": [
     {
