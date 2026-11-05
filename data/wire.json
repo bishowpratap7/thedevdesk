@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-05T00:30:52.525202+00:00",
+ "generated_at": "2026-11-05T00:31:09.238240+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-05T00:30:47.891959+00:00",
+   "fetched_at": "2026-11-05T00:31:04.661516+00:00",
    "stale": false,
    "items": [
     {
      "id": 50371246,
      "title": "Residential proxies detected on White House network",
      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-     "score": 547,
+     "score": 548,
      "by": "Rasbora",
      "time": 1793825118,
      "comments": 160
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-05T00:30:49.033304+00:00",
+   "fetched_at": "2026-11-05T00:31:05.998741+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-05T00:30:50.775259+00:00",
+   "fetched_at": "2026-11-05T00:31:07.966690+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 11717,
+     "stars": 11719,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "elvarofficial/teardown",
      "url": "https://github.com/elvarofficial/teardown",
-     "stars": 1909,
+     "stars": 1910,
      "language": "JavaScript",
      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "created_at": "2026-10-30T09:29:01Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-05T00:30:51.314448+00:00",
+   "fetched_at": "2026-11-05T00:31:08.559445+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-05T00:30:51.686619+00:00",
+   "fetched_at": "2026-11-05T00:31:08.697360+00:00",
    "stale": false,
    "items": [
     {
