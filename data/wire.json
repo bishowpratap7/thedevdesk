@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-05T12:34:19.820202+00:00",
+ "generated_at": "2026-11-05T13:04:25.683353+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-05T12:34:15.273346+00:00",
+   "fetched_at": "2026-11-05T13:04:21.666682+00:00",
    "stale": false,
    "items": [
     {
      "id": 50378228,
      "title": "Sshole",
      "url": "https://sshhole.com",
-     "score": 18,
+     "score": 188,
      "by": "josemrb",
      "time": 1793881142,
-     "comments": 1
+     "comments": 28
     },
     {
      "id": 50377078,
      "title": "Baidu released ERNIE 5.5 Flash Base",
      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-     "score": 81,
+     "score": 89,
      "by": "pretext",
      "time": 1793870952,
-     "comments": 34
+     "comments": 39
     },
     {
      "id": 50371246,
      "title": "Residential proxies detected on White House network",
      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-     "score": 1124,
+     "score": 1141,
      "by": "Rasbora",
      "time": 1793825118,
-     "comments": 368
+     "comments": 372
     },
     {
      "id": 50377821,
      "title": "Awesome repositories are no longer awesome",
      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-     "score": 54,
+     "score": 74,
      "by": "erikgahner",
      "time": 1793877411,
-     "comments": 22
+     "comments": 36
     },
     {
      "id": 50375354,
      "title": "Lemmings CSS Animation",
      "url": "https://markblah.github.io/lemmings/",
-     "score": 241,
+     "score": 255,
      "by": "MarkBlah",
      "time": 1793854450,
-     "comments": 48
+     "comments": 49
     },
     {
      "id": 50372929,
      "title": "A thousand fewer paths to root",
      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-     "score": 396,
+     "score": 406,
      "by": "dangelosaurus",
      "time": 1793835194,
-     "comments": 277
+     "comments": 283
+    },
+    {
+     "id": 50377976,
+     "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+     "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+     "score": 7,
+     "by": "selckin",
+     "time": 1793878830,
+     "comments": 1
     },
     {
      "id": 50372945,
      "title": "Images 2.6",
      "url": "https://openai.com/index/introducing-images-2-6/",
-     "score": 327,
+     "score": 329,
      "by": "davidbarker",
      "time": 1793835344,
-     "comments": 197
-    },
-    {
-     "id": 50340195,
-     "title": "Partial Operator Precedence",
-     "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-     "score": 65,
-     "by": "tosh",
-     "time": 1793640140,
-     "comments": 32
+     "comments": 198
     },
     {
      "id": 50366999,
      "title": "Kimi K3.1 Pro model weights are out",
      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-     "score": 555,
+     "score": 563,
      "by": "abrarthought",
      "time": 1793806230,
-     "comments": 156
+     "comments": 162
+    },
+    {
+     "id": 50340195,
+     "title": "Partial Operator Precedence",
+     "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+     "score": 67,
+     "by": "tosh",
+     "time": 1793640140,
+     "comments": 35
     },
     {
      "id": 50369925,
      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
      "url": "https://www.ricursive.com/ripple",
-     "score": 307,
+     "score": 308,
      "by": "Philpax",
      "time": 1793818409,
      "comments": 110
     },
     {
-     "id": 50369106,
-     "title": "A new Go API for JSON",
-     "url": "https://go.dev/blog/jsonv2",
-     "score": 336,
-     "by": "olexsmir",
-     "time": 1793814731,
-     "comments": 170
-    },
-    {
-     "id": 50352846,
-     "title": "TextEdit vs. Pages",
-     "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
-     "score": 31,
-     "by": "surprisetalk",
-     "time": 1793718009,
-     "comments": 12
+     "id": 50341576,
+     "title": "Spreading Liquid with Three.js",
+     "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+     "score": 144,
+     "by": "mooreds",
+     "time": 1793645154,
+     "comments": 21
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-05T12:34:16.963568+00:00",
+   "fetched_at": "2026-11-05T13:04:23.165554+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-05T12:34:18.394714+00:00",
+   "fetched_at": "2026-11-05T13:04:24.647374+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 19191,
+     "stars": 19210,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 13856,
+     "stars": 13908,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 5091,
+     "stars": 5102,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3048,
+     "stars": 3054,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2344,
+     "stars": 2355,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "elvarofficial/teardown",
      "url": "https://github.com/elvarofficial/teardown",
-     "stars": 2042,
+     "stars": 2049,
      "language": "JavaScript",
      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "created_at": "2026-10-30T09:29:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1818,
+     "stars": 1820,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 1786,
+     "stars": 1793,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1627,
+     "stars": 1636,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 1557,
+     "stars": 1613,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-05T12:34:18.918158+00:00",
+   "fetched_at": "2026-11-05T13:04:25.118936+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 126,
-     "comments": 85,
+     "reactions": 127,
+     "comments": 87,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-05T12:34:19.429463+00:00",
+   "fetched_at": "2026-11-05T13:04:25.163171+00:00",
    "stale": false,
    "items": [
     {
