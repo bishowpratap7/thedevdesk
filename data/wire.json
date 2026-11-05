@@ -1,96 +1,87 @@
 {
- "generated_at": "2026-11-05T04:01:59.857420+00:00",
+ "generated_at": "2026-11-05T04:32:06.760772+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-05T04:01:54.864380+00:00",
+   "fetched_at": "2026-11-05T04:32:01.557375+00:00",
    "stale": false,
    "items": [
     {
      "id": 50371246,
      "title": "Residential proxies detected on White House network",
      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-     "score": 777,
+     "score": 804,
      "by": "Rasbora",
      "time": 1793825118,
-     "comments": 243
-    },
-    {
-     "id": 50373308,
-     "title": "Starfall \u2013 Affordable, routine access to microgravity",
-     "url": "https://www.spacex.com/starfall",
-     "score": 134,
-     "by": "gmays",
-     "time": 1793837898,
-     "comments": 76
+     "comments": 253
     },
     {
      "id": 50372945,
      "title": "Images 2.6",
      "url": "https://openai.com/index/introducing-images-2-6/",
-     "score": 170,
+     "score": 177,
      "by": "davidbarker",
      "time": 1793835344,
-     "comments": 111
+     "comments": 120
     },
     {
      "id": 50372929,
      "title": "A thousand fewer paths to root",
      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-     "score": 197,
+     "score": 207,
      "by": "dangelosaurus",
      "time": 1793835194,
-     "comments": 114
+     "comments": 118
+    },
+    {
+     "id": 50373308,
+     "title": "Starfall \u2013 Affordable, routine access to microgravity",
+     "url": "https://www.spacex.com/starfall",
+     "score": 152,
+     "by": "gmays",
+     "time": 1793837898,
+     "comments": 88
     },
     {
      "id": 50369925,
      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
      "url": "https://www.ricursive.com/ripple",
-     "score": 243,
+     "score": 251,
      "by": "Philpax",
      "time": 1793818409,
-     "comments": 88
+     "comments": 90
     },
     {
      "id": 50366999,
      "title": "Kimi K3.1 Pro model weights are out",
      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-     "score": 415,
+     "score": 423,
      "by": "abrarthought",
      "time": 1793806230,
-     "comments": 121
-    },
-    {
-     "id": 50342031,
-     "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
-     "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
-     "score": 50,
-     "by": "rdmuser",
-     "time": 1793646835,
-     "comments": 37
+     "comments": 125
     },
     {
      "id": 50370610,
      "title": "Insects don't swarm at LED lights",
      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-     "score": 185,
+     "score": 193,
      "by": "speckx",
      "time": 1793821823,
-     "comments": 101
+     "comments": 104
     },
     {
      "id": 50369106,
      "title": "A new Go API for JSON",
      "url": "https://go.dev/blog/jsonv2",
-     "score": 251,
+     "score": 252,
      "by": "olexsmir",
      "time": 1793814731,
-     "comments": 112
+     "comments": 117
     },
     {
      "id": 50372164,
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "url": "https://icode4.coffee/?p=1746",
-     "score": 78,
+     "score": 82,
      "by": "muricula",
      "time": 1793829709,
      "comments": 4
@@ -99,24 +90,33 @@
      "id": 50369503,
      "title": "Conductor is joining Meta",
      "url": "https://www.conductor.build/announcement",
-     "score": 137,
+     "score": 142,
      "by": "kenrose",
      "time": 1793816560,
-     "comments": 160
+     "comments": 163
     },
     {
      "id": 50370654,
      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-     "score": 116,
+     "score": 118,
      "by": "peter_d_sherman",
      "time": 1793822114,
-     "comments": 47
+     "comments": 50
+    },
+    {
+     "id": 50368804,
+     "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+     "url": null,
+     "score": 76,
+     "by": "lukeigel",
+     "time": 1793813513,
+     "comments": 31
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-05T04:01:56.187787+00:00",
+   "fetched_at": "2026-11-05T04:32:03.240744+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-05T04:01:58.165001+00:00",
+   "fetched_at": "2026-11-05T04:32:05.270434+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 18764,
+     "stars": 18775,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 12469,
+     "stars": 12542,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4813,
+     "stars": 4823,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 2718,
+     "stars": 2732,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2122,
+     "stars": 2134,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "elvarofficial/teardown",
      "url": "https://github.com/elvarofficial/teardown",
-     "stars": 1947,
+     "stars": 1949,
      "language": "JavaScript",
      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "created_at": "2026-10-30T09:29:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1769,
+     "stars": 1771,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 1622,
+     "stars": 1637,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1547,
+     "stars": 1554,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-05T04:01:58.687018+00:00",
+   "fetched_at": "2026-11-05T04:32:05.909490+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-05T04:01:59.267273+00:00",
+   "fetched_at": "2026-11-05T04:32:05.943033+00:00",
    "stale": false,
    "items": [
     {
