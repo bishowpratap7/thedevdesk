@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-05T14:04:37.157606+00:00",
+ "generated_at": "2026-11-05T14:34:43.484743+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-05T14:04:33.091717+00:00",
+   "fetched_at": "2026-11-05T14:34:38.935177+00:00",
    "stale": false,
    "items": [
     {
      "id": 50378228,
      "title": "Sshole",
      "url": "https://sshhole.com",
-     "score": 471,
+     "score": 635,
      "by": "josemrb",
      "time": 1793881142,
-     "comments": 118
+     "comments": 178
     },
     {
-     "id": 50377078,
-     "title": "Baidu released ERNIE 5.5 Flash Base",
-     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-     "score": 104,
-     "by": "pretext",
-     "time": 1793870952,
-     "comments": 59
+     "id": 50379249,
+     "title": "MCP Explained",
+     "url": "https://mcp-explained.com/",
+     "score": 27,
+     "by": "rwilinski",
+     "time": 1793887715,
+     "comments": 6
     },
     {
      "id": 50377976,
      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-     "score": 45,
+     "score": 68,
      "by": "selckin",
      "time": 1793878830,
      "comments": 3
     },
     {
+     "id": 50377078,
+     "title": "Baidu released ERNIE 5.5 Flash Base",
+     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+     "score": 112,
+     "by": "pretext",
+     "time": 1793870952,
+     "comments": 63
+    },
+    {
      "id": 50371246,
      "title": "Residential proxies detected on White House network",
      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-     "score": 1169,
+     "score": 1183,
      "by": "Rasbora",
      "time": 1793825118,
-     "comments": 379
+     "comments": 382
     },
     {
      "id": 50377821,
      "title": "Awesome repositories are no longer awesome",
      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-     "score": 108,
+     "score": 131,
      "by": "erikgahner",
      "time": 1793877411,
-     "comments": 57
+     "comments": 66
     },
     {
      "id": 50375354,
      "title": "Lemmings CSS Animation",
      "url": "https://markblah.github.io/lemmings/",
-     "score": 275,
+     "score": 288,
      "by": "MarkBlah",
      "time": 1793854450,
-     "comments": 53
+     "comments": 54
+    },
+    {
+     "id": 50378625,
+     "title": "Discord is ditching Electron and its new app uses less RAM",
+     "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+     "score": 65,
+     "by": "archb",
+     "time": 1793883928,
+     "comments": 37
     },
     {
      "id": 50372929,
      "title": "A thousand fewer paths to root",
      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-     "score": 421,
+     "score": 430,
      "by": "dangelosaurus",
      "time": 1793835194,
-     "comments": 307
+     "comments": 316
+    },
+    {
+     "id": 50378398,
+     "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+     "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+     "score": 12,
+     "by": "speckx",
+     "time": 1793882352,
+     "comments": 8
+    },
+    {
+     "id": 50378571,
+     "title": "Download your favourite YouTube videos",
+     "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+     "score": 5,
+     "by": "surprisetalk",
+     "time": 1793883611,
+     "comments": 1
     },
     {
      "id": 50372945,
      "title": "Images 2.6",
      "url": "https://openai.com/index/introducing-images-2-6/",
-     "score": 341,
+     "score": 347,
      "by": "davidbarker",
      "time": 1793835344,
-     "comments": 203
-    },
-    {
-     "id": 50366999,
-     "title": "Kimi K3.1 Pro model weights are out",
-     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-     "score": 579,
-     "by": "abrarthought",
-     "time": 1793806230,
-     "comments": 165
-    },
-    {
-     "id": 50340195,
-     "title": "Partial Operator Precedence",
-     "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-     "score": 72,
-     "by": "tosh",
-     "time": 1793640140,
-     "comments": 41
-    },
-    {
-     "id": 50341576,
-     "title": "Spreading Liquid with Three.js",
-     "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-     "score": 164,
-     "by": "mooreds",
-     "time": 1793645154,
-     "comments": 22
-    },
-    {
-     "id": 50369925,
-     "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-     "url": "https://www.ricursive.com/ripple",
-     "score": 313,
-     "by": "Philpax",
-     "time": 1793818409,
-     "comments": 112
+     "comments": 208
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-05T14:04:34.516470+00:00",
+   "fetched_at": "2026-11-05T14:34:40.391162+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-05T14:04:35.949444+00:00",
+   "fetched_at": "2026-11-05T14:34:41.895005+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 19249,
+     "stars": 19270,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 14048,
+     "stars": 14107,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 5129,
+     "stars": 5147,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3088,
+     "stars": 3103,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2373,
+     "stars": 2379,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "elvarofficial/teardown",
      "url": "https://github.com/elvarofficial/teardown",
-     "stars": 2073,
+     "stars": 2084,
      "language": "JavaScript",
      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "created_at": "2026-10-30T09:29:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1830,
+     "stars": 1835,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 1808,
+     "stars": 1820,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 1745,
+     "stars": 1786,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1643,
+     "stars": 1647,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-05T14:04:36.470230+00:00",
+   "fetched_at": "2026-11-05T14:34:42.409236+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 134,
-     "comments": 92,
+     "reactions": 136,
+     "comments": 93,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -279,20 +279,20 @@
      "published_at": "2026-10-30T11:35:31Z"
     },
     {
-     "title": "One Last Post, and a Proper Goodbye",
-     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
-     "author": "Ashley Childress",
-     "reactions": 48,
-     "comments": 10,
-     "published_at": "2026-11-03T16:08:07Z"
-    },
-    {
      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
      "author": "Dhruv Jani",
      "reactions": 120,
      "comments": 60,
      "published_at": "2026-10-31T17:57:27Z"
+    },
+    {
+     "title": "One Last Post, and a Proper Goodbye",
+     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+     "author": "Ashley Childress",
+     "reactions": 48,
+     "comments": 10,
+     "published_at": "2026-11-03T16:08:07Z"
     },
     {
      "title": "That's a Wrap on Hacktoberfest 2026! \ud83c\udf83\ud83d\udc7b",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-05T14:04:36.739218+00:00",
+   "fetched_at": "2026-11-05T14:34:42.879062+00:00",
    "stale": false,
    "items": [
     {
