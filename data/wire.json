@@ -1,60 +1,51 @@
 {
- "generated_at": "2026-11-05T09:03:22.137442+00:00",
+ "generated_at": "2026-11-05T09:33:28.237340+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-05T09:03:17.497517+00:00",
+   "fetched_at": "2026-11-05T09:33:23.851114+00:00",
    "stale": false,
    "items": [
     {
      "id": 50371246,
      "title": "Residential proxies detected on White House network",
      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-     "score": 1002,
+     "score": 1029,
      "by": "Rasbora",
      "time": 1793825118,
-     "comments": 311
+     "comments": 320
     },
     {
      "id": 50375354,
      "title": "Lemmings CSS Animation",
      "url": "https://markblah.github.io/lemmings/",
-     "score": 141,
+     "score": 161,
      "by": "MarkBlah",
      "time": 1793854450,
-     "comments": 30
-    },
-    {
-     "id": 50375728,
-     "title": "Want to Rent an Internet Address at the White House?",
-     "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-     "score": 39,
-     "by": "zdw",
-     "time": 1793858353,
-     "comments": 2
+     "comments": 33
     },
     {
      "id": 50372945,
      "title": "Images 2.6",
      "url": "https://openai.com/index/introducing-images-2-6/",
-     "score": 277,
+     "score": 286,
      "by": "davidbarker",
      "time": 1793835344,
-     "comments": 167
+     "comments": 172
     },
     {
      "id": 50372929,
      "title": "A thousand fewer paths to root",
      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-     "score": 312,
+     "score": 322,
      "by": "dangelosaurus",
      "time": 1793835194,
-     "comments": 220
+     "comments": 234
     },
     {
      "id": 50340195,
      "title": "Partial Operator Precedence",
      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-     "score": 24,
+     "score": 30,
      "by": "tosh",
      "time": 1793640140,
      "comments": 9
@@ -63,60 +54,69 @@
      "id": 50366999,
      "title": "Kimi K3.1 Pro model weights are out",
      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-     "score": 514,
+     "score": 525,
      "by": "abrarthought",
      "time": 1793806230,
-     "comments": 143
-    },
-    {
-     "id": 50349992,
-     "title": "Chip Art",
-     "url": "https://en.wikipedia.org/wiki/Chip_art",
-     "score": 15,
-     "by": "SweetSoftPillow",
-     "time": 1793699499,
-     "comments": 0
-    },
-    {
-     "id": 50375653,
-     "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-     "url": "https://www.altera.com/newsroom/agilex-2x",
-     "score": 22,
-     "by": "gmays",
-     "time": 1793857634,
-     "comments": 9
+     "comments": 146
     },
     {
      "id": 50369925,
      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
      "url": "https://www.ricursive.com/ripple",
-     "score": 287,
+     "score": 289,
      "by": "Philpax",
      "time": 1793818409,
-     "comments": 103
+     "comments": 106
+    },
+    {
+     "id": 50375653,
+     "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+     "url": "https://www.altera.com/newsroom/agilex-2x",
+     "score": 25,
+     "by": "gmays",
+     "time": 1793857634,
+     "comments": 10
+    },
+    {
+     "id": 50370610,
+     "title": "Insects don't swarm at LED lights",
+     "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+     "score": 251,
+     "by": "speckx",
+     "time": 1793821823,
+     "comments": 127
+    },
+    {
+     "id": 50369106,
+     "title": "A new Go API for JSON",
+     "url": "https://go.dev/blog/jsonv2",
+     "score": 309,
+     "by": "olexsmir",
+     "time": 1793814731,
+     "comments": 142
     },
     {
      "id": 50341576,
      "title": "Spreading Liquid with Three.js",
      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-     "score": 81,
+     "score": 89,
      "by": "mooreds",
      "time": 1793645154,
-     "comments": 13
+     "comments": 14
     },
     {
-     "id": 50364860,
-     "title": "So my ISP was hijacking my DNS",
-     "url": "https://www.karthihegde.dev/posts/dns_tampering",
-     "score": 61,
-     "by": "frostbyte7",
-     "time": 1793796711,
-     "comments": 37
+     "id": 50349165,
+     "title": "Future Maintenance of Mbed TLS",
+     "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+     "score": 39,
+     "by": "jonesjohnson",
+     "time": 1793691545,
+     "comments": 8
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-05T09:03:19.020978+00:00",
+   "fetched_at": "2026-11-05T09:33:25.307603+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-05T09:03:20.551093+00:00",
+   "fetched_at": "2026-11-05T09:33:26.990153+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 19052,
+     "stars": 19088,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 13366,
+     "stars": 13451,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 4971,
+     "stars": 4989,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 2945,
+     "stars": 2963,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2264,
+     "stars": 2278,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "elvarofficial/teardown",
      "url": "https://github.com/elvarofficial/teardown",
-     "stars": 1999,
+     "stars": 2004,
      "language": "JavaScript",
      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "created_at": "2026-10-30T09:29:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1800,
+     "stars": 1803,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 1728,
+     "stars": 1736,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1602,
+     "stars": 1607,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-05T09:03:21.089571+00:00",
+   "fetched_at": "2026-11-05T09:33:27.580463+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 121,
-     "comments": 75,
+     "reactions": 122,
+     "comments": 76,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -266,7 +266,7 @@
      "title": "This is my first HacktoberFest, and I don't know what to feel.",
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 108,
+     "reactions": 113,
      "comments": 64,
      "published_at": "2026-11-02T16:11:59Z"
     },
@@ -298,7 +298,7 @@
      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
      "author": "Dhruv Jani",
-     "reactions": 113,
+     "reactions": 114,
      "comments": 60,
      "published_at": "2026-10-31T17:57:27Z"
     },
@@ -306,14 +306,14 @@
      "title": "That's a Wrap on Hacktoberfest 2026! \ud83c\udf83\ud83d\udc7b",
      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
      "author": "Noah Brinker",
-     "reactions": 59,
-     "comments": 13,
+     "reactions": 60,
+     "comments": 14,
      "published_at": "2026-11-03T22:28:08Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-05T09:03:21.509422+00:00",
+   "fetched_at": "2026-11-05T09:33:27.644816+00:00",
    "stale": false,
    "items": [
     {
