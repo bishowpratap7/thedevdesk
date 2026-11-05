@@ -1,51 +1,60 @@
 {
- "generated_at": "2026-11-05T21:06:51.311356+00:00",
+ "generated_at": "2026-11-05T21:36:57.433733+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-05T21:06:46.884400+00:00",
+   "fetched_at": "2026-11-05T21:36:53.016023+00:00",
    "stale": false,
    "items": [
     {
      "id": 50378228,
      "title": "sshole",
      "url": "https://sshhole.com",
-     "score": 2014,
+     "score": 2078,
      "by": "josemrb",
      "time": 1793881142,
-     "comments": 514
-    },
-    {
-     "id": 50379704,
-     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-     "score": 478,
-     "by": "pantalaimon",
-     "time": 1793889860,
-     "comments": 94
-    },
-    {
-     "id": 50383057,
-     "title": "The Hackintosh Reborn",
-     "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-     "score": 86,
-     "by": "rubatuga",
-     "time": 1793905702,
-     "comments": 19
+     "comments": 522
     },
     {
      "id": 50383740,
      "title": "Kagi Search for Everyone",
      "url": "https://kagi.com/changelog",
-     "score": 50,
+     "score": 110,
      "by": "elashri",
      "time": 1793909014,
-     "comments": 10
+     "comments": 54
+    },
+    {
+     "id": 50383057,
+     "title": "The Hackintosh Reborn",
+     "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+     "score": 110,
+     "by": "rubatuga",
+     "time": 1793905702,
+     "comments": 34
+    },
+    {
+     "id": 50379704,
+     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+     "score": 500,
+     "by": "pantalaimon",
+     "time": 1793889860,
+     "comments": 99
+    },
+    {
+     "id": 50384233,
+     "title": "MS Paint Remote Code Execution Vulnerability",
+     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+     "score": 36,
+     "by": "kuberwastaken",
+     "time": 1793911422,
+     "comments": 14
     },
     {
      "id": 50383963,
      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-     "score": 16,
+     "score": 27,
      "by": "gmays",
      "time": 1793910103,
      "comments": 1
@@ -54,69 +63,60 @@
      "id": 50381383,
      "title": "Window Sweaters",
      "url": "https://github.com/saragordic/window-sweaters",
-     "score": 151,
+     "score": 165,
      "by": "nickswalker",
      "time": 1793897414,
-     "comments": 55
+     "comments": 62
     },
     {
      "id": 50383739,
      "title": "Goodbye from Salon",
      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-     "score": 160,
+     "score": 209,
      "by": "mkeeter",
      "time": 1793909009,
-     "comments": 39
+     "comments": 62
     },
     {
      "id": 50380810,
      "title": "Motorola Signature 27 with GrapheneOS support",
      "url": "https://motorolanews.com/motorola-signature-27-2/",
-     "score": 301,
+     "score": 317,
      "by": "monneyboi",
      "time": 1793894494,
-     "comments": 205
+     "comments": 215
     },
     {
-     "id": 50381687,
-     "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
-     "url": "https://github.com/rivet-dev/rivet",
-     "score": 50,
-     "by": "NathanFlurry",
-     "time": 1793899062,
-     "comments": 27
+     "id": 50383877,
+     "title": "The Cost of Blogging",
+     "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+     "score": 18,
+     "by": "speckx",
+     "time": 1793909665,
+     "comments": 3
     },
     {
      "id": 50381033,
      "title": "My psychophysics as a bilateral cochlear implant user",
      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-     "score": 136,
+     "score": 141,
      "by": "mi-rae",
      "time": 1793895672,
-     "comments": 34
+     "comments": 39
     },
     {
-     "id": 50379576,
-     "title": "September in Servo: <progress>, rounded rectangles, and more",
-     "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-     "score": 148,
-     "by": "iamnothere",
-     "time": 1793889258,
-     "comments": 30
-    },
-    {
-     "id": 50378571,
-     "title": "Download your favourite YouTube videos",
-     "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-     "score": 216,
-     "by": "surprisetalk",
-     "time": 1793883611,
-     "comments": 100
+     "id": 50381687,
+     "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+     "url": "https://github.com/rivet-dev/rivet",
+     "score": 53,
+     "by": "NathanFlurry",
+     "time": 1793899062,
+     "comments": 27
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-05T21:06:48.469175+00:00",
+   "fetched_at": "2026-11-05T21:36:54.567316+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-05T21:06:49.957918+00:00",
+   "fetched_at": "2026-11-05T21:36:56.238540+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 19421,
+     "stars": 19429,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 14726,
+     "stars": 14760,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "patch-gg/pixelfx",
      "url": "https://github.com/patch-gg/pixelfx",
-     "stars": 5237,
+     "stars": 5240,
      "language": "JavaScript",
      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
      "created_at": "2026-10-30T06:43:25Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3213,
+     "stars": 3217,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2439,
+     "stars": 2442,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2228,
+     "stars": 2243,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "elvarofficial/teardown",
      "url": "https://github.com/elvarofficial/teardown",
-     "stars": 2160,
+     "stars": 2162,
      "language": "JavaScript",
      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
      "created_at": "2026-10-30T09:29:01Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "stars": 2049,
+     "stars": 2071,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-31T14:17:26Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 1922,
+     "stars": 1928,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-05T21:06:50.423689+00:00",
+   "fetched_at": "2026-11-05T21:36:56.672946+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
      "reactions": 151,
-     "comments": 107,
+     "comments": 108,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-05T21:06:50.617941+00:00",
+   "fetched_at": "2026-11-05T21:36:56.742167+00:00",
    "stale": false,
    "items": [
     {
