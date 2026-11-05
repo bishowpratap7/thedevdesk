@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T05:32:21.157801+00:00",
+ "generated_at": "2026-11-05T05:32:36.007185+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-05T05:32:16.300758+00:00",
+   "fetched_at": "2026-11-05T05:32:31.621416+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-05T05:32:17.678243+00:00",
+   "fetched_at": "2026-11-05T05:32:33.030108+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-05T05:32:19.766744+00:00",
+   "fetched_at": "2026-11-05T05:32:34.643478+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 12699,
+     "stars": 12700,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-05T05:32:20.407323+00:00",
+   "fetched_at": "2026-11-05T05:32:35.168879+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-05T05:32:20.440759+00:00",
+   "fetched_at": "2026-11-05T05:32:35.298245+00:00",
    "stale": false,
    "items": [
     {
