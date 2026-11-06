@@ -1,63 +1,72 @@
 {
- "generated_at": "2026-11-06T12:40:58.124546+00:00",
+ "generated_at": "2026-11-06T13:11:04.994229+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-06T12:40:53.124016+00:00",
+   "fetched_at": "2026-11-06T13:11:00.022121+00:00",
    "stale": false,
    "items": [
     {
      "id": 50390124,
      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-     "score": 198,
+     "score": 244,
      "by": "microtonal",
      "time": 1793957232,
-     "comments": 130
+     "comments": 158
     },
     {
      "id": 50389333,
      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
      "url": "https://github.com/ppmpreetham/BUI",
-     "score": 303,
+     "score": 335,
      "by": "ppmpreetham",
      "time": 1793950835,
-     "comments": 129
+     "comments": 141
     },
     {
      "id": 50385272,
      "title": "Claude Code sends your email address to websites",
      "url": "https://github.com/anthropics/claude-code/issues/107757",
-     "score": 1252,
+     "score": 1275,
      "by": "motoroco",
      "time": 1793917035,
-     "comments": 395
+     "comments": 403
     },
     {
      "id": 50390525,
      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
      "url": "https://jhr.pensoft.net/articles.php?id=9096",
-     "score": 56,
+     "score": 64,
      "by": "hitekker",
      "time": 1793960475,
-     "comments": 18
+     "comments": 21
+    },
+    {
+     "id": 50391145,
+     "title": "We've built an open-source feature flag server for 11 years",
+     "url": "https://github.com/Unleash/unleash",
+     "score": 24,
+     "by": "ivarconr",
+     "time": 1793965206,
+     "comments": 10
     },
     {
      "id": 50378228,
      "title": "sshole",
      "url": "https://sshhole.com",
-     "score": 2767,
+     "score": 2781,
      "by": "josemrb",
      "time": 1793881142,
-     "comments": 670
+     "comments": 674
     },
     {
      "id": 50389370,
      "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
      "url": "https://apps.metaebene.me/en/kugelblitz",
-     "score": 120,
+     "score": 126,
      "by": "luoc",
      "time": 1793951258,
-     "comments": 35
+     "comments": 37
     },
     {
      "id": 50391342,
@@ -72,37 +81,28 @@
      "id": 50384233,
      "title": "MS Paint Remote Code Execution Vulnerability",
      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-     "score": 576,
+     "score": 587,
      "by": "kuberwastaken",
      "time": 1793911422,
-     "comments": 211
-    },
-    {
-     "id": 50391145,
-     "title": "We've built an open-source feature flag server for 11 years",
-     "url": "https://github.com/Unleash/unleash",
-     "score": 12,
-     "by": "ivarconr",
-     "time": 1793965206,
-     "comments": 4
+     "comments": 218
     },
     {
      "id": 50388122,
      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-     "score": 137,
+     "score": 148,
      "by": "jonbaer",
      "time": 1793938669,
-     "comments": 42
+     "comments": 44
     },
     {
      "id": 50387796,
      "title": "Pwn.college",
      "url": "https://pwn.college/",
-     "score": 187,
+     "score": 196,
      "by": "tripdout",
      "time": 1793935634,
-     "comments": 27
+     "comments": 28
     },
     {
      "id": 50389260,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-06T12:40:54.500885+00:00",
+   "fetched_at": "2026-11-06T13:11:01.328181+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-06T12:40:56.605159+00:00",
+   "fetched_at": "2026-11-06T13:11:03.293754+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 20018,
+     "stars": 20039,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 16678,
+     "stars": 16750,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3491,
+     "stars": 3507,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "stars": 3047,
+     "stars": 3096,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-31T14:17:26Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2754,
+     "stars": 2758,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2682,
+     "stars": 2686,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2041,
+     "stars": 2048,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1947,
+     "stars": 1950,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1904,
+     "stars": 1906,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1535,
+     "stars": 1536,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-06T12:40:57.198024+00:00",
+   "fetched_at": "2026-11-06T13:11:03.941191+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 94,
+     "reactions": 99,
      "comments": 17,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -298,8 +298,8 @@
      "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
      "author": "xulingfeng",
-     "reactions": 85,
-     "comments": 45,
+     "reactions": 89,
+     "comments": 48,
      "published_at": "2026-11-06T01:27:32Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-06T12:40:57.536852+00:00",
+   "fetched_at": "2026-11-06T13:11:04.275567+00:00",
    "stale": false,
    "items": [
     {
