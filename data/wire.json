@@ -1,90 +1,99 @@
 {
- "generated_at": "2026-11-06T19:15:24.963780+00:00",
+ "generated_at": "2026-11-06T19:45:32.169582+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-06T19:15:20.307856+00:00",
+   "fetched_at": "2026-11-06T19:45:26.893438+00:00",
    "stale": false,
    "items": [
     {
      "id": 50388001,
      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-     "score": 124,
+     "score": 150,
      "by": "ChrisArchitect",
      "time": 1793937628,
-     "comments": 120
+     "comments": 128
     },
     {
      "id": 50391456,
      "title": "Tesla to wind down Cybertruck production",
      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 494,
+     "score": 547,
      "by": "PLenz",
      "time": 1793967231,
-     "comments": 1156
-    },
-    {
-     "id": 50396064,
-     "title": "We know 15k websites are infected. how do we tell them?",
-     "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-     "score": 38,
-     "by": "speckx",
-     "time": 1793988815,
-     "comments": 23
+     "comments": 1245
     },
     {
      "id": 50394855,
      "title": "First steps in bare-metal programming using UEFI",
      "url": "https://kevinboone.me/efitest_index.html",
-     "score": 91,
+     "score": 102,
      "by": "LaSombra",
      "time": 1793983829,
-     "comments": 6
+     "comments": 7
     },
     {
-     "id": 50395869,
-     "title": "Size-It-Up (Game)",
-     "url": "https://magnitudle.com/size-it-up",
-     "score": 24,
-     "by": "whoishiding",
-     "time": 1793987999,
-     "comments": 9
-    },
-    {
-     "id": 50392118,
-     "title": "Gemini Omni 1.2 Flash",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "score": 235,
-     "by": "thisisauserid",
-     "time": 1793972127,
-     "comments": 182
-    },
-    {
-     "id": 50389333,
-     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-     "url": "https://github.com/ppmpreetham/BUI",
-     "score": 587,
-     "by": "ppmpreetham",
-     "time": 1793950835,
-     "comments": 238
-    },
-    {
-     "id": 50394569,
-     "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-     "url": "https://github.com/anomalyco/rune",
-     "score": 80,
-     "by": "mik3y",
-     "time": 1793982692,
-     "comments": 59
+     "id": 50396064,
+     "title": "We know 15k websites are infected. how do we tell them?",
+     "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+     "score": 64,
+     "by": "speckx",
+     "time": 1793988815,
+     "comments": 42
     },
     {
      "id": 50395866,
      "title": "Perplexity launches AI agents for work",
      "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-     "score": 20,
+     "score": 41,
      "by": "cybermango",
      "time": 1793987981,
-     "comments": 18
+     "comments": 32
+    },
+    {
+     "id": 50394569,
+     "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+     "url": "https://github.com/anomalyco/rune",
+     "score": 91,
+     "by": "mik3y",
+     "time": 1793982692,
+     "comments": 67
+    },
+    {
+     "id": 50392118,
+     "title": "Gemini Omni 1.2 Flash",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "score": 244,
+     "by": "thisisauserid",
+     "time": 1793972127,
+     "comments": 189
+    },
+    {
+     "id": 50389333,
+     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+     "url": "https://github.com/ppmpreetham/BUI",
+     "score": 594,
+     "by": "ppmpreetham",
+     "time": 1793950835,
+     "comments": 242
+    },
+    {
+     "id": 50395869,
+     "title": "Size-It-Up (Game)",
+     "url": "https://magnitudle.com/size-it-up",
+     "score": 30,
+     "by": "whoishiding",
+     "time": 1793987999,
+     "comments": 12
+    },
+    {
+     "id": 50397176,
+     "title": "My first and last telegram was from Rebecca West",
+     "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+     "score": 6,
+     "by": "bryanrasmussen",
+     "time": 1793993400,
+     "comments": 0
     },
     {
      "id": 50395043,
@@ -99,24 +108,15 @@
      "id": 50395919,
      "title": "Memorilla: Latent Semantic Memory for LLMs",
      "url": "https://arxiv.org/abs/2610.21375",
-     "score": 20,
+     "score": 27,
      "by": "handfuloflight",
      "time": 1793988213,
      "comments": 1
-    },
-    {
-     "id": 50393758,
-     "title": "Deus Ex",
-     "url": "https://www.filfre.net/2026/11/deus-ex/",
-     "score": 251,
-     "by": "cybersoyuz",
-     "time": 1793979876,
-     "comments": 123
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-06T19:15:21.601887+00:00",
+   "fetched_at": "2026-11-06T19:45:28.356757+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-06T19:15:23.686558+00:00",
+   "fetched_at": "2026-11-06T19:45:30.351696+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 20189,
+     "stars": 20198,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,31 +171,31 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 17618,
+     "stars": 17656,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
     },
     {
-     "full_name": "KKKKhazix/agent-autoloop",
-     "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3635,
-     "language": "TypeScript",
-     "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
-     "created_at": "2026-11-03T08:02:11Z"
-    },
-    {
      "full_name": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "stars": 3620,
+     "stars": 3650,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-31T14:17:26Z"
     },
     {
+     "full_name": "KKKKhazix/agent-autoloop",
+     "url": "https://github.com/KKKKhazix/agent-autoloop",
+     "stars": 3639,
+     "language": "TypeScript",
+     "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+     "created_at": "2026-11-03T08:02:11Z"
+    },
+    {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2846,
+     "stars": 2851,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2113,
+     "stars": 2118,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1999,
+     "stars": 2004,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1933,
+     "stars": 1935,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 1569,
+     "stars": 1571,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-06T19:15:24.289908+00:00",
+   "fetched_at": "2026-11-06T19:45:30.963222+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 188,
+     "reactions": 189,
      "comments": 147,
      "published_at": "2026-11-04T08:06:25Z"
     },
@@ -259,7 +259,7 @@
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
      "reactions": 109,
-     "comments": 22,
+     "comments": 23,
      "published_at": "2026-11-05T21:12:11Z"
     },
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 140,
-     "comments": 78,
+     "comments": 79,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
@@ -282,8 +282,8 @@
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 99,
-     "comments": 65,
+     "reactions": 101,
+     "comments": 66,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -298,7 +298,7 @@
      "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
      "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
      "author": "Dhruv Jani",
-     "reactions": 126,
+     "reactions": 125,
      "comments": 62,
      "published_at": "2026-10-31T17:57:27Z"
     },
@@ -307,13 +307,13 @@
      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
      "author": "xulingfeng",
      "reactions": 112,
-     "comments": 53,
+     "comments": 54,
      "published_at": "2026-11-06T01:27:32Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-06T19:15:24.377030+00:00",
+   "fetched_at": "2026-11-06T19:45:31.620571+00:00",
    "stale": false,
    "items": [
     {
