@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T06:39:11.867413+00:00",
+ "generated_at": "2026-11-06T06:39:27.949152+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-06T06:39:06.745393+00:00",
+   "fetched_at": "2026-11-06T06:39:23.207333+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-06T06:39:08.056151+00:00",
+   "fetched_at": "2026-11-06T06:39:25.568265+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-06T06:39:10.200224+00:00",
+   "fetched_at": "2026-11-06T06:39:26.695221+00:00",
    "stale": false,
    "items": [
     {
@@ -227,7 +227,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1846,
+     "stars": 1847,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-06T06:39:10.817472+00:00",
+   "fetched_at": "2026-11-06T06:39:27.006150+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 130,
-     "comments": 73,
+     "comments": 74,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-06T06:39:11.083375+00:00",
+   "fetched_at": "2026-11-06T06:39:27.244806+00:00",
    "stale": false,
    "items": [
     {
