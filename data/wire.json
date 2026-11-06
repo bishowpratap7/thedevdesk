@@ -1,69 +1,78 @@
 {
- "generated_at": "2026-11-06T22:46:31.170614+00:00",
+ "generated_at": "2026-11-06T23:16:38.139202+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-06T22:46:26.327734+00:00",
+   "fetched_at": "2026-11-06T23:16:32.920333+00:00",
    "stale": false,
    "items": [
     {
      "id": 50397429,
      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-     "score": 220,
+     "score": 243,
      "by": "theanomaly",
      "time": 1793994531,
-     "comments": 50
+     "comments": 54
     },
     {
      "id": 50397994,
      "title": "AI is dramatically accelerating AI research",
      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-     "score": 112,
+     "score": 130,
      "by": "yurivish",
      "time": 1793996843,
-     "comments": 66
+     "comments": 82
+    },
+    {
+     "id": 50399657,
+     "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+     "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+     "score": 13,
+     "by": "doener",
+     "time": 1794006046,
+     "comments": 3
+    },
+    {
+     "id": 50399569,
+     "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+     "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+     "score": 14,
+     "by": "Aldipower",
+     "time": 1794005443,
+     "comments": 3
     },
     {
      "id": 50397219,
      "title": "Firecracker VM Escape: PwnEscape Part 2",
      "url": "https://pwn.ai/blog/firecracker-escape",
-     "score": 122,
+     "score": 128,
      "by": "SerCe",
      "time": 1793993618,
-     "comments": 61
-    },
-    {
-     "id": 50388001,
-     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-     "score": 240,
-     "by": "ChrisArchitect",
-     "time": 1793937628,
-     "comments": 191
+     "comments": 65
     },
     {
      "id": 50391456,
      "title": "Tesla to wind down Cybertruck production",
      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 742,
+     "score": 768,
      "by": "PLenz",
      "time": 1793967231,
-     "comments": 1560
+     "comments": 1593
     },
     {
-     "id": 50354308,
-     "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-     "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-     "score": 51,
-     "by": "wondersky",
-     "time": 1793724234,
-     "comments": 34
+     "id": 50388001,
+     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+     "score": 248,
+     "by": "ChrisArchitect",
+     "time": 1793937628,
+     "comments": 201
     },
     {
      "id": 50394855,
      "title": "First steps in bare-metal programming using UEFI",
      "url": "https://kevinboone.me/efitest_index.html",
-     "score": 157,
+     "score": 159,
      "by": "LaSombra",
      "time": 1793983829,
      "comments": 29
@@ -72,51 +81,42 @@
      "id": 50397017,
      "title": "Restaurant Delivery Payment-Skimming Campaign",
      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-     "score": 52,
+     "score": 62,
      "by": "fiej",
      "time": 1793992767,
-     "comments": 22
+     "comments": 24
     },
     {
-     "id": 50389333,
-     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-     "url": "https://github.com/ppmpreetham/BUI",
-     "score": 665,
-     "by": "ppmpreetham",
-     "time": 1793950835,
-     "comments": 267
+     "id": 50354308,
+     "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+     "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+     "score": 82,
+     "by": "wondersky",
+     "time": 1793724234,
+     "comments": 63
     },
     {
      "id": 50396834,
      "title": "Replit rebuilt its sandbox engine with microVMs",
      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-     "score": 37,
+     "score": 44,
      "by": "gaplong",
      "time": 1793991970,
-     "comments": 9
+     "comments": 11
     },
     {
-     "id": 50395919,
-     "title": "Memorilla: Latent Semantic Memory for LLMs",
-     "url": "https://arxiv.org/abs/2610.21375",
-     "score": 69,
-     "by": "handfuloflight",
-     "time": 1793988213,
-     "comments": 5
-    },
-    {
-     "id": 50379221,
-     "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
-     "url": "https://github.com/piercefreeman/waymark",
-     "score": 26,
-     "by": "icyfox",
-     "time": 1793887591,
-     "comments": 2
+     "id": 50389333,
+     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+     "url": "https://github.com/ppmpreetham/BUI",
+     "score": 673,
+     "by": "ppmpreetham",
+     "time": 1793950835,
+     "comments": 270
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-06T22:46:27.690348+00:00",
+   "fetched_at": "2026-11-06T23:16:34.371536+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-06T22:46:29.583934+00:00",
+   "fetched_at": "2026-11-06T23:16:36.302301+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 20220,
+     "stars": 20225,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 17877,
+     "stars": 17930,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "stars": 3861,
+     "stars": 3885,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-31T14:17:26Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3660,
+     "stars": 3663,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2873,
+     "stars": 2877,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2744,
+     "stars": 2745,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2136,
+     "stars": 2140,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1944,
+     "stars": 1949,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 1597,
+     "stars": 1605,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-06T22:46:30.241873+00:00",
+   "fetched_at": "2026-11-06T23:16:36.900270+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 191,
-     "comments": 149,
+     "reactions": 192,
+     "comments": 153,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -271,20 +271,20 @@
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
+     "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
+     "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
+     "author": "Giorgi Kobaidze",
+     "reactions": 108,
+     "comments": 67,
+     "published_at": "2026-11-04T17:11:22Z"
+    },
+    {
      "title": "One Last Post, and a Proper Goodbye",
      "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
      "author": "Ashley Childress",
      "reactions": 54,
      "comments": 10,
      "published_at": "2026-11-03T16:08:07Z"
-    },
-    {
-     "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
-     "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
-     "author": "Giorgi Kobaidze",
-     "reactions": 107,
-     "comments": 67,
-     "published_at": "2026-11-04T17:11:22Z"
     },
     {
      "title": "That's a Wrap on Hacktoberfest 2026! \ud83c\udf83\ud83d\udc7b",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-06T22:46:30.424266+00:00",
+   "fetched_at": "2026-11-06T23:16:37.321400+00:00",
    "stale": false,
    "items": [
     {
