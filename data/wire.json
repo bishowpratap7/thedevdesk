@@ -1,54 +1,63 @@
 {
- "generated_at": "2026-11-06T17:14:49.385451+00:00",
+ "generated_at": "2026-11-06T17:44:56.494816+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-06T17:14:44.807359+00:00",
+   "fetched_at": "2026-11-06T17:44:51.493951+00:00",
    "stale": false,
    "items": [
     {
      "id": 50393758,
      "title": "Deus Ex",
      "url": "https://www.filfre.net/2026/11/deus-ex/",
-     "score": 151,
+     "score": 195,
      "by": "cybersoyuz",
      "time": 1793979876,
-     "comments": 65
+     "comments": 85
     },
     {
      "id": 50390124,
      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-     "score": 525,
+     "score": 552,
      "by": "microtonal",
      "time": 1793957232,
-     "comments": 326
+     "comments": 342
     },
     {
      "id": 50393183,
      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
      "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
-     "score": 71,
+     "score": 87,
      "by": "pseudolus",
      "time": 1793977404,
-     "comments": 42
+     "comments": 53
+    },
+    {
+     "id": 50393154,
+     "title": "RIP Cybertruck",
+     "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+     "score": 280,
+     "by": "voxadam",
+     "time": 1793977298,
+     "comments": 388
     },
     {
      "id": 50392118,
      "title": "Gemini Omni 1.2 Flash",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "score": 196,
+     "score": 208,
      "by": "thisisauserid",
      "time": 1793972127,
-     "comments": 150
+     "comments": 163
     },
     {
      "id": 50389333,
      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
      "url": "https://github.com/ppmpreetham/BUI",
-     "score": 521,
+     "score": 538,
      "by": "ppmpreetham",
      "time": 1793950835,
-     "comments": 207
+     "comments": 215
     },
     {
      "id": 50395043,
@@ -60,63 +69,54 @@
      "comments": 0
     },
     {
-     "id": 50393154,
-     "title": "RIP Cybertruck",
-     "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-     "score": 233,
-     "by": "voxadam",
-     "time": 1793977298,
-     "comments": 326
-    },
-    {
-     "id": 50385272,
-     "title": "Claude Code sends your email address to websites",
-     "url": "https://github.com/anthropics/claude-code/issues/107757",
-     "score": 1475,
-     "by": "motoroco",
-     "time": 1793917035,
-     "comments": 457
-    },
-    {
      "id": 50394855,
      "title": "First steps in bare-metal programming using UEFI",
      "url": "https://kevinboone.me/efitest_index.html",
-     "score": 9,
+     "score": 26,
      "by": "LaSombra",
      "time": 1793983829,
      "comments": 0
     },
     {
+     "id": 50394569,
+     "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+     "url": "https://github.com/anomalyco/rune",
+     "score": 18,
+     "by": "mik3y",
+     "time": 1793982692,
+     "comments": 5
+    },
+    {
+     "id": 50395318,
+     "title": "Anthropic IPO Valuation Talks Drop to $1.3T as Major Investors Balk",
+     "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+     "score": 7,
+     "by": "arbuge",
+     "time": 1793985675,
+     "comments": 0
+    },
+    {
+     "id": 50385272,
+     "title": "Claude Code sends your email address to websites",
+     "url": "https://github.com/anthropics/claude-code/issues/107757",
+     "score": 1489,
+     "by": "motoroco",
+     "time": 1793917035,
+     "comments": 465
+    },
+    {
      "id": 50382958,
      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
      "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
-     "score": 48,
+     "score": 50,
      "by": "NaOH",
      "time": 1793905177,
-     "comments": 1
-    },
-    {
-     "id": 50393089,
-     "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
-     "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
-     "score": 22,
-     "by": "goopthink",
-     "time": 1793977036,
-     "comments": 1
-    },
-    {
-     "id": 50394288,
-     "title": "Promethevs: Full DeepSeek-v4.1-Flash-1017, locally, on 12GB of VRAM",
-     "url": "https://github.com/Magnvs7/Promethevs",
-     "score": 8,
-     "by": "ar-nelson",
-     "time": 1793981687,
      "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-06T17:14:46.170229+00:00",
+   "fetched_at": "2026-11-06T17:44:52.812529+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-06T17:14:48.229015+00:00",
+   "fetched_at": "2026-11-06T17:44:54.802207+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 20153,
+     "stars": 20166,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 17405,
+     "stars": 17472,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3619,
+     "stars": 3623,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "stars": 3470,
+     "stars": 3510,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-31T14:17:26Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2831,
+     "stars": 2837,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Verlintas/NOIR",
      "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2732,
+     "stars": 2735,
      "language": "Kotlin",
      "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
      "created_at": "2026-10-31T21:34:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2096,
+     "stars": 2101,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1988,
+     "stars": 1991,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1926,
+     "stars": 1929,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1547,
+     "stars": 1548,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-06T17:14:48.785098+00:00",
+   "fetched_at": "2026-11-06T17:44:55.373980+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 185,
+     "reactions": 187,
      "comments": 147,
      "published_at": "2026-11-04T08:06:25Z"
     },
@@ -258,7 +258,7 @@
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 104,
+     "reactions": 109,
      "comments": 22,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -266,16 +266,24 @@
      "title": "This is my first HacktoberFest, and I don't know what to feel.",
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 139,
+     "reactions": 141,
      "comments": 78,
      "published_at": "2026-11-02T16:11:59Z"
+    },
+    {
+     "title": "One Last Post, and a Proper Goodbye",
+     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+     "author": "Ashley Childress",
+     "reactions": 54,
+     "comments": 10,
+     "published_at": "2026-11-03T16:08:07Z"
     },
     {
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 97,
-     "comments": 55,
+     "reactions": 99,
+     "comments": 59,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -285,14 +293,6 @@
      "reactions": 126,
      "comments": 62,
      "published_at": "2026-10-31T17:57:27Z"
-    },
-    {
-     "title": "One Last Post, and a Proper Goodbye",
-     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
-     "author": "Ashley Childress",
-     "reactions": 49,
-     "comments": 10,
-     "published_at": "2026-11-03T16:08:07Z"
     },
     {
      "title": "That's a Wrap on Hacktoberfest 2026! \ud83c\udf83\ud83d\udc7b",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-06T17:14:48.846839+00:00",
+   "fetched_at": "2026-11-06T17:44:55.934660+00:00",
    "stale": false,
    "items": [
     {
