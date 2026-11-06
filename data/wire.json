@@ -1,99 +1,108 @@
 {
- "generated_at": "2026-11-06T14:41:27.562106+00:00",
+ "generated_at": "2026-11-06T15:13:43.093160+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-06T14:41:21.975387+00:00",
+   "fetched_at": "2026-11-06T15:11:29.251264+00:00",
    "stale": false,
    "items": [
     {
      "id": 50392118,
      "title": "Gemini Omni 1.2 Flash",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "score": 60,
+     "score": 103,
      "by": "thisisauserid",
      "time": 1793972127,
-     "comments": 31
+     "comments": 66
     },
     {
      "id": 50390124,
      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-     "score": 384,
+     "score": 412,
      "by": "microtonal",
      "time": 1793957232,
-     "comments": 227
+     "comments": 244
     },
     {
      "id": 50389333,
      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
      "url": "https://github.com/ppmpreetham/BUI",
-     "score": 409,
+     "score": 436,
      "by": "ppmpreetham",
      "time": 1793950835,
-     "comments": 173
+     "comments": 183
     },
     {
      "id": 50385272,
      "title": "Claude Code sends your email address to websites",
      "url": "https://github.com/anthropics/claude-code/issues/107757",
-     "score": 1349,
+     "score": 1382,
      "by": "motoroco",
      "time": 1793917035,
-     "comments": 428
-    },
-    {
-     "id": 50391145,
-     "title": "We've built an open-source feature flag server for 11 years",
-     "url": "https://github.com/Unleash/unleash",
-     "score": 58,
-     "by": "ivarconr",
-     "time": 1793965206,
-     "comments": 30
-    },
-    {
-     "id": 50378228,
-     "title": "sshole",
-     "url": "https://sshhole.com",
-     "score": 2811,
-     "by": "josemrb",
-     "time": 1793881142,
-     "comments": 685
+     "comments": 435
     },
     {
      "id": 50390525,
      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
      "url": "https://jhr.pensoft.net/articles.php?id=9096",
-     "score": 82,
+     "score": 94,
      "by": "hitekker",
      "time": 1793960475,
-     "comments": 29
+     "comments": 35
+    },
+    {
+     "id": 50378228,
+     "title": "sshole",
+     "url": "https://sshhole.com",
+     "score": 2832,
+     "by": "josemrb",
+     "time": 1793881142,
+     "comments": 689
     },
     {
      "id": 50389370,
      "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
      "url": "https://apps.metaebene.me/en/kugelblitz",
-     "score": 156,
+     "score": 168,
      "by": "luoc",
      "time": 1793951258,
-     "comments": 46
+     "comments": 48
+    },
+    {
+     "id": 50382958,
+     "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+     "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+     "score": 13,
+     "by": "NaOH",
+     "time": 1793905177,
+     "comments": 0
     },
     {
      "id": 50384233,
      "title": "MS Paint Remote Code Execution Vulnerability",
      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-     "score": 620,
+     "score": 627,
      "by": "kuberwastaken",
      "time": 1793911422,
-     "comments": 232
+     "comments": 240
+    },
+    {
+     "id": 50391145,
+     "title": "We've built an open-source feature flag server for 11 years",
+     "url": "https://github.com/Unleash/unleash",
+     "score": 71,
+     "by": "ivarconr",
+     "time": 1793965206,
+     "comments": 45
     },
     {
      "id": 50388122,
      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-     "score": 180,
+     "score": 193,
      "by": "jonbaer",
      "time": 1793938669,
-     "comments": 59
+     "comments": 65
     },
     {
      "id": 50391342,
@@ -103,20 +112,11 @@
      "by": "chitianhao",
      "time": 1793966442,
      "comments": 0
-    },
-    {
-     "id": 50382958,
-     "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
-     "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
-     "score": 6,
-     "by": "NaOH",
-     "time": 1793905177,
-     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-06T14:41:23.807059+00:00",
+   "fetched_at": "2026-11-06T15:11:30.895845+00:00",
    "stale": false,
    "items": [
     {
@@ -158,7 +158,7 @@
   },
   "trending": {
    "fetched_at": "2026-11-06T14:41:25.857749+00:00",
-   "stale": false,
+   "stale": true,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-06T14:41:26.486690+00:00",
+   "fetched_at": "2026-11-06T15:13:41.911139+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 178,
-     "comments": 143,
+     "reactions": 183,
+     "comments": 145,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -259,32 +259,24 @@
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
      "reactions": 101,
-     "comments": 21,
+     "comments": 22,
      "published_at": "2026-11-05T21:12:11Z"
     },
     {
      "title": "This is my first HacktoberFest, and I don't know what to feel.",
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 133,
-     "comments": 76,
+     "reactions": 134,
+     "comments": 77,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 90,
+     "reactions": 91,
      "comments": 52,
      "published_at": "2026-11-04T17:11:22Z"
-    },
-    {
-     "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
-     "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
-     "author": "Dhruv Jani",
-     "reactions": 126,
-     "comments": 62,
-     "published_at": "2026-10-31T17:57:27Z"
     },
     {
      "title": "One Last Post, and a Proper Goodbye",
@@ -293,6 +285,14 @@
      "reactions": 49,
      "comments": 10,
      "published_at": "2026-11-03T16:08:07Z"
+    },
+    {
+     "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
+     "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+     "author": "Dhruv Jani",
+     "reactions": 126,
+     "comments": 62,
+     "published_at": "2026-10-31T17:57:27Z"
     },
     {
      "title": "That's a Wrap on Hacktoberfest 2026! \ud83c\udf83\ud83d\udc7b",
@@ -306,14 +306,14 @@
      "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
      "author": "xulingfeng",
-     "reactions": 104,
+     "reactions": 106,
      "comments": 53,
      "published_at": "2026-11-06T01:27:32Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-06T14:41:26.789332+00:00",
+   "fetched_at": "2026-11-06T15:13:42.515986+00:00",
    "stale": false,
    "items": [
     {
