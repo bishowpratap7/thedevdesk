@@ -1,99 +1,108 @@
 {
- "generated_at": "2026-11-06T04:38:44.050884+00:00",
+ "generated_at": "2026-11-06T05:08:51.964883+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-06T04:38:38.599835+00:00",
+   "fetched_at": "2026-11-06T05:08:45.850578+00:00",
    "stale": false,
    "items": [
     {
      "id": 50385272,
      "title": "Claude Code sends your email address to websites",
      "url": "https://github.com/anthropics/claude-code/issues/107757",
-     "score": 725,
+     "score": 762,
      "by": "motoroco",
      "time": 1793917035,
-     "comments": 248
+     "comments": 257
     },
     {
      "id": 50378228,
      "title": "sshole",
      "url": "https://sshhole.com",
-     "score": 2455,
+     "score": 2471,
      "by": "josemrb",
      "time": 1793881142,
-     "comments": 599
+     "comments": 607
     },
     {
      "id": 50384233,
      "title": "MS Paint Remote Code Execution Vulnerability",
      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-     "score": 389,
+     "score": 401,
      "by": "kuberwastaken",
      "time": 1793911422,
-     "comments": 146
-    },
-    {
-     "id": 50387738,
-     "title": "Nvidia Kubernetes Engine (NVKE)",
-     "url": "https://github.com/dsx-ai-factory/nvke",
-     "score": 24,
-     "by": "gkapur",
-     "time": 1793934986,
-     "comments": 7
-    },
-    {
-     "id": 50387546,
-     "title": "Closed AI models dominate the price-performance frontier",
-     "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-     "score": 27,
-     "by": "kevin_hu",
-     "time": 1793933396,
-     "comments": 8
-    },
-    {
-     "id": 50386338,
-     "title": "Inkling 2 Small",
-     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-     "score": 121,
-     "by": "Philpax",
-     "time": 1793923224,
-     "comments": 51
+     "comments": 149
     },
     {
      "id": 50387796,
      "title": "Pwn.college",
      "url": "https://pwn.college/",
-     "score": 18,
+     "score": 33,
      "by": "tripdout",
      "time": 1793935634,
-     "comments": 1
+     "comments": 3
+    },
+    {
+     "id": 50387738,
+     "title": "Nvidia Kubernetes Engine (NVKE)",
+     "url": "https://github.com/dsx-ai-factory/nvke",
+     "score": 29,
+     "by": "gkapur",
+     "time": 1793934986,
+     "comments": 10
+    },
+    {
+     "id": 50387546,
+     "title": "Closed AI models dominate the price-performance frontier",
+     "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+     "score": 31,
+     "by": "kevin_hu",
+     "time": 1793933396,
+     "comments": 18
+    },
+    {
+     "id": 50386338,
+     "title": "Inkling 2 Small",
+     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+     "score": 132,
+     "by": "Philpax",
+     "time": 1793923224,
+     "comments": 53
     },
     {
      "id": 50383057,
      "title": "The Hackintosh Reborn",
      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-     "score": 251,
+     "score": 256,
      "by": "rubatuga",
      "time": 1793905702,
-     "comments": 121
+     "comments": 126
     },
     {
      "id": 50381383,
      "title": "Window Sweaters",
      "url": "https://github.com/saragordic/window-sweaters",
-     "score": 274,
+     "score": 278,
      "by": "nickswalker",
      "time": 1793897414,
-     "comments": 88
+     "comments": 92
+    },
+    {
+     "id": 50386789,
+     "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
+     "url": "https://github.com/matthewmrichter/mooftcp",
+     "score": 28,
+     "by": "marcusbasant",
+     "time": 1793926455,
+     "comments": 14
     },
     {
      "id": 50378643,
      "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
      "url": "https://firenook.dev/",
-     "score": 66,
+     "score": 71,
      "by": "sanjevirau",
      "time": 1793884049,
-     "comments": 13
+     "comments": 14
     },
     {
      "id": 50381687,
@@ -103,20 +112,11 @@
      "by": "NathanFlurry",
      "time": 1793899062,
      "comments": 45
-    },
-    {
-     "id": 50385870,
-     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-     "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-     "score": 185,
-     "by": "randycupertino",
-     "time": 1793920197,
-     "comments": 91
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-06T04:38:40.496756+00:00",
+   "fetched_at": "2026-11-06T05:08:47.173291+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-06T04:38:42.559816+00:00",
+   "fetched_at": "2026-11-06T05:08:49.181854+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/dsh-superagent-prototype",
      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-     "stars": 19694,
+     "stars": 19704,
      "language": "TypeScript",
      "description": "Towards a More Autonomous Agent System",
      "created_at": "2026-10-31T09:32:46Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "storytold/craft-anything",
      "url": "https://github.com/storytold/craft-anything",
-     "stars": 15631,
+     "stars": 15692,
      "language": "Rust",
      "description": "Craft Anything: understand how any software works, and craft your own.",
      "created_at": "2026-10-31T14:50:00Z"
@@ -179,31 +179,31 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3350,
+     "stars": 3354,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
     },
     {
-     "full_name": "Verlintas/NOIR",
-     "url": "https://github.com/Verlintas/NOIR",
-     "stars": 2559,
-     "language": "Kotlin",
-     "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-     "created_at": "2026-10-31T21:34:39Z"
-    },
-    {
      "full_name": "zortos293/Lichii",
      "url": "https://github.com/zortos293/Lichii",
-     "stars": 2554,
+     "stars": 2582,
      "language": "C++",
      "description": "VERY experimental Nintendo Switch 2 emulator",
      "created_at": "2026-10-31T14:17:26Z"
     },
     {
+     "full_name": "Verlintas/NOIR",
+     "url": "https://github.com/Verlintas/NOIR",
+     "stars": 2569,
+     "language": "Kotlin",
+     "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+     "created_at": "2026-10-31T21:34:39Z"
+    },
+    {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2520,
+     "stars": 2539,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 1989,
+     "stars": 1990,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1879,
+     "stars": 1880,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 1813,
+     "stars": 1822,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1509,
+     "stars": 1510,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-06T04:38:43.116709+00:00",
+   "fetched_at": "2026-11-06T05:08:50.850205+00:00",
    "stale": false,
    "items": [
     {
@@ -274,7 +274,7 @@
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 62,
+     "reactions": 63,
      "comments": 14,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -307,13 +307,13 @@
      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
      "author": "Maame Afua A. P. Fordjour ",
      "reactions": 76,
-     "comments": 35,
+     "comments": 36,
      "published_at": "2026-11-03T20:18:40Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-06T04:38:43.304157+00:00",
+   "fetched_at": "2026-11-06T05:08:51.280977+00:00",
    "stale": false,
    "items": [
     {
