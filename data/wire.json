@@ -1,105 +1,105 @@
 {
- "generated_at": "2026-11-07T14:23:43.193038+00:00",
+ "generated_at": "2026-11-07T14:53:48.982399+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T14:23:38.769321+00:00",
+   "fetched_at": "2026-11-07T14:53:44.838392+00:00",
    "stale": false,
    "items": [
     {
      "id": 50403052,
      "title": "Need for Speed Underground 2 online in the browser",
      "url": "https://nfsu2.xyz/",
-     "score": 244,
+     "score": 300,
      "by": "fluxusars",
      "time": 1794044196,
-     "comments": 74
+     "comments": 87
+    },
+    {
+     "id": 50404599,
+     "title": "The $8 Linux Computer (2022)",
+     "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+     "score": 14,
+     "by": "zenincognito",
+     "time": 1794060020,
+     "comments": 5
     },
     {
      "id": 50399933,
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 804,
+     "score": 820,
      "by": "mfiguiere",
      "time": 1794007852,
-     "comments": 127
+     "comments": 132
     },
     {
      "id": 50403097,
      "title": "Every Mac comes with an (undocumented) family member classifier",
      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 254,
+     "score": 294,
      "by": "infwhispers",
      "time": 1794044763,
-     "comments": 128
+     "comments": 145
     },
     {
      "id": 50403066,
      "title": "Running a law firm on Free software",
      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-     "score": 50,
+     "score": 62,
      "by": "DeepLogin",
      "time": 1794044346,
-     "comments": 7
+     "comments": 23
     },
     {
      "id": 50391456,
      "title": "Tesla to wind down Cybertruck production",
      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 1065,
+     "score": 1075,
      "by": "PLenz",
      "time": 1793967231,
-     "comments": 1920
+     "comments": 1929
     },
     {
      "id": 50397429,
      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-     "score": 523,
+     "score": 527,
      "by": "theanomaly",
      "time": 1793994531,
-     "comments": 124
+     "comments": 125
     },
     {
      "id": 50377613,
      "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
      "url": "https://github.com/hyphatech/spindle",
-     "score": 16,
+     "score": 21,
      "by": "zaiev",
      "time": 1793875528,
-     "comments": 4
+     "comments": 5
     },
     {
      "id": 50361417,
      "title": "Building the NBC News Big Board",
      "url": "https://ejfox.com/projects/nbc-big-board",
-     "score": 14,
+     "score": 19,
      "by": "whalesalad",
      "time": 1793765388,
-     "comments": 2
+     "comments": 5
     },
     {
      "id": 50402212,
      "title": "The Components of Agent Memory",
      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-     "score": 83,
+     "score": 85,
      "by": "geoffbp",
      "time": 1794033544,
-     "comments": 45
-    },
-    {
-     "id": 50403214,
-     "title": "Upload Your RAM",
-     "url": "https://uploadyourram.org",
-     "score": 199,
-     "by": "susanthenerd",
-     "time": 1794046526,
-     "comments": 162
+     "comments": 48
     },
     {
      "id": 50356037,
      "title": "ToothPaste",
      "url": "https://brisk4t.github.io/blog/toothpaste/",
-     "score": 29,
+     "score": 33,
      "by": "speckx",
      "time": 1793730447,
      "comments": 8
@@ -108,15 +108,15 @@
      "id": 50360810,
      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-     "score": 148,
+     "score": 154,
      "by": "derbOac",
      "time": 1793758756,
-     "comments": 17
+     "comments": 21
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T14:23:40.658314+00:00",
+   "fetched_at": "2026-11-07T14:53:46.423850+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T14:23:42.053928+00:00",
+   "fetched_at": "2026-11-07T14:53:47.797772+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3893,
+     "stars": 3904,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3005,
+     "stars": 3006,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2210,
+     "stars": 2213,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2139,
+     "stars": 2143,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 1997,
+     "stars": 2025,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1604,
+     "stars": 1606,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1443,
+     "stars": 1467,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1248,
+     "stars": 1251,
      "language": "Rust",
      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "created_at": "2026-11-01T14:22:53Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1116,
+     "stars": 1123,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T14:23:42.473682+00:00",
+   "fetched_at": "2026-11-07T14:53:48.217808+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T14:23:42.601898+00:00",
+   "fetched_at": "2026-11-07T14:53:48.339508+00:00",
    "stale": false,
    "items": [
     {
@@ -331,8 +331,8 @@
     {
      "name": "npm",
      "home": "https://status.npmjs.org",
-     "indicator": "none",
-     "description": "All Systems Operational"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "Vercel",
