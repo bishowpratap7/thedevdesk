@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T17:54:24.597471+00:00",
+ "generated_at": "2026-11-07T18:24:46.456176+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T17:54:19.578983+00:00",
+   "fetched_at": "2026-11-07T18:24:40.355550+00:00",
    "stale": false,
    "items": [
     {
-     "id": 50405789,
-     "title": "How Long Can Life Wait?",
-     "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-     "score": 37,
-     "by": "Ariarule",
-     "time": 1794068579,
-     "comments": 6
+     "id": 50406292,
+     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+     "url": "https://github.com/hedgerow-dev/coldframe",
+     "score": 42,
+     "by": "hedgerow-dev",
+     "time": 1794072450,
+     "comments": 7
     },
     {
      "id": 50404599,
      "title": "The $8 Linux Computer (2022)",
      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-     "score": 117,
+     "score": 131,
      "by": "zenincognito",
      "time": 1794060020,
-     "comments": 49
+     "comments": 55
     },
     {
      "id": 50403052,
      "title": "Need for Speed Underground 2 online in the browser",
      "url": "https://nfsu2.xyz/",
-     "score": 522,
+     "score": 554,
      "by": "fluxusars",
      "time": 1794044196,
-     "comments": 160
+     "comments": 171
     },
     {
-     "id": 50406292,
-     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-     "url": "https://github.com/hedgerow-dev/coldframe",
-     "score": 15,
-     "by": "hedgerow-dev",
-     "time": 1794072450,
-     "comments": 1
+     "id": 50405789,
+     "title": "How Long Can Life Wait?",
+     "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+     "score": 47,
+     "by": "Ariarule",
+     "time": 1794068579,
+     "comments": 14
     },
     {
      "id": 50361657,
      "title": "Text.js: Build full-stack React apps that render inside console.log",
      "url": "https://textjs.org/",
-     "score": 33,
+     "score": 41,
      "by": "nateb2022",
      "time": 1793768376,
-     "comments": 11
+     "comments": 15
     },
     {
      "id": 50399933,
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 925,
+     "score": 941,
      "by": "mfiguiere",
      "time": 1794007852,
-     "comments": 152
+     "comments": 156
+    },
+    {
+     "id": 50406670,
+     "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+     "url": "https://blog.bosscher.ch/posts/openstick/",
+     "score": 7,
+     "by": "LaurensBER",
+     "time": 1794075132,
+     "comments": 2
+    },
+    {
+     "id": 50406222,
+     "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+     "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+     "score": 7,
+     "by": "antiuniverse",
+     "time": 1794071940,
+     "comments": 1
     },
     {
      "id": 50403066,
      "title": "Running a law firm on Free software",
      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-     "score": 142,
+     "score": 156,
      "by": "DeepLogin",
      "time": 1794044346,
-     "comments": 70
+     "comments": 77
     },
     {
-     "id": 50405678,
-     "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-     "url": "https://kevinboone.me/tpwin.html",
-     "score": 82,
+     "id": 50406589,
+     "title": "The End of AI Frontiers",
+     "url": "https://hunch.net/?p=13764006",
+     "score": 6,
      "by": "andsoitis",
-     "time": 1794067587,
-     "comments": 51
+     "time": 1794074647,
+     "comments": 0
+    },
+    {
+     "id": 50406563,
+     "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+     "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+     "score": 10,
+     "by": "srean",
+     "time": 1794074537,
+     "comments": 1
     },
     {
      "id": 50352791,
      "title": "British Library Legal deposit and web archiving",
      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
-     "score": 39,
+     "score": 46,
      "by": "robtherobber",
      "time": 1793717790,
      "comments": 21
-    },
-    {
-     "id": 50358094,
-     "title": "Tasfer: a text editor drawn on a 2D canvas",
-     "url": "https://www.hamza.se/blog/tasfer",
-     "score": 38,
-     "by": "hamza512b",
-     "time": 1793739520,
-     "comments": 14
-    },
-    {
-     "id": 50403097,
-     "title": "Every Mac comes with an (undocumented) family member classifier",
-     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 424,
-     "by": "infwhispers",
-     "time": 1794044763,
-     "comments": 243
-    },
-    {
-     "id": 50405250,
-     "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-     "url": null,
-     "score": 50,
-     "by": "mtlynch",
-     "time": 1794064480,
-     "comments": 26
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T17:54:22.141912+00:00",
+   "fetched_at": "2026-11-07T18:24:43.820863+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T17:54:23.494605+00:00",
+   "fetched_at": "2026-11-07T18:24:45.306645+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3931,
+     "stars": 3937,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3028,
+     "stars": 3031,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,31 +179,31 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2225,
+     "stars": 2226,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
     },
     {
-     "full_name": "mromidev/claude-animated-shorts",
-     "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2183,
-     "language": "TypeScript",
-     "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-     "created_at": "2026-11-01T05:50:38Z"
-    },
-    {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2183,
+     "stars": 2194,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
     },
     {
+     "full_name": "mromidev/claude-animated-shorts",
+     "url": "https://github.com/mromidev/claude-animated-shorts",
+     "stars": 2185,
+     "language": "TypeScript",
+     "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+     "created_at": "2026-11-01T05:50:38Z"
+    },
+    {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 2047,
+     "stars": 2049,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1613,
+     "stars": 1614,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1591,
+     "stars": 1600,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1336,
+     "stars": 1372,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1260,
+     "stars": 1261,
      "language": "Rust",
      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "created_at": "2026-11-01T14:22:53Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T17:54:23.891059+00:00",
+   "fetched_at": "2026-11-07T18:24:45.756595+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T17:54:24.010190+00:00",
+   "fetched_at": "2026-11-07T18:24:45.872164+00:00",
    "stale": false,
    "items": [
     {
