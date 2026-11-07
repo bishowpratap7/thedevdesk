@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T15:23:54.068136+00:00",
+ "generated_at": "2026-11-07T15:53:59.916515+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T15:23:50.456582+00:00",
+   "fetched_at": "2026-11-07T15:53:55.467584+00:00",
    "stale": false,
    "items": [
     {
      "id": 50404599,
      "title": "The $8 Linux Computer (2022)",
      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-     "score": 32,
+     "score": 50,
      "by": "zenincognito",
      "time": 1794060020,
-     "comments": 9
+     "comments": 21
     },
     {
      "id": 50403052,
      "title": "Need for Speed Underground 2 online in the browser",
      "url": "https://nfsu2.xyz/",
-     "score": 339,
+     "score": 390,
      "by": "fluxusars",
      "time": 1794044196,
-     "comments": 108
+     "comments": 125
     },
     {
      "id": 50399933,
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 843,
+     "score": 855,
      "by": "mfiguiere",
      "time": 1794007852,
-     "comments": 139
-    },
-    {
-     "id": 50403097,
-     "title": "Every Mac comes with an (undocumented) family member classifier",
-     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 318,
-     "by": "infwhispers",
-     "time": 1794044763,
-     "comments": 170
+     "comments": 142
     },
     {
      "id": 50403066,
      "title": "Running a law firm on Free software",
      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-     "score": 76,
+     "score": 85,
      "by": "DeepLogin",
      "time": 1794044346,
-     "comments": 31
+     "comments": 41
     },
     {
      "id": 50352791,
      "title": "British Library Legal deposit and web archiving",
      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
-     "score": 11,
+     "score": 17,
      "by": "robtherobber",
      "time": 1793717790,
-     "comments": 0
+     "comments": 3
+    },
+    {
+     "id": 50403097,
+     "title": "Every Mac comes with an (undocumented) family member classifier",
+     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+     "score": 336,
+     "by": "infwhispers",
+     "time": 1794044763,
+     "comments": 188
     },
     {
      "id": 50391456,
      "title": "Tesla to wind down Cybertruck production",
      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 1077,
+     "score": 1084,
      "by": "PLenz",
      "time": 1793967231,
-     "comments": 1934
-    },
-    {
-     "id": 50361417,
-     "title": "Building the NBC News Big Board",
-     "url": "https://ejfox.com/projects/nbc-big-board",
-     "score": 25,
-     "by": "whalesalad",
-     "time": 1793765388,
-     "comments": 8
-    },
-    {
-     "id": 50397429,
-     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-     "score": 530,
-     "by": "theanomaly",
-     "time": 1793994531,
-     "comments": 126
-    },
-    {
-     "id": 50356037,
-     "title": "ToothPaste",
-     "url": "https://brisk4t.github.io/blog/toothpaste/",
-     "score": 41,
-     "by": "speckx",
-     "time": 1793730447,
-     "comments": 10
+     "comments": 1941
     },
     {
      "id": 50377613,
      "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
      "url": "https://github.com/hyphatech/spindle",
-     "score": 24,
+     "score": 29,
      "by": "zaiev",
      "time": 1793875528,
-     "comments": 6
+     "comments": 7
     },
     {
-     "id": 50360810,
-     "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-     "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-     "score": 156,
-     "by": "derbOac",
-     "time": 1793758756,
-     "comments": 21
+     "id": 50397429,
+     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+     "score": 532,
+     "by": "theanomaly",
+     "time": 1793994531,
+     "comments": 130
+    },
+    {
+     "id": 50361417,
+     "title": "Building the NBC News Big Board",
+     "url": "https://ejfox.com/projects/nbc-big-board",
+     "score": 27,
+     "by": "whalesalad",
+     "time": 1793765388,
+     "comments": 9
+    },
+    {
+     "id": 50356037,
+     "title": "ToothPaste",
+     "url": "https://brisk4t.github.io/blog/toothpaste/",
+     "score": 48,
+     "by": "speckx",
+     "time": 1793730447,
+     "comments": 11
+    },
+    {
+     "id": 50358094,
+     "title": "Tasfer: a text editor drawn on a 2D canvas",
+     "url": "https://www.hamza.se/blog/tasfer",
+     "score": 5,
+     "by": "hamza512b",
+     "time": 1793739520,
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T15:23:51.985326+00:00",
+   "fetched_at": "2026-11-07T15:53:57.273474+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T15:23:53.019281+00:00",
+   "fetched_at": "2026-11-07T15:53:58.695434+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3908,
+     "stars": 3912,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3010,
+     "stars": 3012,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2214,
+     "stars": 2215,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2149,
+     "stars": 2158,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2062,
+     "stars": 2095,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 2039,
+     "stars": 2042,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1608,
+     "stars": 1611,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1500,
+     "stars": 1529,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1252,
+     "stars": 1255,
      "language": "Rust",
      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "created_at": "2026-11-01T14:22:53Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1151,
+     "stars": 1186,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T15:23:53.398929+00:00",
+   "fetched_at": "2026-11-07T15:53:59.130275+00:00",
    "stale": false,
    "items": [
     {
@@ -251,14 +251,14 @@
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
      "reactions": 203,
-     "comments": 175,
+     "comments": 176,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 121,
+     "reactions": 122,
      "comments": 25,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T15:23:53.487591+00:00",
+   "fetched_at": "2026-11-07T15:53:59.246696+00:00",
    "stale": false,
    "items": [
     {
