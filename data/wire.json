@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T22:55:37.837601+00:00",
+ "generated_at": "2026-11-07T22:55:52.439093+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T22:55:34.197114+00:00",
+   "fetched_at": "2026-11-07T22:55:48.898130+00:00",
    "stale": false,
    "items": [
     {
@@ -27,7 +27,7 @@
      "id": 50406111,
      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-     "score": 277,
+     "score": 278,
      "by": "user_7832",
      "time": 1794071196,
      "comments": 187
@@ -105,18 +105,18 @@
      "comments": 82
     },
     {
-     "id": 50407882,
-     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 57,
-     "by": "shmulc",
-     "time": 1794084332,
-     "comments": 50
+     "id": 50403097,
+     "title": "Every Mac comes with an (undocumented) family member classifier",
+     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+     "score": 548,
+     "by": "infwhispers",
+     "time": 1794044763,
+     "comments": 324
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T22:55:35.248998+00:00",
+   "fetched_at": "2026-11-07T22:55:50.511254+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T22:55:36.681752+00:00",
+   "fetched_at": "2026-11-07T22:55:51.347099+00:00",
    "stale": false,
    "items": [
     {
@@ -211,7 +211,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1721,
+     "stars": 1722,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1643,
+     "stars": 1644,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T22:55:37.117573+00:00",
+   "fetched_at": "2026-11-07T22:55:51.663553+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T22:55:37.307795+00:00",
+   "fetched_at": "2026-11-07T22:55:51.771045+00:00",
    "stale": false,
    "items": [
     {
