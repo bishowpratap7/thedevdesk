@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T07:51:53.987364+00:00",
+ "generated_at": "2026-11-07T07:52:09.880123+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T07:51:49.052314+00:00",
+   "fetched_at": "2026-11-07T07:52:05.460266+00:00",
    "stale": false,
    "items": [
     {
@@ -99,7 +99,7 @@
      "id": 50352701,
      "title": "The Flash C Compiler",
      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
-     "score": 33,
+     "score": 34,
      "by": "AlexeyBrin",
      "time": 1793717382,
      "comments": 2
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T07:51:50.666994+00:00",
+   "fetched_at": "2026-11-07T07:52:07.474447+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T07:51:52.496408+00:00",
+   "fetched_at": "2026-11-07T07:52:08.689601+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T07:51:53.079098+00:00",
+   "fetched_at": "2026-11-07T07:52:09.096412+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T07:51:53.306770+00:00",
+   "fetched_at": "2026-11-07T07:52:09.209953+00:00",
    "stale": false,
    "items": [
     {
