@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T10:52:47.294433+00:00",
+ "generated_at": "2026-11-07T11:22:52.717506+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T10:52:43.252126+00:00",
+   "fetched_at": "2026-11-07T11:22:48.681633+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50399933,
-     "title": "Libghostty 1.0",
-     "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 673,
-     "by": "mfiguiere",
-     "time": 1794007852,
-     "comments": 109
-    },
     {
      "id": 50403214,
      "title": "Upload Your RAM",
      "url": "https://uploadyourram.org",
-     "score": 8,
+     "score": 52,
      "by": "susanthenerd",
      "time": 1794046526,
-     "comments": 1
+     "comments": 24
     },
     {
-     "id": 50401740,
-     "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-     "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-     "score": 109,
-     "by": "benbreen",
-     "time": 1794027276,
-     "comments": 72
-    },
-    {
-     "id": 50397429,
-     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-     "score": 487,
-     "by": "theanomaly",
-     "time": 1793994531,
-     "comments": 111
-    },
-    {
-     "id": 50391456,
-     "title": "Tesla to wind down Cybertruck production",
-     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 1020,
-     "by": "PLenz",
-     "time": 1793967231,
-     "comments": 1874
-    },
-    {
-     "id": 50402212,
-     "title": "The Components of Agent Memory",
-     "url": "https://www.anthropic.com/research/components-of-agent-memory",
-     "score": 51,
-     "by": "geoffbp",
-     "time": 1794033544,
-     "comments": 27
+     "id": 50399933,
+     "title": "Libghostty 1.0",
+     "url": "https://mitchellh.com/writing/libghostty-1-0",
+     "score": 684,
+     "by": "mfiguiere",
+     "time": 1794007852,
+     "comments": 115
     },
     {
      "id": 50403097,
      "title": "Every Mac comes with an (undocumented) family member classifier",
      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 8,
+     "score": 48,
      "by": "infwhispers",
      "time": 1794044763,
-     "comments": 1
+     "comments": 11
     },
     {
-     "id": 50361765,
-     "title": "PostgreSQL Internals [pdf]",
-     "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+     "id": 50403052,
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
      "score": 27,
-     "by": "Foe",
-     "time": 1793769763,
-     "comments": 2
+     "by": "fluxusars",
+     "time": 1794044196,
+     "comments": 5
+    },
+    {
+     "id": 50397429,
+     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+     "score": 495,
+     "by": "theanomaly",
+     "time": 1793994531,
+     "comments": 115
+    },
+    {
+     "id": 50391456,
+     "title": "Tesla to wind down Cybertruck production",
+     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+     "score": 1029,
+     "by": "PLenz",
+     "time": 1793967231,
+     "comments": 1878
+    },
+    {
+     "id": 50401740,
+     "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+     "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+     "score": 118,
+     "by": "benbreen",
+     "time": 1794027276,
+     "comments": 80
+    },
+    {
+     "id": 50402212,
+     "title": "The Components of Agent Memory",
+     "url": "https://www.anthropic.com/research/components-of-agent-memory",
+     "score": 55,
+     "by": "geoffbp",
+     "time": 1794033544,
+     "comments": 28
+    },
+    {
+     "id": 50357767,
+     "title": "Enterprise Brain \u2013 Memory that learns from work",
+     "url": "https://www.ampup.ai/companybrain",
+     "score": 9,
+     "by": "irodov_rg",
+     "time": 1793737905,
+     "comments": 0
+    },
+    {
+     "id": 50403063,
+     "title": "Port 0: The Port That Does Not Exist",
+     "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+     "score": 8,
+     "by": "NewCzech",
+     "time": 1794044306,
+     "comments": 1
     },
     {
      "id": 50399991,
      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-     "score": 130,
+     "score": 132,
      "by": "raybb",
      "time": 1794008239,
      "comments": 64
     },
     {
-     "id": 50388001,
-     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-     "score": 341,
-     "by": "ChrisArchitect",
-     "time": 1793937628,
-     "comments": 276
-    },
-    {
-     "id": 50360810,
-     "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-     "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-     "score": 112,
-     "by": "derbOac",
-     "time": 1793758756,
-     "comments": 9
-    },
-    {
-     "id": 50397219,
-     "title": "Firecracker VM Escape: PwnEscape Part 2",
-     "url": "https://pwn.ai/blog/firecracker-escape",
-     "score": 241,
-     "by": "SerCe",
-     "time": 1793993618,
-     "comments": 106
+     "id": 50361765,
+     "title": "PostgreSQL Internals [pdf]",
+     "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+     "score": 31,
+     "by": "Foe",
+     "time": 1793769763,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T10:52:45.029440+00:00",
+   "fetched_at": "2026-11-07T11:22:50.454479+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T10:52:46.202945+00:00",
+   "fetched_at": "2026-11-07T11:22:51.641922+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3847,
+     "stars": 3852,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2979,
+     "stars": 2983,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2200,
+     "stars": 2201,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2104,
+     "stars": 2109,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 2012,
+     "stars": 2013,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 1919,
+     "stars": 1924,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1590,
+     "stars": 1593,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1314,
+     "stars": 1332,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1233,
+     "stars": 1234,
      "language": "Rust",
      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "created_at": "2026-11-01T14:22:53Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1052,
+     "stars": 1060,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T10:52:46.567989+00:00",
+   "fetched_at": "2026-11-07T11:22:52.029853+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T10:52:46.837930+00:00",
+   "fetched_at": "2026-11-07T11:22:52.044031+00:00",
    "stale": false,
    "items": [
     {
