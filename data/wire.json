@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T18:54:52.247964+00:00",
+ "generated_at": "2026-11-07T19:24:57.723795+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T18:54:47.943363+00:00",
+   "fetched_at": "2026-11-07T19:24:53.886653+00:00",
    "stale": false,
    "items": [
     {
      "id": 50406563,
      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
      "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
-     "score": 48,
+     "score": 98,
      "by": "srean",
      "time": 1794074537,
-     "comments": 11
-    },
-    {
-     "id": 50406670,
-     "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
-     "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 31,
-     "by": "LaurensBER",
-     "time": 1794075132,
-     "comments": 5
-    },
-    {
-     "id": 50406292,
-     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-     "url": "https://github.com/hedgerow-dev/coldframe",
-     "score": 72,
-     "by": "hedgerow-dev",
-     "time": 1794072450,
-     "comments": 17
+     "comments": 24
     },
     {
      "id": 50406589,
      "title": "The End of AI Frontiers",
      "url": "https://hunch.net/?p=13764006",
-     "score": 34,
+     "score": 68,
      "by": "andsoitis",
      "time": 1794074647,
-     "comments": 11
+     "comments": 20
     },
     {
-     "id": 50404599,
-     "title": "The $8 Linux Computer (2022)",
-     "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-     "score": 142,
-     "by": "zenincognito",
-     "time": 1794060020,
-     "comments": 58
+     "id": 50406670,
+     "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+     "url": "https://blog.bosscher.ch/posts/openstick/",
+     "score": 59,
+     "by": "LaurensBER",
+     "time": 1794075132,
+     "comments": 10
+    },
+    {
+     "id": 50406292,
+     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+     "url": "https://github.com/hedgerow-dev/coldframe",
+     "score": 87,
+     "by": "hedgerow-dev",
+     "time": 1794072450,
+     "comments": 21
     },
     {
      "id": 50406222,
      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-     "score": 38,
+     "score": 62,
      "by": "antiuniverse",
      "time": 1794071940,
-     "comments": 7
-    },
-    {
-     "id": 50405789,
-     "title": "How Long Can Life Wait?",
-     "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-     "score": 60,
-     "by": "Ariarule",
-     "time": 1794068579,
-     "comments": 20
-    },
-    {
-     "id": 50403052,
-     "title": "Need for Speed Underground 2 online in the browser",
-     "url": "https://nfsu2.xyz/",
-     "score": 580,
-     "by": "fluxusars",
-     "time": 1794044196,
-     "comments": 174
+     "comments": 10
     },
     {
      "id": 50406319,
      "title": "Five Memorable Books About Programming",
      "url": "https://prog21.dadgum.com/19.html",
-     "score": 12,
+     "score": 24,
      "by": "andsoitis",
      "time": 1794072649,
-     "comments": 2
+     "comments": 6
+    },
+    {
+     "id": 50404599,
+     "title": "The $8 Linux Computer (2022)",
+     "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+     "score": 153,
+     "by": "zenincognito",
+     "time": 1794060020,
+     "comments": 62
+    },
+    {
+     "id": 50405789,
+     "title": "How Long Can Life Wait?",
+     "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+     "score": 68,
+     "by": "Ariarule",
+     "time": 1794068579,
+     "comments": 25
+    },
+    {
+     "id": 50403052,
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "score": 593,
+     "by": "fluxusars",
+     "time": 1794044196,
+     "comments": 176
+    },
+    {
+     "id": 50370787,
+     "title": "The Typo Generation Is Damaging Literature",
+     "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+     "score": 16,
+     "by": "bryanrasmussen",
+     "time": 1793822756,
+     "comments": 6
     },
     {
      "id": 50399933,
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 946,
+     "score": 955,
      "by": "mfiguiere",
      "time": 1794007852,
-     "comments": 157
+     "comments": 162
     },
     {
      "id": 50361657,
      "title": "Text.js: Build full-stack React apps that render inside console.log",
      "url": "https://textjs.org/",
-     "score": 49,
+     "score": 54,
      "by": "nateb2022",
      "time": 1793768376,
-     "comments": 18
-    },
-    {
-     "id": 50403066,
-     "title": "Running a law firm on Free software",
-     "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-     "score": 168,
-     "by": "DeepLogin",
-     "time": 1794044346,
-     "comments": 80
+     "comments": 22
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T18:54:49.257979+00:00",
+   "fetched_at": "2026-11-07T19:24:55.117759+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T18:54:50.812547+00:00",
+   "fetched_at": "2026-11-07T19:24:56.631538+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3036,
+     "stars": 3037,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2227,
+     "stars": 2229,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2203,
+     "stars": 2208,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2190,
+     "stars": 2193,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1607,
+     "stars": 1613,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1412,
+     "stars": 1438,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T18:54:51.455276+00:00",
+   "fetched_at": "2026-11-07T19:24:57.063479+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T18:54:51.604094+00:00",
+   "fetched_at": "2026-11-07T19:24:57.148983+00:00",
    "stale": false,
    "items": [
     {
