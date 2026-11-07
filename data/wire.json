@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T06:51:40.979230+00:00",
+ "generated_at": "2026-11-07T07:21:47.436238+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T06:51:36.033795+00:00",
+   "fetched_at": "2026-11-07T07:21:42.537871+00:00",
    "stale": false,
    "items": [
     {
      "id": 50401867,
      "title": "Asahi Linux Progress Linux 7.3",
      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-     "score": 52,
+     "score": 77,
      "by": "ackyshake",
      "time": 1794028818,
-     "comments": 14
+     "comments": 33
     },
     {
      "id": 50399933,
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 475,
+     "score": 498,
      "by": "mfiguiere",
      "time": 1794007852,
-     "comments": 76
+     "comments": 80
     },
     {
      "id": 50401740,
      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-     "score": 36,
+     "score": 47,
      "by": "benbreen",
      "time": 1794027276,
-     "comments": 6
+     "comments": 12
     },
     {
      "id": 50397429,
      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-     "score": 423,
+     "score": 433,
      "by": "theanomaly",
      "time": 1793994531,
-     "comments": 95
+     "comments": 98
     },
     {
      "id": 50391456,
      "title": "Tesla to wind down Cybertruck production",
      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 960,
+     "score": 969,
      "by": "PLenz",
      "time": 1793967231,
-     "comments": 1810
-    },
-    {
-     "id": 50384263,
-     "title": "What do the next 4000 emoji look like?",
-     "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-     "score": 43,
-     "by": "lacieargyle",
-     "time": 1793911586,
-     "comments": 26
+     "comments": 1820
     },
     {
      "id": 50399991,
      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-     "score": 94,
+     "score": 102,
      "by": "raybb",
      "time": 1794008239,
-     "comments": 42
+     "comments": 45
+    },
+    {
+     "id": 50384263,
+     "title": "What do the next 4000 emoji look like?",
+     "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+     "score": 47,
+     "by": "lacieargyle",
+     "time": 1793911586,
+     "comments": 29
     },
     {
      "id": 50388001,
      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-     "score": 317,
+     "score": 324,
      "by": "ChrisArchitect",
      "time": 1793937628,
-     "comments": 257
-    },
-    {
-     "id": 50352701,
-     "title": "The Flash C Compiler",
-     "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
-     "score": 27,
-     "by": "AlexeyBrin",
-     "time": 1793717382,
-     "comments": 2
+     "comments": 261
     },
     {
      "id": 50397219,
      "title": "Firecracker VM Escape: PwnEscape Part 2",
      "url": "https://pwn.ai/blog/firecracker-escape",
-     "score": 211,
+     "score": 214,
      "by": "SerCe",
      "time": 1793993618,
-     "comments": 104
+     "comments": 105
     },
     {
      "id": 50360810,
      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-     "score": 68,
+     "score": 72,
      "by": "derbOac",
      "time": 1793758756,
      "comments": 5
     },
     {
+     "id": 50352701,
+     "title": "The Flash C Compiler",
+     "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+     "score": 30,
+     "by": "AlexeyBrin",
+     "time": 1793717382,
+     "comments": 2
+    },
+    {
      "id": 50395183,
      "title": "Notes on San Marino",
      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-     "score": 46,
+     "score": 50,
      "by": "yorwba",
      "time": 1793985125,
-     "comments": 13
+     "comments": 15
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T06:51:37.333576+00:00",
+   "fetched_at": "2026-11-07T07:21:43.863144+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T06:51:39.207754+00:00",
+   "fetched_at": "2026-11-07T07:21:45.859389+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3770,
+     "stars": 3779,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2938,
+     "stars": 2942,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2183,
+     "stars": 2186,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2060,
+     "stars": 2064,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1993,
+     "stars": 1997,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 1838,
+     "stars": 1858,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1201,
+     "stars": 1203,
      "language": "Rust",
      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "created_at": "2026-11-01T14:22:53Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1138,
+     "stars": 1172,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1002,
+     "stars": 1005,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T06:51:39.783436+00:00",
+   "fetched_at": "2026-11-07T07:21:46.397122+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T06:51:40.186580+00:00",
+   "fetched_at": "2026-11-07T07:21:46.569724+00:00",
    "stale": false,
    "items": [
     {
