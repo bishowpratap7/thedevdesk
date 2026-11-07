@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T12:53:25.494770+00:00",
+ "generated_at": "2026-11-07T13:23:31.223991+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T12:53:21.566257+00:00",
+   "fetched_at": "2026-11-07T13:23:27.370564+00:00",
    "stale": false,
    "items": [
     {
-     "id": 50403214,
-     "title": "Upload Your RAM",
-     "url": "https://uploadyourram.org",
-     "score": 141,
-     "by": "susanthenerd",
-     "time": 1794046526,
-     "comments": 91
+     "id": 50403052,
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "score": 121,
+     "by": "fluxusars",
+     "time": 1794044196,
+     "comments": 39
     },
     {
      "id": 50399933,
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 729,
+     "score": 758,
      "by": "mfiguiere",
      "time": 1794007852,
+     "comments": 122
+    },
+    {
+     "id": 50403214,
+     "title": "Upload Your RAM",
+     "url": "https://uploadyourram.org",
+     "score": 173,
+     "by": "susanthenerd",
+     "time": 1794046526,
      "comments": 120
-    },
-    {
-     "id": 50403052,
-     "title": "Need for Speed Underground 2 online in the browser",
-     "url": "https://nfsu2.xyz/",
-     "score": 100,
-     "by": "fluxusars",
-     "time": 1794044196,
-     "comments": 33
-    },
-    {
-     "id": 50397429,
-     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-     "score": 507,
-     "by": "theanomaly",
-     "time": 1793994531,
-     "comments": 121
-    },
-    {
-     "id": 50391456,
-     "title": "Tesla to wind down Cybertruck production",
-     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 1044,
-     "by": "PLenz",
-     "time": 1793967231,
-     "comments": 1896
     },
     {
      "id": 50403097,
      "title": "Every Mac comes with an (undocumented) family member classifier",
      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 175,
+     "score": 205,
      "by": "infwhispers",
      "time": 1794044763,
-     "comments": 89
+     "comments": 104
+    },
+    {
+     "id": 50397429,
+     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+     "score": 513,
+     "by": "theanomaly",
+     "time": 1793994531,
+     "comments": 122
+    },
+    {
+     "id": 50391456,
+     "title": "Tesla to wind down Cybertruck production",
+     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+     "score": 1055,
+     "by": "PLenz",
+     "time": 1793967231,
+     "comments": 1914
+    },
+    {
+     "id": 50403066,
+     "title": "Running a law firm on Free software",
+     "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+     "score": 23,
+     "by": "DeepLogin",
+     "time": 1794044346,
+     "comments": 3
     },
     {
      "id": 50402212,
      "title": "The Components of Agent Memory",
      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-     "score": 70,
+     "score": 73,
      "by": "geoffbp",
      "time": 1794033544,
-     "comments": 38
+     "comments": 39
+    },
+    {
+     "id": 50403507,
+     "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+     "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+     "score": 41,
+     "by": "thunderbong",
+     "time": 1794049875,
+     "comments": 29
     },
     {
      "id": 50356037,
      "title": "ToothPaste",
      "url": "https://brisk4t.github.io/blog/toothpaste/",
-     "score": 12,
+     "score": 18,
      "by": "speckx",
      "time": 1793730447,
-     "comments": 3
-    },
-    {
-     "id": 50403063,
-     "title": "Port 0: The Port That Does Not Exist",
-     "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-     "score": 16,
-     "by": "NewCzech",
-     "time": 1794044306,
      "comments": 4
     },
     {
      "id": 50399991,
      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-     "score": 139,
+     "score": 143,
      "by": "raybb",
      "time": 1794008239,
-     "comments": 76
+     "comments": 80
     },
     {
-     "id": 50360810,
-     "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-     "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-     "score": 133,
-     "by": "derbOac",
-     "time": 1793758756,
-     "comments": 12
-    },
-    {
-     "id": 50361765,
-     "title": "PostgreSQL Internals [pdf]",
-     "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
-     "score": 41,
-     "by": "Foe",
-     "time": 1793769763,
-     "comments": 5
+     "id": 50403063,
+     "title": "Port 0: The Port That Does Not Exist",
+     "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+     "score": 22,
+     "by": "NewCzech",
+     "time": 1794044306,
+     "comments": 4
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T12:53:23.010453+00:00",
+   "fetched_at": "2026-11-07T13:23:28.856837+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T12:53:24.339742+00:00",
+   "fetched_at": "2026-11-07T13:23:30.156547+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3873,
+     "stars": 3881,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2997,
+     "stars": 3000,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2124,
+     "stars": 2128,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 2024,
+     "stars": 2027,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 1951,
+     "stars": 1963,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1597,
+     "stars": 1599,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1392,
+     "stars": 1401,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1239,
+     "stars": 1243,
      "language": "Rust",
      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "created_at": "2026-11-01T14:22:53Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1084,
+     "stars": 1095,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T12:53:24.801874+00:00",
+   "fetched_at": "2026-11-07T13:23:30.582505+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 119,
-     "comments": 73,
+     "comments": 74,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T12:53:24.925091+00:00",
+   "fetched_at": "2026-11-07T13:23:30.662024+00:00",
    "stale": false,
    "items": [
     {
