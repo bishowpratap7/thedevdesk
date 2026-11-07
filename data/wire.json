@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T04:21:07.116745+00:00",
+ "generated_at": "2026-11-07T04:51:13.868951+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T04:21:02.250845+00:00",
+   "fetched_at": "2026-11-07T04:51:08.766194+00:00",
    "stale": false,
    "items": [
     {
      "id": 50399933,
      "title": "Libghostty 1.0",
      "url": "https://mitchellh.com/writing/libghostty-1-0",
-     "score": 359,
+     "score": 384,
      "by": "mfiguiere",
      "time": 1794007852,
-     "comments": 58
+     "comments": 63
     },
     {
      "id": 50397429,
      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-     "score": 382,
+     "score": 397,
      "by": "theanomaly",
      "time": 1793994531,
-     "comments": 87
+     "comments": 88
     },
     {
      "id": 50400597,
      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
      "url": "https://josef.cn/blog/unitree",
-     "score": 63,
+     "score": 72,
      "by": "josefchen",
      "time": 1794013516,
-     "comments": 38
+     "comments": 45
     },
     {
      "id": 50391456,
      "title": "Tesla to wind down Cybertruck production",
      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-     "score": 905,
+     "score": 918,
      "by": "PLenz",
      "time": 1793967231,
-     "comments": 1761
-    },
-    {
-     "id": 50401414,
-     "title": "Lighting the Skies",
-     "url": "https://computer.rip/2026-10-25-searchlights.html",
-     "score": 7,
-     "by": "dverlaeckt80",
-     "time": 1794022834,
-     "comments": 0
-    },
-    {
-     "id": 50360810,
-     "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-     "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-     "score": 49,
-     "by": "derbOac",
-     "time": 1793758756,
-     "comments": 3
-    },
-    {
-     "id": 50397219,
-     "title": "Firecracker VM Escape: PwnEscape Part 2",
-     "url": "https://pwn.ai/blog/firecracker-escape",
-     "score": 194,
-     "by": "SerCe",
-     "time": 1793993618,
-     "comments": 91
+     "comments": 1770
     },
     {
      "id": 50399991,
      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-     "score": 61,
+     "score": 69,
      "by": "raybb",
      "time": 1794008239,
-     "comments": 23
+     "comments": 28
     },
     {
-     "id": 50388001,
-     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-     "score": 299,
-     "by": "ChrisArchitect",
-     "time": 1793937628,
-     "comments": 240
-    },
-    {
-     "id": 50395183,
-     "title": "Notes on San Marino",
-     "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-     "score": 22,
-     "by": "yorwba",
-     "time": 1793985125,
-     "comments": 2
+     "id": 50397219,
+     "title": "Firecracker VM Escape: PwnEscape Part 2",
+     "url": "https://pwn.ai/blog/firecracker-escape",
+     "score": 200,
+     "by": "SerCe",
+     "time": 1793993618,
+     "comments": 96
     },
     {
      "id": 50384263,
      "title": "What do the next 4000 emoji look like?",
      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-     "score": 9,
+     "score": 17,
      "by": "lacieargyle",
      "time": 1793911586,
-     "comments": 2
+     "comments": 6
     },
     {
-     "id": 50401029,
-     "title": "The AI sell-off compared to well-known stock market crashes",
-     "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-     "score": 17,
-     "by": "hubraumhugo",
-     "time": 1794018006,
-     "comments": 2
+     "id": 50388001,
+     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+     "score": 302,
+     "by": "ChrisArchitect",
+     "time": 1793937628,
+     "comments": 244
+    },
+    {
+     "id": 50360810,
+     "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+     "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+     "score": 51,
+     "by": "derbOac",
+     "time": 1793758756,
+     "comments": 4
+    },
+    {
+     "id": 50401414,
+     "title": "Lighting the Skies",
+     "url": "https://computer.rip/2026-10-25-searchlights.html",
+     "score": 8,
+     "by": "dverlaeckt80",
+     "time": 1794022834,
+     "comments": 1
+    },
+    {
+     "id": 50395183,
+     "title": "Notes on San Marino",
+     "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+     "score": 28,
+     "by": "yorwba",
+     "time": 1793985125,
+     "comments": 3
+    },
+    {
+     "id": 50397994,
+     "title": "AI is dramatically accelerating AI research",
+     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+     "score": 241,
+     "by": "yurivish",
+     "time": 1793996843,
+     "comments": 184
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T04:21:03.701271+00:00",
+   "fetched_at": "2026-11-07T04:51:10.126363+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T04:21:05.592130+00:00",
+   "fetched_at": "2026-11-07T04:51:12.025609+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3738,
+     "stars": 3742,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 2919,
+     "stars": 2922,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2168,
+     "stars": 2171,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "mromidev/claude-animated-shorts",
      "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2048,
+     "stars": 2050,
      "language": "TypeScript",
      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
      "created_at": "2026-11-01T05:50:38Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "caru-ini/stack-diagram",
      "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 1979,
+     "stars": 1980,
      "language": "TypeScript",
      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
      "created_at": "2026-11-01T05:35:12Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 1775,
+     "stars": 1791,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "wquguru/cicada",
      "url": "https://github.com/wquguru/cicada",
-     "stars": 1566,
+     "stars": 1570,
      "language": "Swift",
      "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
      "created_at": "2026-11-01T05:41:23Z"
@@ -219,39 +219,39 @@
     {
      "full_name": "s1dashu/quiet-md",
      "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1192,
+     "stars": 1194,
      "language": "Rust",
      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
      "created_at": "2026-11-01T14:22:53Z"
     },
     {
-     "full_name": "livliv-dev/player",
-     "url": "https://github.com/livliv-dev/player",
-     "stars": 984,
-     "language": "TypeScript",
-     "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-     "created_at": "2026-11-04T03:28:33Z"
-    },
-    {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 983,
+     "stars": 1016,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
+    },
+    {
+     "full_name": "livliv-dev/player",
+     "url": "https://github.com/livliv-dev/player",
+     "stars": 987,
+     "language": "TypeScript",
+     "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "created_at": "2026-11-04T03:28:33Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T04:21:06.195011+00:00",
+   "fetched_at": "2026-11-07T04:51:12.600609+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 194,
-     "comments": 167,
+     "reactions": 195,
+     "comments": 168,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 146,
-     "comments": 83,
+     "comments": 84,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T04:21:06.370376+00:00",
+   "fetched_at": "2026-11-07T04:51:13.094725+00:00",
    "stale": false,
    "items": [
     {
