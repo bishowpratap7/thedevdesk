@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-08T19:00:40.578846+00:00",
+ "generated_at": "2026-11-08T19:30:47.108152+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T19:00:36.119520+00:00",
+   "fetched_at": "2026-11-08T19:30:42.263679+00:00",
    "stale": false,
    "items": [
     {
      "id": 50415628,
      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "score": 84,
+     "score": 161,
      "by": "TheWiggles",
      "time": 1794161767,
-     "comments": 25
+     "comments": 103
     },
     {
      "id": 50411961,
      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
      "url": "https://github.com/synchopate/llama-modchip",
-     "score": 262,
+     "score": 272,
      "by": "joshcsimmons",
      "time": 1794133324,
-     "comments": 84
-    },
-    {
-     "id": 50415135,
-     "title": "A Little Snitch for Windows",
-     "url": "https://packethound.app/",
-     "score": 23,
-     "by": "BadBoyBubby",
-     "time": 1794158167,
-     "comments": 9
-    },
-    {
-     "id": 50389923,
-     "title": "The Reconstruction of Torn Documents",
-     "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-     "score": 53,
-     "by": "jacquesm",
-     "time": 1793955918,
-     "comments": 31
-    },
-    {
-     "id": 50412067,
-     "title": "Writing as a thinking tool",
-     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-     "score": 166,
-     "by": "jruohonen",
-     "time": 1794134512,
-     "comments": 50
-    },
-    {
-     "id": 50413769,
-     "title": "I'm not a fan of Deno's security model (2024)",
-     "url": "https://goldstein.lol/posts/deno-security/",
-     "score": 40,
-     "by": "maxloh",
-     "time": 1794148958,
-     "comments": 19
-    },
-    {
-     "id": 50366821,
-     "title": "Porting Android 16 to my blind mother's keypad phone",
-     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-     "score": 108,
-     "by": "z1xus",
-     "time": 1793805539,
-     "comments": 34
-    },
-    {
-     "id": 50410107,
-     "title": "Goodbye Claude, hello Pi",
-     "url": "https://caleb.software/posts/claude-to-pi.html",
-     "score": 586,
-     "by": "karagenit",
-     "time": 1794107508,
-     "comments": 382
+     "comments": 88
     },
     {
      "id": 50414331,
      "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
      "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
-     "score": 19,
+     "score": 47,
      "by": "iamnothere",
      "time": 1794153457,
-     "comments": 2
+     "comments": 25
+    },
+    {
+     "id": 50389923,
+     "title": "The Reconstruction of Torn Documents",
+     "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+     "score": 60,
+     "by": "jacquesm",
+     "time": 1793955918,
+     "comments": 38
+    },
+    {
+     "id": 50412067,
+     "title": "Writing as a thinking tool",
+     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+     "score": 176,
+     "by": "jruohonen",
+     "time": 1794134512,
+     "comments": 58
+    },
+    {
+     "id": 50415817,
+     "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+     "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+     "score": 27,
+     "by": "zzzeek",
+     "time": 1794163387,
+     "comments": 20
+    },
+    {
+     "id": 50415135,
+     "title": "A Little Snitch for Windows",
+     "url": "https://packethound.app/",
+     "score": 35,
+     "by": "BadBoyBubby",
+     "time": 1794158167,
+     "comments": 18
+    },
+    {
+     "id": 50413769,
+     "title": "I'm not a fan of Deno's security model (2024)",
+     "url": "https://goldstein.lol/posts/deno-security/",
+     "score": 44,
+     "by": "maxloh",
+     "time": 1794148958,
+     "comments": 21
+    },
+    {
+     "id": 50368481,
+     "title": "Declarative Dragging",
+     "url": "https://declarative-dragging.github.io/",
+     "score": 20,
+     "by": "smusamashah",
+     "time": 1793811907,
+     "comments": 0
     },
     {
      "id": 50362963,
      "title": "Show HN: Vegetable Gardening for Engineers",
      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-     "score": 53,
+     "score": 70,
      "by": "jrcplus",
      "time": 1793782467,
-     "comments": 13
+     "comments": 18
     },
     {
-     "id": 50412072,
-     "title": "JIT bitmap text rendering for microcontrollers",
-     "url": "https://linebender.org/blog/jit-bitmap-text/",
-     "score": 78,
-     "by": "dmit",
-     "time": 1794134535,
-     "comments": 13
+     "id": 50410107,
+     "title": "Goodbye Claude, hello Pi",
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "score": 595,
+     "by": "karagenit",
+     "time": 1794107508,
+     "comments": 385
     },
     {
-     "id": 50415078,
-     "title": "A field guide to CAPTCHA types and how they break",
-     "url": "https://github.com/vsmutok/FuckCaptcha",
-     "score": 20,
-     "by": "vasylsmutok",
-     "time": 1794157795,
-     "comments": 5
+     "id": 50366821,
+     "title": "Porting Android 16 to my blind mother's keypad phone",
+     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+     "score": 114,
+     "by": "z1xus",
+     "time": 1793805539,
+     "comments": 36
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T19:00:37.426220+00:00",
+   "fetched_at": "2026-11-08T19:30:43.592200+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T19:00:39.283503+00:00",
+   "fetched_at": "2026-11-08T19:30:45.425601+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4086,
+     "stars": 4087,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3225,
+     "stars": 3227,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 3136,
+     "stars": 3146,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 2704,
+     "stars": 2734,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2368,
+     "stars": 2370,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1497,
+     "stars": 1505,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1346,
+     "stars": 1350,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1227,
+     "stars": 1228,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -243,22 +243,22 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T19:00:39.860907+00:00",
+   "fetched_at": "2026-11-08T19:30:45.957191+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 218,
-     "comments": 195,
+     "reactions": 224,
+     "comments": 200,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 127,
+     "reactions": 128,
      "comments": 26,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -274,7 +274,7 @@
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 139,
+     "reactions": 138,
      "comments": 108,
      "published_at": "2026-11-04T17:11:22Z"
     },
@@ -306,14 +306,14 @@
      "title": "Let's see where you code!",
      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 97,
+     "reactions": 98,
      "comments": 47,
      "published_at": "2026-11-03T20:18:40Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T19:00:39.913935+00:00",
+   "fetched_at": "2026-11-08T19:30:46.235321+00:00",
    "stale": false,
    "items": [
     {
