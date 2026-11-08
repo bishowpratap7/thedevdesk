@@ -1,96 +1,96 @@
 {
- "generated_at": "2026-11-08T00:56:14.211387+00:00",
+ "generated_at": "2026-11-08T01:26:19.463443+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T00:56:10.525317+00:00",
+   "fetched_at": "2026-11-08T01:26:15.639201+00:00",
    "stale": false,
    "items": [
     {
      "id": 50406563,
      "title": "The end of Microsoft Research's AI Frontiers group",
      "url": "https://hunch.net/?p=13764006",
-     "score": 360,
+     "score": 374,
      "by": "srean",
      "time": 1794074537,
-     "comments": 206
+     "comments": 219
     },
     {
      "id": 50407882,
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 146,
+     "score": 168,
      "by": "shmulc",
      "time": 1794084332,
-     "comments": 105
+     "comments": 118
     },
     {
      "id": 50408931,
      "title": "GitHub New pull request overview page in public preview",
      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-     "score": 40,
+     "score": 55,
      "by": "xiaoyu2006",
      "time": 1794092980,
-     "comments": 27
+     "comments": 33
     },
     {
      "id": 50406670,
      "title": "What I run on my $10 USD OpenStick homelab",
      "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 315,
+     "score": 330,
      "by": "LaurensBER",
      "time": 1794075132,
-     "comments": 80
+     "comments": 81
     },
     {
      "id": 50406111,
      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-     "score": 339,
+     "score": 350,
      "by": "user_7832",
      "time": 1794071196,
-     "comments": 226
+     "comments": 235
     },
     {
      "id": 50408713,
      "title": "Making any integer with four 2s (2025)",
      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-     "score": 44,
+     "score": 54,
      "by": "germanrabbit",
      "time": 1794091138,
-     "comments": 8
+     "comments": 10
     },
     {
      "id": 50406222,
      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-     "score": 187,
+     "score": 199,
      "by": "antiuniverse",
      "time": 1794071940,
-     "comments": 55
-    },
-    {
-     "id": 50406292,
-     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-     "url": "https://github.com/hedgerow-dev/coldframe",
-     "score": 186,
-     "by": "hedgerow-dev",
-     "time": 1794072450,
-     "comments": 39
+     "comments": 57
     },
     {
      "id": 50377661,
      "title": "Uranium cubes reveal why the German nuclear project failed",
      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-     "score": 53,
+     "score": 63,
      "by": "rbanffy",
      "time": 1793875924,
-     "comments": 14
+     "comments": 19
+    },
+    {
+     "id": 50406292,
+     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+     "url": "https://github.com/hedgerow-dev/coldframe",
+     "score": 191,
+     "by": "hedgerow-dev",
+     "time": 1794072450,
+     "comments": 39
     },
     {
      "id": 50403052,
      "title": "Need for Speed Underground 2 online in the browser",
      "url": "https://nfsu2.xyz/",
-     "score": 793,
+     "score": 810,
      "by": "fluxusars",
      "time": 1794044196,
      "comments": 225
@@ -99,24 +99,24 @@
      "id": 50358337,
      "title": "Turning Every Radio into a Radar",
      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-     "score": 22,
+     "score": 28,
      "by": "hasley",
      "time": 1793740728,
      "comments": 5
     },
     {
-     "id": 50361212,
-     "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-     "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
-     "score": 11,
-     "by": "gmays",
-     "time": 1793763028,
-     "comments": 0
+     "id": 50403097,
+     "title": "Every Mac comes with an (undocumented) family member classifier",
+     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+     "score": 593,
+     "by": "infwhispers",
+     "time": 1794044763,
+     "comments": 345
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T00:56:12.135857+00:00",
+   "fetched_at": "2026-11-08T01:26:17.362518+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T00:56:13.039039+00:00",
+   "fetched_at": "2026-11-08T01:26:18.293319+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3960,
+     "stars": 3965,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3056,
+     "stars": 3060,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2315,
+     "stars": 2324,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2244,
+     "stars": 2246,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1833,
+     "stars": 1848,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1668,
+     "stars": 1671,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1200,
+     "stars": 1203,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1140,
+     "stars": 1141,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1055,
+     "stars": 1058,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "stars": 878,
+     "stars": 885,
      "language": "Rust",
      "description": "Headless 3D and VFX engine for agents. Research preview.",
      "created_at": "2026-11-05T22:37:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T00:56:13.341879+00:00",
+   "fetched_at": "2026-11-08T01:26:18.610829+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T00:56:13.387097+00:00",
+   "fetched_at": "2026-11-08T01:26:18.674364+00:00",
    "stale": false,
    "items": [
     {
