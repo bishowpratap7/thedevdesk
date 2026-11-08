@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-08T12:28:41.983622+00:00",
+ "generated_at": "2026-11-08T12:58:48.094545+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T12:28:36.968247+00:00",
+   "fetched_at": "2026-11-08T12:58:43.496298+00:00",
    "stale": false,
    "items": [
     {
      "id": 50412318,
      "title": "Person of Interest",
      "url": "https://krthr.co/person-of-interest/",
-     "score": 66,
+     "score": 84,
      "by": "krthr",
      "time": 1794137008,
-     "comments": 30
+     "comments": 47
     },
     {
      "id": 50412152,
      "title": "Petered (what happens after the Peter Principle)",
      "url": "https://aworkinglibrary.com/writing/petered",
-     "score": 34,
+     "score": 46,
      "by": "adrianhoward",
      "time": 1794135403,
-     "comments": 14
-    },
-    {
-     "id": 50410107,
-     "title": "Goodbye Claude, Hello Pi",
-     "url": "https://caleb.software/posts/claude-to-pi.html",
-     "score": 377,
-     "by": "karagenit",
-     "time": 1794107508,
-     "comments": 239
-    },
-    {
-     "id": 50366902,
-     "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-     "url": "https://clj.rs/",
-     "score": 82,
-     "by": "simonpure",
-     "time": 1793805796,
-     "comments": 13
-    },
-    {
-     "id": 50412072,
-     "title": "JIT bitmap text rendering for microcontrollers",
-     "url": "https://linebender.org/blog/jit-bitmap-text/",
-     "score": 16,
-     "by": "dmit",
-     "time": 1794134535,
-     "comments": 0
+     "comments": 20
     },
     {
      "id": 50411961,
      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
      "url": "https://github.com/synchopate/llama-modchip",
-     "score": 9,
+     "score": 27,
      "by": "joshcsimmons",
      "time": 1794133324,
-     "comments": 7
+     "comments": 11
     },
     {
-     "id": 50411467,
-     "title": "Agent memory needs its OpenTelemetry moment",
-     "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-     "score": 65,
-     "by": "mthines",
-     "time": 1794127223,
-     "comments": 61
+     "id": 50410107,
+     "title": "Goodbye Claude, Hello Pi",
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "score": 397,
+     "by": "karagenit",
+     "time": 1794107508,
+     "comments": 251
+    },
+    {
+     "id": 50412072,
+     "title": "JIT bitmap text rendering for microcontrollers",
+     "url": "https://linebender.org/blog/jit-bitmap-text/",
+     "score": 21,
+     "by": "dmit",
+     "time": 1794134535,
+     "comments": 3
+    },
+    {
+     "id": 50366902,
+     "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+     "url": "https://clj.rs/",
+     "score": 83,
+     "by": "simonpure",
+     "time": 1793805796,
+     "comments": 19
     },
     {
      "id": 50406670,
      "title": "What I run on my $10 USD OpenStick homelab",
      "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 625,
+     "score": 633,
      "by": "LaurensBER",
      "time": 1794075132,
-     "comments": 115
+     "comments": 117
     },
     {
      "id": 50407882,
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 438,
+     "score": 445,
      "by": "shmulc",
      "time": 1794084332,
-     "comments": 297
+     "comments": 306
+    },
+    {
+     "id": 50411467,
+     "title": "Agent memory needs its OpenTelemetry moment",
+     "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+     "score": 69,
+     "by": "mthines",
+     "time": 1794127223,
+     "comments": 65
     },
     {
      "id": 50378974,
      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
-     "score": 33,
+     "score": 34,
      "by": "speckx",
      "time": 1793886247,
-     "comments": 1
+     "comments": 2
     },
     {
      "id": 50371360,
      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
      "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
-     "score": 17,
+     "score": 21,
      "by": "bryanrasmussen",
      "time": 1793825634,
      "comments": 9
     },
     {
-     "id": 50387381,
-     "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
-     "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
-     "score": 12,
-     "by": "mooreds",
-     "time": 1793932028,
-     "comments": 3
+     "id": 50403052,
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "score": 1027,
+     "by": "fluxusars",
+     "time": 1794044196,
+     "comments": 256
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T12:28:38.761670+00:00",
+   "fetched_at": "2026-11-08T12:58:44.950952+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T12:28:40.612216+00:00",
+   "fetched_at": "2026-11-08T12:58:46.846473+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4046,
+     "stars": 4050,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3185,
+     "stars": 3188,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,31 +179,31 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2715,
+     "stars": 2732,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
     },
     {
-     "full_name": "govijr/terminal-mac",
-     "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2330,
-     "language": "Swift",
-     "description": "Entire MacOS running in your terminal.",
-     "created_at": "2026-11-03T03:22:56Z"
-    },
-    {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 2301,
+     "stars": 2338,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
     },
     {
+     "full_name": "govijr/terminal-mac",
+     "url": "https://github.com/govijr/terminal-mac",
+     "stars": 2332,
+     "language": "Swift",
+     "description": "Entire MacOS running in your terminal.",
+     "created_at": "2026-11-03T03:22:56Z"
+    },
+    {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1811,
+     "stars": 1816,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1297,
+     "stars": 1300,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1272,
+     "stars": 1291,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1219,
+     "stars": 1228,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T12:28:41.231473+00:00",
+   "fetched_at": "2026-11-08T12:58:47.411805+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T12:28:41.388869+00:00",
+   "fetched_at": "2026-11-08T12:58:47.471934+00:00",
    "stale": false,
    "items": [
     {
