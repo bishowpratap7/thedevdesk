@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-08T14:59:30.063395+00:00",
+ "generated_at": "2026-11-08T15:29:36.509731+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T14:59:25.333646+00:00",
+   "fetched_at": "2026-11-08T15:29:31.894609+00:00",
    "stale": false,
    "items": [
     {
      "id": 50411961,
      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
      "url": "https://github.com/synchopate/llama-modchip",
-     "score": 93,
+     "score": 122,
      "by": "joshcsimmons",
      "time": 1794133324,
-     "comments": 30
-    },
-    {
-     "id": 50352518,
-     "title": "Quadrillion-parameter transformers and how to train them",
-     "url": "https://qlabs.sh/research/parameters",
-     "score": 25,
-     "by": "frozenseven",
-     "time": 1793716637,
-     "comments": 12
+     "comments": 37
     },
     {
      "id": 50366821,
      "title": "Porting Android 16 to my blind mother's keypad phone",
      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-     "score": 45,
+     "score": 61,
      "by": "z1xus",
      "time": 1793805539,
-     "comments": 6
+     "comments": 11
     },
     {
-     "id": 50412072,
-     "title": "JIT bitmap text rendering for microcontrollers",
-     "url": "https://linebender.org/blog/jit-bitmap-text/",
-     "score": 48,
-     "by": "dmit",
-     "time": 1794134535,
-     "comments": 7
+     "id": 50352518,
+     "title": "Quadrillion-parameter transformers and how to train them",
+     "url": "https://qlabs.sh/research/parameters",
+     "score": 39,
+     "by": "frozenseven",
+     "time": 1793716637,
+     "comments": 26
     },
     {
      "id": 50412318,
      "title": "Person of Interest",
      "url": "https://krthr.co/person-of-interest/",
-     "score": 183,
+     "score": 201,
      "by": "krthr",
      "time": 1794137008,
-     "comments": 121
+     "comments": 122
+    },
+    {
+     "id": 50412072,
+     "title": "JIT bitmap text rendering for microcontrollers",
+     "url": "https://linebender.org/blog/jit-bitmap-text/",
+     "score": 53,
+     "by": "dmit",
+     "time": 1794134535,
+     "comments": 8
     },
     {
      "id": 50410107,
      "title": "Goodbye Claude, Hello Pi",
      "url": "https://caleb.software/posts/claude-to-pi.html",
-     "score": 470,
+     "score": 489,
      "by": "karagenit",
      "time": 1794107508,
-     "comments": 312
+     "comments": 321
+    },
+    {
+     "id": 50408729,
+     "title": "JIT bitmap text rendering for microcontrollers",
+     "url": "https://linebender.org/blog/jit-bitmap-text/",
+     "score": 5,
+     "by": "raphlinus",
+     "time": 1794091312,
+     "comments": 1
     },
     {
      "id": 50412067,
      "title": "Writing as a Thinking Tool",
      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-     "score": 23,
+     "score": 35,
      "by": "jruohonen",
      "time": 1794134512,
-     "comments": 1
+     "comments": 2
     },
     {
      "id": 50406670,
      "title": "What I run on my $10 USD OpenStick homelab",
      "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 667,
+     "score": 672,
      "by": "LaurensBER",
      "time": 1794075132,
-     "comments": 121
+     "comments": 122
     },
     {
      "id": 50366902,
      "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
      "url": "https://clj.rs/",
-     "score": 101,
+     "score": 104,
      "by": "simonpure",
      "time": 1793805796,
-     "comments": 36
+     "comments": 41
     },
     {
      "id": 50407882,
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 470,
+     "score": 480,
      "by": "shmulc",
      "time": 1794084332,
-     "comments": 331
+     "comments": 347
     },
     {
      "id": 50411467,
      "title": "Agent memory needs its OpenTelemetry moment",
      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-     "score": 92,
+     "score": 97,
      "by": "mthines",
      "time": 1794127223,
-     "comments": 74
-    },
-    {
-     "id": 50378974,
-     "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
-     "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
-     "score": 47,
-     "by": "speckx",
-     "time": 1793886247,
-     "comments": 4
+     "comments": 77
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T14:59:26.664532+00:00",
+   "fetched_at": "2026-11-08T15:29:33.276526+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T14:59:28.524554+00:00",
+   "fetched_at": "2026-11-08T15:29:35.122621+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4068,
+     "stars": 4071,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3200,
+     "stars": 3204,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2794,
+     "stars": 2841,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 2459,
+     "stars": 2486,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2350,
+     "stars": 2353,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1833,
+     "stars": 1835,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1383,
+     "stars": 1407,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1305,
+     "stars": 1309,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1279,
+     "stars": 1291,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1200,
+     "stars": 1202,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T14:59:29.074211+00:00",
+   "fetched_at": "2026-11-08T15:29:35.671749+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 137,
-     "comments": 105,
+     "comments": 106,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T14:59:29.249717+00:00",
+   "fetched_at": "2026-11-08T15:29:35.826011+00:00",
    "stale": false,
    "items": [
     {
