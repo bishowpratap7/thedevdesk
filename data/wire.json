@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-08T22:01:17.889992+00:00",
+ "generated_at": "2026-11-08T22:31:23.839458+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T22:01:13.376425+00:00",
+   "fetched_at": "2026-11-08T22:31:19.375869+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50415628,
-     "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "score": 453,
-     "by": "TheWiggles",
-     "time": 1794161767,
-     "comments": 277
-    },
-    {
-     "id": 50415172,
-     "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-     "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-     "score": 192,
-     "by": "randycupertino",
-     "time": 1794158429,
-     "comments": 72
-    },
     {
      "id": 50416053,
      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
      "url": "https://duxlabs.dev/",
-     "score": 98,
+     "score": 118,
      "by": "indigodaddy",
      "time": 1794164931,
-     "comments": 33
-    },
-    {
-     "id": 50368481,
-     "title": "Declarative Dragging",
-     "url": "https://declarative-dragging.github.io/",
-     "score": 180,
-     "by": "smusamashah",
-     "time": 1793811907,
-     "comments": 17
-    },
-    {
-     "id": 50416158,
-     "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-     "score": 125,
-     "by": "xmddmx",
-     "time": 1794165632,
-     "comments": 103
+     "comments": 41
     },
     {
      "id": 50417407,
      "title": "Ask HN: What are you working on? (November 2026)",
      "url": null,
-     "score": 12,
+     "score": 34,
      "by": "david927",
      "time": 1794172820,
-     "comments": 11
+     "comments": 191
+    },
+    {
+     "id": 50368481,
+     "title": "Declarative Dragging",
+     "url": "https://declarative-dragging.github.io/",
+     "score": 215,
+     "by": "smusamashah",
+     "time": 1793811907,
+     "comments": 24
+    },
+    {
+     "id": 50416158,
+     "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+     "score": 145,
+     "by": "xmddmx",
+     "time": 1794165632,
+     "comments": 117
+    },
+    {
+     "id": 50415628,
+     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "score": 485,
+     "by": "TheWiggles",
+     "time": 1794161767,
+     "comments": 300
     },
     {
      "id": 50416456,
      "title": "The Web Is More Than Enough, by Paul Ford",
      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-     "score": 17,
+     "score": 25,
      "by": "edward",
      "time": 1794167312,
-     "comments": 5
-    },
-    {
-     "id": 50411961,
-     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-     "url": "https://github.com/synchopate/llama-modchip",
-     "score": 316,
-     "by": "joshcsimmons",
-     "time": 1794133324,
-     "comments": 119
-    },
-    {
-     "id": 50412067,
-     "title": "Writing as a thinking tool",
-     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-     "score": 233,
-     "by": "jruohonen",
-     "time": 1794134512,
-     "comments": 72
-    },
-    {
-     "id": 50372838,
-     "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-     "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-     "score": 39,
-     "by": "prismatic",
-     "time": 1793834588,
-     "comments": 8
-    },
-    {
-     "id": 50415135,
-     "title": "A Little Snitch for Windows",
-     "url": "https://packethound.app/",
-     "score": 69,
-     "by": "BadBoyBubby",
-     "time": 1794158167,
-     "comments": 33
+     "comments": 10
     },
     {
      "id": 50416363,
      "title": "How I Fight AI Brain Fry",
      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-     "score": 94,
+     "score": 108,
      "by": "kyunez",
      "time": 1794166662,
-     "comments": 80
+     "comments": 90
+    },
+    {
+     "id": 50411961,
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "url": "https://github.com/synchopate/llama-modchip",
+     "score": 324,
+     "by": "joshcsimmons",
+     "time": 1794133324,
+     "comments": 123
+    },
+    {
+     "id": 50412067,
+     "title": "Writing as a thinking tool",
+     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+     "score": 243,
+     "by": "jruohonen",
+     "time": 1794134512,
+     "comments": 74
+    },
+    {
+     "id": 50372838,
+     "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+     "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+     "score": 45,
+     "by": "prismatic",
+     "time": 1793834588,
+     "comments": 12
+    },
+    {
+     "id": 50415135,
+     "title": "A Little Snitch for Windows",
+     "url": "https://packethound.app/",
+     "score": 73,
+     "by": "BadBoyBubby",
+     "time": 1794158167,
+     "comments": 35
+    },
+    {
+     "id": 50416014,
+     "title": "Playing with the STM32MP2",
+     "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+     "score": 13,
+     "by": "dverlaeckt80",
+     "time": 1794164647,
+     "comments": 2
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T22:01:14.909425+00:00",
+   "fetched_at": "2026-11-08T22:31:20.753451+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T22:01:16.739703+00:00",
+   "fetched_at": "2026-11-08T22:31:22.643220+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3238,
+     "stars": 3243,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 3192,
+     "stars": 3204,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 2906,
+     "stars": 2942,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2376,
+     "stars": 2378,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1550,
+     "stars": 1560,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1362,
+     "stars": 1370,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1326,
+     "stars": 1328,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1241,
+     "stars": 1242,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T22:01:17.280641+00:00",
+   "fetched_at": "2026-11-08T22:31:23.165019+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T22:01:17.306740+00:00",
+   "fetched_at": "2026-11-08T22:31:23.213889+00:00",
    "stale": false,
    "items": [
     {
