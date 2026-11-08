@@ -1,72 +1,90 @@
 {
- "generated_at": "2026-11-08T01:56:25.246664+00:00",
+ "generated_at": "2026-11-08T02:26:31.335720+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T01:56:21.121485+00:00",
+   "fetched_at": "2026-11-08T02:26:26.917309+00:00",
    "stale": false,
    "items": [
     {
      "id": 50406563,
      "title": "The end of Microsoft Research's AI Frontiers group",
      "url": "https://hunch.net/?p=13764006",
-     "score": 389,
+     "score": 395,
      "by": "srean",
      "time": 1794074537,
-     "comments": 226
-    },
-    {
-     "id": 50408931,
-     "title": "GitHub New pull request overview page in public preview",
-     "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-     "score": 61,
-     "by": "xiaoyu2006",
-     "time": 1794092980,
-     "comments": 40
+     "comments": 234
     },
     {
      "id": 50406670,
      "title": "What I run on my $10 USD OpenStick homelab",
      "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 339,
+     "score": 351,
      "by": "LaurensBER",
      "time": 1794075132,
-     "comments": 83
+     "comments": 87
     },
     {
      "id": 50406111,
      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-     "score": 360,
+     "score": 373,
      "by": "user_7832",
      "time": 1794071196,
-     "comments": 241
+     "comments": 249
     },
     {
      "id": 50408713,
      "title": "Making any integer with four 2s (2025)",
      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-     "score": 58,
+     "score": 66,
      "by": "germanrabbit",
      "time": 1794091138,
-     "comments": 12
+     "comments": 14
     },
     {
      "id": 50407882,
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 184,
+     "score": 191,
      "by": "shmulc",
      "time": 1794084332,
-     "comments": 126
+     "comments": 131
+    },
+    {
+     "id": 50408931,
+     "title": "GitHub New pull request overview page in public preview",
+     "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+     "score": 69,
+     "by": "xiaoyu2006",
+     "time": 1794092980,
+     "comments": 52
+    },
+    {
+     "id": 50406222,
+     "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+     "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+     "score": 208,
+     "by": "antiuniverse",
+     "time": 1794071940,
+     "comments": 63
     },
     {
      "id": 50377661,
      "title": "Uranium cubes reveal why the German nuclear project failed",
      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-     "score": 66,
+     "score": 70,
      "by": "rbanffy",
      "time": 1793875924,
-     "comments": 23
+     "comments": 28
+    },
+    {
+     "id": 50403052,
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "score": 830,
+     "by": "fluxusars",
+     "time": 1794044196,
+     "comments": 229
     },
     {
      "id": 50406292,
@@ -75,48 +93,30 @@
      "score": 193,
      "by": "hedgerow-dev",
      "time": 1794072450,
-     "comments": 40
-    },
-    {
-     "id": 50406222,
-     "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-     "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-     "score": 205,
-     "by": "antiuniverse",
-     "time": 1794071940,
-     "comments": 61
-    },
-    {
-     "id": 50403052,
-     "title": "Need for Speed Underground 2 online in the browser",
-     "url": "https://nfsu2.xyz/",
-     "score": 824,
-     "by": "fluxusars",
-     "time": 1794044196,
-     "comments": 226
-    },
-    {
-     "id": 50408961,
-     "title": "Commodore PET \u2013 The Worlds First Personal Computer",
-     "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-     "score": 19,
-     "by": "andsoitis",
-     "time": 1794093334,
-     "comments": 1
+     "comments": 42
     },
     {
      "id": 50403097,
      "title": "Every Mac comes with an (undocumented) family member classifier",
      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 605,
+     "score": 608,
      "by": "infwhispers",
      "time": 1794044763,
-     "comments": 347
+     "comments": 349
+    },
+    {
+     "id": 50408961,
+     "title": "Commodore PET \u2013 The Worlds First Personal Computer",
+     "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+     "score": 21,
+     "by": "andsoitis",
+     "time": 1794093334,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T01:56:22.701816+00:00",
+   "fetched_at": "2026-11-08T02:26:28.808426+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T01:56:24.023188+00:00",
+   "fetched_at": "2026-11-08T02:26:30.068241+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3062,
+     "stars": 3063,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2333,
+     "stars": 2353,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1877,
+     "stars": 1914,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1674,
+     "stars": 1683,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1210,
+     "stars": 1212,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1144,
+     "stars": 1146,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1063,
+     "stars": 1069,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "stars": 887,
+     "stars": 895,
      "language": "Rust",
      "description": "Headless 3D and VFX engine for agents. Research preview.",
      "created_at": "2026-11-05T22:37:07Z"
@@ -243,22 +243,22 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T01:56:24.421361+00:00",
+   "fetched_at": "2026-11-08T02:26:30.458043+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 204,
-     "comments": 181,
+     "reactions": 206,
+     "comments": 182,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 124,
+     "reactions": 126,
      "comments": 25,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 127,
-     "comments": 89,
+     "comments": 90,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -306,14 +306,14 @@
      "title": "Let's see where you code!",
      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 90,
+     "reactions": 91,
      "comments": 43,
      "published_at": "2026-11-03T20:18:40Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T01:56:24.470695+00:00",
+   "fetched_at": "2026-11-08T02:26:30.628303+00:00",
    "stale": false,
    "items": [
     {
