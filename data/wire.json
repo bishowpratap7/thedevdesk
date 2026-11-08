@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-08T03:26:42.722017+00:00",
+ "generated_at": "2026-11-08T03:56:47.892776+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T03:26:38.587736+00:00",
+   "fetched_at": "2026-11-08T03:56:44.199869+00:00",
    "stale": false,
    "items": [
     {
      "id": 50406670,
      "title": "What I run on my $10 USD OpenStick homelab",
      "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 387,
+     "score": 411,
      "by": "LaurensBER",
      "time": 1794075132,
-     "comments": 89
-    },
-    {
-     "id": 50408713,
-     "title": "Making any integer with four 2s (2025)",
-     "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-     "score": 75,
-     "by": "germanrabbit",
-     "time": 1794091138,
-     "comments": 19
+     "comments": 94
     },
     {
      "id": 50407882,
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 216,
+     "score": 238,
      "by": "shmulc",
      "time": 1794084332,
-     "comments": 145
+     "comments": 152
     },
     {
-     "id": 50377661,
-     "title": "Uranium cubes reveal why the German nuclear project failed",
-     "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-     "score": 78,
-     "by": "rbanffy",
-     "time": 1793875924,
-     "comments": 43
-    },
-    {
-     "id": 50406292,
-     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-     "url": "https://github.com/hedgerow-dev/coldframe",
-     "score": 202,
-     "by": "hedgerow-dev",
-     "time": 1794072450,
-     "comments": 43
-    },
-    {
-     "id": 50403052,
-     "title": "Need for Speed Underground 2 online in the browser",
-     "url": "https://nfsu2.xyz/",
-     "score": 843,
-     "by": "fluxusars",
-     "time": 1794044196,
-     "comments": 231
-    },
-    {
-     "id": 50406222,
-     "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-     "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-     "score": 218,
-     "by": "antiuniverse",
-     "time": 1794071940,
-     "comments": 64
+     "id": 50408713,
+     "title": "Making any integer with four 2s (2025)",
+     "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+     "score": 77,
+     "by": "germanrabbit",
+     "time": 1794091138,
+     "comments": 21
     },
     {
      "id": 50408931,
      "title": "GitHub New pull request overview page in public preview",
      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-     "score": 80,
+     "score": 86,
      "by": "xiaoyu2006",
      "time": 1794092980,
-     "comments": 58
+     "comments": 61
     },
     {
-     "id": 50406563,
-     "title": "The end of Microsoft Research's AI Frontiers group",
-     "url": "https://hunch.net/?p=13764006",
-     "score": 417,
-     "by": "srean",
-     "time": 1794074537,
-     "comments": 243
+     "id": 50377661,
+     "title": "Uranium cubes reveal why the German nuclear project failed",
+     "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+     "score": 84,
+     "by": "rbanffy",
+     "time": 1793875924,
+     "comments": 48
+    },
+    {
+     "id": 50403052,
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "score": 855,
+     "by": "fluxusars",
+     "time": 1794044196,
+     "comments": 234
     },
     {
      "id": 50351954,
      "title": "Amsterdam School",
      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-     "score": 6,
+     "score": 9,
      "by": "bondarchuk",
      "time": 1793713819,
      "comments": 1
     },
     {
+     "id": 50406222,
+     "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+     "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+     "score": 226,
+     "by": "antiuniverse",
+     "time": 1794071940,
+     "comments": 67
+    },
+    {
+     "id": 50406292,
+     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+     "url": "https://github.com/hedgerow-dev/coldframe",
+     "score": 203,
+     "by": "hedgerow-dev",
+     "time": 1794072450,
+     "comments": 44
+    },
+    {
+     "id": 50406563,
+     "title": "The end of Microsoft Research's AI Frontiers group",
+     "url": "https://hunch.net/?p=13764006",
+     "score": 422,
+     "by": "srean",
+     "time": 1794074537,
+     "comments": 246
+    },
+    {
      "id": 50403097,
      "title": "Every Mac comes with an (undocumented) family member classifier",
      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 626,
+     "score": 635,
      "by": "infwhispers",
      "time": 1794044763,
-     "comments": 351
+     "comments": 355
     },
     {
-     "id": 50358337,
-     "title": "Turning every radio into a radar",
-     "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-     "score": 38,
-     "by": "hasley",
-     "time": 1793740728,
-     "comments": 6
+     "id": 50409855,
+     "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+     "url": "https://github.com/crmne/zapfast",
+     "score": 6,
+     "by": "handfuloflight",
+     "time": 1794103347,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T03:26:40.142721+00:00",
+   "fetched_at": "2026-11-08T03:56:45.804290+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T03:26:41.447235+00:00",
+   "fetched_at": "2026-11-08T03:56:46.748010+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3976,
+     "stars": 3979,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3068,
+     "stars": 3070,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2401,
+     "stars": 2415,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2255,
+     "stars": 2264,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1964,
+     "stars": 1990,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1696,
+     "stars": 1708,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1221,
+     "stars": 1227,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1152,
+     "stars": 1155,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,23 +227,23 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1078,
+     "stars": 1082,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
     },
     {
-     "full_name": "voyager-so/vork",
-     "url": "https://github.com/voyager-so/vork",
-     "stars": 907,
-     "language": "Rust",
-     "description": "Headless 3D and VFX engine for agents. Research preview.",
-     "created_at": "2026-11-05T22:37:07Z"
+     "full_name": "sarpstar/cinecode",
+     "url": "https://github.com/sarpstar/cinecode",
+     "stars": 932,
+     "language": "Python",
+     "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+     "created_at": "2026-11-03T10:08:16Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T03:26:41.865648+00:00",
+   "fetched_at": "2026-11-08T03:56:47.045204+00:00",
    "stale": false,
    "items": [
     {
@@ -274,7 +274,7 @@
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 127,
+     "reactions": 128,
      "comments": 90,
      "published_at": "2026-11-04T17:11:22Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T03:26:41.906433+00:00",
+   "fetched_at": "2026-11-08T03:56:47.234654+00:00",
    "stale": false,
    "items": [
     {
