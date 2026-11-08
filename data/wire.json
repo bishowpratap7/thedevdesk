@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-08T19:30:47.108152+00:00",
+ "generated_at": "2026-11-08T20:00:53.374560+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T19:30:42.263679+00:00",
+   "fetched_at": "2026-11-08T20:00:48.805025+00:00",
    "stale": false,
    "items": [
     {
      "id": 50415628,
      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "score": 161,
+     "score": 221,
      "by": "TheWiggles",
      "time": 1794161767,
-     "comments": 103
+     "comments": 143
     },
     {
-     "id": 50411961,
-     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-     "url": "https://github.com/synchopate/llama-modchip",
-     "score": 272,
-     "by": "joshcsimmons",
-     "time": 1794133324,
-     "comments": 88
+     "id": 50416158,
+     "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+     "score": 24,
+     "by": "xmddmx",
+     "time": 1794165632,
+     "comments": 12
     },
     {
-     "id": 50414331,
-     "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
-     "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
-     "score": 47,
-     "by": "iamnothere",
-     "time": 1794153457,
-     "comments": 25
-    },
-    {
-     "id": 50389923,
-     "title": "The Reconstruction of Torn Documents",
-     "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-     "score": 60,
-     "by": "jacquesm",
-     "time": 1793955918,
-     "comments": 38
-    },
-    {
-     "id": 50412067,
-     "title": "Writing as a thinking tool",
-     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-     "score": 176,
-     "by": "jruohonen",
-     "time": 1794134512,
-     "comments": 58
-    },
-    {
-     "id": 50415817,
-     "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-     "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-     "score": 27,
-     "by": "zzzeek",
-     "time": 1794163387,
-     "comments": 20
-    },
-    {
-     "id": 50415135,
-     "title": "A Little Snitch for Windows",
-     "url": "https://packethound.app/",
-     "score": 35,
-     "by": "BadBoyBubby",
-     "time": 1794158167,
-     "comments": 18
-    },
-    {
-     "id": 50413769,
-     "title": "I'm not a fan of Deno's security model (2024)",
-     "url": "https://goldstein.lol/posts/deno-security/",
-     "score": 44,
-     "by": "maxloh",
-     "time": 1794148958,
-     "comments": 21
+     "id": 50416053,
+     "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+     "url": "https://duxlabs.dev/",
+     "score": 21,
+     "by": "indigodaddy",
+     "time": 1794164931,
+     "comments": 2
     },
     {
      "id": 50368481,
      "title": "Declarative Dragging",
      "url": "https://declarative-dragging.github.io/",
-     "score": 20,
+     "score": 63,
      "by": "smusamashah",
      "time": 1793811907,
+     "comments": 2
+    },
+    {
+     "id": 50411961,
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "url": "https://github.com/synchopate/llama-modchip",
+     "score": 282,
+     "by": "joshcsimmons",
+     "time": 1794133324,
+     "comments": 100
+    },
+    {
+     "id": 50412067,
+     "title": "Writing as a thinking tool",
+     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+     "score": 191,
+     "by": "jruohonen",
+     "time": 1794134512,
+     "comments": 65
+    },
+    {
+     "id": 50416363,
+     "title": "How I Fight AI Brain Fry",
+     "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+     "score": 3,
+     "by": "kyunez",
+     "time": 1794166662,
      "comments": 0
     },
     {
-     "id": 50362963,
-     "title": "Show HN: Vegetable Gardening for Engineers",
-     "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-     "score": 70,
-     "by": "jrcplus",
-     "time": 1793782467,
-     "comments": 18
+     "id": 50415817,
+     "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+     "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+     "score": 46,
+     "by": "zzzeek",
+     "time": 1794163387,
+     "comments": 42
     },
     {
-     "id": 50410107,
-     "title": "Goodbye Claude, hello Pi",
-     "url": "https://caleb.software/posts/claude-to-pi.html",
-     "score": 595,
-     "by": "karagenit",
-     "time": 1794107508,
-     "comments": 385
+     "id": 50389923,
+     "title": "The Reconstruction of Torn Documents",
+     "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+     "score": 65,
+     "by": "jacquesm",
+     "time": 1793955918,
+     "comments": 39
     },
     {
-     "id": 50366821,
-     "title": "Porting Android 16 to my blind mother's keypad phone",
-     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-     "score": 114,
-     "by": "z1xus",
-     "time": 1793805539,
-     "comments": 36
+     "id": 50413769,
+     "title": "I'm not a fan of Deno's security model (2024)",
+     "url": "https://goldstein.lol/posts/deno-security/",
+     "score": 52,
+     "by": "maxloh",
+     "time": 1794148958,
+     "comments": 22
+    },
+    {
+     "id": 50415172,
+     "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+     "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+     "score": 29,
+     "by": "randycupertino",
+     "time": 1794158429,
+     "comments": 9
+    },
+    {
+     "id": 50415135,
+     "title": "A Little Snitch for Windows",
+     "url": "https://packethound.app/",
+     "score": 42,
+     "by": "BadBoyBubby",
+     "time": 1794158167,
+     "comments": 21
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T19:30:43.592200+00:00",
+   "fetched_at": "2026-11-08T20:00:50.152069+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T19:30:45.425601+00:00",
+   "fetched_at": "2026-11-08T20:00:51.996856+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3227,
+     "stars": 3229,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 3146,
+     "stars": 3159,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 2734,
+     "stars": 2764,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2370,
+     "stars": 2371,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1855,
+     "stars": 1856,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1505,
+     "stars": 1517,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1350,
+     "stars": 1352,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1228,
+     "stars": 1229,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T19:30:45.957191+00:00",
+   "fetched_at": "2026-11-08T20:00:52.583415+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 224,
-     "comments": 200,
+     "reactions": 229,
+     "comments": 201,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 138,
-     "comments": 108,
+     "comments": 109,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T19:30:46.235321+00:00",
+   "fetched_at": "2026-11-08T20:00:52.818528+00:00",
    "stale": false,
    "items": [
     {
