@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T08:57:41.643115+00:00",
+ "generated_at": "2026-11-08T08:57:57.711195+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T08:57:39.273400+00:00",
+   "fetched_at": "2026-11-08T08:57:52.998927+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T08:57:40.207740+00:00",
+   "fetched_at": "2026-11-08T08:57:54.302869+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T08:57:41.014411+00:00",
+   "fetched_at": "2026-11-08T08:57:56.142591+00:00",
    "stale": false,
    "items": [
     {
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2603,
+     "stars": 2605,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T08:57:41.345125+00:00",
+   "fetched_at": "2026-11-08T08:57:56.766418+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 207,
-     "comments": 182,
+     "reactions": 208,
+     "comments": 183,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -274,7 +274,7 @@
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 130,
+     "reactions": 131,
      "comments": 92,
      "published_at": "2026-11-04T17:11:22Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T08:57:41.386252+00:00",
+   "fetched_at": "2026-11-08T08:57:57.027448+00:00",
    "stale": false,
    "items": [
     {
