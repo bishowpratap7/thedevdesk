@@ -1,87 +1,78 @@
 {
- "generated_at": "2026-11-08T17:30:02.609973+00:00",
+ "generated_at": "2026-11-08T18:00:09.720276+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T17:29:58.012384+00:00",
+   "fetched_at": "2026-11-08T18:00:04.465781+00:00",
    "stale": false,
    "items": [
     {
      "id": 50411961,
      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
      "url": "https://github.com/synchopate/llama-modchip",
-     "score": 194,
+     "score": 222,
      "by": "joshcsimmons",
      "time": 1794133324,
-     "comments": 62
+     "comments": 66
     },
     {
      "id": 50389923,
      "title": "The Reconstruction of Torn Documents",
      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-     "score": 35,
+     "score": 42,
      "by": "jacquesm",
      "time": 1793955918,
-     "comments": 10
+     "comments": 19
     },
     {
      "id": 50412067,
      "title": "Writing as a thinking tool",
      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-     "score": 108,
+     "score": 126,
      "by": "jruohonen",
      "time": 1794134512,
-     "comments": 24
-    },
-    {
-     "id": 50413822,
-     "title": "OpenAI raises $11B at a $1.25T valuation",
-     "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-     "score": 126,
-     "by": "armcat",
-     "time": 1794149363,
-     "comments": 113
-    },
-    {
-     "id": 50366821,
-     "title": "Porting Android 16 to my blind mother's keypad phone",
-     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-     "score": 86,
-     "by": "z1xus",
-     "time": 1793805539,
-     "comments": 31
+     "comments": 37
     },
     {
      "id": 50410107,
      "title": "Goodbye Claude, hello Pi",
      "url": "https://caleb.software/posts/claude-to-pi.html",
-     "score": 556,
+     "score": 568,
      "by": "karagenit",
      "time": 1794107508,
-     "comments": 350
+     "comments": 356
     },
     {
      "id": 50413769,
      "title": "I'm not a fan of Deno's security model (2024)",
      "url": "https://goldstein.lol/posts/deno-security/",
-     "score": 27,
+     "score": 29,
      "by": "maxloh",
      "time": 1794148958,
-     "comments": 9
+     "comments": 13
+    },
+    {
+     "id": 50366821,
+     "title": "Porting Android 16 to my blind mother's keypad phone",
+     "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+     "score": 93,
+     "by": "z1xus",
+     "time": 1793805539,
+     "comments": 32
     },
     {
      "id": 50362963,
      "title": "Show HN: Vegetable Gardening for Engineers",
      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-     "score": 24,
+     "score": 37,
      "by": "jrcplus",
      "time": 1793782467,
-     "comments": 4
+     "comments": 6
     },
     {
      "id": 50412072,
      "title": "JIT bitmap text rendering for microcontrollers",
      "url": "https://linebender.org/blog/jit-bitmap-text/",
-     "score": 66,
+     "score": 69,
      "by": "dmit",
      "time": 1794134535,
      "comments": 11
@@ -90,33 +81,42 @@
      "id": 50406670,
      "title": "What I run on my $10 USD OpenStick homelab",
      "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 697,
+     "score": 705,
      "by": "LaurensBER",
      "time": 1794075132,
-     "comments": 125
+     "comments": 126
     },
     {
      "id": 50366902,
      "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
      "url": "https://clj.rs/",
-     "score": 121,
+     "score": 127,
      "by": "simonpure",
      "time": 1793805796,
-     "comments": 47
+     "comments": 48
+    },
+    {
+     "id": 50413822,
+     "title": "OpenAI raises $11B at a $1.25T valuation",
+     "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+     "score": 144,
+     "by": "armcat",
+     "time": 1794149363,
+     "comments": 150
     },
     {
      "id": 50407882,
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 504,
+     "score": 507,
      "by": "shmulc",
      "time": 1794084332,
-     "comments": 366
+     "comments": 370
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T17:29:59.309603+00:00",
+   "fetched_at": "2026-11-08T18:00:06.710304+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T17:30:01.171365+00:00",
+   "fetched_at": "2026-11-08T18:00:08.544291+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3215,
+     "stars": 3217,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 3069,
+     "stars": 3097,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 2604,
+     "stars": 2633,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1850,
+     "stars": 1851,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1465,
+     "stars": 1476,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1336,
+     "stars": 1341,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1320,
+     "stars": 1321,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1217,
+     "stars": 1220,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T17:30:01.710159+00:00",
+   "fetched_at": "2026-11-08T18:00:09.063589+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T17:30:01.979585+00:00",
+   "fetched_at": "2026-11-08T18:00:09.182451+00:00",
    "stale": false,
    "items": [
     {
