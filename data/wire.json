@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T13:59:02.225686+00:00",
+ "generated_at": "2026-11-08T13:59:17.654235+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T13:58:56.647596+00:00",
+   "fetched_at": "2026-11-08T13:59:13.094835+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T13:58:59.058227+00:00",
+   "fetched_at": "2026-11-08T13:59:14.423937+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T13:59:00.883098+00:00",
+   "fetched_at": "2026-11-08T13:59:16.222994+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T13:59:01.463963+00:00",
+   "fetched_at": "2026-11-08T13:59:16.775360+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 137,
-     "comments": 97,
+     "comments": 98,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T13:59:01.644608+00:00",
+   "fetched_at": "2026-11-08T13:59:16.961740+00:00",
    "stale": false,
    "items": [
     {
