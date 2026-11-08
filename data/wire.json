@@ -1,15 +1,24 @@
 {
- "generated_at": "2026-11-08T04:57:09.477660+00:00",
+ "generated_at": "2026-11-08T05:27:13.250133+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T04:57:06.759813+00:00",
+   "fetched_at": "2026-11-08T05:27:10.651559+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50410107,
+     "title": "Goodbye Claude, Hello Pi",
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "score": 41,
+     "by": "karagenit",
+     "time": 1794107508,
+     "comments": 22
+    },
     {
      "id": 50406670,
      "title": "What I run on my $10 USD OpenStick homelab",
      "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 449,
+     "score": 461,
      "by": "LaurensBER",
      "time": 1794075132,
      "comments": 96
@@ -18,105 +27,96 @@
      "id": 50407882,
      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 268,
+     "score": 278,
      "by": "shmulc",
      "time": 1794084332,
-     "comments": 177
+     "comments": 192
     },
     {
      "id": 50409855,
      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
      "url": "https://github.com/crmne/zapfast",
-     "score": 20,
+     "score": 26,
      "by": "handfuloflight",
      "time": 1794103347,
-     "comments": 7
+     "comments": 12
     },
     {
      "id": 50408713,
      "title": "Making any integer with four 2s (2025)",
      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-     "score": 83,
+     "score": 90,
      "by": "germanrabbit",
      "time": 1794091138,
-     "comments": 23
+     "comments": 25
     },
     {
-     "id": 50410107,
-     "title": "Goodbye Claude, Hello Pi",
-     "url": "https://caleb.software/posts/claude-to-pi.html",
-     "score": 10,
-     "by": "karagenit",
-     "time": 1794107508,
-     "comments": 9
-    },
-    {
-     "id": 50377661,
-     "title": "Uranium cubes reveal why the German nuclear project failed",
-     "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-     "score": 94,
-     "by": "rbanffy",
-     "time": 1793875924,
-     "comments": 55
+     "id": 50410359,
+     "title": "Kirlian Photography: Building Your Own Equipment",
+     "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+     "score": 6,
+     "by": "joebig",
+     "time": 1794111252,
+     "comments": 0
     },
     {
      "id": 50403052,
      "title": "Need for Speed Underground 2 online in the browser",
      "url": "https://nfsu2.xyz/",
-     "score": 867,
+     "score": 876,
      "by": "fluxusars",
      "time": 1794044196,
-     "comments": 238
+     "comments": 239
     },
     {
-     "id": 50408931,
-     "title": "GitHub New pull request overview page in public preview",
-     "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-     "score": 99,
-     "by": "xiaoyu2006",
-     "time": 1794092980,
-     "comments": 68
+     "id": 50377661,
+     "title": "Uranium cubes reveal why the German nuclear project failed",
+     "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+     "score": 98,
+     "by": "rbanffy",
+     "time": 1793875924,
+     "comments": 61
+    },
+    {
+     "id": 50410279,
+     "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+     "url": "https://github.com/waywardgeek/ensemble",
+     "score": 7,
+     "by": "WaywardGeek",
+     "time": 1794109915,
+     "comments": 5
     },
     {
      "id": 50351954,
      "title": "Amsterdam School",
      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-     "score": 13,
+     "score": 14,
      "by": "bondarchuk",
      "time": 1793713819,
      "comments": 1
     },
     {
+     "id": 50408931,
+     "title": "GitHub New pull request overview page in public preview",
+     "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+     "score": 104,
+     "by": "xiaoyu2006",
+     "time": 1794092980,
+     "comments": 71
+    },
+    {
      "id": 50406222,
      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-     "score": 241,
+     "score": 248,
      "by": "antiuniverse",
      "time": 1794071940,
-     "comments": 67
-    },
-    {
-     "id": 50406292,
-     "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-     "url": "https://github.com/hedgerow-dev/coldframe",
-     "score": 207,
-     "by": "hedgerow-dev",
-     "time": 1794072450,
-     "comments": 44
-    },
-    {
-     "id": 50403097,
-     "title": "Every Mac comes with an (undocumented) family member classifier",
-     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "score": 650,
-     "by": "infwhispers",
-     "time": 1794044763,
-     "comments": 362
+     "comments": 72
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T04:57:07.720188+00:00",
+   "fetched_at": "2026-11-08T05:27:11.647193+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T04:57:08.559639+00:00",
+   "fetched_at": "2026-11-08T05:27:12.474672+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3988,
+     "stars": 3991,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3075,
+     "stars": 3085,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2442,
+     "stars": 2460,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2275,
+     "stars": 2283,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 2033,
+     "stars": 2050,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1739,
+     "stars": 1745,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1241,
+     "stars": 1246,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1158,
+     "stars": 1159,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1089,
+     "stars": 1090,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 977,
+     "stars": 993,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T04:57:08.875296+00:00",
+   "fetched_at": "2026-11-08T05:27:12.805616+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T04:57:08.912655+00:00",
+   "fetched_at": "2026-11-08T05:27:12.825301+00:00",
    "stale": false,
    "items": [
     {
