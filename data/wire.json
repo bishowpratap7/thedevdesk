@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-07T23:56:03.379148+00:00",
+ "generated_at": "2026-11-08T00:26:08.865810+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-07T23:55:59.426839+00:00",
+   "fetched_at": "2026-11-08T00:26:04.837194+00:00",
    "stale": false,
    "items": [
     {
      "id": 50406563,
      "title": "The end of Microsoft Research's AI Frontiers group",
      "url": "https://hunch.net/?p=13764006",
-     "score": 326,
+     "score": 340,
      "by": "srean",
      "time": 1794074537,
-     "comments": 186
-    },
-    {
-     "id": 50406670,
-     "title": "What I run on my $10 USD OpenStick homelab",
-     "url": "https://blog.bosscher.ch/posts/openstick/",
-     "score": 278,
-     "by": "LaurensBER",
-     "time": 1794075132,
-     "comments": 65
-    },
-    {
-     "id": 50407882,
-     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "score": 102,
-     "by": "shmulc",
-     "time": 1794084332,
-     "comments": 74
+     "comments": 195
     },
     {
      "id": 50408931,
      "title": "GitHub New pull request overview page in public preview",
      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-     "score": 13,
+     "score": 24,
      "by": "xiaoyu2006",
      "time": 1794092980,
-     "comments": 0
+     "comments": 14
     },
     {
-     "id": 50406111,
-     "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-     "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-     "score": 311,
-     "by": "user_7832",
-     "time": 1794071196,
-     "comments": 216
+     "id": 50406670,
+     "title": "What I run on my $10 USD OpenStick homelab",
+     "url": "https://blog.bosscher.ch/posts/openstick/",
+     "score": 297,
+     "by": "LaurensBER",
+     "time": 1794075132,
+     "comments": 75
     },
     {
      "id": 50408713,
      "title": "Making any integer with four 2s (2025)",
      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-     "score": 22,
+     "score": 34,
      "by": "germanrabbit",
      "time": 1794091138,
-     "comments": 4
+     "comments": 6
+    },
+    {
+     "id": 50407882,
+     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "score": 124,
+     "by": "shmulc",
+     "time": 1794084332,
+     "comments": 92
+    },
+    {
+     "id": 50406111,
+     "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+     "score": 322,
+     "by": "user_7832",
+     "time": 1794071196,
+     "comments": 224
     },
     {
      "id": 50406292,
      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
      "url": "https://github.com/hedgerow-dev/coldframe",
-     "score": 176,
+     "score": 184,
      "by": "hedgerow-dev",
      "time": 1794072450,
-     "comments": 38
+     "comments": 39
     },
     {
      "id": 50406222,
      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-     "score": 168,
+     "score": 178,
      "by": "antiuniverse",
      "time": 1794071940,
      "comments": 55
     },
     {
-     "id": 50403052,
-     "title": "Need for Speed Underground 2 online in the browser",
-     "url": "https://nfsu2.xyz/",
-     "score": 773,
-     "by": "fluxusars",
-     "time": 1794044196,
-     "comments": 220
-    },
-    {
      "id": 50377661,
      "title": "Uranium cubes reveal why the German nuclear project failed",
      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-     "score": 39,
+     "score": 47,
      "by": "rbanffy",
      "time": 1793875924,
+     "comments": 11
+    },
+    {
+     "id": 50403052,
+     "title": "Need for Speed Underground 2 online in the browser",
+     "url": "https://nfsu2.xyz/",
+     "score": 782,
+     "by": "fluxusars",
+     "time": 1794044196,
+     "comments": 222
+    },
+    {
+     "id": 50358337,
+     "title": "Turning Every Radio into a Radar",
+     "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+     "score": 17,
+     "by": "hasley",
+     "time": 1793740728,
+     "comments": 5
+    },
+    {
+     "id": 50408350,
+     "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+     "url": "https://eyesrhythm.com/",
+     "score": 21,
+     "by": "prnysoni",
+     "time": 1794088067,
      "comments": 6
-    },
-    {
-     "id": 50405172,
-     "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-     "url": "https://www.retrosongbird.com/",
-     "score": 26,
-     "by": "hentrep",
-     "time": 1794064014,
-     "comments": 4
-    },
-    {
-     "id": 50406319,
-     "title": "Five memorable books about programming (2008)",
-     "url": "https://prog21.dadgum.com/19.html",
-     "score": 74,
-     "by": "andsoitis",
-     "time": 1794072649,
-     "comments": 45
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-07T23:56:01.254068+00:00",
+   "fetched_at": "2026-11-08T00:26:06.387115+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-07T23:56:02.188204+00:00",
+   "fetched_at": "2026-11-08T00:26:07.681221+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 3951,
+     "stars": 3952,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3053,
+     "stars": 3055,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 2283,
+     "stars": 2297,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -193,25 +193,9 @@
      "created_at": "2026-11-03T03:22:56Z"
     },
     {
-     "full_name": "mromidev/claude-animated-shorts",
-     "url": "https://github.com/mromidev/claude-animated-shorts",
-     "stars": 2223,
-     "language": "TypeScript",
-     "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-     "created_at": "2026-11-01T05:50:38Z"
-    },
-    {
-     "full_name": "caru-ini/stack-diagram",
-     "url": "https://github.com/caru-ini/stack-diagram",
-     "stars": 2068,
-     "language": "TypeScript",
-     "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-     "created_at": "2026-11-01T05:35:12Z"
-    },
-    {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 1789,
+     "stars": 1815,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -219,31 +203,47 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1652,
+     "stars": 1659,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
     },
     {
-     "full_name": "wquguru/cicada",
-     "url": "https://github.com/wquguru/cicada",
-     "stars": 1622,
-     "language": "Swift",
-     "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-     "created_at": "2026-11-01T05:41:23Z"
+     "full_name": "livliv-dev/player",
+     "url": "https://github.com/livliv-dev/player",
+     "stars": 1199,
+     "language": "TypeScript",
+     "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "created_at": "2026-11-04T03:28:33Z"
     },
     {
-     "full_name": "s1dashu/quiet-md",
-     "url": "https://github.com/s1dashu/quiet-md",
-     "stars": 1267,
+     "full_name": "mmdoctor/google-pro-helper",
+     "url": "https://github.com/mmdoctor/google-pro-helper",
+     "stars": 1137,
+     "language": "Python",
+     "description": null,
+     "created_at": "2026-11-05T04:52:28Z"
+    },
+    {
+     "full_name": "Sandflow-ai/sand3d",
+     "url": "https://github.com/Sandflow-ai/sand3d",
+     "stars": 1049,
+     "language": "HTML",
+     "description": "3D modeling in Python, built for LLMs.",
+     "created_at": "2026-11-03T08:23:03Z"
+    },
+    {
+     "full_name": "voyager-so/vork",
+     "url": "https://github.com/voyager-so/vork",
+     "stars": 873,
      "language": "Rust",
-     "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
-     "created_at": "2026-11-01T14:22:53Z"
+     "description": "Headless 3D and VFX engine for agents. Research preview.",
+     "created_at": "2026-11-05T22:37:07Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-07T23:56:02.513988+00:00",
+   "fetched_at": "2026-11-08T00:26:08.077934+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 123,
+     "reactions": 124,
      "comments": 25,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 127,
-     "comments": 88,
+     "comments": 89,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -306,14 +306,14 @@
      "title": "Let's see where you code!",
      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 89,
+     "reactions": 90,
      "comments": 43,
      "published_at": "2026-11-03T20:18:40Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-07T23:56:02.591040+00:00",
+   "fetched_at": "2026-11-08T00:26:08.232988+00:00",
    "stale": false,
    "items": [
     {
