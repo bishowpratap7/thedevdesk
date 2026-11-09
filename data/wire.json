@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-09T22:37:13.275112+00:00",
+ "generated_at": "2026-11-09T23:07:18.318406+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T22:37:10.389097+00:00",
+   "fetched_at": "2026-11-09T23:07:14.760672+00:00",
    "stale": false,
    "items": [
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 297,
+     "score": 331,
      "by": "munro",
      "time": 1794254339,
-     "comments": 144
+     "comments": 167
     },
     {
      "id": 50431144,
      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-     "score": 170,
+     "score": 205,
      "by": "theanonymousone",
      "time": 1794254695,
-     "comments": 94
-    },
-    {
-     "id": 50429734,
-     "title": "E-means: 10x faster k-means at equal loss",
-     "url": "https://e-means.github.io/",
-     "score": 196,
-     "by": "porridgeraisin",
-     "time": 1794249943,
-     "comments": 11
-    },
-    {
-     "id": 50427362,
-     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 426,
-     "by": "ocd",
-     "time": 1794240045,
-     "comments": 234
-    },
-    {
-     "id": 50429426,
-     "title": "Google Gemini routes personal Drive files and emails to human annotators",
-     "url": "https://github.com/thisisme6598/gemini_files/",
-     "score": 197,
-     "by": "gf74918",
-     "time": 1794248678,
-     "comments": 33
-    },
-    {
-     "id": 50429024,
-     "title": "Our Smallest, Most Efficient Model: Muse Ember",
-     "url": "https://research.meta.ai/blog/muse-ember",
-     "score": 201,
-     "by": "dvaplima",
-     "time": 1794247126,
-     "comments": 84
-    },
-    {
-     "id": 50430621,
-     "title": "CUI \u2013 Native UI components for C",
-     "url": "https://yappologistic.github.io/CUI/",
-     "score": 100,
-     "by": "hilti",
-     "time": 1794252916,
-     "comments": 57
-    },
-    {
-     "id": 50429430,
-     "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-     "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-     "score": 77,
-     "by": "sshah03",
-     "time": 1794248701,
-     "comments": 33
-    },
-    {
-     "id": 50424581,
-     "title": "Fold Epic Paper Airplanes",
-     "url": "https://www.foldableflight.com",
-     "score": 770,
-     "by": "vismit2000",
-     "time": 1794226762,
-     "comments": 130
-    },
-    {
-     "id": 50429906,
-     "title": "Claude Fable 5.2 and Mythos 5.2",
-     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 790,
-     "by": "meetpateltech",
-     "time": 1794250589,
-     "comments": 465
+     "comments": 122
     },
     {
      "id": 50432831,
      "title": "TPUs",
      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-     "score": 10,
+     "score": 49,
      "by": "_benx_",
      "time": 1794261417,
      "comments": 1
     },
     {
-     "id": 50428907,
-     "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-     "url": "https://www.watched.earth",
-     "score": 168,
-     "by": "a585gupt",
-     "time": 1794246691,
-     "comments": 33
+     "id": 50429426,
+     "title": "Google Gemini routes personal Drive files and emails to human annotators",
+     "url": "https://github.com/thisisme6598/gemini_files/",
+     "score": 242,
+     "by": "gf74918",
+     "time": 1794248678,
+     "comments": 48
+    },
+    {
+     "id": 50429734,
+     "title": "E-means: 10x faster k-means at equal loss",
+     "url": "https://e-means.github.io/",
+     "score": 219,
+     "by": "porridgeraisin",
+     "time": 1794249943,
+     "comments": 12
+    },
+    {
+     "id": 50427362,
+     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+     "score": 435,
+     "by": "ocd",
+     "time": 1794240045,
+     "comments": 242
+    },
+    {
+     "id": 50429024,
+     "title": "Our Smallest, Most Efficient Model: Muse Ember",
+     "url": "https://research.meta.ai/blog/muse-ember",
+     "score": 213,
+     "by": "dvaplima",
+     "time": 1794247126,
+     "comments": 87
+    },
+    {
+     "id": 50430621,
+     "title": "CUI \u2013 Native UI components for C",
+     "url": "https://yappologistic.github.io/CUI/",
+     "score": 122,
+     "by": "hilti",
+     "time": 1794252916,
+     "comments": 62
+    },
+    {
+     "id": 50424581,
+     "title": "Fold Epic Paper Airplanes",
+     "url": "https://www.foldableflight.com",
+     "score": 786,
+     "by": "vismit2000",
+     "time": 1794226762,
+     "comments": 133
+    },
+    {
+     "id": 50429430,
+     "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+     "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+     "score": 84,
+     "by": "sshah03",
+     "time": 1794248701,
+     "comments": 44
+    },
+    {
+     "id": 50429906,
+     "title": "Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "score": 820,
+     "by": "meetpateltech",
+     "time": 1794250589,
+     "comments": 482
+    },
+    {
+     "id": 50426175,
+     "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+     "score": 243,
+     "by": "speckx",
+     "time": 1794234699,
+     "comments": 149
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T22:37:11.570816+00:00",
+   "fetched_at": "2026-11-09T23:07:16.504736+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T22:37:12.525592+00:00",
+   "fetched_at": "2026-11-09T23:07:17.476492+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 5751,
+     "stars": 5793,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 4851,
+     "stars": 4892,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2503,
+     "stars": 2504,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2319,
+     "stars": 2325,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "janestreet/agent_skills",
      "url": "https://github.com/janestreet/agent_skills",
-     "stars": 1952,
+     "stars": 1988,
      "language": null,
      "description": "Agent skills",
      "created_at": "2026-11-03T16:50:21Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1907,
+     "stars": 1910,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1716,
+     "stars": 1722,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1612,
+     "stars": 1613,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T22:37:12.840817+00:00",
+   "fetched_at": "2026-11-09T23:07:17.939002+00:00",
    "stale": false,
    "items": [
     {
@@ -274,7 +274,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 60,
+     "reactions": 61,
      "comments": 10,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T22:37:12.876721+00:00",
+   "fetched_at": "2026-11-09T23:07:17.986183+00:00",
    "stale": false,
    "items": [
     {
