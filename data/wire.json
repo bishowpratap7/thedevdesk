@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-09T06:03:21.264077+00:00",
+ "generated_at": "2026-11-09T06:33:28.184340+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T06:03:16.584601+00:00",
+   "fetched_at": "2026-11-09T06:33:23.878325+00:00",
    "stale": false,
    "items": [
     {
      "id": 50420035,
      "title": "RIP, Harvest",
      "url": "https://aphyr.com/posts/427-rip-harvest",
-     "score": 239,
+     "score": 269,
      "by": "zdw",
      "time": 1794189501,
-     "comments": 70
+     "comments": 81
+    },
+    {
+     "id": 50421426,
+     "title": "Apple capped engineers at a $200 daily AI budget",
+     "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+     "score": 24,
+     "by": "GloVin",
+     "time": 1794202211,
+     "comments": 22
     },
     {
      "id": 50418176,
      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
      "url": "https://ketchup3d.github.io/app/",
-     "score": 355,
+     "score": 366,
      "by": "dcoulmbe",
      "time": 1794177335,
-     "comments": 94
-    },
-    {
-     "id": 50420857,
-     "title": "A Critique of GPUI",
-     "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-     "score": 50,
-     "by": "ByteAtATime",
-     "time": 1794196270,
-     "comments": 20
+     "comments": 96
     },
     {
      "id": 50419215,
      "title": "Unlocking any car from X brand in most of the world",
      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-     "score": 193,
+     "score": 210,
      "by": "infosecau",
      "time": 1794183050,
-     "comments": 68
+     "comments": 73
+    },
+    {
+     "id": 50420857,
+     "title": "A Critique of GPUI",
+     "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+     "score": 60,
+     "by": "ByteAtATime",
+     "time": 1794196270,
+     "comments": 24
     },
     {
      "id": 50418182,
      "title": "Chimera Vocal Synth",
      "url": "https://chimera-vocal-synth.vercel.app/",
-     "score": 159,
+     "score": 166,
      "by": "nmstoker",
      "time": 1794177363,
      "comments": 23
     },
     {
-     "id": 50418975,
-     "title": "I'm not convinced the AI bubble exists",
-     "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-     "score": 134,
-     "by": "matteoraso",
-     "time": 1794181476,
-     "comments": 184
-    },
-    {
      "id": 50368481,
      "title": "Declarative Dragging",
      "url": "https://declarative-dragging.github.io/",
-     "score": 449,
+     "score": 459,
      "by": "smusamashah",
      "time": 1793811907,
-     "comments": 58
+     "comments": 60
+    },
+    {
+     "id": 50418975,
+     "title": "I'm not convinced the AI bubble exists",
+     "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+     "score": 150,
+     "by": "matteoraso",
+     "time": 1794181476,
+     "comments": 207
     },
     {
      "id": 50416053,
      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
      "url": "https://duxlabs.dev/",
-     "score": 238,
+     "score": 244,
      "by": "indigodaddy",
      "time": 1794164931,
-     "comments": 75
-    },
-    {
-     "id": 50416158,
-     "title": "Outlook.com is rejecting email from domains without DMARC",
-     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-     "score": 333,
-     "by": "xmddmx",
-     "time": 1794165632,
-     "comments": 249
-    },
-    {
-     "id": 50418016,
-     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-     "score": 484,
-     "by": "karimf",
-     "time": 1794176409,
-     "comments": 520
+     "comments": 77
     },
     {
      "id": 50417407,
      "title": "Ask HN: What are you working on? (November 2026)",
      "url": null,
-     "score": 180,
+     "score": 187,
      "by": "david927",
      "time": 1794172820,
-     "comments": 604
+     "comments": 629
     },
     {
-     "id": 50420599,
-     "title": "The Qlobe: Rotating Quine (2010)",
-     "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-     "score": 14,
-     "by": "niceguitars",
-     "time": 1794194117,
-     "comments": 0
+     "id": 50418016,
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+     "score": 510,
+     "by": "karimf",
+     "time": 1794176409,
+     "comments": 554
+    },
+    {
+     "id": 50416158,
+     "title": "Outlook.com is rejecting email from domains without DMARC",
+     "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+     "score": 341,
+     "by": "xmddmx",
+     "time": 1794165632,
+     "comments": 256
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T06:03:18.350286+00:00",
+   "fetched_at": "2026-11-09T06:33:25.061112+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T06:03:19.909420+00:00",
+   "fetched_at": "2026-11-09T06:33:26.604967+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4165,
+     "stars": 4172,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 3921,
+     "stars": 3996,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 3370,
+     "stars": 3394,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3288,
+     "stars": 3292,
      "language": "Python",
      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
      "created_at": "2026-11-04T14:54:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2421,
+     "stars": 2423,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1884,
+     "stars": 1887,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1665,
+     "stars": 1673,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 1522,
+     "stars": 1537,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1473,
+     "stars": 1477,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1355,
+     "stars": 1356,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T06:03:20.490857+00:00",
+   "fetched_at": "2026-11-09T06:33:27.172812+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 233,
+     "reactions": 234,
      "comments": 203,
      "published_at": "2026-11-04T08:06:25Z"
     },
@@ -267,14 +267,14 @@
      "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 150,
-     "comments": 86,
+     "comments": 87,
      "published_at": "2026-11-02T16:11:59Z"
     },
     {
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 140,
+     "reactions": 146,
      "comments": 114,
      "published_at": "2026-11-04T17:11:22Z"
     },
@@ -291,7 +291,7 @@
      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
      "author": "xulingfeng",
      "reactions": 125,
-     "comments": 68,
+     "comments": 69,
      "published_at": "2026-11-06T01:27:32Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T06:03:20.608503+00:00",
+   "fetched_at": "2026-11-09T06:33:27.477604+00:00",
    "stale": false,
    "items": [
     {
