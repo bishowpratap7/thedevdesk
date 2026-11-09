@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-08T23:31:36.117887+00:00",
+ "generated_at": "2026-11-09T00:01:42.359629+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-08T23:31:31.678556+00:00",
+   "fetched_at": "2026-11-09T00:01:37.686719+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50416053,
-     "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-     "url": "https://duxlabs.dev/",
-     "score": 156,
-     "by": "indigodaddy",
-     "time": 1794164931,
-     "comments": 49
-    },
-    {
-     "id": 50418016,
-     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-     "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-     "score": 193,
-     "by": "karimf",
-     "time": 1794176409,
-     "comments": 163
-    },
     {
      "id": 50418176,
      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
      "url": "https://ketchup3d.github.io/app/",
-     "score": 17,
+     "score": 67,
      "by": "dcoulmbe",
      "time": 1794177335,
-     "comments": 2
+     "comments": 7
     },
     {
      "id": 50417407,
      "title": "Ask HN: What are you working on? (November 2026)",
      "url": null,
-     "score": 65,
+     "score": 85,
      "by": "david927",
      "time": 1794172820,
-     "comments": 309
+     "comments": 350
     },
     {
      "id": 50418182,
      "title": "Chimera Vocal Synth",
      "url": "https://chimera-vocal-synth.vercel.app/",
-     "score": 20,
+     "score": 35,
      "by": "nmstoker",
      "time": 1794177363,
-     "comments": 6
+     "comments": 7
+    },
+    {
+     "id": 50416053,
+     "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+     "url": "https://duxlabs.dev/",
+     "score": 162,
+     "by": "indigodaddy",
+     "time": 1794164931,
+     "comments": 52
     },
     {
      "id": 50368481,
      "title": "Declarative Dragging",
      "url": "https://declarative-dragging.github.io/",
-     "score": 257,
+     "score": 276,
      "by": "smusamashah",
      "time": 1793811907,
-     "comments": 30
+     "comments": 33
     },
     {
      "id": 50415628,
      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "score": 526,
+     "score": 542,
      "by": "TheWiggles",
      "time": 1794161767,
-     "comments": 320
+     "comments": 329
     },
     {
      "id": 50416158,
      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-     "score": 186,
+     "score": 200,
      "by": "xmddmx",
      "time": 1794165632,
-     "comments": 152
+     "comments": 161
     },
     {
      "id": 50416456,
      "title": "The Web Is More Than Enough, by Paul Ford",
      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-     "score": 40,
+     "score": 49,
      "by": "edward",
      "time": 1794167312,
-     "comments": 16
+     "comments": 23
+    },
+    {
+     "id": 50418016,
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+     "score": 240,
+     "by": "karimf",
+     "time": 1794176409,
+     "comments": 236
+    },
+    {
+     "id": 50418818,
+     "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+     "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+     "score": 5,
+     "by": "acossta",
+     "time": 1794180481,
+     "comments": 0
     },
     {
      "id": 50411961,
      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
      "url": "https://github.com/synchopate/llama-modchip",
-     "score": 339,
+     "score": 343,
      "by": "joshcsimmons",
      "time": 1794133324,
-     "comments": 136
+     "comments": 143
     },
     {
      "id": 50372838,
      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-     "score": 56,
+     "score": 59,
      "by": "prismatic",
      "time": 1793834588,
-     "comments": 18
-    },
-    {
-     "id": 50412067,
-     "title": "Writing as a thinking tool",
-     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-     "score": 255,
-     "by": "jruohonen",
-     "time": 1794134512,
-     "comments": 76
+     "comments": 19
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-08T23:31:33.008418+00:00",
+   "fetched_at": "2026-11-09T00:01:39.097928+00:00",
    "stale": false,
    "items": [
     {
@@ -157,37 +157,37 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-08T23:31:34.895919+00:00",
+   "fetched_at": "2026-11-09T00:01:40.940985+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4097,
+     "stars": 4098,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
     },
     {
-     "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-     "stars": 3253,
-     "language": "Python",
-     "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-     "created_at": "2026-11-04T14:54:56Z"
-    },
-    {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 3231,
+     "stars": 3261,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
     },
     {
+     "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+     "stars": 3256,
+     "language": "Python",
+     "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+     "created_at": "2026-11-04T14:54:56Z"
+    },
+    {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 3008,
+     "stars": 3051,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2384,
+     "stars": 2388,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1581,
+     "stars": 1589,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1381,
+     "stars": 1386,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1329,
+     "stars": 1330,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 1268,
+     "stars": 1284,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -243,22 +243,22 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-08T23:31:35.419973+00:00",
+   "fetched_at": "2026-11-09T00:01:41.476619+00:00",
    "stale": false,
    "items": [
     {
      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
-     "reactions": 229,
-     "comments": 201,
+     "reactions": 232,
+     "comments": 202,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 128,
+     "reactions": 129,
      "comments": 26,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -274,8 +274,8 @@
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 138,
-     "comments": 109,
+     "reactions": 139,
+     "comments": 110,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -287,11 +287,19 @@
      "published_at": "2026-11-03T16:08:07Z"
     },
     {
+     "title": "Let's see where you code!",
+     "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+     "author": "Maame Afua A. P. Fordjour ",
+     "reactions": 99,
+     "comments": 47,
+     "published_at": "2026-11-03T20:18:40Z"
+    },
+    {
      "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
      "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
      "author": "xulingfeng",
      "reactions": 124,
-     "comments": 67,
+     "comments": 68,
      "published_at": "2026-11-06T01:27:32Z"
     },
     {
@@ -301,19 +309,11 @@
      "reactions": 65,
      "comments": 14,
      "published_at": "2026-11-03T22:28:08Z"
-    },
-    {
-     "title": "Let's see where you code!",
-     "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
-     "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 98,
-     "comments": 47,
-     "published_at": "2026-11-03T20:18:40Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-08T23:31:35.478824+00:00",
+   "fetched_at": "2026-11-09T00:01:41.725241+00:00",
    "stale": false,
    "items": [
     {
