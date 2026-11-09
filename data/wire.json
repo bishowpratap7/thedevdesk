@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-09T20:06:43.825066+00:00",
+ "generated_at": "2026-11-09T20:36:48.361441+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T20:06:41.139134+00:00",
+   "fetched_at": "2026-11-09T20:36:45.274720+00:00",
    "stale": false,
    "items": [
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 344,
+     "score": 371,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 185
+     "comments": 200
     },
     {
      "id": 50429906,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 452,
+     "score": 559,
      "by": "meetpateltech",
      "time": 1794250589,
-     "comments": 186
+     "comments": 270
     },
     {
-     "id": 50429545,
-     "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-     "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-     "score": 56,
-     "by": "giuliomagnifico",
-     "time": 1794249238,
-     "comments": 4
+     "id": 50431058,
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "url": "https://postalpro.usps.com/zcb",
+     "score": 33,
+     "by": "munro",
+     "time": 1794254339,
+     "comments": 16
     },
     {
      "id": 50429024,
      "title": "Our Smallest, Most Efficient Model: Muse Ember",
      "url": "https://research.meta.ai/blog/muse-ember",
-     "score": 123,
+     "score": 141,
      "by": "dvaplima",
      "time": 1794247126,
-     "comments": 50
-    },
-    {
-     "id": 50429430,
-     "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-     "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-     "score": 43,
-     "by": "sshah03",
-     "time": 1794248701,
-     "comments": 14
-    },
-    {
-     "id": 50429734,
-     "title": "E-means: 10x faster k-means at equal loss",
-     "url": "https://e-means.github.io/",
-     "score": 40,
-     "by": "porridgeraisin",
-     "time": 1794249943,
-     "comments": 2
-    },
-    {
-     "id": 50424581,
-     "title": "Fold Epic Paper Airplanes",
-     "url": "https://www.foldableflight.com",
-     "score": 669,
-     "by": "vismit2000",
-     "time": 1794226762,
-     "comments": 120
+     "comments": 61
     },
     {
      "id": 50430621,
      "title": "CUI \u2013 Native UI components for C",
      "url": "https://yappologistic.github.io/CUI/",
-     "score": 16,
+     "score": 44,
      "by": "hilti",
      "time": 1794252916,
-     "comments": 1
+     "comments": 9
+    },
+    {
+     "id": 50429734,
+     "title": "E-means: 10x faster k-means at equal loss",
+     "url": "https://e-means.github.io/",
+     "score": 70,
+     "by": "porridgeraisin",
+     "time": 1794249943,
+     "comments": 3
+    },
+    {
+     "id": 50429430,
+     "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+     "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+     "score": 51,
+     "by": "sshah03",
+     "time": 1794248701,
+     "comments": 19
+    },
+    {
+     "id": 50429545,
+     "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+     "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+     "score": 81,
+     "by": "giuliomagnifico",
+     "time": 1794249238,
+     "comments": 9
+    },
+    {
+     "id": 50424581,
+     "title": "Fold Epic Paper Airplanes",
+     "url": "https://www.foldableflight.com",
+     "score": 696,
+     "by": "vismit2000",
+     "time": 1794226762,
+     "comments": 124
     },
     {
      "id": 50426175,
      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-     "score": 174,
+     "score": 183,
      "by": "speckx",
      "time": 1794234699,
-     "comments": 88
+     "comments": 100
+    },
+    {
+     "id": 50428907,
+     "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+     "url": "https://www.watched.earth",
+     "score": 82,
+     "by": "a585gupt",
+     "time": 1794246691,
+     "comments": 19
     },
     {
      "id": 50429636,
      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
      "url": "https://meowdisplay.app/",
-     "score": 32,
+     "score": 41,
      "by": "raiseCatError",
      "time": 1794249562,
-     "comments": 13
-    },
-    {
-     "id": 50429475,
-     "title": "Too many men suffering in silence, national health report finds (Canada)",
-     "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-     "score": 249,
-     "by": "nosecreek",
-     "time": 1794248878,
-     "comments": 242
-    },
-    {
-     "id": 50428266,
-     "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-     "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-     "score": 1,
-     "by": "gabrielbirnbaum",
-     "time": 1794243606,
-     "comments": 0
+     "comments": 15
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T20:06:42.099554+00:00",
+   "fetched_at": "2026-11-09T20:36:46.257064+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T20:06:43.178842+00:00",
+   "fetched_at": "2026-11-09T20:36:47.339586+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 5682,
+     "stars": 5689,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 4628,
+     "stars": 4678,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2500,
+     "stars": 2502,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2229,
+     "stars": 2247,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1926,
+     "stars": 1925,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1881,
+     "stars": 1884,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "janestreet/agent_skills",
      "url": "https://github.com/janestreet/agent_skills",
-     "stars": 1780,
+     "stars": 1818,
      "language": null,
      "description": "Agent skills",
      "created_at": "2026-11-03T16:50:21Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1684,
+     "stars": 1692,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1604,
+     "stars": 1606,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T20:06:43.565724+00:00",
+   "fetched_at": "2026-11-09T20:36:47.765399+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 102,
-     "comments": 52,
+     "comments": 53,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -290,8 +290,8 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 45,
-     "comments": 9,
+     "reactions": 47,
+     "comments": 10,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T20:06:43.605087+00:00",
+   "fetched_at": "2026-11-09T20:36:47.802080+00:00",
    "stale": false,
    "items": [
     {
