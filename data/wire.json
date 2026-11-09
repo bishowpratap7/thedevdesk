@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T10:04:10.013137+00:00",
+ "generated_at": "2026-11-09T10:04:25.105170+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T10:04:05.596521+00:00",
+   "fetched_at": "2026-11-09T10:04:21.092624+00:00",
    "stale": false,
    "items": [
     {
@@ -21,13 +21,13 @@
      "score": 493,
      "by": "dcoulmbe",
      "time": 1794177335,
-     "comments": 138
+     "comments": 139
     },
     {
      "id": 50419215,
      "title": "Unlocking any car from X brand in most of the world",
      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-     "score": 355,
+     "score": 356,
      "by": "infosecau",
      "time": 1794183050,
      "comments": 139
@@ -54,7 +54,7 @@
      "id": 50422069,
      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-     "score": 132,
+     "score": 133,
      "by": "rzk",
      "time": 1794207865,
      "comments": 76
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T10:04:06.886671+00:00",
+   "fetched_at": "2026-11-09T10:04:22.853299+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T10:04:08.561403+00:00",
+   "fetched_at": "2026-11-09T10:04:24.120935+00:00",
    "stale": false,
    "items": [
     {
@@ -219,7 +219,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 1712,
+     "stars": 1713,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T10:04:09.107246+00:00",
+   "fetched_at": "2026-11-09T10:04:24.509472+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T10:04:09.228848+00:00",
+   "fetched_at": "2026-11-09T10:04:24.622896+00:00",
    "stale": false,
    "items": [
     {
