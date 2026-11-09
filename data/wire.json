@@ -1,81 +1,90 @@
 {
- "generated_at": "2026-11-09T18:36:12.707024+00:00",
+ "generated_at": "2026-11-09T19:06:18.514988+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T18:36:08.600242+00:00",
+   "fetched_at": "2026-11-09T19:06:14.469759+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50429475,
+     "title": "Too many men suffering in silence, national health report finds (Canada)",
+     "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+     "score": 72,
+     "by": "nosecreek",
+     "time": 1794248878,
+     "comments": 32
+    },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 231,
+     "score": 269,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 135
-    },
-    {
-     "id": 50424581,
-     "title": "Fold Epic Paper Airplanes",
-     "url": "https://www.foldableflight.com",
-     "score": 584,
-     "by": "vismit2000",
-     "time": 1794226762,
-     "comments": 92
-    },
-    {
-     "id": 50426175,
-     "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-     "score": 129,
-     "by": "speckx",
-     "time": 1794234699,
-     "comments": 48
-    },
-    {
-     "id": 50428801,
-     "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-     "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-     "score": 94,
-     "by": "pera",
-     "time": 1794246175,
-     "comments": 63
+     "comments": 163
     },
     {
      "id": 50429024,
      "title": "Our Smallest, Most Efficient Model: Muse Ember",
      "url": "https://research.meta.ai/blog/muse-ember",
-     "score": 11,
+     "score": 54,
      "by": "dvaplima",
      "time": 1794247126,
+     "comments": 23
+    },
+    {
+     "id": 50424581,
+     "title": "Fold Epic Paper Airplanes",
+     "url": "https://www.foldableflight.com",
+     "score": 617,
+     "by": "vismit2000",
+     "time": 1794226762,
+     "comments": 99
+    },
+    {
+     "id": 50429430,
+     "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+     "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+     "score": 21,
+     "by": "sshah03",
+     "time": 1794248701,
      "comments": 1
+    },
+    {
+     "id": 50426175,
+     "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+     "score": 150,
+     "by": "speckx",
+     "time": 1794234699,
+     "comments": 60
+    },
+    {
+     "id": 50429636,
+     "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+     "url": "https://meowdisplay.app/",
+     "score": 12,
+     "by": "raiseCatError",
+     "time": 1794249562,
+     "comments": 2
     },
     {
      "id": 50427934,
      "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
      "url": null,
-     "score": 32,
+     "score": 49,
      "by": "shayan_abbas",
      "time": 1794242198,
-     "comments": 6
+     "comments": 15
     },
     {
-     "id": 50426207,
-     "title": "Zebkit \u2013 Chromium as an embeddable library",
-     "url": "https://github.com/ikey4u/zebkit",
-     "score": 83,
-     "by": "Riiiiichard",
-     "time": 1794234840,
-     "comments": 33
-    },
-    {
-     "id": 50422069,
-     "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-     "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-     "score": 435,
-     "by": "rzk",
-     "time": 1794207865,
-     "comments": 325
+     "id": 50428801,
+     "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+     "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+     "score": 133,
+     "by": "pera",
+     "time": 1794246175,
+     "comments": 107
     },
     {
      "id": 50428266,
@@ -87,36 +96,27 @@
      "comments": 0
     },
     {
-     "id": 50424157,
-     "title": "What is malloc doing, anyway?",
-     "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-     "score": 157,
-     "by": "benmandrew",
-     "time": 1794223865,
-     "comments": 32
+     "id": 50428907,
+     "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+     "url": "https://www.watched.earth",
+     "score": 17,
+     "by": "a585gupt",
+     "time": 1794246691,
+     "comments": 3
     },
     {
-     "id": 50427085,
-     "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-     "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
-     "score": 121,
-     "by": "datareceipts",
-     "time": 1794238741,
-     "comments": 69
-    },
-    {
-     "id": 50426899,
-     "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
-     "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-     "score": 95,
-     "by": "ceejayoz",
-     "time": 1794237837,
-     "comments": 94
+     "id": 50426207,
+     "title": "Zebkit \u2013 Chromium as an embeddable library",
+     "url": "https://github.com/ikey4u/zebkit",
+     "score": 90,
+     "by": "Riiiiichard",
+     "time": 1794234840,
+     "comments": 34
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T18:36:10.114066+00:00",
+   "fetched_at": "2026-11-09T19:06:15.863991+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T18:36:11.646597+00:00",
+   "fetched_at": "2026-11-09T19:06:17.521881+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 5622,
+     "stars": 5648,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 4497,
+     "stars": 4550,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2495,
+     "stars": 2498,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2173,
+     "stars": 2190,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1922,
+     "stars": 1924,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1874,
+     "stars": 1877,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "janestreet/agent_skills",
      "url": "https://github.com/janestreet/agent_skills",
-     "stars": 1680,
+     "stars": 1713,
      "language": null,
      "description": "Agent skills",
      "created_at": "2026-11-03T16:50:21Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1650,
+     "stars": 1668,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1598,
+     "stars": 1603,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T18:36:12.115364+00:00",
+   "fetched_at": "2026-11-09T19:06:17.983405+00:00",
    "stale": false,
    "items": [
     {
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T18:36:12.190486+00:00",
+   "fetched_at": "2026-11-09T19:06:18.069067+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "major",
-     "description": "Partial System Outage"
+     "indicator": "none",
+     "description": "All Systems Operational"
     },
     {
      "name": "Cloudflare",
