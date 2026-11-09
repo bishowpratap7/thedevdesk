@@ -1,51 +1,60 @@
 {
- "generated_at": "2026-11-09T14:35:09.928212+00:00",
+ "generated_at": "2026-11-09T15:05:15.599980+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T14:35:06.797719+00:00",
+   "fetched_at": "2026-11-09T15:05:12.346965+00:00",
    "stale": false,
    "items": [
     {
      "id": 50424704,
      "title": "Humans will never again create a project like Wikipedia",
      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-     "score": 207,
+     "score": 266,
      "by": "edward",
      "time": 1794227420,
-     "comments": 150
+     "comments": 192
     },
     {
      "id": 50424581,
      "title": "Fold Epic Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 241,
+     "score": 274,
      "by": "vismit2000",
      "time": 1794226762,
-     "comments": 51
+     "comments": 56
     },
     {
      "id": 50425303,
      "title": "Children of Men: The Future Is a Mirror for the Present",
      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
-     "score": 43,
+     "score": 60,
      "by": "speckx",
      "time": 1794230821,
-     "comments": 15
+     "comments": 37
+    },
+    {
+     "id": 50426207,
+     "title": "Zebkit \u2013 Chromium as an embeddable library",
+     "url": "https://github.com/ikey4u/zebkit",
+     "score": 19,
+     "by": "Riiiiichard",
+     "time": 1794234840,
+     "comments": 10
     },
     {
      "id": 50424157,
      "title": "What is malloc doing, anyway?",
      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-     "score": 56,
+     "score": 69,
      "by": "benmandrew",
      "time": 1794223865,
-     "comments": 9
+     "comments": 13
     },
     {
      "id": 50423569,
      "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-     "score": 66,
+     "score": 71,
      "by": "rbanffy",
      "time": 1794219107,
      "comments": 8
@@ -54,69 +63,60 @@
      "id": 50405979,
      "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
      "url": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
-     "score": 37,
+     "score": 41,
      "by": "ohjeez",
      "time": 1794070277,
-     "comments": 16
+     "comments": 26
     },
     {
      "id": 50422168,
      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
      "url": "https://arxiv.org/abs/2610.14162",
-     "score": 138,
+     "score": 143,
      "by": "theanonymousone",
      "time": 1794208837,
-     "comments": 29
+     "comments": 30
     },
     {
      "id": 50418176,
      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
      "url": "https://ketchup3d.github.io/app/",
-     "score": 610,
+     "score": 624,
      "by": "dcoulmbe",
      "time": 1794177335,
-     "comments": 183
+     "comments": 187
     },
     {
      "id": 50419215,
      "title": "Unlocking any car from X brand in most of the world",
      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-     "score": 482,
+     "score": 499,
      "by": "infosecau",
      "time": 1794183050,
-     "comments": 238
+     "comments": 255
     },
     {
      "id": 50418975,
      "title": "I'm not convinced the AI bubble exists",
      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-     "score": 417,
+     "score": 434,
      "by": "matteoraso",
      "time": 1794181476,
-     "comments": 709
+     "comments": 742
     },
     {
      "id": 50388335,
      "title": "How Australia played the first music on a computer",
      "url": "https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/",
-     "score": 12,
+     "score": 13,
      "by": "Skyfall106",
      "time": 1793940383,
-     "comments": 1
-    },
-    {
-     "id": 50368481,
-     "title": "Declarative Dragging",
-     "url": "https://declarative-dragging.github.io/",
-     "score": 635,
-     "by": "smusamashah",
-     "time": 1793811907,
-     "comments": 80
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T14:35:07.796122+00:00",
+   "fetched_at": "2026-11-09T15:05:13.227969+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T14:35:09.084051+00:00",
+   "fetched_at": "2026-11-09T15:05:14.602532+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 5151,
+     "stars": 5236,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "KKKKhazix/agent-autoloop",
      "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4251,
+     "stars": 4254,
      "language": "TypeScript",
      "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
      "created_at": "2026-11-03T08:02:11Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 4044,
+     "stars": 4119,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2475,
+     "stars": 2479,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 1964,
+     "stars": 1989,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1906,
+     "stars": 1911,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1825,
+     "stars": 1829,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Sandflow-ai/sand3d",
      "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1569,
+     "stars": 1576,
      "language": "HTML",
      "description": "3D modeling in Python, built for LLMs.",
      "created_at": "2026-11-03T08:23:03Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1472,
+     "stars": 1510,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "CzJam/gjgjxweb",
      "url": "https://github.com/CzJam/gjgjxweb",
-     "stars": 1417,
+     "stars": 1422,
      "language": "HTML",
      "description": "\u300a\u641e\u673a\u5de5\u5177\u7bb1\u300bWeb\u79fb\u690d\u7248",
      "created_at": "2026-11-03T02:00:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T14:35:09.545083+00:00",
+   "fetched_at": "2026-11-09T15:05:14.994712+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T14:35:09.703775+00:00",
+   "fetched_at": "2026-11-09T15:05:15.124704+00:00",
    "stale": false,
    "items": [
     {
