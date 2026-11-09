@@ -1,99 +1,108 @@
 {
- "generated_at": "2026-11-09T19:36:24.494402+00:00",
+ "generated_at": "2026-11-09T20:06:30.385651+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T19:36:20.321766+00:00",
+   "fetched_at": "2026-11-09T20:06:26.054686+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50429475,
-     "title": "Too many men suffering in silence, national health report finds (Canada)",
-     "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-     "score": 187,
-     "by": "nosecreek",
-     "time": 1794248878,
-     "comments": 131
-    },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 297,
+     "score": 344,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 172
-    },
-    {
-     "id": 50429024,
-     "title": "Our Smallest, Most Efficient Model: Muse Ember",
-     "url": "https://research.meta.ai/blog/muse-ember",
-     "score": 88,
-     "by": "dvaplima",
-     "time": 1794247126,
-     "comments": 39
+     "comments": 185
     },
     {
      "id": 50429906,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 276,
+     "score": 452,
      "by": "meetpateltech",
      "time": 1794250589,
-     "comments": 92
+     "comments": 186
     },
     {
      "id": 50429545,
      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-     "score": 25,
+     "score": 56,
      "by": "giuliomagnifico",
      "time": 1794249238,
-     "comments": 2
+     "comments": 4
+    },
+    {
+     "id": 50429024,
+     "title": "Our Smallest, Most Efficient Model: Muse Ember",
+     "url": "https://research.meta.ai/blog/muse-ember",
+     "score": 123,
+     "by": "dvaplima",
+     "time": 1794247126,
+     "comments": 50
     },
     {
      "id": 50429430,
      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-     "score": 32,
+     "score": 43,
      "by": "sshah03",
      "time": 1794248701,
-     "comments": 6
+     "comments": 14
+    },
+    {
+     "id": 50429734,
+     "title": "E-means: 10x faster k-means at equal loss",
+     "url": "https://e-means.github.io/",
+     "score": 40,
+     "by": "porridgeraisin",
+     "time": 1794249943,
+     "comments": 2
     },
     {
      "id": 50424581,
      "title": "Fold Epic Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 642,
+     "score": 669,
      "by": "vismit2000",
      "time": 1794226762,
-     "comments": 113
+     "comments": 120
+    },
+    {
+     "id": 50430621,
+     "title": "CUI \u2013 Native UI components for C",
+     "url": "https://yappologistic.github.io/CUI/",
+     "score": 16,
+     "by": "hilti",
+     "time": 1794252916,
+     "comments": 1
     },
     {
      "id": 50426175,
      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-     "score": 162,
+     "score": 174,
      "by": "speckx",
      "time": 1794234699,
-     "comments": 70
+     "comments": 88
     },
     {
      "id": 50429636,
      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
      "url": "https://meowdisplay.app/",
-     "score": 22,
+     "score": 32,
      "by": "raiseCatError",
      "time": 1794249562,
-     "comments": 11
+     "comments": 13
     },
     {
-     "id": 50428907,
-     "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-     "url": "https://www.watched.earth",
-     "score": 39,
-     "by": "a585gupt",
-     "time": 1794246691,
-     "comments": 4
+     "id": 50429475,
+     "title": "Too many men suffering in silence, national health report finds (Canada)",
+     "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+     "score": 249,
+     "by": "nosecreek",
+     "time": 1794248878,
+     "comments": 242
     },
     {
      "id": 50428266,
@@ -103,20 +112,11 @@
      "by": "gabrielbirnbaum",
      "time": 1794243606,
      "comments": 0
-    },
-    {
-     "id": 50427934,
-     "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
-     "url": null,
-     "score": 56,
-     "by": "shayan_abbas",
-     "time": 1794242198,
-     "comments": 18
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T19:36:21.858298+00:00",
+   "fetched_at": "2026-11-09T20:06:27.813568+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T19:36:23.348551+00:00",
+   "fetched_at": "2026-11-09T20:06:29.206302+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 5665,
+     "stars": 5682,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 4590,
+     "stars": 4627,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2499,
+     "stars": 2500,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2208,
+     "stars": 2229,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1879,
+     "stars": 1881,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "janestreet/agent_skills",
      "url": "https://github.com/janestreet/agent_skills",
-     "stars": 1747,
+     "stars": 1780,
      "language": null,
      "description": "Agent skills",
      "created_at": "2026-11-03T16:50:21Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1674,
+     "stars": 1683,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T19:36:23.796507+00:00",
+   "fetched_at": "2026-11-09T20:06:29.723823+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 154,
-     "comments": 125,
+     "comments": 126,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -291,7 +291,7 @@
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
      "reactions": 45,
-     "comments": 7,
+     "comments": 9,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T19:36:23.822593+00:00",
+   "fetched_at": "2026-11-09T20:06:29.868426+00:00",
    "stale": false,
    "items": [
     {
