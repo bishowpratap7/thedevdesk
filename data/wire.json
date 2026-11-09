@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-09T16:05:40.304029+00:00",
+ "generated_at": "2026-11-09T16:35:47.485657+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T16:05:36.204822+00:00",
+   "fetched_at": "2026-11-09T16:35:42.084925+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50426582,
+     "title": "I Saw Your HN Comment",
+     "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+     "score": 159,
+     "by": "joshstrange",
+     "time": 1794236463,
+     "comments": 80
+    },
     {
      "id": 50424581,
      "title": "Fold Epic Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 378,
+     "score": 428,
      "by": "vismit2000",
      "time": 1794226762,
-     "comments": 72
+     "comments": 78
+    },
+    {
+     "id": 50427362,
+     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+     "score": 18,
+     "by": "ocd",
+     "time": 1794240045,
+     "comments": 10
     },
     {
      "id": 50424704,
      "title": "Humans will never again create a project like Wikipedia",
      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-     "score": 346,
+     "score": 378,
      "by": "edward",
      "time": 1794227420,
-     "comments": 275
+     "comments": 305
     },
     {
-     "id": 50426582,
-     "title": "I Saw Your HN Comment",
-     "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
-     "score": 40,
-     "by": "joshstrange",
-     "time": 1794236463,
-     "comments": 18
+     "id": 50427085,
+     "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+     "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+     "score": 31,
+     "by": "datareceipts",
+     "time": 1794238741,
+     "comments": 12
     },
     {
      "id": 50426207,
      "title": "Zebkit \u2013 Chromium as an embeddable library",
      "url": "https://github.com/ikey4u/zebkit",
-     "score": 45,
+     "score": 55,
      "by": "Riiiiichard",
      "time": 1794234840,
-     "comments": 22
+     "comments": 26
     },
     {
      "id": 50424157,
      "title": "What is malloc doing, anyway?",
      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-     "score": 101,
+     "score": 116,
      "by": "benmandrew",
      "time": 1794223865,
-     "comments": 20
+     "comments": 27
     },
     {
-     "id": 50423569,
-     "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
-     "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-     "score": 77,
-     "by": "rbanffy",
-     "time": 1794219107,
-     "comments": 12
-    },
-    {
-     "id": 50418176,
-     "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-     "url": "https://ketchup3d.github.io/app/",
-     "score": 656,
-     "by": "dcoulmbe",
-     "time": 1794177335,
-     "comments": 193
-    },
-    {
-     "id": 50422168,
-     "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-     "url": "https://arxiv.org/abs/2610.14162",
-     "score": 149,
-     "by": "theanonymousone",
-     "time": 1794208837,
-     "comments": 33
-    },
-    {
-     "id": 50389093,
-     "title": "Active Benchmarking",
-     "url": "https://www.brendangregg.com/activebenchmarking.html",
-     "score": 12,
-     "by": "dboon",
-     "time": 1793948596,
+     "id": 50426175,
+     "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+     "score": 20,
+     "by": "speckx",
+     "time": 1794234699,
      "comments": 1
-    },
-    {
-     "id": 50419215,
-     "title": "Unlocking any car from X brand in most of the world",
-     "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-     "score": 531,
-     "by": "infosecau",
-     "time": 1794183050,
-     "comments": 282
-    },
-    {
-     "id": 50405979,
-     "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
-     "url": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
-     "score": 56,
-     "by": "ohjeez",
-     "time": 1794070277,
-     "comments": 40
     },
     {
      "id": 50406348,
      "title": "Isn't It Time for AVIF Everywhere?",
      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
-     "score": 5,
+     "score": 19,
      "by": "speckx",
      "time": 1794072847,
-     "comments": 2
+     "comments": 10
+    },
+    {
+     "id": 50423569,
+     "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+     "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+     "score": 79,
+     "by": "rbanffy",
+     "time": 1794219107,
+     "comments": 14
+    },
+    {
+     "id": 50418176,
+     "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+     "url": "https://ketchup3d.github.io/app/",
+     "score": 669,
+     "by": "dcoulmbe",
+     "time": 1794177335,
+     "comments": 196
+    },
+    {
+     "id": 50422168,
+     "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+     "url": "https://arxiv.org/abs/2610.14162",
+     "score": 155,
+     "by": "theanonymousone",
+     "time": 1794208837,
+     "comments": 33
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T16:05:37.910579+00:00",
+   "fetched_at": "2026-11-09T16:35:44.900325+00:00",
    "stale": false,
    "items": [
     {
@@ -157,37 +157,37 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T16:05:39.336488+00:00",
+   "fetched_at": "2026-11-09T16:35:46.453176+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Minireel/HGhub",
      "url": "https://github.com/Minireel/HGhub",
-     "stars": 5410,
+     "stars": 5466,
      "language": "TypeScript",
      "description": "YellowFruit third-party client",
      "created_at": "2026-11-03T14:04:27Z"
     },
     {
-     "full_name": "KKKKhazix/agent-autoloop",
-     "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4260,
-     "language": "TypeScript",
-     "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
-     "created_at": "2026-11-03T08:02:11Z"
-    },
-    {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 4238,
+     "stars": 4285,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
     },
     {
+     "full_name": "KKKKhazix/agent-autoloop",
+     "url": "https://github.com/KKKKhazix/agent-autoloop",
+     "stars": 4262,
+     "language": "TypeScript",
+     "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
+     "created_at": "2026-11-03T08:02:11Z"
+    },
+    {
      "full_name": "govijr/terminal-mac",
      "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2482,
+     "stars": 2484,
      "language": "Swift",
      "description": "Entire MacOS running in your terminal.",
      "created_at": "2026-11-03T03:22:56Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2040,
+     "stars": 2078,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1919,
+     "stars": 1920,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -211,39 +211,39 @@
     {
      "full_name": "sarpstar/cinecode",
      "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1839,
+     "stars": 1848,
      "language": "Python",
      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
      "created_at": "2026-11-03T10:08:16Z"
     },
     {
-     "full_name": "Sandflow-ai/sand3d",
-     "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1586,
-     "language": "HTML",
-     "description": "3D modeling in Python, built for LLMs.",
-     "created_at": "2026-11-03T08:23:03Z"
-    },
-    {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1574,
+     "stars": 1595,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
     },
     {
-     "full_name": "CzJam/gjgjxweb",
-     "url": "https://github.com/CzJam/gjgjxweb",
-     "stars": 1434,
+     "full_name": "Sandflow-ai/sand3d",
+     "url": "https://github.com/Sandflow-ai/sand3d",
+     "stars": 1587,
      "language": "HTML",
-     "description": "\u300a\u641e\u673a\u5de5\u5177\u7bb1\u300bWeb\u79fb\u690d\u7248",
-     "created_at": "2026-11-03T02:00:54Z"
+     "description": "3D modeling in Python, built for LLMs.",
+     "created_at": "2026-11-03T08:23:03Z"
+    },
+    {
+     "full_name": "janestreet/agent_skills",
+     "url": "https://github.com/janestreet/agent_skills",
+     "stars": 1486,
+     "language": null,
+     "description": "Agent skills",
+     "created_at": "2026-11-03T16:50:21Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T16:05:39.716726+00:00",
+   "fetched_at": "2026-11-09T16:35:46.923355+00:00",
    "stale": false,
    "items": [
     {
@@ -258,23 +258,15 @@
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 137,
+     "reactions": 138,
      "comments": 26,
      "published_at": "2026-11-05T21:12:11Z"
-    },
-    {
-     "title": "This is my first HacktoberFest, and I don't know what to feel.",
-     "url": "https://dev.to/francistrdev/this-is-my-first-hacktoberfest-and-i-dont-know-what-to-feel-449f",
-     "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 150,
-     "comments": 89,
-     "published_at": "2026-11-02T16:11:59Z"
     },
     {
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 154,
+     "reactions": 155,
      "comments": 124,
      "published_at": "2026-11-04T17:11:22Z"
     },
@@ -309,11 +301,19 @@
      "reactions": 65,
      "comments": 14,
      "published_at": "2026-11-03T22:28:08Z"
+    },
+    {
+     "title": "What was your win this week?",
+     "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
+     "author": "Jess Lee",
+     "reactions": 101,
+     "comments": 67,
+     "published_at": "2026-11-06T14:00:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T16:05:39.839683+00:00",
+   "fetched_at": "2026-11-09T16:35:47.026107+00:00",
    "stale": false,
    "items": [
     {
