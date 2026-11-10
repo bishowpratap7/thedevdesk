@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T18:42:14.825852+00:00",
+ "generated_at": "2026-11-10T19:12:21.777610+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T18:42:09.794006+00:00",
+   "fetched_at": "2026-11-10T19:12:16.405456+00:00",
    "stale": false,
    "items": [
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 306,
+     "score": 347,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 53
+     "comments": 62
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 207,
+     "score": 264,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 95
-    },
-    {
-     "id": 50439193,
-     "title": "AlphaProof Code",
-     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 476,
-     "by": "ilreb",
-     "time": 1794312672,
-     "comments": 154
-    },
-    {
-     "id": 50443427,
-     "title": "Val Town is winding down",
-     "url": "https://blog.val.town/winding-down",
-     "score": 65,
-     "by": "tosh",
-     "time": 1794331874,
-     "comments": 16
-    },
-    {
-     "id": 50443090,
-     "title": "AMD's Zen 6 Family: Feeding the Beast",
-     "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-     "score": 57,
-     "by": "pixelpoet",
-     "time": 1794330152,
-     "comments": 16
-    },
-    {
-     "id": 50442426,
-     "title": "Blender 5.3 released with Gaussian Splat support",
-     "url": "https://www.blender.org/download/releases/5-3/",
-     "score": 264,
-     "by": "amlib",
-     "time": 1794327343,
-     "comments": 36
+     "comments": 120
     },
     {
      "id": 50443824,
      "title": "Synaptics patent claims stop work on DisplayLink drivers",
      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "score": 22,
+     "score": 59,
      "by": "speckx",
      "time": 1794333722,
-     "comments": 4
+     "comments": 25
     },
     {
-     "id": 50439695,
-     "title": "Ableton Live 13",
-     "url": "https://www.ableton.com/en/live/",
-     "score": 180,
-     "by": "phaser",
-     "time": 1794315484,
-     "comments": 213
+     "id": 50443427,
+     "title": "Val Town is winding down",
+     "url": "https://blog.val.town/winding-down",
+     "score": 108,
+     "by": "tosh",
+     "time": 1794331874,
+     "comments": 25
     },
     {
-     "id": 50441338,
-     "title": "The Hardest Tarball?",
-     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-     "score": 121,
-     "by": "thatslast",
-     "time": 1794322839,
-     "comments": 15
+     "id": 50444129,
+     "title": "Starlink Mini 2",
+     "url": "https://starlink.com/mini-2",
+     "score": 30,
+     "by": "robertjfclarke",
+     "time": 1794334952,
+     "comments": 12
     },
     {
-     "id": 50443838,
-     "title": "Work at the Frontier: AI's effect on freelance work",
-     "url": "https://openai.com/index/ai-effect-on-freelance-work",
-     "score": 11,
-     "by": "swolpers",
-     "time": 1794333774,
-     "comments": 5
+     "id": 50439193,
+     "title": "AlphaProof Code",
+     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "score": 485,
+     "by": "ilreb",
+     "time": 1794312672,
+     "comments": 158
+    },
+    {
+     "id": 50443090,
+     "title": "AMD's Zen 6 Family: Feeding the Beast",
+     "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+     "score": 71,
+     "by": "pixelpoet",
+     "time": 1794330152,
+     "comments": 28
     },
     {
      "id": 50443812,
      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-     "score": 19,
+     "score": 48,
      "by": "paulirish",
      "time": 1794333675,
-     "comments": 3
+     "comments": 11
     },
     {
-     "id": 50382401,
-     "title": "I deleted all my SSH keys",
-     "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
-     "score": 90,
-     "by": "speckx",
-     "time": 1793902671,
-     "comments": 25
+     "id": 50442426,
+     "title": "Blender 5.3 released with Gaussian Splat support",
+     "url": "https://www.blender.org/download/releases/5-3/",
+     "score": 280,
+     "by": "amlib",
+     "time": 1794327343,
+     "comments": 37
+    },
+    {
+     "id": 50439695,
+     "title": "Ableton Live 13",
+     "url": "https://www.ableton.com/en/live/",
+     "score": 188,
+     "by": "phaser",
+     "time": 1794315484,
+     "comments": 223
+    },
+    {
+     "id": 50433216,
+     "title": "Process Explorer for macOS",
+     "url": "https://github.com/microsoft/Procexp-Mac",
+     "score": 38,
+     "by": "ingve",
+     "time": 1794263441,
+     "comments": 14
+    },
+    {
+     "id": 50441338,
+     "title": "The Hardest Tarball?",
+     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+     "score": 124,
+     "by": "thatslast",
+     "time": 1794322839,
+     "comments": 17
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T18:42:11.112439+00:00",
+   "fetched_at": "2026-11-10T19:12:17.822535+00:00",
    "stale": false,
    "items": [
     {
@@ -142,10 +142,10 @@
     },
     {
      "repo": "microsoft/vscode",
-     "tag": "1.145.2",
-     "name": "1.145.2",
-     "url": "https://github.com/microsoft/vscode/releases/tag/1.145.2",
-     "published_at": "2026-11-06T10:21:07Z"
+     "tag": "1.145.3",
+     "name": "1.145.3",
+     "url": "https://github.com/microsoft/vscode/releases/tag/1.145.3",
+     "published_at": "2026-11-10T18:53:52Z"
     },
     {
      "repo": "rust-lang/rust",
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T18:42:13.289752+00:00",
+   "fetched_at": "2026-11-10T19:12:20.186303+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6259,
+     "stars": 6285,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4546,
+     "stars": 4561,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2762,
+     "stars": 2773,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2352,
+     "stars": 2353,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1780,
+     "stars": 1785,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1647,
+     "stars": 1649,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1622,
+     "stars": 1625,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1585,
+     "stars": 1595,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T18:42:13.913212+00:00",
+   "fetched_at": "2026-11-10T19:12:20.835375+00:00",
    "stale": false,
    "items": [
     {
@@ -275,15 +275,15 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 155,
-     "comments": 139,
+     "comments": 140,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 121,
-     "comments": 68,
+     "reactions": 124,
+     "comments": 69,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -299,7 +299,7 @@
      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
      "author": "Jess Lee",
      "reactions": 115,
-     "comments": 74,
+     "comments": 75,
      "published_at": "2026-11-06T14:00:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T18:42:14.296542+00:00",
+   "fetched_at": "2026-11-10T19:12:21.072207+00:00",
    "stale": false,
    "items": [
     {
