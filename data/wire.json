@@ -1,33 +1,33 @@
 {
- "generated_at": "2026-11-10T07:39:24.102311+00:00",
+ "generated_at": "2026-11-10T08:09:31.471139+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T07:39:20.186759+00:00",
+   "fetched_at": "2026-11-10T08:09:26.569192+00:00",
    "stale": false,
    "items": [
     {
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 122,
+     "score": 154,
      "by": "aloukissas",
      "time": 1794290468,
-     "comments": 29
+     "comments": 46
     },
     {
      "id": 50429068,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 482,
+     "score": 507,
      "by": "lairv",
      "time": 1794247270,
-     "comments": 749
+     "comments": 758
     },
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 597,
+     "score": 602,
      "by": "munro",
      "time": 1794254339,
      "comments": 301
@@ -36,61 +36,61 @@
      "id": 50436410,
      "title": "Your TV can see through walls",
      "url": "https://maurycyz.com/projects/fading/",
-     "score": 55,
+     "score": 66,
      "by": "Curiositry",
      "time": 1794288285,
-     "comments": 15
+     "comments": 18
     },
     {
      "id": 50434310,
      "title": "Locating the source of a mysterious beep",
      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-     "score": 127,
+     "score": 143,
      "by": "bigwheels",
      "time": 1794269446,
-     "comments": 62
+     "comments": 68
     },
     {
      "id": 50429734,
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "url": "https://e-means.github.io/",
-     "score": 370,
+     "score": 377,
      "by": "porridgeraisin",
      "time": 1794249943,
-     "comments": 32
+     "comments": 34
     },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 516,
+     "score": 522,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 282
+     "comments": 283
     },
     {
      "id": 50424581,
      "title": "Foldable Flight: The Best Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 965,
+     "score": 977,
      "by": "vismit2000",
      "time": 1794226762,
-     "comments": 146
+     "comments": 148
     },
     {
      "id": 50434264,
      "title": "Horible public key tricks",
      "url": "https://maurycyz.com/projects/badcert/",
-     "score": 127,
+     "score": 139,
      "by": "Curiositry",
      "time": 1794269237,
-     "comments": 41
+     "comments": 43
     },
     {
      "id": 50435898,
      "title": "Ultorg: The User Interface for Relational Databases",
      "url": "https://www.ultorg.com/",
-     "score": 34,
+     "score": 42,
      "by": "Ivoah",
      "time": 1794283179,
      "comments": 9
@@ -99,24 +99,24 @@
      "id": 50435105,
      "title": "Formalizing CPython",
      "url": "https://broyojo.com/python-formalization/",
-     "score": 43,
+     "score": 51,
      "by": "carnevalem",
      "time": 1794275808,
-     "comments": 18
+     "comments": 20
     },
     {
      "id": 50405611,
      "title": "A failed experiment in laptop cooling",
      "url": "https://kevinboone.me/failed_cooling.html",
-     "score": 11,
+     "score": 23,
      "by": "andsoitis",
      "time": 1794067049,
-     "comments": 8
+     "comments": 18
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T07:39:21.848308+00:00",
+   "fetched_at": "2026-11-10T08:09:28.196928+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T07:39:22.929587+00:00",
+   "fetched_at": "2026-11-10T08:09:30.214414+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 5515,
+     "stars": 5552,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 3198,
+     "stars": 3321,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2562,
+     "stars": 2570,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2139,
+     "stars": 2154,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1976,
+     "stars": 1983,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1542,
+     "stars": 1552,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1528,
+     "stars": 1537,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1508,
+     "stars": 1518,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1425,
+     "stars": 1428,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1340,
+     "stars": 1348,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T07:39:23.277670+00:00",
+   "fetched_at": "2026-11-10T08:09:30.697111+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
      "reactions": 140,
-     "comments": 26,
+     "comments": 27,
      "published_at": "2026-11-05T21:12:11Z"
     },
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 109,
-     "comments": 61,
+     "comments": 63,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T07:39:23.383129+00:00",
+   "fetched_at": "2026-11-10T08:09:30.818113+00:00",
    "stale": false,
    "items": [
     {
