@@ -1,87 +1,78 @@
 {
- "generated_at": "2026-11-10T15:11:08.245965+00:00",
+ "generated_at": "2026-11-10T15:41:13.465074+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T15:11:04.479838+00:00",
+   "fetched_at": "2026-11-10T15:41:09.830556+00:00",
    "stale": false,
    "items": [
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 280,
+     "score": 323,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 105
+     "comments": 114
     },
     {
      "id": 50412554,
      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-     "score": 45,
+     "score": 59,
      "by": "jaypatelani",
      "time": 1794139637,
-     "comments": 5
+     "comments": 13
     },
     {
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 490,
+     "score": 518,
      "by": "aloukissas",
      "time": 1794290468,
-     "comments": 177
+     "comments": 187
+    },
+    {
+     "id": 50441338,
+     "title": "The Hardest Tarball?",
+     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+     "score": 21,
+     "by": "thatslast",
+     "time": 1794322839,
+     "comments": 1
     },
     {
      "id": 50429068,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 751,
+     "score": 771,
      "by": "lairv",
      "time": 1794247270,
-     "comments": 895
+     "comments": 911
     },
     {
      "id": 50437790,
      "title": "Queens Public library under ransomware attack e-borrowing suspended",
      "url": "https://connect.queenslibrary.org/",
-     "score": 102,
+     "score": 113,
      "by": "rustyhancock",
      "time": 1794301479,
-     "comments": 76
+     "comments": 80
     },
     {
-     "id": 50439000,
-     "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-     "url": "https://github.com/HolyArrs/HolyArrs",
-     "score": 97,
-     "by": "CoderLuii",
-     "time": 1794311479,
-     "comments": 51
-    },
-    {
-     "id": 50431058,
-     "title": "USPS now offers official ZIP Code boundary polygons",
-     "url": "https://postalpro.usps.com/zcb",
-     "score": 683,
-     "by": "munro",
-     "time": 1794254339,
-     "comments": 345
-    },
-    {
-     "id": 50410329,
-     "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
-     "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-     "score": 32,
-     "by": "benbreen",
-     "time": 1794110841,
-     "comments": 10
+     "id": 50426294,
+     "title": "Taking another shot at the cheap IP camera, part 2",
+     "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+     "score": 23,
+     "by": "ericswpark",
+     "time": 1794235242,
+     "comments": 9
     },
     {
      "id": 50431075,
      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
      "url": "https://hannahilea.com/blog/daylight-clock/",
-     "score": 12,
+     "score": 22,
      "by": "evakhoury",
      "time": 1794254432,
      "comments": 0
@@ -90,33 +81,42 @@
      "id": 50414117,
      "title": "Show HN: Ghanaian street games you can play in the browser",
      "url": "https://www.ghanastreetgames.com/",
-     "score": 47,
+     "score": 62,
      "by": "samuelaidoo45",
      "time": 1794151912,
-     "comments": 8
+     "comments": 9
     },
     {
-     "id": 50439695,
-     "title": "Ableton Live 13",
-     "url": "https://www.ableton.com/en/live/",
-     "score": 103,
-     "by": "phaser",
-     "time": 1794315484,
-     "comments": 109
+     "id": 50439448,
+     "title": "Let over Lambda\u201350 Years of Lisp (2008)",
+     "url": "https://letoverlambda.com/",
+     "score": 28,
+     "by": "theanonymousone",
+     "time": 1794314127,
+     "comments": 3
     },
     {
-     "id": 50436410,
-     "title": "Your TV can see through walls",
-     "url": "https://maurycyz.com/projects/fading/",
-     "score": 212,
-     "by": "Curiositry",
-     "time": 1794288285,
-     "comments": 87
+     "id": 50439000,
+     "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+     "url": "https://github.com/HolyArrs/HolyArrs",
+     "score": 122,
+     "by": "CoderLuii",
+     "time": 1794311479,
+     "comments": 61
+    },
+    {
+     "id": 50431058,
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "url": "https://postalpro.usps.com/zcb",
+     "score": 691,
+     "by": "munro",
+     "time": 1794254339,
+     "comments": 355
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T15:11:05.752648+00:00",
+   "fetched_at": "2026-11-10T15:41:10.964445+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T15:11:07.160856+00:00",
+   "fetched_at": "2026-11-10T15:41:12.359426+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6065,
+     "stars": 6098,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4272,
+     "stars": 4333,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2691,
+     "stars": 2701,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2311,
+     "stars": 2316,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1715,
+     "stars": 1723,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1630,
+     "stars": 1636,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1594,
+     "stars": 1599,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1510,
+     "stars": 1522,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T15:11:07.634775+00:00",
+   "fetched_at": "2026-11-10T15:41:12.859081+00:00",
    "stale": false,
    "items": [
     {
@@ -282,8 +282,8 @@
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 120,
-     "comments": 63,
+     "reactions": 121,
+     "comments": 64,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T15:11:07.795398+00:00",
+   "fetched_at": "2026-11-10T15:41:13.009182+00:00",
    "stale": false,
    "items": [
     {
