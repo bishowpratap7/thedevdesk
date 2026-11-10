@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T15:41:13.465074+00:00",
+ "generated_at": "2026-11-10T16:11:20.180825+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T15:41:09.830556+00:00",
+   "fetched_at": "2026-11-10T16:11:16.512915+00:00",
    "stale": false,
    "items": [
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 323,
+     "score": 362,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 114
-    },
-    {
-     "id": 50412554,
-     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-     "score": 59,
-     "by": "jaypatelani",
-     "time": 1794139637,
-     "comments": 13
-    },
-    {
-     "id": 50436640,
-     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-     "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 518,
-     "by": "aloukissas",
-     "time": 1794290468,
-     "comments": 187
+     "comments": 126
     },
     {
      "id": 50441338,
      "title": "The Hardest Tarball?",
      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-     "score": 21,
+     "score": 63,
      "by": "thatslast",
      "time": 1794322839,
      "comments": 1
     },
     {
-     "id": 50429068,
-     "title": "Claude Fable 5.2 and Mythos 5.2",
-     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 771,
-     "by": "lairv",
-     "time": 1794247270,
-     "comments": 911
+     "id": 50436640,
+     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+     "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+     "score": 548,
+     "by": "aloukissas",
+     "time": 1794290468,
+     "comments": 195
     },
     {
-     "id": 50437790,
-     "title": "Queens Public library under ransomware attack e-borrowing suspended",
-     "url": "https://connect.queenslibrary.org/",
-     "score": 113,
-     "by": "rustyhancock",
-     "time": 1794301479,
-     "comments": 80
+     "id": 50412554,
+     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+     "score": 70,
+     "by": "jaypatelani",
+     "time": 1794139637,
+     "comments": 22
     },
     {
      "id": 50426294,
      "title": "Taking another shot at the cheap IP camera, part 2",
      "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
-     "score": 23,
+     "score": 39,
      "by": "ericswpark",
      "time": 1794235242,
-     "comments": 9
+     "comments": 16
+    },
+    {
+     "id": 50437790,
+     "title": "Queens Public library under ransomware attack e-borrowing suspended",
+     "url": "https://connect.queenslibrary.org/",
+     "score": 133,
+     "by": "rustyhancock",
+     "time": 1794301479,
+     "comments": 87
+    },
+    {
+     "id": 50429068,
+     "title": "Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "score": 788,
+     "by": "lairv",
+     "time": 1794247270,
+     "comments": 925
+    },
+    {
+     "id": 50441707,
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "score": 5,
+     "by": "skittleson",
+     "time": 1794324320,
+     "comments": 1
+    },
+    {
+     "id": 50441074,
+     "title": "The Death Knell of Digital Search",
+     "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+     "score": 15,
+     "by": "bookofjoe",
+     "time": 1794321696,
+     "comments": 4
     },
     {
      "id": 50431075,
      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
      "url": "https://hannahilea.com/blog/daylight-clock/",
-     "score": 22,
+     "score": 30,
      "by": "evakhoury",
      "time": 1794254432,
-     "comments": 0
+     "comments": 1
     },
     {
      "id": 50414117,
      "title": "Show HN: Ghanaian street games you can play in the browser",
      "url": "https://www.ghanastreetgames.com/",
-     "score": 62,
+     "score": 67,
      "by": "samuelaidoo45",
      "time": 1794151912,
-     "comments": 9
+     "comments": 11
     },
     {
      "id": 50439448,
      "title": "Let over Lambda\u201350 Years of Lisp (2008)",
      "url": "https://letoverlambda.com/",
-     "score": 28,
+     "score": 37,
      "by": "theanonymousone",
      "time": 1794314127,
-     "comments": 3
-    },
-    {
-     "id": 50439000,
-     "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-     "url": "https://github.com/HolyArrs/HolyArrs",
-     "score": 122,
-     "by": "CoderLuii",
-     "time": 1794311479,
-     "comments": 61
-    },
-    {
-     "id": 50431058,
-     "title": "USPS now offers official ZIP Code boundary polygons",
-     "url": "https://postalpro.usps.com/zcb",
-     "score": 691,
-     "by": "munro",
-     "time": 1794254339,
-     "comments": 355
+     "comments": 5
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T15:41:10.964445+00:00",
+   "fetched_at": "2026-11-10T16:11:17.640122+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T15:41:12.359426+00:00",
+   "fetched_at": "2026-11-10T16:11:19.119286+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6098,
+     "stars": 6132,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4333,
+     "stars": 4377,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2701,
+     "stars": 2709,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2316,
+     "stars": 2326,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1723,
+     "stars": 1730,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1636,
+     "stars": 1639,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1599,
+     "stars": 1603,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1522,
+     "stars": 1531,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T15:41:12.859081+00:00",
+   "fetched_at": "2026-11-10T16:11:19.605301+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
-     "reactions": 141,
+     "reactions": 142,
      "comments": 28,
      "published_at": "2026-11-05T21:12:11Z"
     },
@@ -266,8 +266,8 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 98,
-     "comments": 19,
+     "reactions": 100,
+     "comments": 20,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 155,
-     "comments": 136,
+     "comments": 139,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -283,16 +283,8 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 121,
-     "comments": 64,
+     "comments": 65,
      "published_at": "2026-11-08T11:50:29Z"
-    },
-    {
-     "title": "One Last Post, and a Proper Goodbye",
-     "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
-     "author": "Ashley Childress",
-     "reactions": 57,
-     "comments": 10,
-     "published_at": "2026-11-03T16:08:07Z"
     },
     {
      "title": "Let's see where you code!",
@@ -307,20 +299,28 @@
      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
      "author": "Jess Lee",
      "reactions": 115,
-     "comments": 73,
+     "comments": 74,
      "published_at": "2026-11-06T14:00:00Z"
+    },
+    {
+     "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
+     "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
+     "author": "xulingfeng",
+     "reactions": 132,
+     "comments": 76,
+     "published_at": "2026-11-06T01:27:32Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T15:41:13.009182+00:00",
+   "fetched_at": "2026-11-10T16:11:19.770585+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "none",
-     "description": "All Systems Operational"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "Cloudflare",
