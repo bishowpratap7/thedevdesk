@@ -1,51 +1,60 @@
 {
- "generated_at": "2026-11-10T11:10:24.753965+00:00",
+ "generated_at": "2026-11-10T11:40:30.010763+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T11:10:20.891085+00:00",
+   "fetched_at": "2026-11-10T11:40:26.561704+00:00",
    "stale": false,
    "items": [
     {
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 325,
+     "score": 345,
      "by": "aloukissas",
      "time": 1794290468,
-     "comments": 110
+     "comments": 119
+    },
+    {
+     "id": 50438318,
+     "title": "AI usage generates a fragile codebase",
+     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+     "score": 31,
+     "by": "plun9",
+     "time": 1794306358,
+     "comments": 13
     },
     {
      "id": 50429068,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 635,
+     "score": 651,
      "by": "lairv",
      "time": 1794247270,
-     "comments": 825
+     "comments": 835
     },
     {
      "id": 50437790,
      "title": "Queens Public library under ransomware attack e-borrowing suspended",
      "url": "https://connect.queenslibrary.org/",
-     "score": 37,
+     "score": 47,
      "by": "rustyhancock",
      "time": 1794301479,
-     "comments": 16
+     "comments": 33
     },
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 625,
+     "score": 635,
      "by": "munro",
      "time": 1794254339,
-     "comments": 319
+     "comments": 320
     },
     {
      "id": 50436410,
      "title": "Your TV can see through walls",
      "url": "https://maurycyz.com/projects/fading/",
-     "score": 133,
+     "score": 142,
      "by": "Curiositry",
      "time": 1794288285,
      "comments": 51
@@ -54,69 +63,60 @@
      "id": 50437106,
      "title": "Fireworks AI security breach impacts Notion and their customers",
      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-     "score": 53,
+     "score": 62,
      "by": "werrett",
      "time": 1794295178,
-     "comments": 17
+     "comments": 19
+    },
+    {
+     "id": 50437752,
+     "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+     "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+     "score": 17,
+     "by": "giuliomagnifico",
+     "time": 1794301181,
+     "comments": 4
     },
     {
      "id": 50434310,
      "title": "Locating the source of a mysterious beep",
      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-     "score": 208,
+     "score": 214,
      "by": "bigwheels",
      "time": 1794269446,
-     "comments": 94
+     "comments": 95
     },
     {
      "id": 50392733,
      "title": "How hard is it to check for whitespace?",
      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-     "score": 35,
+     "score": 42,
      "by": "theanonymousone",
      "time": 1793975482,
-     "comments": 5
+     "comments": 9
     },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 534,
+     "score": 537,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 294
+     "comments": 303
     },
     {
      "id": 50429734,
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "url": "https://e-means.github.io/",
-     "score": 407,
+     "score": 415,
      "by": "porridgeraisin",
      "time": 1794249943,
-     "comments": 44
-    },
-    {
-     "id": 50424581,
-     "title": "Foldable Flight: The Best Paper Airplanes",
-     "url": "https://www.foldableflight.com",
-     "score": 1045,
-     "by": "vismit2000",
-     "time": 1794226762,
-     "comments": 151
-    },
-    {
-     "id": 50434264,
-     "title": "Horible public key tricks",
-     "url": "https://maurycyz.com/projects/badcert/",
-     "score": 174,
-     "by": "Curiositry",
-     "time": 1794269237,
-     "comments": 56
+     "comments": 48
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T11:10:22.752247+00:00",
+   "fetched_at": "2026-11-10T11:40:27.909881+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T11:10:23.858881+00:00",
+   "fetched_at": "2026-11-10T11:40:29.000018+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 5784,
+     "stars": 5818,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 3769,
+     "stars": 3827,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2627,
+     "stars": 2640,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2227,
+     "stars": 2236,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1993,
+     "stars": 1997,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1606,
+     "stars": 1619,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1596,
+     "stars": 1604,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1565,
+     "stars": 1569,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1432,
+     "stars": 1433,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1411,
+     "stars": 1425,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T11:10:24.301709+00:00",
+   "fetched_at": "2026-11-10T11:40:29.367795+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
      "reactions": 237,
-     "comments": 207,
+     "comments": 208,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -299,7 +299,7 @@
      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
      "author": "Maame Afua A. P. Fordjour ",
      "reactions": 101,
-     "comments": 54,
+     "comments": 55,
      "published_at": "2026-11-03T20:18:40Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T11:10:24.345465+00:00",
+   "fetched_at": "2026-11-10T11:40:29.523548+00:00",
    "stale": false,
    "items": [
     {
