@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T17:11:53.279716+00:00",
+ "generated_at": "2026-11-10T17:42:00.834181+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T17:11:47.909302+00:00",
+   "fetched_at": "2026-11-10T17:41:56.027827+00:00",
    "stale": false,
    "items": [
     {
      "id": 50442426,
      "title": "Blender 5.3 released with Gaussian Splat support",
      "url": "https://www.blender.org/download/releases/5-3/",
-     "score": 137,
+     "score": 192,
      "by": "amlib",
      "time": 1794327343,
-     "comments": 18
+     "comments": 27
     },
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 81,
+     "score": 157,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 7
+     "comments": 22
     },
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 428,
+     "score": 440,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 140
-    },
-    {
-     "id": 50442303,
-     "title": "Gemini 4 Carbon is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-     "score": 153,
-     "by": "meetpateltech",
-     "time": 1794326835,
-     "comments": 67
-    },
-    {
-     "id": 50441338,
-     "title": "The Hardest Tarball?",
-     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-     "score": 95,
-     "by": "thatslast",
-     "time": 1794322839,
-     "comments": 8
+     "comments": 144
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 49,
+     "score": 90,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 25
+     "comments": 40
+    },
+    {
+     "id": 50442303,
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+     "score": 196,
+     "by": "meetpateltech",
+     "time": 1794326835,
+     "comments": 88
+    },
+    {
+     "id": 50441338,
+     "title": "The Hardest Tarball?",
+     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+     "score": 103,
+     "by": "thatslast",
+     "time": 1794322839,
+     "comments": 10
     },
     {
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 585,
+     "score": 596,
      "by": "aloukissas",
      "time": 1794290468,
-     "comments": 208
+     "comments": 211
     },
     {
-     "id": 50412554,
-     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-     "score": 82,
-     "by": "jaypatelani",
-     "time": 1794139637,
-     "comments": 35
-    },
-    {
-     "id": 50439284,
-     "title": "What's new in the .NET 11 runtime",
-     "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-     "score": 111,
-     "by": "stevefan1999",
-     "time": 1794313207,
-     "comments": 54
+     "id": 50443090,
+     "title": "AMD's Zen 6 Family: Feeding the Beast",
+     "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+     "score": 18,
+     "by": "pixelpoet",
+     "time": 1794330152,
+     "comments": 5
     },
     {
      "id": 50441518,
      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
      "url": "https://tinyvalencia.com/",
-     "score": 34,
+     "score": 47,
      "by": "leugim",
      "time": 1794323536,
-     "comments": 10
+     "comments": 15
     },
     {
-     "id": 50426294,
-     "title": "Taking another shot at the cheap IP camera, part 2",
-     "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
-     "score": 64,
-     "by": "ericswpark",
-     "time": 1794235242,
-     "comments": 27
+     "id": 50439284,
+     "title": "What's new in the .NET 11 runtime",
+     "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+     "score": 124,
+     "by": "stevefan1999",
+     "time": 1794313207,
+     "comments": 71
     },
     {
-     "id": 50437790,
-     "title": "Queens Public library under ransomware attack e-borrowing suspended",
-     "url": "https://connect.queenslibrary.org/",
-     "score": 151,
-     "by": "rustyhancock",
-     "time": 1794301479,
-     "comments": 98
+     "id": 50382401,
+     "title": "I deleted all my SSH keys",
+     "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+     "score": 33,
+     "by": "speckx",
+     "time": 1793902671,
+     "comments": 7
+    },
+    {
+     "id": 50412554,
+     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+     "score": 87,
+     "by": "jaypatelani",
+     "time": 1794139637,
+     "comments": 40
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T17:11:49.707585+00:00",
+   "fetched_at": "2026-11-10T17:41:57.340633+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T17:11:51.873137+00:00",
+   "fetched_at": "2026-11-10T17:41:59.448600+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6185,
+     "stars": 6212,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4459,
+     "stars": 4497,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2730,
+     "stars": 2742,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2339,
+     "stars": 2343,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2004,
+     "stars": 2005,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1760,
+     "stars": 1770,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1644,
+     "stars": 1645,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1609,
+     "stars": 1612,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1552,
+     "stars": 1562,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T17:11:52.502819+00:00",
+   "fetched_at": "2026-11-10T17:42:00.047389+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 121,
-     "comments": 66,
+     "comments": 68,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -313,20 +313,20 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T17:11:52.717444+00:00",
+   "fetched_at": "2026-11-10T17:42:00.143100+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "major",
-     "description": "Partial System Outage"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "Cloudflare",
      "home": "https://www.cloudflarestatus.com",
-     "indicator": "major",
-     "description": "Partial System Outage"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "npm",
