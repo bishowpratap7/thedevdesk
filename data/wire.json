@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T14:10:57.345540+00:00",
+ "generated_at": "2026-11-10T14:41:02.822433+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T14:10:53.464501+00:00",
+   "fetched_at": "2026-11-10T14:40:59.094739+00:00",
    "stale": false,
    "items": [
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 205,
+     "score": 240,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 83
+     "comments": 94
     },
     {
-     "id": 50440359,
-     "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-     "url": "https://neuracryption.com/research",
-     "score": 17,
-     "by": "anushka_gandhi",
-     "time": 1794318711,
+     "id": 50436640,
+     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+     "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+     "score": 465,
+     "by": "aloukissas",
+     "time": 1794290468,
+     "comments": 170
+    },
+    {
+     "id": 50412554,
+     "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+     "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+     "score": 28,
+     "by": "jaypatelani",
+     "time": 1794139637,
+     "comments": 0
+    },
+    {
+     "id": 50429068,
+     "title": "Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "score": 728,
+     "by": "lairv",
+     "time": 1794247270,
+     "comments": 889
+    },
+    {
+     "id": 50437790,
+     "title": "Queens Public library under ransomware attack e-borrowing suspended",
+     "url": "https://connect.queenslibrary.org/",
+     "score": 93,
+     "by": "rustyhancock",
+     "time": 1794301479,
+     "comments": 68
+    },
+    {
+     "id": 50410329,
+     "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+     "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+     "score": 24,
+     "by": "benbreen",
+     "time": 1794110841,
      "comments": 9
     },
     {
      "id": 50439695,
      "title": "Ableton Live 13",
      "url": "https://www.ableton.com/en/live/",
-     "score": 60,
+     "score": 80,
      "by": "phaser",
      "time": 1794315484,
-     "comments": 55
-    },
-    {
-     "id": 50436640,
-     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-     "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 448,
-     "by": "aloukissas",
-     "time": 1794290468,
-     "comments": 162
-    },
-    {
-     "id": 50429068,
-     "title": "Claude Fable 5.2 and Mythos 5.2",
-     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 711,
-     "by": "lairv",
-     "time": 1794247270,
-     "comments": 878
-    },
-    {
-     "id": 50439805,
-     "title": "Don't buy AR glasses",
-     "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
-     "score": 62,
-     "by": "Bluestein",
-     "time": 1794316225,
-     "comments": 53
+     "comments": 91
     },
     {
      "id": 50439000,
      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "score": 60,
+     "score": 77,
      "by": "CoderLuii",
      "time": 1794311479,
-     "comments": 40
-    },
-    {
-     "id": 50437790,
-     "title": "Queens Public library under ransomware attack e-borrowing suspended",
-     "url": "https://connect.queenslibrary.org/",
-     "score": 79,
-     "by": "rustyhancock",
-     "time": 1794301479,
-     "comments": 60
+     "comments": 46
     },
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 668,
+     "score": 676,
      "by": "munro",
      "time": 1794254339,
-     "comments": 339
+     "comments": 343
     },
     {
-     "id": 50410329,
-     "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
-     "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-     "score": 15,
-     "by": "benbreen",
-     "time": 1794110841,
+     "id": 50414117,
+     "title": "Show HN: Ghanaian street games you can play in the browser",
+     "url": "https://www.ghanastreetgames.com/",
+     "score": 39,
+     "by": "samuelaidoo45",
+     "time": 1794151912,
      "comments": 7
-    },
-    {
-     "id": 50437752,
-     "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
-     "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-     "score": 92,
-     "by": "giuliomagnifico",
-     "time": 1794301181,
-     "comments": 89
     },
     {
      "id": 50436410,
      "title": "Your TV can see through walls",
      "url": "https://maurycyz.com/projects/fading/",
-     "score": 195,
+     "score": 202,
      "by": "Curiositry",
      "time": 1794288285,
-     "comments": 78
+     "comments": 83
+    },
+    {
+     "id": 50438377,
+     "title": "'C:\\> FORMAT C:' \u2013 relax, it's just a screen saver",
+     "url": "https://fakedos.com/",
+     "score": 37,
+     "by": "TheIncredibleCh",
+     "time": 1794306756,
+     "comments": 23
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T14:10:54.624549+00:00",
+   "fetched_at": "2026-11-10T14:41:00.245144+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T14:10:55.793757+00:00",
+   "fetched_at": "2026-11-10T14:41:01.615022+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6004,
+     "stars": 6034,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4122,
+     "stars": 4194,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2672,
+     "stars": 2684,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2292,
+     "stars": 2301,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1689,
+     "stars": 1704,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1626,
+     "stars": 1628,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1589,
+     "stars": 1593,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1484,
+     "stars": 1496,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1440,
+     "stars": 1441,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T14:10:56.219735+00:00",
+   "fetched_at": "2026-11-10T14:41:02.162399+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
      "reactions": 155,
-     "comments": 133,
+     "comments": 135,
      "published_at": "2026-11-04T17:11:22Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T14:10:56.774688+00:00",
+   "fetched_at": "2026-11-10T14:41:02.321142+00:00",
    "stale": false,
    "items": [
     {
