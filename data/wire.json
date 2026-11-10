@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T19:12:21.777610+00:00",
+ "generated_at": "2026-11-10T19:42:37.018252+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T19:12:16.405456+00:00",
+   "fetched_at": "2026-11-10T19:42:23.551543+00:00",
    "stale": false,
    "items": [
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 347,
+     "score": 397,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 62
+     "comments": 68
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 264,
+     "score": 319,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 120
-    },
-    {
-     "id": 50443824,
-     "title": "Synaptics patent claims stop work on DisplayLink drivers",
-     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "score": 59,
-     "by": "speckx",
-     "time": 1794333722,
-     "comments": 25
-    },
-    {
-     "id": 50443427,
-     "title": "Val Town is winding down",
-     "url": "https://blog.val.town/winding-down",
-     "score": 108,
-     "by": "tosh",
-     "time": 1794331874,
-     "comments": 25
+     "comments": 134
     },
     {
      "id": 50444129,
      "title": "Starlink Mini 2",
      "url": "https://starlink.com/mini-2",
-     "score": 30,
+     "score": 91,
      "by": "robertjfclarke",
      "time": 1794334952,
-     "comments": 12
+     "comments": 63
+    },
+    {
+     "id": 50443824,
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "score": 93,
+     "by": "speckx",
+     "time": 1794333722,
+     "comments": 44
+    },
+    {
+     "id": 50443427,
+     "title": "Val Town is winding down",
+     "url": "https://blog.val.town/winding-down",
+     "score": 135,
+     "by": "tosh",
+     "time": 1794331874,
+     "comments": 35
     },
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 485,
+     "score": 496,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 158
+     "comments": 161
     },
     {
      "id": 50443090,
      "title": "AMD's Zen 6 Family: Feeding the Beast",
      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-     "score": 71,
+     "score": 86,
      "by": "pixelpoet",
      "time": 1794330152,
-     "comments": 28
+     "comments": 32
     },
     {
      "id": 50443812,
      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-     "score": 48,
+     "score": 66,
      "by": "paulirish",
      "time": 1794333675,
-     "comments": 11
+     "comments": 27
     },
     {
      "id": 50442426,
      "title": "Blender 5.3 released with Gaussian Splat support",
      "url": "https://www.blender.org/download/releases/5-3/",
-     "score": 280,
+     "score": 303,
      "by": "amlib",
      "time": 1794327343,
-     "comments": 37
+     "comments": 43
     },
     {
      "id": 50439695,
      "title": "Ableton Live 13",
      "url": "https://www.ableton.com/en/live/",
-     "score": 188,
+     "score": 196,
      "by": "phaser",
      "time": 1794315484,
-     "comments": 223
+     "comments": 234
     },
     {
      "id": 50433216,
      "title": "Process Explorer for macOS",
      "url": "https://github.com/microsoft/Procexp-Mac",
-     "score": 38,
+     "score": 50,
      "by": "ingve",
      "time": 1794263441,
-     "comments": 14
+     "comments": 20
     },
     {
-     "id": 50441338,
-     "title": "The Hardest Tarball?",
-     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-     "score": 124,
-     "by": "thatslast",
-     "time": 1794322839,
-     "comments": 17
+     "id": 50382401,
+     "title": "I deleted all my SSH keys",
+     "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+     "score": 119,
+     "by": "speckx",
+     "time": 1793902671,
+     "comments": 43
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T19:12:17.822535+00:00",
+   "fetched_at": "2026-11-10T19:42:25.440444+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T19:12:20.186303+00:00",
+   "fetched_at": "2026-11-10T19:42:35.197476+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6285,
+     "stars": 6314,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4561,
+     "stars": 4574,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2773,
+     "stars": 2783,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2353,
+     "stars": 2354,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1785,
+     "stars": 1789,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1649,
+     "stars": 1650,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1625,
+     "stars": 1626,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1595,
+     "stars": 1604,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1450,
+     "stars": 1452,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T19:12:20.835375+00:00",
+   "fetched_at": "2026-11-10T19:42:36.198587+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
      "author": "Sylwia Laskowska",
      "reactions": 237,
-     "comments": 212,
+     "comments": 213,
      "published_at": "2026-11-04T08:06:25Z"
     },
     {
@@ -266,7 +266,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 106,
+     "reactions": 107,
      "comments": 22,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -283,7 +283,7 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 124,
-     "comments": 69,
+     "comments": 70,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T19:12:21.072207+00:00",
+   "fetched_at": "2026-11-10T19:42:36.513631+00:00",
    "stale": false,
    "items": [
     {
