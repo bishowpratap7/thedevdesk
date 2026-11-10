@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T00:37:31.050801+00:00",
+ "generated_at": "2026-11-10T01:07:35.633293+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T00:37:28.416685+00:00",
+   "fetched_at": "2026-11-10T01:07:32.804069+00:00",
    "stale": false,
    "items": [
     {
      "id": 50429906,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 883,
+     "score": 915,
      "by": "meetpateltech",
      "time": 1794250589,
-     "comments": 529
+     "comments": 553
     },
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 421,
+     "score": 442,
      "by": "munro",
      "time": 1794254339,
-     "comments": 212
+     "comments": 218
     },
     {
      "id": 50432831,
      "title": "TPU 8tx and TPU 8i Max",
      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-     "score": 175,
+     "score": 188,
      "by": "_benx_",
      "time": 1794261417,
-     "comments": 30
+     "comments": 39
     },
     {
      "id": 50429426,
      "title": "Google Gemini routes personal Drive files and emails to human annotators",
      "url": "https://github.com/thisisme6598/gemini_files/",
-     "score": 351,
+     "score": 374,
      "by": "gf74918",
      "time": 1794248678,
-     "comments": 88
+     "comments": 95
     },
     {
      "id": 50433659,
      "title": "Fable 5.2 one-shotted my nephew's dream game",
      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-     "score": 47,
+     "score": 82,
      "by": "lexandstuff",
      "time": 1794265693,
-     "comments": 22
+     "comments": 56
     },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 451,
+     "score": 453,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 253
+     "comments": 256
     },
     {
      "id": 50429734,
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "url": "https://e-means.github.io/",
-     "score": 254,
+     "score": 259,
      "by": "porridgeraisin",
      "time": 1794249943,
-     "comments": 16
+     "comments": 17
     },
     {
      "id": 50431144,
      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-     "score": 265,
+     "score": 272,
      "by": "theanonymousone",
      "time": 1794254695,
-     "comments": 187
-    },
-    {
-     "id": 50429024,
-     "title": "Our Smallest, Most Efficient Model: Muse Ember",
-     "url": "https://research.meta.ai/blog/muse-ember",
-     "score": 234,
-     "by": "dvaplima",
-     "time": 1794247126,
-     "comments": 97
+     "comments": 192
     },
     {
      "id": 50424581,
      "title": "Foldable Flight: The Best Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 827,
+     "score": 837,
      "by": "vismit2000",
      "time": 1794226762,
-     "comments": 134
+     "comments": 135
+    },
+    {
+     "id": 50429024,
+     "title": "Our Smallest, Most Efficient Model: Muse Ember",
+     "url": "https://research.meta.ai/blog/muse-ember",
+     "score": 238,
+     "by": "dvaplima",
+     "time": 1794247126,
+     "comments": 98
+    },
+    {
+     "id": 50434264,
+     "title": "Horible public key tricks",
+     "url": "https://maurycyz.com/projects/badcert/",
+     "score": 7,
+     "by": "Curiositry",
+     "time": 1794269237,
+     "comments": 1
     },
     {
      "id": 50429430,
      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-     "score": 94,
+     "score": 95,
      "by": "sshah03",
      "time": 1794248701,
-     "comments": 58
-    },
-    {
-     "id": 50426175,
-     "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-     "score": 266,
-     "by": "speckx",
-     "time": 1794234699,
-     "comments": 167
+     "comments": 60
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T00:37:29.372318+00:00",
+   "fetched_at": "2026-11-10T01:07:33.886525+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T00:37:30.288586+00:00",
+   "fetched_at": "2026-11-10T01:07:34.832642+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 5012,
+     "stars": 5049,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2378,
+     "stars": 2395,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1927,
+     "stars": 1929,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1766,
+     "stars": 1788,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 1592,
+     "stars": 1668,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1438,
+     "stars": 1440,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1431,
+     "stars": 1433,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1404,
+     "stars": 1411,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1401,
+     "stars": 1405,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T00:37:30.603563+00:00",
+   "fetched_at": "2026-11-10T01:07:35.221323+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T00:37:30.640974+00:00",
+   "fetched_at": "2026-11-10T01:07:35.241074+00:00",
    "stale": false,
    "items": [
     {
