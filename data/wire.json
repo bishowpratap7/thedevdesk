@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T01:37:56.660092+00:00",
+ "generated_at": "2026-11-10T02:08:02.781463+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T01:37:52.412069+00:00",
+   "fetched_at": "2026-11-10T02:07:58.393921+00:00",
    "stale": false,
    "items": [
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 461,
+     "score": 484,
      "by": "munro",
      "time": 1794254339,
-     "comments": 230
+     "comments": 245
     },
     {
      "id": 50432831,
      "title": "TPU 8tx and TPU 8i Max",
      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-     "score": 199,
+     "score": 206,
      "by": "_benx_",
      "time": 1794261417,
-     "comments": 45
+     "comments": 51
     },
     {
      "id": 50433659,
      "title": "Fable 5.2 one-shotted my nephew's dream game",
      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-     "score": 113,
+     "score": 140,
      "by": "lexandstuff",
      "time": 1794265693,
-     "comments": 86
+     "comments": 104
     },
     {
      "id": 50429426,
      "title": "Google Gemini routes personal Drive files and emails to human annotators",
      "url": "https://github.com/thisisme6598/gemini_files/",
-     "score": 392,
+     "score": 425,
      "by": "gf74918",
      "time": 1794248678,
-     "comments": 101
+     "comments": 104
     },
     {
      "id": 50431144,
      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-     "score": 278,
+     "score": 291,
      "by": "theanonymousone",
      "time": 1794254695,
-     "comments": 200
+     "comments": 206
     },
     {
      "id": 50429906,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 946,
+     "score": 957,
      "by": "meetpateltech",
      "time": 1794250589,
-     "comments": 569
+     "comments": 584
     },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 462,
+     "score": 469,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 256
+     "comments": 259
     },
     {
      "id": 50429734,
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "url": "https://e-means.github.io/",
-     "score": 270,
+     "score": 275,
      "by": "porridgeraisin",
      "time": 1794249943,
-     "comments": 19
+     "comments": 20
     },
     {
      "id": 50424581,
      "title": "Foldable Flight: The Best Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 847,
+     "score": 855,
      "by": "vismit2000",
      "time": 1794226762,
-     "comments": 135
+     "comments": 139
     },
     {
      "id": 50429024,
      "title": "Our Smallest, Most Efficient Model: Muse Ember",
      "url": "https://research.meta.ai/blog/muse-ember",
-     "score": 240,
+     "score": 248,
      "by": "dvaplima",
      "time": 1794247126,
-     "comments": 100
+     "comments": 105
     },
     {
      "id": 50434264,
      "title": "Horible public key tricks",
      "url": "https://maurycyz.com/projects/badcert/",
-     "score": 20,
+     "score": 28,
      "by": "Curiositry",
      "time": 1794269237,
-     "comments": 6
+     "comments": 11
     },
     {
-     "id": 50429430,
-     "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-     "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-     "score": 99,
-     "by": "sshah03",
-     "time": 1794248701,
-     "comments": 60
+     "id": 50426175,
+     "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+     "score": 279,
+     "by": "speckx",
+     "time": 1794234699,
+     "comments": 179
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T01:37:54.049453+00:00",
+   "fetched_at": "2026-11-10T02:08:00.090488+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T01:37:55.474170+00:00",
+   "fetched_at": "2026-11-10T02:08:01.611440+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 5088,
+     "stars": 5128,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2408,
+     "stars": 2423,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,31 +179,31 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1936,
+     "stars": 1944,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
     },
     {
-     "full_name": "jhaizhou-ops/S2Arm",
-     "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1818,
-     "language": "C#",
-     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
-     "created_at": "2026-11-08T05:49:46Z"
-    },
-    {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 1766,
+     "stars": 1888,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
     },
     {
+     "full_name": "jhaizhou-ops/S2Arm",
+     "url": "https://github.com/jhaizhou-ops/S2Arm",
+     "stars": 1851,
+     "language": "C#",
+     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
+     "created_at": "2026-11-08T05:49:46Z"
+    },
+    {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1446,
+     "stars": 1455,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1439,
+     "stars": 1449,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1419,
+     "stars": 1424,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1406,
+     "stars": 1409,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "stars": 1288,
+     "stars": 1291,
      "language": "Rust",
      "description": "Headless 3D and VFX engine for agents. Research preview.",
      "created_at": "2026-11-05T22:37:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T01:37:55.932345+00:00",
+   "fetched_at": "2026-11-10T02:08:02.048608+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T01:37:56.031732+00:00",
+   "fetched_at": "2026-11-10T02:08:02.144195+00:00",
    "stale": false,
    "items": [
     {
