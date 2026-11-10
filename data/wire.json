@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T16:11:36.884080+00:00",
+ "generated_at": "2026-11-10T16:41:44.648675+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T16:11:31.708050+00:00",
+   "fetched_at": "2026-11-10T16:41:39.481966+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50442426,
+     "title": "Blender 5.3 released with Gaussian Splat support",
+     "url": "https://www.blender.org/download/releases/5-3/",
+     "score": 48,
+     "by": "amlib",
+     "time": 1794327343,
+     "comments": 7
+    },
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 363,
+     "score": 395,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 126
+     "comments": 132
     },
     {
      "id": 50441338,
      "title": "The Hardest Tarball?",
      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-     "score": 63,
+     "score": 86,
      "by": "thatslast",
      "time": 1794322839,
-     "comments": 1
+     "comments": 3
+    },
+    {
+     "id": 50442303,
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+     "score": 93,
+     "by": "meetpateltech",
+     "time": 1794326835,
+     "comments": 35
     },
     {
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 549,
+     "score": 569,
      "by": "aloukissas",
      "time": 1794290468,
-     "comments": 195
+     "comments": 200
     },
     {
      "id": 50412554,
      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-     "score": 70,
+     "score": 76,
      "by": "jaypatelani",
      "time": 1794139637,
-     "comments": 22
+     "comments": 29
     },
     {
      "id": 50426294,
      "title": "Taking another shot at the cheap IP camera, part 2",
      "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
-     "score": 39,
+     "score": 54,
      "by": "ericswpark",
      "time": 1794235242,
-     "comments": 16
+     "comments": 23
+    },
+    {
+     "id": 50442202,
+     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+     "url": "https://text.npr.org/nx-s1-6029641",
+     "score": 56,
+     "by": "DeepLogin",
+     "time": 1794326374,
+     "comments": 15
     },
     {
      "id": 50437790,
      "title": "Queens Public library under ransomware attack e-borrowing suspended",
      "url": "https://connect.queenslibrary.org/",
-     "score": 133,
+     "score": 145,
      "by": "rustyhancock",
      "time": 1794301479,
-     "comments": 87
+     "comments": 90
     },
     {
      "id": 50429068,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 789,
+     "score": 803,
      "by": "lairv",
      "time": 1794247270,
-     "comments": 924
-    },
-    {
-     "id": 50441707,
-     "title": "Smart home devices should work without the internet",
-     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 6,
-     "by": "skittleson",
-     "time": 1794324320,
-     "comments": 1
+     "comments": 937
     },
     {
      "id": 50441074,
      "title": "The Death Knell of Digital Search",
      "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
-     "score": 15,
+     "score": 25,
      "by": "bookofjoe",
      "time": 1794321696,
-     "comments": 4
+     "comments": 19
     },
     {
      "id": 50431075,
      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
      "url": "https://hannahilea.com/blog/daylight-clock/",
-     "score": 30,
+     "score": 37,
      "by": "evakhoury",
      "time": 1794254432,
-     "comments": 1
-    },
-    {
-     "id": 50414117,
-     "title": "Show HN: Ghanaian street games you can play in the browser",
-     "url": "https://www.ghanastreetgames.com/",
-     "score": 67,
-     "by": "samuelaidoo45",
-     "time": 1794151912,
-     "comments": 11
-    },
-    {
-     "id": 50439448,
-     "title": "Let over Lambda\u201350 Years of Lisp (2008)",
-     "url": "https://letoverlambda.com/",
-     "score": 37,
-     "by": "theanonymousone",
-     "time": 1794314127,
-     "comments": 5
+     "comments": 4
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T16:11:33.058676+00:00",
+   "fetched_at": "2026-11-10T16:41:40.984257+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T16:11:35.433702+00:00",
+   "fetched_at": "2026-11-10T16:41:43.218571+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6132,
+     "stars": 6154,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4377,
+     "stars": 4419,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2709,
+     "stars": 2719,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2326,
+     "stars": 2334,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2003,
+     "stars": 2004,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1730,
+     "stars": 1747,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1639,
+     "stars": 1643,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1603,
+     "stars": 1607,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1531,
+     "stars": 1542,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1445,
+     "stars": 1446,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T16:11:36.137577+00:00",
+   "fetched_at": "2026-11-10T16:41:43.921934+00:00",
    "stale": false,
    "items": [
     {
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T16:11:36.265465+00:00",
+   "fetched_at": "2026-11-10T16:41:44.019526+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "minor",
-     "description": "Partially Degraded Service"
+     "indicator": "major",
+     "description": "Partial System Outage"
     },
     {
      "name": "Cloudflare",
