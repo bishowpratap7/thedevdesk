@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T13:10:45.260710+00:00",
+ "generated_at": "2026-11-10T13:40:51.564649+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T13:10:41.906576+00:00",
+   "fetched_at": "2026-11-10T13:40:47.435056+00:00",
    "stale": false,
    "items": [
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 110,
+     "score": 152,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 39
+     "comments": 67
+    },
+    {
+     "id": 50439695,
+     "title": "Ableton Live 13",
+     "url": "https://www.ableton.com/en/live/",
+     "score": 29,
+     "by": "phaser",
+     "time": 1794315484,
+     "comments": 11
+    },
+    {
+     "id": 50439805,
+     "title": "Don't buy AR glasses",
+     "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+     "score": 20,
+     "by": "Bluestein",
+     "time": 1794316225,
+     "comments": 10
     },
     {
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 414,
+     "score": 430,
      "by": "aloukissas",
      "time": 1794290468,
-     "comments": 141
-    },
-    {
-     "id": 50429068,
-     "title": "Claude Fable 5.2 and Mythos 5.2",
-     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 692,
-     "by": "lairv",
-     "time": 1794247270,
-     "comments": 856
-    },
-    {
-     "id": 50439000,
-     "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-     "url": "https://github.com/HolyArrs/HolyArrs",
-     "score": 22,
-     "by": "CoderLuii",
-     "time": 1794311479,
-     "comments": 13
-    },
-    {
-     "id": 50431058,
-     "title": "USPS now offers official ZIP Code boundary polygons",
-     "url": "https://postalpro.usps.com/zcb",
-     "score": 652,
-     "by": "munro",
-     "time": 1794254339,
-     "comments": 329
-    },
-    {
-     "id": 50436410,
-     "title": "Your TV can see through walls",
-     "url": "https://maurycyz.com/projects/fading/",
-     "score": 172,
-     "by": "Curiositry",
-     "time": 1794288285,
-     "comments": 65
-    },
-    {
-     "id": 50414117,
-     "title": "Show HN: Ghanaian street games you can play in the browser",
-     "url": "https://www.ghanastreetgames.com/",
-     "score": 26,
-     "by": "samuelaidoo45",
-     "time": 1794151912,
-     "comments": 4
-    },
-    {
-     "id": 50437790,
-     "title": "Queens Public library under ransomware attack e-borrowing suspended",
-     "url": "https://connect.queenslibrary.org/",
-     "score": 71,
-     "by": "rustyhancock",
-     "time": 1794301479,
-     "comments": 57
+     "comments": 150
     },
     {
      "id": 50437752,
      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-     "score": 59,
+     "score": 86,
      "by": "giuliomagnifico",
      "time": 1794301181,
-     "comments": 56
+     "comments": 70
     },
     {
-     "id": 50408336,
-     "title": "Billion Watts in the Speaker [video]",
-     "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-     "score": 42,
-     "by": "Element_",
-     "time": 1794087950,
-     "comments": 18
+     "id": 50429068,
+     "title": "Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "score": 701,
+     "by": "lairv",
+     "time": 1794247270,
+     "comments": 864
     },
     {
-     "id": 50437106,
-     "title": "Fireworks AI security breach impacts Notion and their customers",
-     "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-     "score": 80,
-     "by": "werrett",
-     "time": 1794295178,
-     "comments": 23
+     "id": 50439000,
+     "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+     "url": "https://github.com/HolyArrs/HolyArrs",
+     "score": 44,
+     "by": "CoderLuii",
+     "time": 1794311479,
+     "comments": 27
     },
     {
-     "id": 50434310,
-     "title": "Locating the source of a mysterious beep",
-     "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-     "score": 233,
-     "by": "bigwheels",
-     "time": 1794269446,
-     "comments": 113
+     "id": 50431058,
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "url": "https://postalpro.usps.com/zcb",
+     "score": 660,
+     "by": "munro",
+     "time": 1794254339,
+     "comments": 333
+    },
+    {
+     "id": 50414117,
+     "title": "Show HN: Ghanaian street games you can play in the browser",
+     "url": "https://www.ghanastreetgames.com/",
+     "score": 30,
+     "by": "samuelaidoo45",
+     "time": 1794151912,
+     "comments": 5
+    },
+    {
+     "id": 50436410,
+     "title": "Your TV can see through walls",
+     "url": "https://maurycyz.com/projects/fading/",
+     "score": 182,
+     "by": "Curiositry",
+     "time": 1794288285,
+     "comments": 73
+    },
+    {
+     "id": 50439616,
+     "title": "Anthropic to Seek $1.3T Valuation in IPO",
+     "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+     "score": 34,
+     "by": "sonabinu",
+     "time": 1794314972,
+     "comments": 39
+    },
+    {
+     "id": 50437790,
+     "title": "Queens Public library under ransomware attack e-borrowing suspended",
+     "url": "https://connect.queenslibrary.org/",
+     "score": 74,
+     "by": "rustyhancock",
+     "time": 1794301479,
+     "comments": 59
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T13:10:42.991894+00:00",
+   "fetched_at": "2026-11-10T13:40:49.181112+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T13:10:44.185272+00:00",
+   "fetched_at": "2026-11-10T13:40:50.471065+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 5921,
+     "stars": 5963,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 3997,
+     "stars": 4055,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2655,
+     "stars": 2665,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2266,
+     "stars": 2280,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1661,
+     "stars": 1679,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1615,
+     "stars": 1620,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1580,
+     "stars": 1584,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1458,
+     "stars": 1472,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1439,
+     "stars": 1440,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T13:10:44.650490+00:00",
+   "fetched_at": "2026-11-10T13:40:50.976395+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T13:10:44.718382+00:00",
+   "fetched_at": "2026-11-10T13:40:51.036350+00:00",
    "stale": false,
    "items": [
     {
