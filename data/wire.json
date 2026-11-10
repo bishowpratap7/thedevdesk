@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-10T16:11:20.180825+00:00",
+ "generated_at": "2026-11-10T16:11:36.884080+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T16:11:16.512915+00:00",
+   "fetched_at": "2026-11-10T16:11:31.708050+00:00",
    "stale": false,
    "items": [
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 362,
+     "score": 363,
      "by": "ilreb",
      "time": 1794312672,
      "comments": 126
@@ -27,7 +27,7 @@
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 548,
+     "score": 549,
      "by": "aloukissas",
      "time": 1794290468,
      "comments": 195
@@ -63,16 +63,16 @@
      "id": 50429068,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 788,
+     "score": 789,
      "by": "lairv",
      "time": 1794247270,
-     "comments": 925
+     "comments": 924
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 5,
+     "score": 6,
      "by": "skittleson",
      "time": 1794324320,
      "comments": 1
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T16:11:17.640122+00:00",
+   "fetched_at": "2026-11-10T16:11:33.058676+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T16:11:19.119286+00:00",
+   "fetched_at": "2026-11-10T16:11:35.433702+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T16:11:19.605301+00:00",
+   "fetched_at": "2026-11-10T16:11:36.137577+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T16:11:19.770585+00:00",
+   "fetched_at": "2026-11-10T16:11:36.265465+00:00",
    "stale": false,
    "items": [
     {
