@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-09T23:37:22.731490+00:00",
+ "generated_at": "2026-11-10T00:07:26.755156+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-09T23:37:19.960306+00:00",
+   "fetched_at": "2026-11-10T00:07:24.148581+00:00",
    "stale": false,
    "items": [
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 359,
+     "score": 393,
      "by": "munro",
      "time": 1794254339,
-     "comments": 180
+     "comments": 195
     },
     {
      "id": 50432831,
      "title": "TPUs",
      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-     "score": 102,
+     "score": 152,
      "by": "_benx_",
      "time": 1794261417,
-     "comments": 13
-    },
-    {
-     "id": 50431144,
-     "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-     "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-     "score": 229,
-     "by": "theanonymousone",
-     "time": 1794254695,
-     "comments": 145
+     "comments": 20
     },
     {
      "id": 50429426,
      "title": "Google Gemini routes personal Drive files and emails to human annotators",
      "url": "https://github.com/thisisme6598/gemini_files/",
-     "score": 277,
+     "score": 314,
      "by": "gf74918",
      "time": 1794248678,
-     "comments": 55
+     "comments": 72
     },
     {
-     "id": 50429734,
-     "title": "E-means: 10x faster k-means at equal loss",
-     "url": "https://e-means.github.io/",
-     "score": 234,
-     "by": "porridgeraisin",
-     "time": 1794249943,
-     "comments": 13
+     "id": 50431144,
+     "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+     "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+     "score": 254,
+     "by": "theanonymousone",
+     "time": 1794254695,
+     "comments": 175
     },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 440,
+     "score": 444,
      "by": "ocd",
      "time": 1794240045,
-     "comments": 249
+     "comments": 253
+    },
+    {
+     "id": 50429734,
+     "title": "E-means: 10x faster k-means at equal loss",
+     "url": "https://e-means.github.io/",
+     "score": 243,
+     "by": "porridgeraisin",
+     "time": 1794249943,
+     "comments": 14
     },
     {
      "id": 50429024,
      "title": "Our Smallest, Most Efficient Model: Muse Ember",
      "url": "https://research.meta.ai/blog/muse-ember",
-     "score": 219,
+     "score": 225,
      "by": "dvaplima",
      "time": 1794247126,
-     "comments": 89
-    },
-    {
-     "id": 50430621,
-     "title": "CUI \u2013 Native UI components for C",
-     "url": "https://yappologistic.github.io/CUI/",
-     "score": 131,
-     "by": "hilti",
-     "time": 1794252916,
-     "comments": 71
+     "comments": 96
     },
     {
      "id": 50424581,
      "title": "Fold Epic Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 799,
+     "score": 814,
      "by": "vismit2000",
      "time": 1794226762,
      "comments": 133
     },
     {
+     "id": 50430621,
+     "title": "CUI \u2013 Native UI components for C",
+     "url": "https://yappologistic.github.io/CUI/",
+     "score": 140,
+     "by": "hilti",
+     "time": 1794252916,
+     "comments": 71
+    },
+    {
      "id": 50429430,
      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-     "score": 86,
+     "score": 91,
      "by": "sshah03",
      "time": 1794248701,
-     "comments": 48
+     "comments": 55
     },
     {
      "id": 50426175,
      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-     "score": 252,
+     "score": 261,
      "by": "speckx",
      "time": 1794234699,
-     "comments": 156
+     "comments": 162
     },
     {
      "id": 50430991,
      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
      "url": "https://parkgraph.com/parking-app-fees",
-     "score": 42,
+     "score": 45,
      "by": "parkgraph",
      "time": 1794254153,
-     "comments": 14
+     "comments": 25
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-09T23:37:20.945957+00:00",
+   "fetched_at": "2026-11-10T00:07:25.091789+00:00",
    "stale": false,
    "items": [
     {
@@ -157,56 +157,24 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-09T23:37:21.998684+00:00",
+   "fetched_at": "2026-11-10T00:07:26.041206+00:00",
    "stale": false,
    "items": [
     {
-     "full_name": "Minireel/HGhub",
-     "url": "https://github.com/Minireel/HGhub",
-     "stars": 5851,
-     "language": "TypeScript",
-     "description": "YellowFruit third-party client",
-     "created_at": "2026-11-03T14:04:27Z"
-    },
-    {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 4929,
+     "stars": 4973,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
     },
     {
-     "full_name": "KKKKhazix/agent-autoloop",
-     "url": "https://github.com/KKKKhazix/agent-autoloop",
-     "stars": 4270,
-     "language": "TypeScript",
-     "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
-     "created_at": "2026-11-03T08:02:11Z"
-    },
-    {
-     "full_name": "govijr/terminal-mac",
-     "url": "https://github.com/govijr/terminal-mac",
-     "stars": 2505,
-     "language": "Swift",
-     "description": "Entire MacOS running in your terminal.",
-     "created_at": "2026-11-03T03:22:56Z"
-    },
-    {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2342,
+     "stars": 2361,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
-    },
-    {
-     "full_name": "janestreet/agent_skills",
-     "url": "https://github.com/janestreet/agent_skills",
-     "stars": 2029,
-     "language": null,
-     "description": "Agent skills",
-     "created_at": "2026-11-03T16:50:21Z"
     },
     {
      "full_name": "JenkinWoo/sheeridVerify",
@@ -217,33 +185,65 @@
      "created_at": "2026-11-06T09:28:09Z"
     },
     {
-     "full_name": "sarpstar/cinecode",
-     "url": "https://github.com/sarpstar/cinecode",
-     "stars": 1910,
-     "language": "Python",
-     "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-     "created_at": "2026-11-03T10:08:16Z"
-    },
-    {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 1736,
+     "stars": 1746,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
     },
     {
-     "full_name": "Sandflow-ai/sand3d",
-     "url": "https://github.com/Sandflow-ai/sand3d",
-     "stars": 1616,
-     "language": "HTML",
-     "description": "3D modeling in Python, built for LLMs.",
-     "created_at": "2026-11-03T08:23:03Z"
+     "full_name": "huamidev/GestaltX",
+     "url": "https://github.com/huamidev/GestaltX",
+     "stars": 1522,
+     "language": "Swift",
+     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+     "created_at": "2026-11-09T05:15:48Z"
+    },
+    {
+     "full_name": "IainKay/ram-altman",
+     "url": "https://github.com/IainKay/ram-altman",
+     "stars": 1434,
+     "language": "Shell",
+     "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+     "created_at": "2026-11-05T16:16:41Z"
+    },
+    {
+     "full_name": "DIYgod/pinky",
+     "url": "https://github.com/DIYgod/pinky",
+     "stars": 1425,
+     "language": "Go",
+     "description": "Let AI agents use your phone, with you in the loop.",
+     "created_at": "2026-11-06T16:53:14Z"
+    },
+    {
+     "full_name": "livliv-dev/player",
+     "url": "https://github.com/livliv-dev/player",
+     "stars": 1400,
+     "language": "TypeScript",
+     "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "created_at": "2026-11-04T03:28:33Z"
+    },
+    {
+     "full_name": "mmdoctor/google-pro-helper",
+     "url": "https://github.com/mmdoctor/google-pro-helper",
+     "stars": 1399,
+     "language": "Python",
+     "description": null,
+     "created_at": "2026-11-05T04:52:28Z"
+    },
+    {
+     "full_name": "voyager-so/vork",
+     "url": "https://github.com/voyager-so/vork",
+     "stars": 1287,
+     "language": "Rust",
+     "description": "Headless 3D and VFX engine for agents. Research preview.",
+     "created_at": "2026-11-05T22:37:07Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-09T23:37:22.325909+00:00",
+   "fetched_at": "2026-11-10T00:07:26.347855+00:00",
    "stale": false,
    "items": [
     {
@@ -274,8 +274,8 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 61,
-     "comments": 10,
+     "reactions": 64,
+     "comments": 11,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
@@ -298,7 +298,7 @@
      "title": "Let's see where you code!",
      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 100,
+     "reactions": 101,
      "comments": 53,
      "published_at": "2026-11-03T20:18:40Z"
     },
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-09T23:37:22.367140+00:00",
+   "fetched_at": "2026-11-10T00:07:26.402821+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "minor",
-     "description": "Minor Service Outage"
+     "indicator": "none",
+     "description": "All Systems Operational"
     },
     {
      "name": "Cloudflare",
