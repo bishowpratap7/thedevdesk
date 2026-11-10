@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-10T11:40:30.010763+00:00",
+ "generated_at": "2026-11-10T12:10:35.480087+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T11:40:26.561704+00:00",
+   "fetched_at": "2026-11-10T12:10:31.796064+00:00",
    "stale": false,
    "items": [
     {
      "id": 50436640,
      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-     "score": 345,
+     "score": 374,
      "by": "aloukissas",
      "time": 1794290468,
-     "comments": 119
-    },
-    {
-     "id": 50438318,
-     "title": "AI usage generates a fragile codebase",
-     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-     "score": 31,
-     "by": "plun9",
-     "time": 1794306358,
-     "comments": 13
+     "comments": 129
     },
     {
      "id": 50429068,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 651,
+     "score": 663,
      "by": "lairv",
      "time": 1794247270,
-     "comments": 835
+     "comments": 843
     },
     {
      "id": 50437790,
      "title": "Queens Public library under ransomware attack e-borrowing suspended",
      "url": "https://connect.queenslibrary.org/",
-     "score": 47,
+     "score": 58,
      "by": "rustyhancock",
      "time": 1794301479,
-     "comments": 33
-    },
-    {
-     "id": 50431058,
-     "title": "USPS now offers official ZIP Code boundary polygons",
-     "url": "https://postalpro.usps.com/zcb",
-     "score": 635,
-     "by": "munro",
-     "time": 1794254339,
-     "comments": 320
-    },
-    {
-     "id": 50436410,
-     "title": "Your TV can see through walls",
-     "url": "https://maurycyz.com/projects/fading/",
-     "score": 142,
-     "by": "Curiositry",
-     "time": 1794288285,
-     "comments": 51
-    },
-    {
-     "id": 50437106,
-     "title": "Fireworks AI security breach impacts Notion and their customers",
-     "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-     "score": 62,
-     "by": "werrett",
-     "time": 1794295178,
-     "comments": 19
+     "comments": 39
     },
     {
      "id": 50437752,
      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-     "score": 17,
+     "score": 34,
      "by": "giuliomagnifico",
      "time": 1794301181,
-     "comments": 4
+     "comments": 21
+    },
+    {
+     "id": 50431058,
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "url": "https://postalpro.usps.com/zcb",
+     "score": 638,
+     "by": "munro",
+     "time": 1794254339,
+     "comments": 321
+    },
+    {
+     "id": 50436410,
+     "title": "Your TV can see through walls",
+     "url": "https://maurycyz.com/projects/fading/",
+     "score": 153,
+     "by": "Curiositry",
+     "time": 1794288285,
+     "comments": 56
+    },
+    {
+     "id": 50437106,
+     "title": "Fireworks AI security breach impacts Notion and their customers",
+     "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+     "score": 70,
+     "by": "werrett",
+     "time": 1794295178,
+     "comments": 20
     },
     {
      "id": 50434310,
      "title": "Locating the source of a mysterious beep",
      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-     "score": 214,
+     "score": 219,
      "by": "bigwheels",
      "time": 1794269446,
-     "comments": 95
+     "comments": 100
+    },
+    {
+     "id": 50408336,
+     "title": "Billion Watts in the Speaker [video]",
+     "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+     "score": 26,
+     "by": "Element_",
+     "time": 1794087950,
+     "comments": 11
     },
     {
      "id": 50392733,
      "title": "How hard is it to check for whitespace?",
      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-     "score": 42,
+     "score": 50,
      "by": "theanonymousone",
      "time": 1793975482,
-     "comments": 9
+     "comments": 11
     },
     {
      "id": 50427362,
      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 537,
+     "score": 538,
      "by": "ocd",
      "time": 1794240045,
      "comments": 303
     },
     {
-     "id": 50429734,
-     "title": "E-means: Outperforming k-means in one-tenth the epochs",
-     "url": "https://e-means.github.io/",
-     "score": 415,
-     "by": "porridgeraisin",
-     "time": 1794249943,
-     "comments": 48
+     "id": 50424581,
+     "title": "Foldable Flight: The Best Paper Airplanes",
+     "url": "https://www.foldableflight.com",
+     "score": 1060,
+     "by": "vismit2000",
+     "time": 1794226762,
+     "comments": 151
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T11:40:27.909881+00:00",
+   "fetched_at": "2026-11-10T12:10:33.339671+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T11:40:29.000018+00:00",
+   "fetched_at": "2026-11-10T12:10:34.449659+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 5818,
+     "stars": 5851,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 3827,
+     "stars": 3882,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2640,
+     "stars": 2646,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2236,
+     "stars": 2247,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1997,
+     "stars": 2000,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1619,
+     "stars": 1632,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1604,
+     "stars": 1607,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -219,31 +219,31 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1569,
+     "stars": 1572,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
     },
     {
-     "full_name": "livliv-dev/player",
-     "url": "https://github.com/livliv-dev/player",
-     "stars": 1433,
-     "language": "TypeScript",
-     "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-     "created_at": "2026-11-04T03:28:33Z"
-    },
-    {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1425,
+     "stars": 1434,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
+    },
+    {
+     "full_name": "livliv-dev/player",
+     "url": "https://github.com/livliv-dev/player",
+     "stars": 1434,
+     "language": "TypeScript",
+     "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+     "created_at": "2026-11-04T03:28:33Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T11:40:29.367795+00:00",
+   "fetched_at": "2026-11-10T12:10:34.852742+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 92,
+     "reactions": 97,
      "comments": 17,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T11:40:29.523548+00:00",
+   "fetched_at": "2026-11-10T12:10:35.028629+00:00",
    "stale": false,
    "items": [
     {
