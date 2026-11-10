@@ -1,60 +1,78 @@
 {
- "generated_at": "2026-11-10T06:09:06.123099+00:00",
+ "generated_at": "2026-11-10T06:39:12.754099+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-10T06:09:01.930835+00:00",
+   "fetched_at": "2026-11-10T06:39:07.967444+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50436640,
+     "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+     "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+     "score": 35,
+     "by": "aloukissas",
+     "time": 1794290468,
+     "comments": 4
+    },
     {
      "id": 50429068,
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-     "score": 410,
+     "score": 439,
      "by": "lairv",
      "time": 1794247270,
-     "comments": 720
+     "comments": 733
     },
     {
      "id": 50431058,
      "title": "USPS now offers official ZIP Code boundary polygons",
      "url": "https://postalpro.usps.com/zcb",
-     "score": 574,
+     "score": 581,
      "by": "munro",
      "time": 1794254339,
-     "comments": 284
+     "comments": 289
     },
     {
-     "id": 50427362,
-     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-     "score": 505,
-     "by": "ocd",
-     "time": 1794240045,
-     "comments": 278
+     "id": 50436410,
+     "title": "Your TV can see through walls",
+     "url": "https://maurycyz.com/projects/fading/",
+     "score": 20,
+     "by": "Curiositry",
+     "time": 1794288285,
+     "comments": 1
     },
     {
      "id": 50429734,
      "title": "E-means: Outperforming k-means in one-tenth the epochs",
      "url": "https://e-means.github.io/",
-     "score": 343,
+     "score": 355,
      "by": "porridgeraisin",
      "time": 1794249943,
-     "comments": 29
+     "comments": 31
+    },
+    {
+     "id": 50427362,
+     "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+     "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+     "score": 510,
+     "by": "ocd",
+     "time": 1794240045,
+     "comments": 279
     },
     {
      "id": 50434310,
      "title": "Locating the source of a mysterious beep",
      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-     "score": 90,
+     "score": 103,
      "by": "bigwheels",
      "time": 1794269446,
-     "comments": 44
+     "comments": 53
     },
     {
      "id": 50424581,
      "title": "Foldable Flight: The Best Paper Airplanes",
      "url": "https://www.foldableflight.com",
-     "score": 930,
+     "score": 938,
      "by": "vismit2000",
      "time": 1794226762,
      "comments": 145
@@ -63,60 +81,42 @@
      "id": 50434264,
      "title": "Horible public key tricks",
      "url": "https://maurycyz.com/projects/badcert/",
-     "score": 98,
+     "score": 111,
      "by": "Curiositry",
      "time": 1794269237,
-     "comments": 37
+     "comments": 38
     },
     {
      "id": 50435898,
      "title": "Ultorg: The User Interface for Relational Databases",
      "url": "https://www.ultorg.com/",
-     "score": 14,
+     "score": 22,
      "by": "Ivoah",
      "time": 1794283179,
-     "comments": 1
-    },
-    {
-     "id": 50433541,
-     "title": "Exact \u2013 a new cross platform UI framework",
-     "url": "https://github.com/expo/exact",
-     "score": 99,
-     "by": "vmg12",
-     "time": 1794265153,
-     "comments": 50
+     "comments": 5
     },
     {
      "id": 50435660,
      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-     "score": 82,
+     "score": 98,
      "by": "lxm",
      "time": 1794280806,
-     "comments": 36
-    },
-    {
-     "id": 50426175,
-     "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-     "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-     "score": 296,
-     "by": "speckx",
-     "time": 1794234699,
-     "comments": 194
+     "comments": 42
     },
     {
      "id": 50435105,
      "title": "Formalizing CPython",
      "url": "https://broyojo.com/python-formalization/",
-     "score": 23,
+     "score": 32,
      "by": "carnevalem",
      "time": 1794275808,
-     "comments": 7
+     "comments": 9
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-10T06:09:03.621097+00:00",
+   "fetched_at": "2026-11-10T06:39:09.659965+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-10T06:09:04.982183+00:00",
+   "fetched_at": "2026-11-10T06:39:11.251155+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 5411,
+     "stars": 5442,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 2874,
+     "stars": 2990,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2522,
+     "stars": 2538,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2069,
+     "stars": 2095,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 1956,
+     "stars": 1964,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1517,
+     "stars": 1527,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1506,
+     "stars": 1513,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1486,
+     "stars": 1496,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "livliv-dev/player",
      "url": "https://github.com/livliv-dev/player",
-     "stars": 1419,
+     "stars": 1423,
      "language": "TypeScript",
      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
      "created_at": "2026-11-04T03:28:33Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1314,
+     "stars": 1320,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-10T06:09:05.334122+00:00",
+   "fetched_at": "2026-11-10T06:39:11.685114+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 87,
-     "comments": 14,
+     "reactions": 88,
+     "comments": 15,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
@@ -282,8 +282,8 @@
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 107,
-     "comments": 60,
+     "reactions": 109,
+     "comments": 61,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -299,21 +299,21 @@
      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
      "author": "Maame Afua A. P. Fordjour ",
      "reactions": 101,
-     "comments": 53,
+     "comments": 54,
      "published_at": "2026-11-03T20:18:40Z"
     },
     {
      "title": "What was your win this week?",
      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
      "author": "Jess Lee",
-     "reactions": 106,
+     "reactions": 107,
      "comments": 70,
      "published_at": "2026-11-06T14:00:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-10T06:09:05.437388+00:00",
+   "fetched_at": "2026-11-10T06:39:11.968123+00:00",
    "stale": false,
    "items": [
     {
