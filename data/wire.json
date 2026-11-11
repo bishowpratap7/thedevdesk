@@ -1,90 +1,99 @@
 {
- "generated_at": "2026-11-11T13:47:10.443021+00:00",
+ "generated_at": "2026-11-11T14:17:23.064714+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T13:47:05.927751+00:00",
+   "fetched_at": "2026-11-11T14:17:18.911219+00:00",
    "stale": false,
    "items": [
     {
      "id": 50452455,
      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
      "url": "https://pietromiotti.com/latest/maya-site/?maya",
-     "score": 194,
+     "score": 290,
      "by": "eyvindn",
      "time": 1794398722,
-     "comments": 77
+     "comments": 119
     },
     {
      "id": 50452655,
      "title": "Can a Linear Program Do Weight-Space Programming?",
      "url": "https://nathan.rs/posts/weight-space-lp/",
-     "score": 45,
+     "score": 65,
      "by": "emschwartz",
      "time": 1794400217,
-     "comments": 8
+     "comments": 12
     },
     {
      "id": 50451903,
      "title": "Using voltage glitching to unleash the A100 in my mining card",
      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-     "score": 61,
+     "score": 78,
      "by": "lae",
      "time": 1794394120,
-     "comments": 19
-    },
-    {
-     "id": 50449748,
-     "title": "Protecting SSH Keys with macOS Secure Enclave",
-     "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-     "score": 281,
-     "by": "js2",
-     "time": 1794371337,
-     "comments": 102
+     "comments": 24
     },
     {
      "id": 50452496,
      "title": "Next-Level Benchmarking Overfitting \u2013 Thomas Neumann",
      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
-     "score": 17,
+     "score": 25,
      "by": "artrax",
      "time": 1794398989,
      "comments": 1
     },
     {
+     "id": 50449748,
+     "title": "Protecting SSH Keys with macOS Secure Enclave",
+     "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+     "score": 287,
+     "by": "js2",
+     "time": 1794371337,
+     "comments": 107
+    },
+    {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 1065,
+     "score": 1078,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 372
+     "comments": 383
+    },
+    {
+     "id": 50452652,
+     "title": "We need more goat sacrifices",
+     "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+     "score": 14,
+     "by": "iamnothere",
+     "time": 1794400188,
+     "comments": 4
     },
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 893,
+     "score": 898,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 192
+     "comments": 193
     },
     {
      "id": 50445401,
      "title": "Scion is back and is going to sell a kei truck in America",
      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "score": 508,
+     "score": 513,
      "by": "NaOH",
      "time": 1794340246,
-     "comments": 330
+     "comments": 334
     },
     {
      "id": 50446520,
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-     "score": 351,
+     "score": 368,
      "by": "linolevan",
      "time": 1794345903,
-     "comments": 345
+     "comments": 372
     },
     {
      "id": 50452404,
@@ -96,27 +105,18 @@
      "comments": 0
     },
     {
-     "id": 50451985,
-     "title": "The Housing Market Is Nuts",
-     "url": "https://nuts.logical.li/",
-     "score": 34,
-     "by": "herTTTz",
-     "time": 1794394966,
-     "comments": 37
-    },
-    {
-     "id": 50450007,
-     "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-     "url": "https://github.com/gmkurtzer/ginux",
-     "score": 92,
-     "by": "d3Xt3r",
-     "time": 1794374754,
-     "comments": 50
+     "id": 50452224,
+     "title": "Physically Controllable Relighting of Photographs",
+     "url": "https://yaksoy.github.io/PhysicalRelighting/",
+     "score": 17,
+     "by": "summarity",
+     "time": 1794397123,
+     "comments": 2
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T13:47:07.437193+00:00",
+   "fetched_at": "2026-11-11T14:17:20.457956+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T13:47:09.115345+00:00",
+   "fetched_at": "2026-11-11T14:17:21.885246+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 7187,
+     "stars": 7215,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 5881,
+     "stars": 5927,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3074,
+     "stars": 3081,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2547,
+     "stars": 2550,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2020,
+     "stars": 2022,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1882,
+     "stars": 1885,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1856,
+     "stars": 1865,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1822,
+     "stars": 1828,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1701,
+     "stars": 1704,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1418,
+     "stars": 1426,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T13:47:09.589182+00:00",
+   "fetched_at": "2026-11-11T14:17:22.334230+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T13:47:09.737229+00:00",
+   "fetched_at": "2026-11-11T14:17:22.392931+00:00",
    "stale": false,
    "items": [
     {
