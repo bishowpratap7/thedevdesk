@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T07:15:13.594783+00:00",
+ "generated_at": "2026-11-11T07:15:28.453591+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T07:15:10.794125+00:00",
+   "fetched_at": "2026-11-11T07:15:23.132590+00:00",
    "stale": false,
    "items": [
     {
@@ -33,15 +33,6 @@
      "comments": 296
     },
     {
-     "id": 50442736,
-     "title": ".name Grandfathered",
-     "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 774,
-     "by": "p4bl0",
-     "time": 1794328664,
-     "comments": 171
-    },
-    {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
@@ -49,6 +40,15 @@
      "by": "skittleson",
      "time": 1794324320,
      "comments": 306
+    },
+    {
+     "id": 50442736,
+     "title": ".name Grandfathered",
+     "url": "https://neil.fraser.name/news/2026/11/10/",
+     "score": 774,
+     "by": "p4bl0",
+     "time": 1794328664,
+     "comments": 171
     },
     {
      "id": 50449275,
@@ -69,6 +69,15 @@
      "comments": 16
     },
     {
+     "id": 50414657,
+     "title": "A Compendium of Abandoned Greenhouses",
+     "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+     "score": 13,
+     "by": "ohjeez",
+     "time": 1794155404,
+     "comments": 1
+    },
+    {
      "id": 50446246,
      "title": "Six Math Essentials",
      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
@@ -78,19 +87,10 @@
      "comments": 38
     },
     {
-     "id": 50414657,
-     "title": "A Compendium of Abandoned Greenhouses",
-     "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-     "score": 12,
-     "by": "ohjeez",
-     "time": 1794155404,
-     "comments": 1
-    },
-    {
      "id": 50446520,
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-     "score": 165,
+     "score": 166,
      "by": "linolevan",
      "time": 1794345903,
      "comments": 128
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T07:15:11.850811+00:00",
+   "fetched_at": "2026-11-11T07:15:24.809927+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T07:15:12.897335+00:00",
+   "fetched_at": "2026-11-11T07:15:27.073094+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T07:15:13.244380+00:00",
+   "fetched_at": "2026-11-11T07:15:27.700168+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T07:15:13.310569+00:00",
+   "fetched_at": "2026-11-11T07:15:27.832418+00:00",
    "stale": false,
    "items": [
     {
