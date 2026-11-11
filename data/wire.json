@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T03:14:38.177297+00:00",
+ "generated_at": "2026-11-11T03:44:42.578616+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T03:14:35.494437+00:00",
+   "fetched_at": "2026-11-11T03:44:39.826682+00:00",
    "stale": false,
    "items": [
     {
      "id": 50447074,
      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-     "score": 300,
+     "score": 316,
      "by": "panic",
      "time": 1794349076,
-     "comments": 129
+     "comments": 143
     },
     {
      "id": 50448921,
      "title": "A great old-timey game-programming hack (2013)",
      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-     "score": 33,
+     "score": 43,
      "by": "palsecam",
      "time": 1794362191,
-     "comments": 4
+     "comments": 8
     },
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 711,
+     "score": 718,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 166
-    },
-    {
-     "id": 50445401,
-     "title": "Scion is back and is going to sell a kei truck in America",
-     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "score": 357,
-     "by": "NaOH",
-     "time": 1794340246,
-     "comments": 264
+     "comments": 168
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 748,
+     "score": 762,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 269
+     "comments": 278
+    },
+    {
+     "id": 50445401,
+     "title": "Scion is back and is going to sell a kei truck in America",
+     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+     "score": 364,
+     "by": "NaOH",
+     "time": 1794340246,
+     "comments": 268
+    },
+    {
+     "id": 50449275,
+     "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+     "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+     "score": 7,
+     "by": "Metacelsus",
+     "time": 1794365828,
+     "comments": 1
     },
     {
      "id": 50446246,
      "title": "Six Math Essentials by Terence Tao",
      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "score": 151,
+     "score": 158,
      "by": "digital55",
      "time": 1794344324,
-     "comments": 27
+     "comments": 29
     },
     {
      "id": 50444129,
      "title": "Starlink Mini 2",
      "url": "https://starlink.com/mini-2",
-     "score": 285,
+     "score": 298,
      "by": "robertjfclarke",
      "time": 1794334952,
-     "comments": 291
+     "comments": 307
     },
     {
      "id": 50443824,
      "title": "Synaptics patent claims stop work on DisplayLink drivers",
      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "score": 320,
+     "score": 323,
      "by": "speckx",
      "time": 1794333722,
-     "comments": 179
+     "comments": 185
     },
     {
      "id": 50406224,
      "title": "Hacking the Meta Ray-Ban smartglasses",
      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-     "score": 61,
+     "score": 63,
      "by": "moooooky",
      "time": 1794071942,
-     "comments": 20
+     "comments": 23
     },
     {
      "id": 50443427,
      "title": "Val Town is winding down",
      "url": "https://blog.val.town/winding-down",
-     "score": 317,
+     "score": 326,
      "by": "tosh",
      "time": 1794331874,
-     "comments": 84
+     "comments": 85
     },
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 585,
+     "score": 588,
      "by": "ilreb",
      "time": 1794312672,
      "comments": 178
-    },
-    {
-     "id": 50443812,
-     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-     "url": "https://github.com/GoogleChrome/modern-web-guidance",
-     "score": 278,
-     "by": "paulirish",
-     "time": 1794333675,
-     "comments": 86
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T03:14:36.424233+00:00",
+   "fetched_at": "2026-11-11T03:44:40.819033+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T03:14:37.357220+00:00",
+   "fetched_at": "2026-11-11T03:44:41.797828+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6690,
+     "stars": 6717,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 5096,
+     "stars": 5156,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2927,
+     "stars": 2932,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2419,
+     "stars": 2428,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1830,
+     "stars": 1832,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1729,
+     "stars": 1736,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1724,
+     "stars": 1730,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1655,
+     "stars": 1658,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "stars": 1361,
+     "stars": 1362,
      "language": "Rust",
      "description": "Headless 3D and VFX engine for agents. Research preview.",
      "created_at": "2026-11-05T22:37:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T03:14:37.682581+00:00",
+   "fetched_at": "2026-11-11T03:44:42.182250+00:00",
    "stale": false,
    "items": [
     {
@@ -274,7 +274,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 125,
+     "reactions": 126,
      "comments": 67,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -282,7 +282,7 @@
      "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
      "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
      "author": "Giorgi Kobaidze",
-     "reactions": 156,
+     "reactions": 155,
      "comments": 142,
      "published_at": "2026-11-04T17:11:22Z"
     },
@@ -290,7 +290,7 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 97,
+     "reactions": 98,
      "comments": 34,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -299,7 +299,7 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 128,
-     "comments": 72,
+     "comments": 73,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T03:14:37.770005+00:00",
+   "fetched_at": "2026-11-11T03:44:42.221881+00:00",
    "stale": false,
    "items": [
     {
