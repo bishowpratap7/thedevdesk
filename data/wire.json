@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T21:49:13.560842+00:00",
+ "generated_at": "2026-11-11T22:19:19.291911+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T21:49:07.675693+00:00",
+   "fetched_at": "2026-11-11T22:19:15.706614+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50458900,
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "score": 88,
+     "by": "herpderperator",
+     "time": 1794432275,
+     "comments": 55
+    },
     {
      "id": 50456631,
      "title": "AWS emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 475,
+     "score": 504,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 159
+     "comments": 174
     },
     {
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 643,
+     "score": 672,
      "by": "ayhanfuat",
      "time": 1794380597,
-     "comments": 63
+     "comments": 67
     },
     {
      "id": 50455394,
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 330,
+     "score": 346,
      "by": "mbac32768",
      "time": 1794415124,
-     "comments": 166
+     "comments": 169
     },
     {
      "id": 50458532,
      "title": "GitHub Incident with Webhooks, Actions, etc.",
      "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-     "score": 40,
+     "score": 57,
      "by": "jbredeche",
      "time": 1794430477,
-     "comments": 19
-    },
-    {
-     "id": 50457230,
-     "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-     "url": "https://termsheetplease.com/",
-     "score": 114,
-     "by": "bolau",
-     "time": 1794424336,
-     "comments": 55
+     "comments": 29
     },
     {
      "id": 50456791,
      "title": "Gemini Decisions API",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "score": 131,
+     "score": 157,
      "by": "iamdelirium",
      "time": 1794421962,
-     "comments": 40
+     "comments": 50
+    },
+    {
+     "id": 50457230,
+     "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+     "url": "https://termsheetplease.com/",
+     "score": 128,
+     "by": "bolau",
+     "time": 1794424336,
+     "comments": 60
     },
     {
      "id": 50458208,
      "title": "Emacs in the Age of Magic",
      "url": "https://commandlinesystems.com/magic.txt",
-     "score": 54,
+     "score": 72,
      "by": "ggcr",
      "time": 1794428792,
-     "comments": 7
+     "comments": 19
     },
     {
-     "id": 50458166,
-     "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-     "url": "https://github.com/huawei-csl/MACaQ",
-     "score": 23,
-     "by": "thefox96",
-     "time": 1794428637,
-     "comments": 7
+     "id": 50458710,
+     "title": "Play GTA5 on Browser",
+     "url": "https://playgta5.com/",
+     "score": 28,
+     "by": "ndkap",
+     "time": 1794431435,
+     "comments": 11
     },
     {
      "id": 50455633,
      "title": "Faster Retrieval for Better, More Efficient RAG",
      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-     "score": 113,
+     "score": 118,
      "by": "zerop",
      "time": 1794416265,
-     "comments": 21
+     "comments": 22
     },
     {
-     "id": 50457669,
-     "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-     "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-     "score": 29,
-     "by": "gok",
-     "time": 1794426479,
-     "comments": 12
+     "id": 50458166,
+     "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+     "url": "https://github.com/huawei-csl/MACaQ",
+     "score": 31,
+     "by": "thefox96",
+     "time": 1794428637,
+     "comments": 11
     },
     {
-     "id": 50452455,
-     "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-     "url": "https://pietromiotti.com/latest/maya-site/?maya",
-     "score": 878,
-     "by": "eyvindn",
-     "time": 1794398722,
-     "comments": 318
-    },
-    {
-     "id": 50433042,
-     "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-     "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-     "score": 11,
-     "by": "rmason",
-     "time": 1794262513,
-     "comments": 0
+     "id": 50457618,
+     "title": "The Utah Teapot",
+     "url": "https://graphics.cs.utah.edu/teapot/",
+     "score": 26,
+     "by": "cobbal",
+     "time": 1794426310,
+     "comments": 8
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T21:49:09.200610+00:00",
+   "fetched_at": "2026-11-11T22:19:17.251643+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T21:49:10.241412+00:00",
+   "fetched_at": "2026-11-11T22:19:18.255947+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 7630,
+     "stars": 7658,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6144,
+     "stars": 6157,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3198,
+     "stars": 3212,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1949,
+     "stars": 1953,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1504,
+     "stars": 1507,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T21:49:10.591528+00:00",
+   "fetched_at": "2026-11-11T22:19:18.591103+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T21:49:12.752353+00:00",
+   "fetched_at": "2026-11-11T22:19:18.633024+00:00",
    "stale": false,
    "items": [
     {
