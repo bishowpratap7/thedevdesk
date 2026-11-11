@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T02:14:19.566948+00:00",
+ "generated_at": "2026-11-11T02:44:33.786812+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T02:14:15.366376+00:00",
+   "fetched_at": "2026-11-11T02:44:30.767037+00:00",
    "stale": false,
    "items": [
     {
      "id": 50447074,
      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-     "score": 254,
+     "score": 273,
      "by": "panic",
      "time": 1794349076,
-     "comments": 102
-    },
-    {
-     "id": 50442736,
-     "title": ".name Grandfathered",
-     "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 694,
-     "by": "p4bl0",
-     "time": 1794328664,
-     "comments": 159
-    },
-    {
-     "id": 50445401,
-     "title": "Scion is back and is going to sell a kei truck in America",
-     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "score": 335,
-     "by": "NaOH",
-     "time": 1794340246,
-     "comments": 251
-    },
-    {
-     "id": 50441707,
-     "title": "Smart home devices should work without the internet",
-     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 723,
-     "by": "skittleson",
-     "time": 1794324320,
-     "comments": 256
-    },
-    {
-     "id": 50446246,
-     "title": "Six Math Essentials by Terence Tao",
-     "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "score": 138,
-     "by": "digital55",
-     "time": 1794344324,
-     "comments": 25
-    },
-    {
-     "id": 50443824,
-     "title": "Synaptics patent claims stop work on DisplayLink drivers",
-     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "score": 300,
-     "by": "speckx",
-     "time": 1794333722,
-     "comments": 164
-    },
-    {
-     "id": 50444129,
-     "title": "Starlink Mini 2",
-     "url": "https://starlink.com/mini-2",
-     "score": 248,
-     "by": "robertjfclarke",
-     "time": 1794334952,
-     "comments": 258
-    },
-    {
-     "id": 50443427,
-     "title": "Val Town is winding down",
-     "url": "https://blog.val.town/winding-down",
-     "score": 308,
-     "by": "tosh",
-     "time": 1794331874,
-     "comments": 82
-    },
-    {
-     "id": 50406224,
-     "title": "Hacking the meta ray-ban smartglasses",
-     "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-     "score": 46,
-     "by": "moooooky",
-     "time": 1794071942,
-     "comments": 14
+     "comments": 115
     },
     {
      "id": 50448921,
      "title": "A great old-timey game-programming hack (2013)",
      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-     "score": 5,
+     "score": 19,
      "by": "palsecam",
      "time": 1794362191,
-     "comments": 0
+     "comments": 1
+    },
+    {
+     "id": 50442736,
+     "title": ".name Grandfathered",
+     "url": "https://neil.fraser.name/news/2026/11/10/",
+     "score": 699,
+     "by": "p4bl0",
+     "time": 1794328664,
+     "comments": 165
+    },
+    {
+     "id": 50445401,
+     "title": "Scion is back and is going to sell a kei truck in America",
+     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+     "score": 348,
+     "by": "NaOH",
+     "time": 1794340246,
+     "comments": 259
+    },
+    {
+     "id": 50441707,
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "score": 735,
+     "by": "skittleson",
+     "time": 1794324320,
+     "comments": 263
+    },
+    {
+     "id": 50446246,
+     "title": "Six Math Essentials by Terence Tao",
+     "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+     "score": 143,
+     "by": "digital55",
+     "time": 1794344324,
+     "comments": 26
+    },
+    {
+     "id": 50443824,
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "score": 312,
+     "by": "speckx",
+     "time": 1794333722,
+     "comments": 168
+    },
+    {
+     "id": 50444129,
+     "title": "Starlink Mini 2",
+     "url": "https://starlink.com/mini-2",
+     "score": 268,
+     "by": "robertjfclarke",
+     "time": 1794334952,
+     "comments": 271
+    },
+    {
+     "id": 50406224,
+     "title": "Hacking the Meta Ray-Ban smartglasses",
+     "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+     "score": 56,
+     "by": "moooooky",
+     "time": 1794071942,
+     "comments": 16
+    },
+    {
+     "id": 50443427,
+     "title": "Val Town is winding down",
+     "url": "https://blog.val.town/winding-down",
+     "score": 316,
+     "by": "tosh",
+     "time": 1794331874,
+     "comments": 83
     },
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 582,
+     "score": 583,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 177
+     "comments": 178
     },
     {
      "id": 50443812,
      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-     "score": 267,
+     "score": 274,
      "by": "paulirish",
      "time": 1794333675,
-     "comments": 77
+     "comments": 81
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T02:14:16.813129+00:00",
+   "fetched_at": "2026-11-11T02:44:31.793829+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T02:14:18.265012+00:00",
+   "fetched_at": "2026-11-11T02:44:32.808661+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6627,
+     "stars": 6655,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4938,
+     "stars": 5017,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2909,
+     "stars": 2919,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2400,
+     "stars": 2413,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2009,
+     "stars": 2010,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1829,
+     "stars": 1830,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1713,
+     "stars": 1719,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1705,
+     "stars": 1710,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1652,
+     "stars": 1654,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "stars": 1357,
+     "stars": 1360,
      "language": "Rust",
      "description": "Headless 3D and VFX engine for agents. Research preview.",
      "created_at": "2026-11-05T22:37:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T02:14:18.724340+00:00",
+   "fetched_at": "2026-11-11T02:44:33.136909+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
      "reactions": 112,
-     "comments": 26,
+     "comments": 27,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 125,
-     "comments": 65,
+     "comments": 67,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -307,13 +307,13 @@
      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
      "author": "Jess Lee",
      "reactions": 116,
-     "comments": 82,
+     "comments": 83,
      "published_at": "2026-11-06T14:00:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T02:14:19.021117+00:00",
+   "fetched_at": "2026-11-11T02:44:33.212692+00:00",
    "stale": false,
    "items": [
     {
