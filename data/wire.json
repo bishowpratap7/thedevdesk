@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T11:46:30.902874+00:00",
+ "generated_at": "2026-11-11T12:16:38.039232+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T11:46:25.601672+00:00",
+   "fetched_at": "2026-11-11T12:16:32.891322+00:00",
    "stale": false,
    "items": [
     {
      "id": 50449748,
      "title": "Protecting SSH Keys with macOS Secure Enclave",
      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-     "score": 225,
+     "score": 238,
      "by": "js2",
      "time": 1794371337,
-     "comments": 85
+     "comments": 88
     },
     {
      "id": 50424188,
      "title": "Plane lifted into back garden as bunker takes shape",
      "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o",
-     "score": 37,
+     "score": 49,
      "by": "edward",
      "time": 1794224159,
-     "comments": 25
+     "comments": 31
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 996,
+     "score": 1014,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 360
+     "comments": 361
     },
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 866,
+     "score": 871,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 188
+     "comments": 189
     },
     {
      "id": 50445401,
      "title": "Scion is back and is going to sell a kei truck in America",
      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "score": 488,
+     "score": 493,
      "by": "NaOH",
      "time": 1794340246,
-     "comments": 316
+     "comments": 319
     },
     {
      "id": 50450007,
      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
      "url": "https://github.com/gmkurtzer/ginux",
-     "score": 81,
+     "score": 85,
      "by": "d3Xt3r",
      "time": 1794374754,
-     "comments": 39
+     "comments": 41
     },
     {
-     "id": 50448921,
-     "title": "A great old-timey game-programming hack (2013)",
-     "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-     "score": 185,
-     "by": "palsecam",
-     "time": 1794362191,
-     "comments": 37
+     "id": 50452404,
+     "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+     "url": null,
+     "score": 1,
+     "by": "FrasiertheLion",
+     "time": 1794398435,
+     "comments": 0
     },
     {
      "id": 50446520,
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-     "score": 288,
+     "score": 303,
      "by": "linolevan",
      "time": 1794345903,
-     "comments": 254
+     "comments": 274
+    },
+    {
+     "id": 50448921,
+     "title": "A great old-timey game-programming hack (2013)",
+     "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+     "score": 192,
+     "by": "palsecam",
+     "time": 1794362191,
+     "comments": 42
     },
     {
      "id": 50449275,
      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-     "score": 114,
+     "score": 118,
      "by": "Metacelsus",
      "time": 1794365828,
-     "comments": 76
+     "comments": 80
     },
     {
      "id": 50446246,
      "title": "Six Math Essentials",
      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "score": 262,
+     "score": 269,
      "by": "digital55",
      "time": 1794344324,
-     "comments": 51
+     "comments": 53
     },
     {
-     "id": 50443824,
-     "title": "Synaptics patent claims stop work on DisplayLink drivers",
-     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "score": 418,
-     "by": "speckx",
-     "time": 1794333722,
-     "comments": 236
-    },
-    {
-     "id": 50444129,
-     "title": "Starlink Mini 2",
-     "url": "https://starlink.com/mini-2",
-     "score": 435,
-     "by": "robertjfclarke",
-     "time": 1794334952,
-     "comments": 464
+     "id": 50451903,
+     "title": "Using voltage glitching to unleash the A100 in my mining card",
+     "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+     "score": 12,
+     "by": "lae",
+     "time": 1794394120,
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T11:46:27.209914+00:00",
+   "fetched_at": "2026-11-11T12:16:34.359460+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T11:46:29.273868+00:00",
+   "fetched_at": "2026-11-11T12:16:36.431376+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 7063,
+     "stars": 7096,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 5750,
+     "stars": 5781,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3047,
+     "stars": 3054,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2018,
+     "stars": 2020,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1868,
+     "stars": 1872,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1834,
+     "stars": 1840,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -233,24 +233,24 @@
      "created_at": "2026-11-05T04:52:28Z"
     },
     {
-     "full_name": "voyager-so/vork",
-     "url": "https://github.com/voyager-so/vork",
-     "stars": 1377,
-     "language": "Rust",
-     "description": "Headless 3D and VFX engine for agents. Research preview.",
-     "created_at": "2026-11-05T22:37:07Z"
+     "full_name": "Kianuni/Erosion-CN",
+     "url": "https://github.com/Kianuni/Erosion-CN",
+     "stars": 1395,
+     "language": "Swift",
+     "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
+     "created_at": "2026-11-10T02:37:31Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T11:46:29.941710+00:00",
+   "fetched_at": "2026-11-11T12:16:37.038340+00:00",
    "stale": false,
    "items": [
     {
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 112,
+     "reactions": 117,
      "comments": 27,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -259,15 +259,15 @@
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
      "reactions": 143,
-     "comments": 29,
+     "comments": 30,
      "published_at": "2026-11-05T21:12:11Z"
     },
     {
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 136,
-     "comments": 74,
+     "reactions": 137,
+     "comments": 75,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
      "reactions": 107,
-     "comments": 38,
+     "comments": 42,
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
@@ -291,7 +291,7 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 131,
-     "comments": 87,
+     "comments": 88,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T11:46:30.102373+00:00",
+   "fetched_at": "2026-11-11T12:16:37.225064+00:00",
    "stale": false,
    "items": [
     {
