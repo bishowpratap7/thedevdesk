@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T23:19:52.144614+00:00",
+ "generated_at": "2026-11-11T23:49:58.621496+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T23:19:46.763426+00:00",
+   "fetched_at": "2026-11-11T23:49:54.193592+00:00",
    "stale": false,
    "items": [
     {
      "id": 50456631,
      "title": "AWS emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 557,
+     "score": 585,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 189
+     "comments": 197
     },
     {
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 746,
+     "score": 777,
      "by": "ayhanfuat",
      "time": 1794380597,
-     "comments": 75
-    },
-    {
-     "id": 50458900,
-     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-     "score": 214,
-     "by": "herpderperator",
-     "time": 1794432275,
-     "comments": 216
+     "comments": 77
     },
     {
      "id": 50459745,
      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
      "url": "https://www.mcmillen.dev/sigbovik/",
-     "score": 27,
+     "score": 45,
      "by": "zenincognito",
      "time": 1794436463,
-     "comments": 5
+     "comments": 9
     },
     {
-     "id": 50455394,
-     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 371,
-     "by": "mbac32768",
-     "time": 1794415124,
-     "comments": 183
-    },
-    {
-     "id": 50456791,
-     "title": "Gemini Decisions API",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "score": 192,
-     "by": "iamdelirium",
-     "time": 1794421962,
-     "comments": 64
+     "id": 50458900,
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "score": 260,
+     "by": "herpderperator",
+     "time": 1794432275,
+     "comments": 240
     },
     {
      "id": 50459485,
      "title": "Lock Your GitHub Actions",
      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-     "score": 42,
+     "score": 64,
      "by": "gslin",
      "time": 1794435401,
-     "comments": 8
+     "comments": 12
+    },
+    {
+     "id": 50455394,
+     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "score": 380,
+     "by": "mbac32768",
+     "time": 1794415124,
+     "comments": 189
+    },
+    {
+     "id": 50456791,
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "score": 211,
+     "by": "iamdelirium",
+     "time": 1794421962,
+     "comments": 70
     },
     {
      "id": 50458208,
      "title": "Emacs in the Age of Magic",
      "url": "https://commandlinesystems.com/magic.txt",
-     "score": 102,
+     "score": 115,
      "by": "ggcr",
      "time": 1794428792,
-     "comments": 36
+     "comments": 43
     },
     {
      "id": 50457230,
      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
      "url": "https://termsheetplease.com/",
-     "score": 141,
+     "score": 149,
      "by": "bolau",
      "time": 1794424336,
-     "comments": 62
+     "comments": 65
     },
     {
-     "id": 50455633,
-     "title": "Faster Retrieval for Better, More Efficient RAG",
-     "url": "https://machinelearning.apple.com/research/faster-retrieval",
-     "score": 128,
-     "by": "zerop",
-     "time": 1794416265,
-     "comments": 22
+     "id": 50459776,
+     "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+     "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+     "score": 93,
+     "by": "alexmolas",
+     "time": 1794436595,
+     "comments": 19
     },
     {
      "id": 50458166,
      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
      "url": "https://github.com/huawei-csl/MACaQ",
-     "score": 38,
+     "score": 44,
      "by": "thefox96",
      "time": 1794428637,
-     "comments": 15
+     "comments": 17
     },
     {
      "id": 50457618,
      "title": "The Utah Teapot",
      "url": "https://graphics.cs.utah.edu/teapot/",
-     "score": 38,
+     "score": 48,
      "by": "cobbal",
      "time": 1794426310,
-     "comments": 10
+     "comments": 12
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T23:19:48.113227+00:00",
+   "fetched_at": "2026-11-11T23:49:55.536075+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T23:19:50.503143+00:00",
+   "fetched_at": "2026-11-11T23:49:57.384674+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 7719,
+     "stars": 7748,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6176,
+     "stars": 6190,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3231,
+     "stars": 3239,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2583,
+     "stars": 2585,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1963,
+     "stars": 1965,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1938,
+     "stars": 1940,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1859,
+     "stars": 1861,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1724,
+     "stars": 1726,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1517,
+     "stars": 1521,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T23:19:51.166359+00:00",
+   "fetched_at": "2026-11-11T23:49:57.960237+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T23:19:51.527311+00:00",
+   "fetched_at": "2026-11-11T23:49:58.102618+00:00",
    "stale": false,
    "items": [
     {
