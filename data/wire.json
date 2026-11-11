@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T01:14:07.794698+00:00",
+ "generated_at": "2026-11-11T01:44:13.986574+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T01:14:03.298535+00:00",
+   "fetched_at": "2026-11-11T01:44:09.142612+00:00",
    "stale": false,
    "items": [
     {
      "id": 50447074,
      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-     "score": 171,
+     "score": 207,
      "by": "panic",
      "time": 1794349076,
-     "comments": 66
-    },
-    {
-     "id": 50445401,
-     "title": "Scion is back and is going to sell a kei truck in America",
-     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "score": 312,
-     "by": "NaOH",
-     "time": 1794340246,
-     "comments": 233
+     "comments": 82
     },
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 672,
+     "score": 680,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 155
+     "comments": 157
+    },
+    {
+     "id": 50445401,
+     "title": "Scion is back and is going to sell a kei truck in America",
+     "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+     "score": 322,
+     "by": "NaOH",
+     "time": 1794340246,
+     "comments": 243
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 688,
+     "score": 706,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 248
+     "comments": 252
     },
     {
      "id": 50446246,
      "title": "Six Math Essentials by Terence Tao",
      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "score": 116,
+     "score": 122,
      "by": "digital55",
      "time": 1794344324,
-     "comments": 24
+     "comments": 25
     },
     {
      "id": 50443824,
      "title": "Synaptics patent claims stop work on DisplayLink drivers",
      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "score": 286,
+     "score": 292,
      "by": "speckx",
      "time": 1794333722,
-     "comments": 151
+     "comments": 163
     },
     {
      "id": 50444129,
      "title": "Starlink Mini 2",
      "url": "https://starlink.com/mini-2",
-     "score": 222,
+     "score": 229,
      "by": "robertjfclarke",
      "time": 1794334952,
-     "comments": 230
+     "comments": 240
     },
     {
      "id": 50443427,
      "title": "Val Town is winding down",
      "url": "https://blog.val.town/winding-down",
-     "score": 300,
+     "score": 305,
      "by": "tosh",
      "time": 1794331874,
-     "comments": 77
-    },
-    {
-     "id": 50410587,
-     "title": "Pinot Noir: inside the criminal gangs making fake wine",
-     "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
-     "score": 26,
-     "by": "axiomdata316",
-     "time": 1794114805,
-     "comments": 4
+     "comments": 81
     },
     {
      "id": 50406224,
      "title": "Hacking the meta ray-ban smartglasses",
      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-     "score": 32,
+     "score": 41,
      "by": "moooooky",
      "time": 1794071942,
-     "comments": 8
+     "comments": 14
+    },
+    {
+     "id": 50410587,
+     "title": "Pinot Noir: inside the criminal gangs making fake wine",
+     "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+     "score": 28,
+     "by": "axiomdata316",
+     "time": 1794114805,
+     "comments": 6
     },
     {
      "id": 50439193,
      "title": "AlphaProof Code",
      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "score": 576,
+     "score": 577,
      "by": "ilreb",
      "time": 1794312672,
-     "comments": 175
+     "comments": 177
     },
     {
      "id": 50443812,
      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-     "score": 253,
+     "score": 259,
      "by": "paulirish",
      "time": 1794333675,
-     "comments": 72
+     "comments": 76
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T01:14:04.838127+00:00",
+   "fetched_at": "2026-11-11T01:44:10.992117+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T01:14:06.523452+00:00",
+   "fetched_at": "2026-11-11T01:44:12.867379+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6577,
+     "stars": 6600,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 4803,
+     "stars": 4856,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2886,
+     "stars": 2904,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2385,
+     "stars": 2397,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2007,
+     "stars": 2008,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1826,
+     "stars": 1827,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1701,
+     "stars": 1707,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1686,
+     "stars": 1696,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1647,
+     "stars": 1651,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T01:14:06.947972+00:00",
+   "fetched_at": "2026-11-11T01:44:13.303057+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T01:14:07.140509+00:00",
+   "fetched_at": "2026-11-11T01:44:13.390230+00:00",
    "stale": false,
    "items": [
     {
