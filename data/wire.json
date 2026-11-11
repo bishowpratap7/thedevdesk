@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T16:47:55.176316+00:00",
+ "generated_at": "2026-11-11T17:18:01.366417+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T16:47:50.694120+00:00",
+   "fetched_at": "2026-11-11T17:17:57.208193+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50455394,
+     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "score": 51,
+     "by": "mbac32768",
+     "time": 1794415124,
+     "comments": 16
+    },
     {
      "id": 50452455,
      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
      "url": "https://pietromiotti.com/latest/maya-site/?maya",
-     "score": 656,
+     "score": 707,
      "by": "eyvindn",
      "time": 1794398722,
-     "comments": 252
-    },
-    {
-     "id": 50453763,
-     "title": "Pharo in the Browser with WebAssembly",
-     "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-     "score": 72,
-     "by": "xkriva11",
-     "time": 1794406887,
-     "comments": 16
+     "comments": 265
     },
     {
      "id": 50453637,
      "title": "Atuin Threads: All your agent sessions on every machine",
      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-     "score": 75,
+     "score": 95,
      "by": "linsomniac",
      "time": 1794406246,
-     "comments": 30
+     "comments": 34
     },
     {
-     "id": 50452655,
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "url": "https://nathan.rs/posts/weight-space-lp/",
-     "score": 148,
-     "by": "emschwartz",
-     "time": 1794400217,
-     "comments": 23
-    },
-    {
-     "id": 50455332,
-     "title": "Why aren't we shipping faster now?",
-     "url": "https://cabird.com/talks/shipping-faster/",
-     "score": 9,
-     "by": "azhenley",
-     "time": 1794414808,
-     "comments": 4
+     "id": 50453763,
+     "title": "Pharo in the Browser with WebAssembly",
+     "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+     "score": 85,
+     "by": "xkriva11",
+     "time": 1794406887,
+     "comments": 19
     },
     {
      "id": 50453288,
      "title": "Hyper-Realistic Sand with WebGL2",
      "url": "https://av.github.io/safe-sand/",
-     "score": 94,
+     "score": 121,
      "by": "everlier",
      "time": 1794404369,
-     "comments": 17
+     "comments": 21
+    },
+    {
+     "id": 50452655,
+     "title": "Can a Linear Program Do Weight-Space Programming?",
+     "url": "https://nathan.rs/posts/weight-space-lp/",
+     "score": 162,
+     "by": "emschwartz",
+     "time": 1794400217,
+     "comments": 27
     },
     {
      "id": 50451903,
      "title": "Using voltage glitching to unleash the A100 in my mining card",
      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-     "score": 158,
+     "score": 168,
      "by": "lae",
      "time": 1794394120,
-     "comments": 59
-    },
-    {
-     "id": 50455394,
-     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 5,
-     "by": "mbac32768",
-     "time": 1794415124,
-     "comments": 0
+     "comments": 60
     },
     {
      "id": 50453229,
      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-     "score": 40,
+     "score": 48,
      "by": "0xdeadf1sh",
      "time": 1794404064,
+     "comments": 4
+    },
+    {
+     "id": 50454995,
+     "title": "The hardest notes to find on the guitar fretboard",
+     "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+     "score": 12,
+     "by": "udit99",
+     "time": 1794413118,
      "comments": 4
     },
     {
      "id": 50453474,
      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-     "score": 190,
+     "score": 209,
      "by": "Brajeshwar",
      "time": 1794405365,
-     "comments": 91
+     "comments": 109
     },
     {
      "id": 50452652,
      "title": "We need more goat sacrifices",
      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-     "score": 84,
+     "score": 97,
      "by": "iamnothere",
      "time": 1794400188,
-     "comments": 46
+     "comments": 59
     },
     {
-     "id": 50449748,
-     "title": "Protecting SSH Keys with macOS Secure Enclave",
-     "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-     "score": 342,
-     "by": "js2",
-     "time": 1794371337,
-     "comments": 122
+     "id": 50454951,
+     "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+     "url": "https://github.com/klad-app/klad",
+     "score": 13,
+     "by": "ambewas",
+     "time": 1794412850,
+     "comments": 2
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T16:47:52.183093+00:00",
+   "fetched_at": "2026-11-11T17:17:59.055094+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T16:47:53.771221+00:00",
+   "fetched_at": "2026-11-11T17:18:00.185105+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 7353,
+     "stars": 7376,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6054,
+     "stars": 6077,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3115,
+     "stars": 3125,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2571,
+     "stars": 2572,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1906,
+     "stars": 1910,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1899,
+     "stars": 1905,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1847,
+     "stars": 1848,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1711,
+     "stars": 1712,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1470,
+     "stars": 1476,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T16:47:54.264019+00:00",
+   "fetched_at": "2026-11-11T17:18:00.517807+00:00",
    "stale": false,
    "items": [
     {
@@ -274,17 +274,9 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 126,
-     "comments": 49,
+     "reactions": 127,
+     "comments": 50,
      "published_at": "2026-11-09T23:02:37Z"
-    },
-    {
-     "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
-     "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
-     "author": "Giorgi Kobaidze",
-     "reactions": 155,
-     "comments": 144,
-     "published_at": "2026-11-04T17:11:22Z"
     },
     {
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
@@ -309,11 +301,19 @@
      "reactions": 132,
      "comments": 76,
      "published_at": "2026-11-06T01:27:32Z"
+    },
+    {
+     "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
+     "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
+     "author": "Dhruv Jani",
+     "reactions": 112,
+     "comments": 37,
+     "published_at": "2026-11-09T15:30:54Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T16:47:54.417136+00:00",
+   "fetched_at": "2026-11-11T17:18:00.672435+00:00",
    "stale": false,
    "items": [
     {
