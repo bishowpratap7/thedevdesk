@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T19:18:38.788748+00:00",
+ "generated_at": "2026-11-11T19:48:45.454797+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T19:18:33.730777+00:00",
+   "fetched_at": "2026-11-11T19:48:41.314222+00:00",
    "stale": false,
    "items": [
     {
      "id": 50456631,
      "title": "AWS Finally Built Its Own AWS Emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 175,
+     "score": 269,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 49
+     "comments": 70
     },
     {
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 344,
+     "score": 416,
      "by": "ayhanfuat",
      "time": 1794380597,
-     "comments": 37
+     "comments": 43
     },
     {
      "id": 50455394,
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 241,
+     "score": 260,
      "by": "mbac32768",
      "time": 1794415124,
-     "comments": 125
+     "comments": 131
+    },
+    {
+     "id": 50457230,
+     "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+     "url": "https://termsheetplease.com/",
+     "score": 38,
+     "by": "bolau",
+     "time": 1794424336,
+     "comments": 10
     },
     {
      "id": 50456740,
      "title": "AWS Emulator and the engineer's job when agents write the code",
      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-     "score": 35,
+     "score": 58,
      "by": "drbm",
      "time": 1794421711,
-     "comments": 1
+     "comments": 4
+    },
+    {
+     "id": 50457164,
+     "title": "Retirement Savings Are Fueling the AI Bubble",
+     "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+     "score": 18,
+     "by": "speckx",
+     "time": 1794424003,
+     "comments": 8
     },
     {
      "id": 50455633,
      "title": "Faster Retrieval for Better, More Efficient RAG",
      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-     "score": 65,
+     "score": 79,
      "by": "zerop",
      "time": 1794416265,
-     "comments": 11
+     "comments": 18
     },
     {
      "id": 50452455,
      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
      "url": "https://pietromiotti.com/latest/maya-site/?maya",
-     "score": 821,
+     "score": 837,
      "by": "eyvindn",
      "time": 1794398722,
-     "comments": 303
+     "comments": 307
     },
     {
      "id": 50453288,
      "title": "Hyper-Realistic Sand with WebGL2",
      "url": "https://av.github.io/safe-sand/",
-     "score": 202,
+     "score": 216,
      "by": "everlier",
      "time": 1794404369,
-     "comments": 48
-    },
-    {
-     "id": 50453637,
-     "title": "Atuin Threads: All your agent sessions on every machine",
-     "url": "https://blog.atuin.sh/threads-agent-sessions/",
-     "score": 131,
-     "by": "linsomniac",
-     "time": 1794406246,
-     "comments": 55
+     "comments": 50
     },
     {
      "id": 50454625,
      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "score": 67,
+     "score": 85,
      "by": "brownrout",
      "time": 1794411186,
-     "comments": 34
+     "comments": 41
     },
     {
-     "id": 50452655,
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "url": "https://nathan.rs/posts/weight-space-lp/",
-     "score": 189,
-     "by": "emschwartz",
-     "time": 1794400217,
-     "comments": 29
+     "id": 50453637,
+     "title": "Atuin Threads: All your agent sessions on every machine",
+     "url": "https://blog.atuin.sh/threads-agent-sessions/",
+     "score": 138,
+     "by": "linsomniac",
+     "time": 1794406246,
+     "comments": 55
     },
     {
      "id": 50455811,
      "title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
      "url": "https://pomerado.ai/",
-     "score": 21,
+     "score": 26,
      "by": "alanjm23",
      "time": 1794417116,
-     "comments": 11
-    },
-    {
-     "id": 50453763,
-     "title": "Pharo in the Browser with WebAssembly",
-     "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-     "score": 100,
-     "by": "xkriva11",
-     "time": 1794406887,
-     "comments": 28
+     "comments": 17
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T19:18:35.848484+00:00",
+   "fetched_at": "2026-11-11T19:48:42.915513+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T19:18:37.356350+00:00",
+   "fetched_at": "2026-11-11T19:48:44.133761+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 7498,
+     "stars": 7518,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6113,
+     "stars": 6118,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3161,
+     "stars": 3167,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2579,
+     "stars": 2580,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2031,
+     "stars": 2032,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1933,
+     "stars": 1936,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1923,
+     "stars": 1927,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1720,
+     "stars": 1722,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1490,
+     "stars": 1492,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T19:18:37.809639+00:00",
+   "fetched_at": "2026-11-11T19:48:44.503228+00:00",
    "stale": false,
    "items": [
     {
@@ -263,20 +263,20 @@
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
+     "title": "How did you end up in tech, and are you staying?",
+     "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
+     "author": "Maame Afua A. P. Fordjour ",
+     "reactions": 134,
+     "comments": 52,
+     "published_at": "2026-11-09T23:02:37Z"
+    },
+    {
      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
      "author": "Jem",
      "reactions": 143,
      "comments": 30,
      "published_at": "2026-11-05T21:12:11Z"
-    },
-    {
-     "title": "How did you end up in tech, and are you staying?",
-     "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
-     "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 130,
-     "comments": 52,
-     "published_at": "2026-11-09T23:02:37Z"
     },
     {
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
@@ -306,14 +306,14 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 112,
+     "reactions": 114,
      "comments": 37,
      "published_at": "2026-11-09T15:30:54Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T19:18:38.072599+00:00",
+   "fetched_at": "2026-11-11T19:48:44.687446+00:00",
    "stale": false,
    "items": [
     {
