@@ -1,78 +1,78 @@
 {
- "generated_at": "2026-11-11T07:15:28.453591+00:00",
+ "generated_at": "2026-11-11T07:45:35.182431+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T07:15:23.132590+00:00",
+   "fetched_at": "2026-11-11T07:45:30.117561+00:00",
    "stale": false,
    "items": [
     {
      "id": 50449748,
      "title": "Protecting SSH Keys with macOS Secure Enclave",
      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-     "score": 98,
+     "score": 119,
      "by": "js2",
      "time": 1794371337,
-     "comments": 36
+     "comments": 43
     },
     {
      "id": 50450007,
      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
      "url": "https://github.com/gmkurtzer/ginux",
-     "score": 40,
+     "score": 43,
      "by": "d3Xt3r",
      "time": 1794374754,
-     "comments": 10
+     "comments": 21
     },
     {
      "id": 50445401,
      "title": "Scion is back and is going to sell a kei truck in America",
      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "score": 438,
+     "score": 444,
      "by": "NaOH",
      "time": 1794340246,
-     "comments": 296
-    },
-    {
-     "id": 50441707,
-     "title": "Smart home devices should work without the internet",
-     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 855,
-     "by": "skittleson",
-     "time": 1794324320,
-     "comments": 306
+     "comments": 304
     },
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 774,
+     "score": 789,
      "by": "p4bl0",
      "time": 1794328664,
      "comments": 171
     },
     {
+     "id": 50441707,
+     "title": "Smart home devices should work without the internet",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+     "score": 870,
+     "by": "skittleson",
+     "time": 1794324320,
+     "comments": 312
+    },
+    {
      "id": 50449275,
      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-     "score": 67,
+     "score": 73,
      "by": "Metacelsus",
      "time": 1794365828,
-     "comments": 35
+     "comments": 42
     },
     {
      "id": 50448921,
      "title": "A great old-timey game-programming hack (2013)",
      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-     "score": 111,
+     "score": 118,
      "by": "palsecam",
      "time": 1794362191,
-     "comments": 16
+     "comments": 17
     },
     {
      "id": 50414657,
      "title": "A Compendium of Abandoned Greenhouses",
      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-     "score": 13,
+     "score": 22,
      "by": "ohjeez",
      "time": 1794155404,
      "comments": 1
@@ -81,42 +81,42 @@
      "id": 50446246,
      "title": "Six Math Essentials",
      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "score": 212,
+     "score": 219,
      "by": "digital55",
      "time": 1794344324,
-     "comments": 38
+     "comments": 39
+    },
+    {
+     "id": 50429210,
+     "title": "A ZIP-style Prolog VM for trilog",
+     "url": "https://github.com/no382001/zipc",
+     "score": 6,
+     "by": "triska",
+     "time": 1794247830,
+     "comments": 0
     },
     {
      "id": 50446520,
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-     "score": 166,
+     "score": 176,
      "by": "linolevan",
      "time": 1794345903,
-     "comments": 128
+     "comments": 141
     },
     {
      "id": 50443824,
      "title": "Synaptics patent claims stop work on DisplayLink drivers",
      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "score": 365,
+     "score": 372,
      "by": "speckx",
      "time": 1794333722,
-     "comments": 215
-    },
-    {
-     "id": 50444129,
-     "title": "Starlink Mini 2",
-     "url": "https://starlink.com/mini-2",
-     "score": 370,
-     "by": "robertjfclarke",
-     "time": 1794334952,
-     "comments": 383
+     "comments": 217
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T07:15:24.809927+00:00",
+   "fetched_at": "2026-11-11T07:45:31.522142+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T07:15:27.073094+00:00",
+   "fetched_at": "2026-11-11T07:45:33.586896+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6865,
+     "stars": 6889,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 5462,
+     "stars": 5505,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 2966,
+     "stars": 2983,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2478,
+     "stars": 2485,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1843,
+     "stars": 1846,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1775,
+     "stars": 1782,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1766,
+     "stars": 1768,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1675,
+     "stars": 1677,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T07:15:27.700168+00:00",
+   "fetched_at": "2026-11-11T07:45:34.211572+00:00",
    "stale": false,
    "items": [
     {
@@ -274,7 +274,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 132,
+     "reactions": 133,
      "comments": 72,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -299,21 +299,21 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 130,
-     "comments": 76,
+     "comments": 79,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
      "title": "What was your win this week?",
      "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
      "author": "Jess Lee",
-     "reactions": 118,
-     "comments": 85,
+     "reactions": 119,
+     "comments": 86,
      "published_at": "2026-11-06T14:00:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T07:15:27.832418+00:00",
+   "fetched_at": "2026-11-11T07:45:34.403854+00:00",
    "stale": false,
    "items": [
     {
