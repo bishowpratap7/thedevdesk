@@ -1,96 +1,87 @@
 {
- "generated_at": "2026-11-11T09:46:03.005296+00:00",
+ "generated_at": "2026-11-11T10:16:09.838829+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T09:45:57.674109+00:00",
+   "fetched_at": "2026-11-11T10:16:04.592140+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50451102,
-     "title": "OSS projects banning AI-generated contributions",
-     "url": "https://osssaysno.com",
-     "score": 39,
-     "by": "jlengrand",
-     "time": 1794387105,
-     "comments": 36
-    },
     {
      "id": 50449748,
      "title": "Protecting SSH Keys with macOS Secure Enclave",
      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-     "score": 189,
+     "score": 199,
      "by": "js2",
      "time": 1794371337,
-     "comments": 66
+     "comments": 72
     },
     {
      "id": 50441707,
      "title": "Smart home devices should work without the internet",
      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "score": 933,
+     "score": 947,
      "by": "skittleson",
      "time": 1794324320,
-     "comments": 335
+     "comments": 340
     },
     {
      "id": 50442736,
      "title": ".name Grandfathered",
      "url": "https://neil.fraser.name/news/2026/11/10/",
-     "score": 829,
+     "score": 841,
      "by": "p4bl0",
      "time": 1794328664,
-     "comments": 183
+     "comments": 184
     },
     {
      "id": 50445401,
      "title": "Scion is back and is going to sell a kei truck in America",
      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-     "score": 470,
+     "score": 475,
      "by": "NaOH",
      "time": 1794340246,
-     "comments": 313
+     "comments": 316
     },
     {
      "id": 50450007,
      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
      "url": "https://github.com/gmkurtzer/ginux",
-     "score": 63,
+     "score": 71,
      "by": "d3Xt3r",
      "time": 1794374754,
-     "comments": 30
+     "comments": 33
     },
     {
      "id": 50448921,
      "title": "A great old-timey game-programming hack (2013)",
      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-     "score": 157,
+     "score": 162,
      "by": "palsecam",
      "time": 1794362191,
-     "comments": 29
+     "comments": 31
     },
     {
      "id": 50446520,
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-     "score": 231,
+     "score": 250,
      "by": "linolevan",
      "time": 1794345903,
-     "comments": 190
+     "comments": 207
     },
     {
      "id": 50449275,
      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-     "score": 90,
+     "score": 100,
      "by": "Metacelsus",
      "time": 1794365828,
-     "comments": 56
+     "comments": 62
     },
     {
      "id": 50446246,
      "title": "Six Math Essentials",
      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "score": 242,
+     "score": 246,
      "by": "digital55",
      "time": 1794344324,
      "comments": 44
@@ -99,24 +90,33 @@
      "id": 50427107,
      "title": "Why I wrote the BEAM book (2025)",
      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-     "score": 85,
+     "score": 90,
      "by": "zenincognito",
      "time": 1794238895,
-     "comments": 12
+     "comments": 14
     },
     {
-     "id": 50414657,
-     "title": "A Compendium of Abandoned Greenhouses",
-     "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-     "score": 42,
-     "by": "ohjeez",
-     "time": 1794155404,
-     "comments": 2
+     "id": 50443824,
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "score": 400,
+     "by": "speckx",
+     "time": 1794333722,
+     "comments": 229
+    },
+    {
+     "id": 50444129,
+     "title": "Starlink Mini 2",
+     "url": "https://starlink.com/mini-2",
+     "score": 414,
+     "by": "robertjfclarke",
+     "time": 1794334952,
+     "comments": 413
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T09:45:59.505182+00:00",
+   "fetched_at": "2026-11-11T10:16:06.022510+00:00",
    "stale": false,
    "items": [
     {
@@ -142,10 +142,10 @@
     },
     {
      "repo": "microsoft/vscode",
-     "tag": "1.145.3",
-     "name": "1.145.3",
-     "url": "https://github.com/microsoft/vscode/releases/tag/1.145.3",
-     "published_at": "2026-11-10T18:53:52Z"
+     "tag": "1.146.0",
+     "name": "1.146.0",
+     "url": "https://github.com/microsoft/vscode/releases/tag/1.146.0",
+     "published_at": "2026-11-11T10:07:14Z"
     },
     {
      "repo": "rust-lang/rust",
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T09:46:01.703668+00:00",
+   "fetched_at": "2026-11-11T10:16:08.231707+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 6984,
+     "stars": 7006,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 5641,
+     "stars": 5667,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3019,
+     "stars": 3030,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2517,
+     "stars": 2522,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "IainKay/ram-altman",
      "url": "https://github.com/IainKay/ram-altman",
-     "stars": 1857,
+     "stars": 1860,
      "language": "Shell",
      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
      "created_at": "2026-11-05T16:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1810,
+     "stars": 1816,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1791,
+     "stars": 1800,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "mmdoctor/google-pro-helper",
      "url": "https://github.com/mmdoctor/google-pro-helper",
-     "stars": 1690,
+     "stars": 1693,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-05T04:52:28Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "voyager-so/vork",
      "url": "https://github.com/voyager-so/vork",
-     "stars": 1370,
+     "stars": 1373,
      "language": "Rust",
      "description": "Headless 3D and VFX engine for agents. Research preview.",
      "created_at": "2026-11-05T22:37:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T09:46:02.313984+00:00",
+   "fetched_at": "2026-11-11T10:16:08.798538+00:00",
    "stale": false,
    "items": [
     {
@@ -282,8 +282,8 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 100,
-     "comments": 39,
+     "reactions": 101,
+     "comments": 38,
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T09:46:02.471898+00:00",
+   "fetched_at": "2026-11-11T10:16:08.980624+00:00",
    "stale": false,
    "items": [
     {
@@ -325,8 +325,8 @@
     {
      "name": "Cloudflare",
      "home": "https://www.cloudflarestatus.com",
-     "indicator": "major",
-     "description": "Partial System Outage"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "npm",
