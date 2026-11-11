@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-11T22:49:45.176154+00:00",
+ "generated_at": "2026-11-11T23:19:52.144614+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-11T22:49:40.234335+00:00",
+   "fetched_at": "2026-11-11T23:19:46.763426+00:00",
    "stale": false,
    "items": [
     {
      "id": 50456631,
      "title": "AWS emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 530,
+     "score": 557,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 182
-    },
-    {
-     "id": 50458900,
-     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-     "score": 177,
-     "by": "herpderperator",
-     "time": 1794432275,
-     "comments": 166
+     "comments": 189
     },
     {
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 702,
+     "score": 746,
      "by": "ayhanfuat",
      "time": 1794380597,
-     "comments": 72
+     "comments": 75
+    },
+    {
+     "id": 50458900,
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "score": 214,
+     "by": "herpderperator",
+     "time": 1794432275,
+     "comments": 216
+    },
+    {
+     "id": 50459745,
+     "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+     "url": "https://www.mcmillen.dev/sigbovik/",
+     "score": 27,
+     "by": "zenincognito",
+     "time": 1794436463,
+     "comments": 5
     },
     {
      "id": 50455394,
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 361,
+     "score": 371,
      "by": "mbac32768",
      "time": 1794415124,
-     "comments": 174
+     "comments": 183
     },
     {
      "id": 50456791,
      "title": "Gemini Decisions API",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "score": 175,
+     "score": 192,
      "by": "iamdelirium",
      "time": 1794421962,
-     "comments": 58
+     "comments": 64
     },
     {
      "id": 50459485,
      "title": "Lock Your GitHub Actions",
      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-     "score": 23,
+     "score": 42,
      "by": "gslin",
      "time": 1794435401,
-     "comments": 6
+     "comments": 8
     },
     {
      "id": 50458208,
      "title": "Emacs in the Age of Magic",
      "url": "https://commandlinesystems.com/magic.txt",
-     "score": 89,
+     "score": 102,
      "by": "ggcr",
      "time": 1794428792,
-     "comments": 30
+     "comments": 36
     },
     {
      "id": 50457230,
      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
      "url": "https://termsheetplease.com/",
-     "score": 132,
+     "score": 141,
      "by": "bolau",
      "time": 1794424336,
      "comments": 62
     },
     {
-     "id": 50459703,
-     "title": "Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang",
-     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-     "score": 65,
-     "by": "jbredeche",
-     "time": 1794436266,
-     "comments": 23
-    },
-    {
-     "id": 50458710,
-     "title": "Play GTA5 on Browser",
-     "url": "https://playgta5.com/",
-     "score": 57,
-     "by": "ndkap",
-     "time": 1794431435,
-     "comments": 37
+     "id": 50455633,
+     "title": "Faster Retrieval for Better, More Efficient RAG",
+     "url": "https://machinelearning.apple.com/research/faster-retrieval",
+     "score": 128,
+     "by": "zerop",
+     "time": 1794416265,
+     "comments": 22
     },
     {
      "id": 50458166,
      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
      "url": "https://github.com/huawei-csl/MACaQ",
-     "score": 37,
+     "score": 38,
      "by": "thefox96",
      "time": 1794428637,
-     "comments": 13
+     "comments": 15
     },
     {
-     "id": 50455633,
-     "title": "Faster Retrieval for Better, More Efficient RAG",
-     "url": "https://machinelearning.apple.com/research/faster-retrieval",
-     "score": 124,
-     "by": "zerop",
-     "time": 1794416265,
-     "comments": 22
+     "id": 50457618,
+     "title": "The Utah Teapot",
+     "url": "https://graphics.cs.utah.edu/teapot/",
+     "score": 38,
+     "by": "cobbal",
+     "time": 1794426310,
+     "comments": 10
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-11T22:49:41.882443+00:00",
+   "fetched_at": "2026-11-11T23:19:48.113227+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-11T22:49:43.746014+00:00",
+   "fetched_at": "2026-11-11T23:19:50.503143+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "NotRexed/Hookshot",
      "url": "https://github.com/NotRexed/Hookshot",
-     "stars": 7692,
+     "stars": 7719,
      "language": "C++",
      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
      "created_at": "2026-11-05T12:18:58Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6171,
+     "stars": 6176,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3221,
+     "stars": 3231,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2582,
+     "stars": 2583,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "jamesondh/chimera-vocal-synth",
      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-     "stars": 1961,
+     "stars": 1963,
      "language": "Rust",
      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
      "created_at": "2026-11-05T19:10:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1510,
+     "stars": 1517,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-11T22:49:44.336697+00:00",
+   "fetched_at": "2026-11-11T23:19:51.166359+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 154,
-     "comments": 81,
+     "reactions": 155,
+     "comments": 87,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -306,14 +306,14 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 114,
+     "reactions": 116,
      "comments": 37,
      "published_at": "2026-11-09T15:30:54Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-11T22:49:44.399176+00:00",
+   "fetched_at": "2026-11-11T23:19:51.527311+00:00",
    "stale": false,
    "items": [
     {
