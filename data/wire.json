@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-12T18:24:54.647408+00:00",
+ "generated_at": "2026-11-12T18:25:16.394442+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T18:24:50.213667+00:00",
+   "fetched_at": "2026-11-12T18:25:11.586925+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 1687,
+     "score": 1690,
      "by": "lldb",
      "time": 1794491549,
      "comments": 1750
@@ -18,10 +18,10 @@
      "id": 50471431,
      "title": "Gemini 4 Hydrogen",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "score": 87,
+     "score": 90,
      "by": "dvaplima",
      "time": 1794506508,
-     "comments": 37
+     "comments": 39
     },
     {
      "id": 50467618,
@@ -39,7 +39,7 @@
      "score": 117,
      "by": "mrashad74",
      "time": 1794496990,
-     "comments": 47
+     "comments": 48
     },
     {
      "id": 50467460,
@@ -93,30 +93,30 @@
      "score": 105,
      "by": "CharlesW",
      "time": 1794500953,
-     "comments": 58
+     "comments": 59
     },
     {
      "id": 50465829,
      "title": "Anthropic IPO",
      "url": "https://ipo.anthropic.com/us/",
-     "score": 640,
+     "score": 641,
      "by": "josephljohnston",
      "time": 1794484001,
      "comments": 650
     },
     {
-     "id": 50470762,
-     "title": "Paths in Pieces",
-     "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-     "score": 11,
-     "by": "acossta",
-     "time": 1794503979,
-     "comments": 0
+     "id": 50471668,
+     "title": "Ask HN: Microsoft/Azure Outage?",
+     "url": null,
+     "score": 15,
+     "by": "nazgulsenpai",
+     "time": 1794507433,
+     "comments": 10
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T18:24:51.676783+00:00",
+   "fetched_at": "2026-11-12T18:25:12.872729+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T18:24:53.455849+00:00",
+   "fetched_at": "2026-11-12T18:25:14.793366+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T18:24:53.951513+00:00",
+   "fetched_at": "2026-11-12T18:25:15.404793+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T18:24:54.100763+00:00",
+   "fetched_at": "2026-11-12T18:25:15.548582+00:00",
    "stale": false,
    "items": [
     {
