@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T01:50:26.151904+00:00",
+ "generated_at": "2026-11-12T02:20:35.662985+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T01:50:21.473812+00:00",
+   "fetched_at": "2026-11-12T02:20:31.052975+00:00",
    "stale": false,
    "items": [
     {
      "id": 50459745,
-     "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+     "title": "93% of paint splatters are valid Perl programs (2019)",
      "url": "https://www.mcmillen.dev/sigbovik/",
-     "score": 144,
+     "score": 169,
      "by": "zenincognito",
      "time": 1794436463,
-     "comments": 23
+     "comments": 26
     },
     {
      "id": 50456631,
      "title": "AWS emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 669,
+     "score": 683,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 217
+     "comments": 219
     },
     {
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 866,
+     "score": 881,
      "by": "ayhanfuat",
      "time": 1794380597,
      "comments": 94
     },
     {
-     "id": 50458900,
-     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-     "score": 367,
-     "by": "herpderperator",
-     "time": 1794432275,
-     "comments": 353
-    },
-    {
      "id": 50459485,
      "title": "Lock Your GitHub Actions",
      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-     "score": 120,
+     "score": 140,
      "by": "gslin",
      "time": 1794435401,
      "comments": 22
     },
     {
+     "id": 50458900,
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "score": 391,
+     "by": "herpderperator",
+     "time": 1794432275,
+     "comments": 378
+    },
+    {
      "id": 50455394,
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 410,
+     "score": 417,
      "by": "mbac32768",
      "time": 1794415124,
-     "comments": 210
+     "comments": 215
     },
     {
      "id": 50456791,
      "title": "Gemini Decisions API",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "score": 270,
+     "score": 284,
      "by": "iamdelirium",
      "time": 1794421962,
-     "comments": 84
-    },
-    {
-     "id": 50460154,
-     "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-     "url": "https://github.com/tylertms/Stela",
-     "score": 50,
-     "by": "iceboundrock",
-     "time": 1794438158,
-     "comments": 13
+     "comments": 87
     },
     {
      "id": 50458208,
      "title": "Emacs in the Age of Magic",
      "url": "https://commandlinesystems.com/magic.txt",
-     "score": 143,
+     "score": 148,
      "by": "ggcr",
      "time": 1794428792,
-     "comments": 52
+     "comments": 53
+    },
+    {
+     "id": 50460154,
+     "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+     "url": "https://github.com/tylertms/Stela",
+     "score": 54,
+     "by": "iceboundrock",
+     "time": 1794438158,
+     "comments": 17
     },
     {
      "id": 50457618,
      "title": "The Utah Teapot",
      "url": "https://graphics.cs.utah.edu/teapot/",
-     "score": 76,
+     "score": 82,
      "by": "cobbal",
      "time": 1794426310,
-     "comments": 17
+     "comments": 18
     },
     {
      "id": 50457230,
      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
      "url": "https://termsheetplease.com/",
-     "score": 169,
+     "score": 180,
      "by": "bolau",
      "time": 1794424336,
      "comments": 76
     },
     {
-     "id": 50412715,
-     "title": "How to make a CNC plasma cutter with high-frequency start",
-     "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-     "score": 7,
-     "by": "edward",
-     "time": 1794141244,
-     "comments": 1
+     "id": 50455633,
+     "title": "Faster Retrieval for Better, More Efficient RAG",
+     "url": "https://machinelearning.apple.com/research/faster-retrieval",
+     "score": 158,
+     "by": "zerop",
+     "time": 1794416265,
+     "comments": 29
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T01:50:23.041258+00:00",
+   "fetched_at": "2026-11-12T02:20:32.516828+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T01:50:24.910410+00:00",
+   "fetched_at": "2026-11-12T02:20:34.315318+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6288,
+     "stars": 6320,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3270,
+     "stars": 3279,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2601,
+     "stars": 2607,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2036,
+     "stars": 2037,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1875,
+     "stars": 1880,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1557,
+     "stars": 1568,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T01:50:25.469579+00:00",
+   "fetched_at": "2026-11-12T02:20:34.841953+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 156,
-     "comments": 88,
+     "comments": 89,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -295,25 +295,25 @@
      "published_at": "2026-11-06T14:00:00Z"
     },
     {
-     "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
-     "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
-     "author": "xulingfeng",
-     "reactions": 132,
-     "comments": 76,
-     "published_at": "2026-11-06T01:27:32Z"
-    },
-    {
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
      "reactions": 118,
      "comments": 37,
      "published_at": "2026-11-09T15:30:54Z"
+    },
+    {
+     "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
+     "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
+     "author": "xulingfeng",
+     "reactions": 132,
+     "comments": 76,
+     "published_at": "2026-11-06T01:27:32Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T01:50:25.518924+00:00",
+   "fetched_at": "2026-11-12T02:20:35.063059+00:00",
    "stale": false,
    "items": [
     {
