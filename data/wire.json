@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T23:26:58.534724+00:00",
+ "generated_at": "2026-11-12T23:57:02.768865+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T23:26:55.626200+00:00",
+   "fetched_at": "2026-11-12T23:56:59.882222+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 2703,
+     "score": 2757,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2580
+     "comments": 2627
+    },
+    {
+     "id": 50475735,
+     "title": "Why You Should Expect an AI Crash",
+     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+     "score": 62,
+     "by": "toomuchtodo",
+     "time": 1794524911,
+     "comments": 35
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 292,
+     "score": 330,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 136
+     "comments": 139
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 229,
+     "score": 247,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 57
+     "comments": 58
     },
     {
      "id": 50474361,
      "title": "Foundation Models framework",
      "url": "https://developer.apple.com/foundation-models-framework/",
-     "score": 80,
+     "score": 89,
      "by": "kermatt",
      "time": 1794518006,
-     "comments": 9
+     "comments": 11
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 165,
+     "score": 174,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 75
+     "comments": 80
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 261,
+     "score": 275,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 107
-    },
-    {
-     "id": 50474311,
-     "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-     "score": 45,
-     "by": "anigbrowl",
-     "time": 1794517789,
-     "comments": 30
+     "comments": 115
     },
     {
      "id": 50471731,
      "title": "Service degradation on Microsoft 365",
      "url": "https://status.cloud.microsoft/",
-     "score": 392,
+     "score": 417,
      "by": "dkpk",
      "time": 1794507648,
-     "comments": 383
+     "comments": 406
     },
     {
      "id": 50471761,
      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 120,
+     "score": 126,
      "by": "ozirus",
      "time": 1794507742,
-     "comments": 13
+     "comments": 14
     },
     {
      "id": 50468888,
      "title": "I'm making LLMs work on small and old devices",
      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 259,
+     "score": 266,
      "by": "mrashad74",
      "time": 1794496990,
      "comments": 88
     },
     {
+     "id": 50474311,
+     "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+     "score": 55,
+     "by": "anigbrowl",
+     "time": 1794517789,
+     "comments": 54
+    },
+    {
      "id": 50467618,
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 230,
+     "score": 231,
      "by": "klaussilveira",
      "time": 1794493129,
-     "comments": 78
-    },
-    {
-     "id": 50458849,
-     "title": "Relax: JIT compiler for Rust to reduce build times",
-     "url": "https://makepad.github.io/relax/",
-     "score": 92,
-     "by": "adamnemecek",
-     "time": 1794432001,
-     "comments": 39
+     "comments": 80
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T23:26:56.707211+00:00",
+   "fetched_at": "2026-11-12T23:57:00.828877+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T23:26:57.665677+00:00",
+   "fetched_at": "2026-11-12T23:57:01.711414+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6927,
+     "stars": 6937,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3552,
+     "stars": 3556,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2080,
+     "stars": 2081,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1997,
+     "stars": 1998,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1302,
+     "stars": 1303,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
-     "stars": 1207,
+     "stars": 1208,
      "language": "HTML",
      "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
      "created_at": "2026-11-06T20:33:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T23:26:58.073588+00:00",
+   "fetched_at": "2026-11-12T23:57:02.043330+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T23:26:58.119500+00:00",
+   "fetched_at": "2026-11-12T23:57:02.082107+00:00",
    "stale": false,
    "items": [
     {
