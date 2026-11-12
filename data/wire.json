@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T21:26:14.576281+00:00",
+ "generated_at": "2026-11-12T21:56:22.091764+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T21:26:02.475620+00:00",
+   "fetched_at": "2026-11-12T21:56:16.057618+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 2399,
+     "score": 2485,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2336
-    },
-    {
-     "id": 50471668,
-     "title": "Ask HN: Microsoft/Azure Outage?",
-     "url": null,
-     "score": 355,
-     "by": "nazgulsenpai",
-     "time": 1794507433,
-     "comments": 184
-    },
-    {
-     "id": 50472260,
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 159,
-     "by": "jonbaer",
-     "time": 1794509521,
-     "comments": 29
+     "comments": 2408
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 115,
+     "score": 166,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 86
+     "comments": 98
+    },
+    {
+     "id": 50472260,
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "score": 176,
+     "by": "jonbaer",
+     "time": 1794509521,
+     "comments": 35
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 95,
+     "score": 115,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 40
+     "comments": 53
+    },
+    {
+     "id": 50474361,
+     "title": "Foundation Models Framework (macOS)",
+     "url": "https://developer.apple.com/foundation-models-framework/",
+     "score": 24,
+     "by": "kermatt",
+     "time": 1794518006,
+     "comments": 3
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 171,
+     "score": 198,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 72
+     "comments": 81
     },
     {
      "id": 50471761,
      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 67,
+     "score": 78,
      "by": "ozirus",
      "time": 1794507742,
-     "comments": 9
+     "comments": 10
     },
     {
      "id": 50468888,
      "title": "I'm making LLMs work on small and old devices",
      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 210,
+     "score": 228,
      "by": "mrashad74",
      "time": 1794496990,
-     "comments": 74
+     "comments": 80
     },
     {
      "id": 50467618,
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 207,
+     "score": 214,
      "by": "klaussilveira",
      "time": 1794493129,
-     "comments": 75
+     "comments": 76
     },
     {
-     "id": 50473231,
-     "title": "Data centers need power \u2013 lower income, rural residents pay the price",
-     "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
-     "score": 94,
-     "by": "PaulHoule",
-     "time": 1794513234,
-     "comments": 85
+     "id": 50471731,
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "score": 285,
+     "by": "dkpk",
+     "time": 1794507648,
+     "comments": 311
     },
     {
      "id": 50471431,
      "title": "Gemini 4 Hydrogen",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "score": 370,
+     "score": 385,
      "by": "dvaplima",
      "time": 1794506508,
-     "comments": 244
+     "comments": 250
     },
     {
      "id": 50458849,
      "title": "Relax: JIT compiler for Rust to reduce build times",
      "url": "https://makepad.github.io/relax/",
-     "score": 63,
+     "score": 72,
      "by": "adamnemecek",
      "time": 1794432001,
-     "comments": 25
+     "comments": 29
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T21:26:05.728962+00:00",
+   "fetched_at": "2026-11-12T21:56:17.432934+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T21:26:07.859906+00:00",
+   "fetched_at": "2026-11-12T21:56:20.351902+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6912,
+     "stars": 6913,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3524,
+     "stars": 3529,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2752,
+     "stars": 2754,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1994,
+     "stars": 1995,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1297,
+     "stars": 1299,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T21:26:08.456686+00:00",
+   "fetched_at": "2026-11-12T21:56:20.923756+00:00",
    "stale": false,
    "items": [
     {
@@ -255,10 +255,18 @@
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
+     "title": "Long Live Rails",
+     "url": "https://dev.to/ben/long-live-rails-3p21",
+     "author": "Ben Halpern",
+     "reactions": 76,
+     "comments": 11,
+     "published_at": "2026-11-12T15:30:50Z"
+    },
+    {
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 166,
+     "reactions": 167,
      "comments": 96,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -269,14 +277,6 @@
      "reactions": 143,
      "comments": 56,
      "published_at": "2026-11-09T23:02:37Z"
-    },
-    {
-     "title": "Long Live Rails",
-     "url": "https://dev.to/ben/long-live-rails-3p21",
-     "author": "Ben Halpern",
-     "reactions": 76,
-     "comments": 11,
-     "published_at": "2026-11-12T15:30:50Z"
     },
     {
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T21:26:08.650756+00:00",
+   "fetched_at": "2026-11-12T21:56:21.132685+00:00",
    "stale": false,
    "items": [
     {
