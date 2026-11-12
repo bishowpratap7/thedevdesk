@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T18:55:23.921481+00:00",
+ "generated_at": "2026-11-12T19:25:36.026353+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T18:55:18.742385+00:00",
+   "fetched_at": "2026-11-12T19:25:27.815497+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 1859,
+     "score": 1968,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 1879
+     "comments": 2006
     },
     {
      "id": 50471793,
      "title": "Rust 1.100.0",
      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
-     "score": 107,
+     "score": 180,
      "by": "thesuperbigfrog",
      "time": 1794507846,
-     "comments": 15
+     "comments": 36
     },
     {
      "id": 50471431,
      "title": "Gemini 4 Hydrogen",
      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "score": 184,
+     "score": 246,
      "by": "dvaplima",
      "time": 1794506508,
-     "comments": 109
+     "comments": 153
     },
     {
      "id": 50471668,
      "title": "Ask HN: Microsoft/Azure Outage?",
      "url": null,
-     "score": 102,
+     "score": 186,
      "by": "nazgulsenpai",
      "time": 1794507433,
-     "comments": 32
-    },
-    {
-     "id": 50467618,
-     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 167,
-     "by": "klaussilveira",
-     "time": 1794493129,
-     "comments": 60
-    },
-    {
-     "id": 50468888,
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 137,
-     "by": "mrashad74",
-     "time": 1794496990,
-     "comments": 54
+     "comments": 72
     },
     {
      "id": 50471731,
      "title": "Outlook is down, and so is Microsoft's status page",
      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-     "score": 79,
+     "score": 136,
      "by": "dkpk",
      "time": 1794507648,
-     "comments": 18
+     "comments": 35
+    },
+    {
+     "id": 50467618,
+     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+     "score": 178,
+     "by": "klaussilveira",
+     "time": 1794493129,
+     "comments": 62
+    },
+    {
+     "id": 50468888,
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "score": 154,
+     "by": "mrashad74",
+     "time": 1794496990,
+     "comments": 59
+    },
+    {
+     "id": 50470488,
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "score": 64,
+     "by": "simpsoka",
+     "time": 1794502962,
+     "comments": 13
+    },
+    {
+     "id": 50472260,
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "score": 17,
+     "by": "jonbaer",
+     "time": 1794509521,
+     "comments": 2
     },
     {
      "id": 50467460,
      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "score": 124,
+     "score": 134,
      "by": "dverlaeckt80",
      "time": 1794492757,
      "comments": 1
     },
     {
-     "id": 50468944,
-     "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-     "url": "https://github.com/chocoford/ExcalidrawZ",
-     "score": 62,
-     "by": "Qision",
-     "time": 1794497152,
-     "comments": 18
-    },
-    {
-     "id": 50465352,
-     "title": "Why Writing Correct Software Is Hard",
-     "url": "https://pron.github.io/posts/correctness-and-complexity",
-     "score": 295,
-     "by": "AriFordsham",
-     "time": 1794479306,
-     "comments": 128
+     "id": 50458849,
+     "title": "Relax: JIT compiler for Rust to reduce build times",
+     "url": "https://makepad.github.io/relax/",
+     "score": 28,
+     "by": "adamnemecek",
+     "time": 1794432001,
+     "comments": 7
     },
     {
      "id": 50471650,
      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-     "score": 13,
+     "score": 27,
      "by": "miguelrios",
      "time": 1794507348,
-     "comments": 0
-    },
-    {
-     "id": 50458849,
-     "title": "Relax: JIT compiler for Rust to reduce build times",
-     "url": "https://makepad.github.io/relax/",
-     "score": 15,
-     "by": "adamnemecek",
-     "time": 1794432001,
      "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T18:55:20.493032+00:00",
+   "fetched_at": "2026-11-12T19:25:32.446046+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T18:55:22.341278+00:00",
+   "fetched_at": "2026-11-12T19:25:34.435554+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6898,
+     "stars": 6904,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3486,
+     "stars": 3493,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2750,
+     "stars": 2751,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1992,
+     "stars": 1993,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1292,
+     "stars": 1294,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "hembramneeraj3-create/aida-64-extreme",
      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
-     "stars": 1207,
+     "stars": 1208,
      "language": "HTML",
      "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
      "created_at": "2026-11-06T20:33:44Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T18:55:22.856483+00:00",
+   "fetched_at": "2026-11-12T19:25:35.047101+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 140,
+     "reactions": 141,
      "comments": 56,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -282,7 +282,7 @@
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 72,
+     "reactions": 73,
      "comments": 9,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T18:55:23.040705+00:00",
+   "fetched_at": "2026-11-12T19:25:35.236074+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "minor",
-     "description": "Partially Degraded Service"
+     "indicator": "none",
+     "description": "All Systems Operational"
     },
     {
      "name": "Cloudflare",
