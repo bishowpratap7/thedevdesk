@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T13:53:50.485415+00:00",
+ "generated_at": "2026-11-12T14:23:57.197740+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T13:53:45.944808+00:00",
+   "fetched_at": "2026-11-12T14:23:52.054066+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50467087,
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+     "score": 398,
+     "by": "lldb",
+     "time": 1794491549,
+     "comments": 281
+    },
     {
      "id": 50465352,
      "title": "Why Writing Correct Software Is Hard",
      "url": "https://pron.github.io/posts/correctness-and-complexity",
-     "score": 146,
+     "score": 172,
      "by": "AriFordsham",
      "time": 1794479306,
-     "comments": 58
+     "comments": 68
+    },
+    {
+     "id": 50467132,
+     "title": "Jensen Huang resigns as Nvidia CEO immediately",
+     "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+     "score": 90,
+     "by": "ksec",
+     "time": 1794491771,
+     "comments": 30
     },
     {
      "id": 50438261,
      "title": "Jane Street: Socratic Tutor",
      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-     "score": 406,
+     "score": 444,
      "by": "tosh",
      "time": 1794305902,
-     "comments": 96
+     "comments": 99
     },
     {
      "id": 50425017,
      "title": "A live tree of systemd jobs on the boot console",
      "url": "https://codeberg.org/wvhulle/bootvine",
-     "score": 188,
+     "score": 206,
      "by": "orhunp_",
      "time": 1794229364,
-     "comments": 66
+     "comments": 74
+    },
+    {
+     "id": 50467139,
+     "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+     "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+     "score": 44,
+     "by": "cognoboffin",
+     "time": 1794491798,
+     "comments": 13
     },
     {
      "id": 50465453,
      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-     "score": 31,
+     "score": 41,
      "by": "giuliomagnifico",
      "time": 1794480380,
-     "comments": 8
+     "comments": 14
     },
     {
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 1298,
+     "score": 1308,
      "by": "ayhanfuat",
      "time": 1794380597,
-     "comments": 151
+     "comments": 155
     },
     {
      "id": 50459745,
      "title": "93% of paint splatters are valid Perl programs (2019)",
      "url": "https://www.mcmillen.dev/sigbovik/",
-     "score": 494,
+     "score": 505,
      "by": "zenincognito",
      "time": 1794436463,
      "comments": 64
     },
     {
+     "id": 50465829,
+     "title": "Anthropic IPO",
+     "url": "https://ipo.anthropic.com/us/",
+     "score": 243,
+     "by": "josephljohnston",
+     "time": 1794484001,
+     "comments": 278
+    },
+    {
      "id": 50462177,
      "title": "Critical RCE Vulnerability in Apache HTTP Server",
      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-     "score": 275,
+     "score": 290,
      "by": "soheilpro",
      "time": 1794449471,
-     "comments": 134
+     "comments": 137
     },
     {
      "id": 50456631,
      "title": "AWS emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 898,
+     "score": 903,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 249
-    },
-    {
-     "id": 50431971,
-     "title": "Making a \u20ac40 USB-C hub work as a Nintendo Switch 2 dock",
-     "url": "http://blog.nozomi.space/posts/sw2_dock/",
-     "score": 72,
-     "by": "mkopec",
-     "time": 1794257642,
-     "comments": 18
-    },
-    {
-     "id": 50465829,
-     "title": "Anthropic IPO",
-     "url": "https://ipo.anthropic.com/us/",
-     "score": 204,
-     "by": "josephljohnston",
-     "time": 1794484001,
-     "comments": 240
-    },
-    {
-     "id": 50455394,
-     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 525,
-     "by": "mbac32768",
-     "time": 1794415124,
-     "comments": 253
-    },
-    {
-     "id": 50463540,
-     "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-     "url": "https://www.getlazarus.org/forums/topic/17/",
-     "score": 81,
-     "by": "sysrpl",
-     "time": 1794462574,
-     "comments": 28
+     "comments": 250
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T13:53:47.566174+00:00",
+   "fetched_at": "2026-11-12T14:23:53.761056+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T13:53:49.275630+00:00",
+   "fetched_at": "2026-11-12T14:23:55.739367+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6798,
+     "stars": 6813,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3414,
+     "stars": 3420,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2724,
+     "stars": 2728,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1965,
+     "stars": 1970,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1681,
+     "stars": 1687,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1256,
+     "stars": 1257,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T13:53:49.773329+00:00",
+   "fetched_at": "2026-11-12T14:23:56.390393+00:00",
    "stale": false,
    "items": [
     {
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 125,
+     "reactions": 126,
      "comments": 33,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -282,8 +282,8 @@
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 153,
-     "comments": 108,
+     "reactions": 157,
+     "comments": 109,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -306,14 +306,14 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 118,
+     "reactions": 119,
      "comments": 40,
      "published_at": "2026-11-09T15:30:54Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T13:53:49.872527+00:00",
+   "fetched_at": "2026-11-12T14:23:56.592729+00:00",
    "stale": false,
    "items": [
     {
