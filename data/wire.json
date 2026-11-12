@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T20:55:59.266854+00:00",
+ "generated_at": "2026-11-12T21:26:14.576281+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T20:55:54.223787+00:00",
+   "fetched_at": "2026-11-12T21:26:02.475620+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 2298,
+     "score": 2399,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2270
+     "comments": 2336
     },
     {
      "id": 50471668,
      "title": "Ask HN: Microsoft/Azure Outage?",
      "url": null,
-     "score": 294,
+     "score": 355,
      "by": "nazgulsenpai",
      "time": 1794507433,
-     "comments": 158
+     "comments": 184
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 129,
+     "score": 159,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 25
-    },
-    {
-     "id": 50472490,
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 82,
-     "by": "cybermango",
-     "time": 1794510333,
      "comments": 29
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 65,
+     "score": 115,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 68
+     "comments": 86
+    },
+    {
+     "id": 50472490,
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+     "score": 95,
+     "by": "cybermango",
+     "time": 1794510333,
+     "comments": 40
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 144,
+     "score": 171,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 65
-    },
-    {
-     "id": 50467618,
-     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 204,
-     "by": "klaussilveira",
-     "time": 1794493129,
-     "comments": 72
-    },
-    {
-     "id": 50471431,
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "score": 339,
-     "by": "dvaplima",
-     "time": 1794506508,
-     "comments": 230
-    },
-    {
-     "id": 50468888,
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 194,
-     "by": "mrashad74",
-     "time": 1794496990,
      "comments": 72
     },
     {
      "id": 50471761,
      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 50,
+     "score": 67,
      "by": "ozirus",
      "time": 1794507742,
-     "comments": 6
+     "comments": 9
+    },
+    {
+     "id": 50468888,
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "score": 210,
+     "by": "mrashad74",
+     "time": 1794496990,
+     "comments": 74
+    },
+    {
+     "id": 50467618,
+     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+     "score": 207,
+     "by": "klaussilveira",
+     "time": 1794493129,
+     "comments": 75
+    },
+    {
+     "id": 50473231,
+     "title": "Data centers need power \u2013 lower income, rural residents pay the price",
+     "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+     "score": 94,
+     "by": "PaulHoule",
+     "time": 1794513234,
+     "comments": 85
+    },
+    {
+     "id": 50471431,
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "score": 370,
+     "by": "dvaplima",
+     "time": 1794506508,
+     "comments": 244
     },
     {
      "id": 50458849,
      "title": "Relax: JIT compiler for Rust to reduce build times",
      "url": "https://makepad.github.io/relax/",
-     "score": 54,
+     "score": 63,
      "by": "adamnemecek",
      "time": 1794432001,
-     "comments": 22
-    },
-    {
-     "id": 50467460,
-     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-     "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "score": 151,
-     "by": "dverlaeckt80",
-     "time": 1794492757,
-     "comments": 2
+     "comments": 25
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T20:55:55.503651+00:00",
+   "fetched_at": "2026-11-12T21:26:05.728962+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T20:55:57.439353+00:00",
+   "fetched_at": "2026-11-12T21:26:07.859906+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6909,
+     "stars": 6912,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3514,
+     "stars": 3524,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1717,
+     "stars": 1718,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1296,
+     "stars": 1297,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T20:55:58.033495+00:00",
+   "fetched_at": "2026-11-12T21:26:08.456686+00:00",
    "stale": false,
    "items": [
     {
@@ -271,19 +271,11 @@
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
-     "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-     "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
-     "author": "Jem",
-     "reactions": 143,
-     "comments": 32,
-     "published_at": "2026-11-05T21:12:11Z"
-    },
-    {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
      "reactions": 76,
-     "comments": 10,
+     "comments": 11,
      "published_at": "2026-11-12T15:30:50Z"
     },
     {
@@ -299,7 +291,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 77,
-     "comments": 46,
+     "comments": 47,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -309,11 +301,19 @@
      "reactions": 124,
      "comments": 40,
      "published_at": "2026-11-09T15:30:54Z"
+    },
+    {
+     "title": "What was your win this week?",
+     "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
+     "author": "Jess Lee",
+     "reactions": 121,
+     "comments": 87,
+     "published_at": "2026-11-06T14:00:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T20:55:58.215535+00:00",
+   "fetched_at": "2026-11-12T21:26:08.650756+00:00",
    "stale": false,
    "items": [
     {
