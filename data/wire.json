@@ -1,33 +1,42 @@
 {
- "generated_at": "2026-11-12T15:54:18.431617+00:00",
+ "generated_at": "2026-11-12T16:24:26.128618+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T15:54:12.479010+00:00",
+   "fetched_at": "2026-11-12T16:24:20.952868+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "NVIDIA Announces CEO Transition",
      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-     "score": 1034,
+     "score": 1184,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 867
+     "comments": 1006
+    },
+    {
+     "id": 50465829,
+     "title": "Anthropic IPO",
+     "url": "https://ipo.anthropic.com/us/",
+     "score": 410,
+     "by": "josephljohnston",
+     "time": 1794484001,
+     "comments": 418
     },
     {
      "id": 50467618,
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 65,
+     "score": 82,
      "by": "klaussilveira",
      "time": 1794493129,
-     "comments": 23
+     "comments": 27
     },
     {
      "id": 50467460,
      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "score": 62,
+     "score": 74,
      "by": "dverlaeckt80",
      "time": 1794492757,
      "comments": 0
@@ -36,87 +45,78 @@
      "id": 50465352,
      "title": "Why Writing Correct Software Is Hard",
      "url": "https://pron.github.io/posts/correctness-and-complexity",
-     "score": 224,
+     "score": 247,
      "by": "AriFordsham",
      "time": 1794479306,
-     "comments": 94
-    },
-    {
-     "id": 50467297,
-     "title": "Our software engineering interviews are changing (a little)",
-     "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
-     "score": 53,
-     "by": "maitland",
-     "time": 1794492328,
-     "comments": 28
+     "comments": 100
     },
     {
      "id": 50467439,
      "title": "Libreagi \u2013 Save OSS Models",
      "url": "https://libreagi.com/",
-     "score": 29,
+     "score": 44,
      "by": "satuke",
      "time": 1794492718,
-     "comments": 12
+     "comments": 14
+    },
+    {
+     "id": 50468944,
+     "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+     "url": "https://github.com/chocoford/ExcalidrawZ",
+     "score": 17,
+     "by": "Qision",
+     "time": 1794497152,
+     "comments": 2
+    },
+    {
+     "id": 50469007,
+     "title": "Show HN: Fable52.games \u2013 Play and inspect Fable 5.2 single-file HTML games",
+     "url": "https://fable52.games",
+     "score": 15,
+     "by": "felixne",
+     "time": 1794497401,
+     "comments": 7
+    },
+    {
+     "id": 50468888,
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "score": 9,
+     "by": "mrashad74",
+     "time": 1794496990,
+     "comments": 4
     },
     {
      "id": 50438261,
      "title": "Socratic Tutor",
      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-     "score": 503,
+     "score": 517,
      "by": "tosh",
      "time": 1794305902,
-     "comments": 115
+     "comments": 123
     },
     {
      "id": 50425017,
      "title": "A live tree of systemd jobs on the boot console",
      "url": "https://codeberg.org/wvhulle/bootvine",
-     "score": 240,
+     "score": 248,
      "by": "orhunp_",
      "time": 1794229364,
-     "comments": 96
+     "comments": 97
     },
     {
      "id": 50465453,
      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-     "score": 63,
+     "score": 72,
      "by": "giuliomagnifico",
      "time": 1794480380,
-     "comments": 25
-    },
-    {
-     "id": 50467305,
-     "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-     "url": "https://spectrum.ieee.org/electric-ship-batteries",
-     "score": 18,
-     "by": "rbanffy",
-     "time": 1794492363,
-     "comments": 6
-    },
-    {
-     "id": 50450488,
-     "title": "Tim Peters has died",
-     "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 1338,
-     "by": "ayhanfuat",
-     "time": 1794380597,
-     "comments": 158
-    },
-    {
-     "id": 50465829,
-     "title": "Anthropic IPO",
-     "url": "https://ipo.anthropic.com/us/",
-     "score": 331,
-     "by": "josephljohnston",
-     "time": 1794484001,
-     "comments": 357
+     "comments": 32
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T15:54:15.194908+00:00",
+   "fetched_at": "2026-11-12T16:24:22.979630+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T15:54:17.067047+00:00",
+   "fetched_at": "2026-11-12T16:24:24.798487+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6847,
+     "stars": 6857,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3441,
+     "stars": 3449,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2741,
+     "stars": 2744,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2073,
+     "stars": 2076,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1981,
+     "stars": 1985,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1702,
+     "stars": 1705,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1275,
+     "stars": 1278,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T15:54:17.628609+00:00",
+   "fetched_at": "2026-11-12T16:24:25.347231+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 164,
-     "comments": 93,
+     "reactions": 165,
+     "comments": 94,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
      "reactions": 162,
-     "comments": 110,
+     "comments": 112,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T15:54:17.854797+00:00",
+   "fetched_at": "2026-11-12T16:24:25.539495+00:00",
    "stale": false,
    "items": [
     {
