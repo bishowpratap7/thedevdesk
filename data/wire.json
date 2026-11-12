@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T19:55:43.319990+00:00",
+ "generated_at": "2026-11-12T20:25:52.198876+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T19:55:37.983743+00:00",
+   "fetched_at": "2026-11-12T20:25:47.652703+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 2101,
+     "score": 2211,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2124
-    },
-    {
-     "id": 50471793,
-     "title": "Rust 1.100.0",
-     "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
-     "score": 257,
-     "by": "thesuperbigfrog",
-     "time": 1794507846,
-     "comments": 55
-    },
-    {
-     "id": 50472490,
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 35,
-     "by": "cybermango",
-     "time": 1794510333,
-     "comments": 7
-    },
-    {
-     "id": 50471431,
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "score": 292,
-     "by": "dvaplima",
-     "time": 1794506508,
-     "comments": 186
+     "comments": 2199
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 42,
+     "score": 80,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 4
+     "comments": 11
     },
     {
-     "id": 50471668,
-     "title": "Ask HN: Microsoft/Azure Outage?",
-     "url": null,
-     "score": 239,
-     "by": "nazgulsenpai",
-     "time": 1794507433,
-     "comments": 109
+     "id": 50472490,
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+     "score": 62,
+     "by": "cybermango",
+     "time": 1794510333,
+     "comments": 16
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 90,
+     "score": 114,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 28
+     "comments": 37
     },
     {
      "id": 50471731,
      "title": "Outlook is down, and so is Microsoft's status page",
      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-     "score": 183,
+     "score": 228,
      "by": "dkpk",
      "time": 1794507648,
-     "comments": 53
+     "comments": 76
+    },
+    {
+     "id": 50472038,
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "score": 17,
+     "by": "mbStavola",
+     "time": 1794508745,
+     "comments": 57
     },
     {
      "id": 50467618,
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 193,
+     "score": 199,
      "by": "klaussilveira",
      "time": 1794493129,
-     "comments": 65
-    },
-    {
-     "id": 50468888,
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 171,
-     "by": "mrashad74",
-     "time": 1794496990,
-     "comments": 64
+     "comments": 68
     },
     {
      "id": 50471761,
      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 25,
+     "score": 39,
      "by": "ozirus",
      "time": 1794507742,
-     "comments": 0
+     "comments": 1
+    },
+    {
+     "id": 50468888,
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "score": 178,
+     "by": "mrashad74",
+     "time": 1794496990,
+     "comments": 66
+    },
+    {
+     "id": 50471431,
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "score": 318,
+     "by": "dvaplima",
+     "time": 1794506508,
+     "comments": 221
+    },
+    {
+     "id": 50471668,
+     "title": "Ask HN: Microsoft/Azure Outage?",
+     "url": null,
+     "score": 274,
+     "by": "nazgulsenpai",
+     "time": 1794507433,
+     "comments": 144
     },
     {
      "id": 50467460,
      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "score": 140,
+     "score": 145,
      "by": "dverlaeckt80",
      "time": 1794492757,
-     "comments": 1
+     "comments": 2
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T19:55:39.568611+00:00",
+   "fetched_at": "2026-11-12T20:25:48.845221+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T19:55:41.450193+00:00",
+   "fetched_at": "2026-11-12T20:25:50.687372+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6905,
+     "stars": 6908,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3502,
+     "stars": 3505,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1993,
+     "stars": 1994,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T19:55:42.032997+00:00",
+   "fetched_at": "2026-11-12T20:25:51.239653+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T19:55:42.221116+00:00",
+   "fetched_at": "2026-11-12T20:25:51.346411+00:00",
    "stale": false,
    "items": [
     {
