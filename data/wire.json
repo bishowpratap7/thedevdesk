@@ -1,114 +1,114 @@
 {
- "generated_at": "2026-11-12T20:25:52.198876+00:00",
+ "generated_at": "2026-11-12T20:55:59.266854+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T20:25:47.652703+00:00",
+   "fetched_at": "2026-11-12T20:55:54.223787+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 2211,
+     "score": 2298,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2199
-    },
-    {
-     "id": 50472260,
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 80,
-     "by": "jonbaer",
-     "time": 1794509521,
-     "comments": 11
-    },
-    {
-     "id": 50472490,
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 62,
-     "by": "cybermango",
-     "time": 1794510333,
-     "comments": 16
-    },
-    {
-     "id": 50470488,
-     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-     "url": "https://github.com/simpsoka/zigzag",
-     "score": 114,
-     "by": "simpsoka",
-     "time": 1794502962,
-     "comments": 37
-    },
-    {
-     "id": 50471731,
-     "title": "Outlook is down, and so is Microsoft's status page",
-     "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-     "score": 228,
-     "by": "dkpk",
-     "time": 1794507648,
-     "comments": 76
-    },
-    {
-     "id": 50472038,
-     "title": "Rust 1.100",
-     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 17,
-     "by": "mbStavola",
-     "time": 1794508745,
-     "comments": 57
-    },
-    {
-     "id": 50467618,
-     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 199,
-     "by": "klaussilveira",
-     "time": 1794493129,
-     "comments": 68
-    },
-    {
-     "id": 50471761,
-     "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-     "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 39,
-     "by": "ozirus",
-     "time": 1794507742,
-     "comments": 1
-    },
-    {
-     "id": 50468888,
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 178,
-     "by": "mrashad74",
-     "time": 1794496990,
-     "comments": 66
-    },
-    {
-     "id": 50471431,
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "score": 318,
-     "by": "dvaplima",
-     "time": 1794506508,
-     "comments": 221
+     "comments": 2270
     },
     {
      "id": 50471668,
      "title": "Ask HN: Microsoft/Azure Outage?",
      "url": null,
-     "score": 274,
+     "score": 294,
      "by": "nazgulsenpai",
      "time": 1794507433,
-     "comments": 144
+     "comments": 158
+    },
+    {
+     "id": 50472260,
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "score": 129,
+     "by": "jonbaer",
+     "time": 1794509521,
+     "comments": 25
+    },
+    {
+     "id": 50472490,
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+     "score": 82,
+     "by": "cybermango",
+     "time": 1794510333,
+     "comments": 29
+    },
+    {
+     "id": 50472038,
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "score": 65,
+     "by": "mbStavola",
+     "time": 1794508745,
+     "comments": 68
+    },
+    {
+     "id": 50470488,
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "score": 144,
+     "by": "simpsoka",
+     "time": 1794502962,
+     "comments": 65
+    },
+    {
+     "id": 50467618,
+     "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+     "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+     "score": 204,
+     "by": "klaussilveira",
+     "time": 1794493129,
+     "comments": 72
+    },
+    {
+     "id": 50471431,
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "score": 339,
+     "by": "dvaplima",
+     "time": 1794506508,
+     "comments": 230
+    },
+    {
+     "id": 50468888,
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "score": 194,
+     "by": "mrashad74",
+     "time": 1794496990,
+     "comments": 72
+    },
+    {
+     "id": 50471761,
+     "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+     "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+     "score": 50,
+     "by": "ozirus",
+     "time": 1794507742,
+     "comments": 6
+    },
+    {
+     "id": 50458849,
+     "title": "Relax: JIT compiler for Rust to reduce build times",
+     "url": "https://makepad.github.io/relax/",
+     "score": 54,
+     "by": "adamnemecek",
+     "time": 1794432001,
+     "comments": 22
     },
     {
      "id": 50467460,
      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "score": 145,
+     "score": 151,
      "by": "dverlaeckt80",
      "time": 1794492757,
      "comments": 2
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T20:25:48.845221+00:00",
+   "fetched_at": "2026-11-12T20:55:55.503651+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T20:25:50.687372+00:00",
+   "fetched_at": "2026-11-12T20:55:57.439353+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6908,
+     "stars": 6909,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3505,
+     "stars": 3514,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2751,
+     "stars": 2752,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1716,
+     "stars": 1717,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T20:25:51.239653+00:00",
+   "fetched_at": "2026-11-12T20:55:58.033495+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 164,
+     "reactions": 166,
      "comments": 96,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -266,7 +266,7 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 141,
+     "reactions": 143,
      "comments": 56,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -282,7 +282,7 @@
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 74,
+     "reactions": 76,
      "comments": 10,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -290,30 +290,30 @@
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 164,
+     "reactions": 165,
      "comments": 114,
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
-     "title": "What was your win this week?",
-     "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
-     "author": "Jess Lee",
-     "reactions": 121,
-     "comments": 87,
-     "published_at": "2026-11-06T14:00:00Z"
+     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+     "author": "Sylwia Laskowska",
+     "reactions": 77,
+     "comments": 46,
+     "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 123,
+     "reactions": 124,
      "comments": 40,
      "published_at": "2026-11-09T15:30:54Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T20:25:51.346411+00:00",
+   "fetched_at": "2026-11-12T20:55:58.215535+00:00",
    "stale": false,
    "items": [
     {
