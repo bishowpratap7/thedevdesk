@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T11:53:06.425517+00:00",
+ "generated_at": "2026-11-12T12:23:14.716178+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T11:53:02.047480+00:00",
+   "fetched_at": "2026-11-12T12:23:09.763219+00:00",
    "stale": false,
    "items": [
     {
      "id": 50465352,
      "title": "Why Writing Correct Software Is Hard",
      "url": "https://pron.github.io/posts/correctness-and-complexity",
-     "score": 40,
+     "score": 59,
      "by": "AriFordsham",
      "time": 1794479306,
-     "comments": 5
+     "comments": 18
+    },
+    {
+     "id": 50465829,
+     "title": "Anthropic IPO",
+     "url": "https://ipo.anthropic.com/us/",
+     "score": 71,
+     "by": "josephljohnston",
+     "time": 1794484001,
+     "comments": 66
     },
     {
      "id": 50438261,
      "title": "Jane Street: Socratic Tutor",
      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-     "score": 299,
+     "score": 315,
      "by": "tosh",
      "time": 1794305902,
-     "comments": 73
+     "comments": 74
     },
     {
      "id": 50425017,
      "title": "A live tree of systemd jobs on the boot console",
      "url": "https://codeberg.org/wvhulle/bootvine",
-     "score": 127,
+     "score": 140,
      "by": "orhunp_",
      "time": 1794229364,
-     "comments": 43
+     "comments": 52
     },
     {
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 1252,
+     "score": 1265,
      "by": "ayhanfuat",
      "time": 1794380597,
-     "comments": 139
+     "comments": 141
     },
     {
      "id": 50459745,
      "title": "93% of paint splatters are valid Perl programs (2019)",
      "url": "https://www.mcmillen.dev/sigbovik/",
-     "score": 460,
+     "score": 471,
      "by": "zenincognito",
      "time": 1794436463,
-     "comments": 58
+     "comments": 59
     },
     {
      "id": 50462177,
      "title": "Critical RCE Vulnerability in Apache HTTP Server",
      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-     "score": 237,
+     "score": 248,
      "by": "soheilpro",
      "time": 1794449471,
-     "comments": 112
+     "comments": 118
     },
     {
      "id": 50456631,
      "title": "AWS emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 874,
+     "score": 878,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 239
+     "comments": 240
     },
     {
      "id": 50455394,
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 502,
+     "score": 509,
      "by": "mbac32768",
      "time": 1794415124,
-     "comments": 242
-    },
-    {
-     "id": 50459703,
-     "title": "Nvidia is preparing to oust Jensen Huang",
-     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-     "score": 1080,
-     "by": "jbredeche",
-     "time": 1794436266,
-     "comments": 1453
-    },
-    {
-     "id": 50456791,
-     "title": "Gemini Decisions API",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "score": 451,
-     "by": "iamdelirium",
-     "time": 1794421962,
-     "comments": 142
-    },
-    {
-     "id": 50463540,
-     "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-     "url": "https://www.getlazarus.org/forums/topic/17/",
-     "score": 57,
-     "by": "sysrpl",
-     "time": 1794462574,
-     "comments": 24
+     "comments": 246
     },
     {
      "id": 50431971,
      "title": "Making a \u20ac40 USB-C hub work as a Nintendo Switch 2 dock",
      "url": "http://blog.nozomi.space/posts/sw2_dock/",
-     "score": 17,
+     "score": 30,
      "by": "mkopec",
      "time": 1794257642,
-     "comments": 1
+     "comments": 2
+    },
+    {
+     "id": 50459703,
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+     "score": 1094,
+     "by": "jbredeche",
+     "time": 1794436266,
+     "comments": 1470
+    },
+    {
+     "id": 50456791,
+     "title": "Gemini Decisions API",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "score": 456,
+     "by": "iamdelirium",
+     "time": 1794421962,
+     "comments": 143
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T11:53:03.707081+00:00",
+   "fetched_at": "2026-11-12T12:23:11.441693+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T11:53:05.204285+00:00",
+   "fetched_at": "2026-11-12T12:23:13.155798+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6754,
+     "stars": 6766,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3388,
+     "stars": 3394,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2711,
+     "stars": 2715,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2060,
+     "stars": 2062,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1954,
+     "stars": 1956,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1665,
+     "stars": 1669,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1233,
+     "stars": 1241,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "mahmoudtawfik1998/secure-pdf-document-processor",
      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
-     "stars": 1210,
+     "stars": 1211,
      "language": "HTML",
      "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
      "created_at": "2026-11-06T21:23:09Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T11:53:05.683356+00:00",
+   "fetched_at": "2026-11-12T12:23:13.766009+00:00",
    "stale": false,
    "items": [
     {
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 123,
+     "reactions": 124,
      "comments": 33,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -258,7 +258,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 162,
+     "reactions": 163,
      "comments": 92,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T11:53:05.806072+00:00",
+   "fetched_at": "2026-11-12T12:23:14.028231+00:00",
    "stale": false,
    "items": [
     {
