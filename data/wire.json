@@ -1,33 +1,33 @@
 {
- "generated_at": "2026-11-12T08:52:24.594989+00:00",
+ "generated_at": "2026-11-12T09:22:33.605982+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T08:52:19.923889+00:00",
+   "fetched_at": "2026-11-12T09:22:29.014204+00:00",
    "stale": false,
    "items": [
     {
      "id": 50463899,
      "title": "Humble Bundle just killed most of their security through vibecoding",
      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-     "score": 192,
+     "score": 250,
      "by": "rdmuser",
      "time": 1794466368,
-     "comments": 84
+     "comments": 125
     },
     {
      "id": 50438261,
      "title": "Jane Street: Socratic Tutor",
      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-     "score": 90,
+     "score": 127,
      "by": "tosh",
      "time": 1794305902,
-     "comments": 21
+     "comments": 32
     },
     {
      "id": 50459745,
      "title": "93% of paint splatters are valid Perl programs (2019)",
      "url": "https://www.mcmillen.dev/sigbovik/",
-     "score": 402,
+     "score": 412,
      "by": "zenincognito",
      "time": 1794436463,
      "comments": 54
@@ -36,52 +36,61 @@
      "id": 50450488,
      "title": "Tim Peters has died",
      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-     "score": 1153,
+     "score": 1168,
      "by": "ayhanfuat",
      "time": 1794380597,
-     "comments": 127
+     "comments": 131
     },
     {
      "id": 50462177,
      "title": "Critical RCE Vulnerability in Apache HTTP Server",
      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-     "score": 174,
+     "score": 183,
      "by": "soheilpro",
      "time": 1794449471,
-     "comments": 75
+     "comments": 79
     },
     {
      "id": 50456631,
      "title": "AWS emulator",
      "url": "https://github.com/aws/aws-emulator",
-     "score": 827,
+     "score": 838,
      "by": "super_linear",
      "time": 1794421298,
-     "comments": 232
+     "comments": 233
     },
     {
-     "id": 50415162,
-     "title": "I gave an agent a lakehouse and control of my garden",
-     "url": "https://jatorre.github.io/garden/",
-     "score": 53,
-     "by": "jatorre",
-     "time": 1794158346,
-     "comments": 19
+     "id": 50425017,
+     "title": "A live tree of systemd jobs on the boot console",
+     "url": "https://codeberg.org/wvhulle/bootvine",
+     "score": 18,
+     "by": "orhunp_",
+     "time": 1794229364,
+     "comments": 1
     },
     {
      "id": 50459703,
      "title": "Nvidia is preparing to oust Jensen Huang",
      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-     "score": 960,
+     "score": 988,
      "by": "jbredeche",
      "time": 1794436266,
-     "comments": 1298
+     "comments": 1334
+    },
+    {
+     "id": 50415162,
+     "title": "I gave an agent a lakehouse and control of my garden",
+     "url": "https://jatorre.github.io/garden/",
+     "score": 63,
+     "by": "jatorre",
+     "time": 1794158346,
+     "comments": 28
     },
     {
      "id": 50455394,
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "score": 480,
+     "score": 487,
      "by": "mbac32768",
      "time": 1794415124,
      "comments": 236
@@ -90,33 +99,24 @@
      "id": 50456791,
      "title": "Gemini Decisions API",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "score": 416,
+     "score": 423,
      "by": "iamdelirium",
      "time": 1794421962,
-     "comments": 125
+     "comments": 127
     },
     {
      "id": 50458900,
      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-     "score": 542,
+     "score": 546,
      "by": "herpderperator",
      "time": 1794432275,
-     "comments": 528
-    },
-    {
-     "id": 50459485,
-     "title": "Lock Your GitHub Actions",
-     "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-     "score": 241,
-     "by": "gslin",
-     "time": 1794435401,
-     "comments": 47
+     "comments": 538
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T08:52:21.788228+00:00",
+   "fetched_at": "2026-11-12T09:22:30.515672+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T08:52:23.343245+00:00",
+   "fetched_at": "2026-11-12T09:22:32.148579+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6649,
+     "stars": 6668,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3356,
+     "stars": 3365,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2682,
+     "stars": 2690,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1925,
+     "stars": 1932,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T08:52:23.826662+00:00",
+   "fetched_at": "2026-11-12T09:22:32.622595+00:00",
    "stale": false,
    "items": [
     {
@@ -258,16 +258,16 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 161,
-     "comments": 91,
+     "reactions": 162,
+     "comments": 92,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 136,
-     "comments": 53,
+     "reactions": 138,
+     "comments": 54,
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 150,
+     "reactions": 151,
      "comments": 107,
      "published_at": "2026-11-08T11:50:29Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T08:52:24.042438+00:00",
+   "fetched_at": "2026-11-12T09:22:32.966772+00:00",
    "stale": false,
    "items": [
     {
