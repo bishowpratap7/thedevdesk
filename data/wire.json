@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-12T17:24:41.206974+00:00",
+ "generated_at": "2026-11-12T17:54:47.708152+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-12T17:24:36.180017+00:00",
+   "fetched_at": "2026-11-12T17:54:43.252531+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "NVIDIA Announces CEO Transition",
      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-     "score": 1448,
+     "score": 1561,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 1195
+     "comments": 1646
     },
     {
      "id": 50465829,
      "title": "Anthropic IPO",
      "url": "https://ipo.anthropic.com/us/",
-     "score": 548,
+     "score": 604,
      "by": "josephljohnston",
      "time": 1794484001,
-     "comments": 575
+     "comments": 616
     },
     {
      "id": 50467618,
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 115,
+     "score": 131,
      "by": "klaussilveira",
      "time": 1794493129,
-     "comments": 38
-    },
-    {
-     "id": 50467460,
-     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-     "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-     "score": 98,
-     "by": "dverlaeckt80",
-     "time": 1794492757,
-     "comments": 1
+     "comments": 46
     },
     {
      "id": 50468888,
      "title": "I'm making LLMs work on small and old devices",
      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 56,
+     "score": 91,
      "by": "mrashad74",
      "time": 1794496990,
-     "comments": 14
+     "comments": 24
     },
     {
-     "id": 50470445,
-     "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-     "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-     "score": 12,
-     "by": "seanw265",
-     "time": 1794502766,
-     "comments": 2
+     "id": 50467460,
+     "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+     "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+     "score": 106,
+     "by": "dverlaeckt80",
+     "time": 1794492757,
+     "comments": 1
     },
     {
      "id": 50468944,
      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
      "url": "https://github.com/chocoford/ExcalidrawZ",
-     "score": 31,
+     "score": 45,
      "by": "Qision",
      "time": 1794497152,
-     "comments": 8
+     "comments": 10
     },
     {
      "id": 50465352,
      "title": "Why Writing Correct Software Is Hard",
      "url": "https://pron.github.io/posts/correctness-and-complexity",
-     "score": 267,
+     "score": 275,
      "by": "AriFordsham",
      "time": 1794479306,
-     "comments": 114
+     "comments": 118
     },
     {
      "id": 50467439,
      "title": "Libreagi \u2013 Save OSS Models",
      "url": "https://libreagi.com/",
-     "score": 64,
+     "score": 70,
      "by": "satuke",
      "time": 1794492718,
      "comments": 16
     },
     {
-     "id": 50469007,
-     "title": "Show HN: Fable52.games \u2013 Play and inspect Fable 5.2 single-file HTML games",
-     "url": "https://fable52.games",
-     "score": 43,
-     "by": "felixne",
-     "time": 1794497401,
+     "id": 50467869,
+     "title": "Running web sites makes me not want to",
+     "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+     "score": 51,
+     "by": "speckx",
+     "time": 1794493838,
+     "comments": 28
+    },
+    {
+     "id": 50469994,
+     "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+     "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+     "score": 80,
+     "by": "CharlesW",
+     "time": 1794500953,
      "comments": 37
     },
     {
      "id": 50468720,
      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-     "score": 29,
+     "score": 40,
      "by": "dougcalobrisi",
      "time": 1794496492,
-     "comments": 11
+     "comments": 17
     },
     {
-     "id": 50467869,
-     "title": "Running web sites makes me not want to",
-     "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
-     "score": 38,
-     "by": "speckx",
-     "time": 1794493838,
-     "comments": 19
+     "id": 50438261,
+     "title": "Socratic Tutor",
+     "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+     "score": 550,
+     "by": "tosh",
+     "time": 1794305902,
+     "comments": 129
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-12T17:24:38.022617+00:00",
+   "fetched_at": "2026-11-12T17:54:44.773959+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-12T17:24:39.835184+00:00",
+   "fetched_at": "2026-11-12T17:54:46.408808+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6878,
+     "stars": 6885,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3462,
+     "stars": 3470,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "JenkinWoo/sheeridVerify",
      "url": "https://github.com/JenkinWoo/sheeridVerify",
-     "stars": 2076,
+     "stars": 2077,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-06T09:28:09Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "DIYgod/pinky",
      "url": "https://github.com/DIYgod/pinky",
-     "stars": 1988,
+     "stars": 1989,
      "language": "Go",
      "description": "Let AI agents use your phone, with you in the loop.",
      "created_at": "2026-11-06T16:53:14Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1711,
+     "stars": 1714,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1287,
+     "stars": 1288,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-12T17:24:40.369163+00:00",
+   "fetched_at": "2026-11-12T17:54:46.930536+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 139,
+     "reactions": 140,
      "comments": 55,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -279,20 +279,20 @@
      "published_at": "2026-11-05T21:12:11Z"
     },
     {
-     "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
-     "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
-     "author": "nyaomaru",
-     "reactions": 162,
-     "comments": 114,
-     "published_at": "2026-11-08T11:50:29Z"
-    },
-    {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 61,
-     "comments": 6,
+     "reactions": 72,
+     "comments": 8,
      "published_at": "2026-11-12T15:30:50Z"
+    },
+    {
+     "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
+     "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
+     "author": "nyaomaru",
+     "reactions": 163,
+     "comments": 114,
+     "published_at": "2026-11-08T11:50:29Z"
     },
     {
      "title": "What was your win this week?",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-12T17:24:40.605022+00:00",
+   "fetched_at": "2026-11-12T17:54:47.074499+00:00",
    "stale": false,
    "items": [
     {
