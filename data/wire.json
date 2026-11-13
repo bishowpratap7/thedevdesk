@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T19:32:29.168046+00:00",
+ "generated_at": "2026-11-13T20:02:35.186591+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T19:32:25.088679+00:00",
+   "fetched_at": "2026-11-13T20:02:30.622142+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50488325,
+     "title": "FM-1 Workbench",
+     "url": "https://open.m-vave.com/fm1-workbench",
+     "score": 37,
+     "by": "simonebrunozzi",
+     "time": 1794597242,
+     "comments": 15
+    },
     {
      "id": 50487185,
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "url": "https://haddyalchaer.com/jepa",
-     "score": 96,
+     "score": 118,
      "by": "halcdev",
      "time": 1794592528,
-     "comments": 20
+     "comments": 24
     },
     {
      "id": 50474959,
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 550,
+     "score": 566,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 154
-    },
-    {
-     "id": 50487762,
-     "title": "Models can now transmit viruses in weight-space",
-     "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-     "score": 41,
-     "by": "mkglees",
-     "time": 1794594815,
-     "comments": 17
-    },
-    {
-     "id": 50487854,
-     "title": "The avalanche that hit math is coming for AI development",
-     "url": "https://www.dwarkesh.com/p/rsi",
-     "score": 24,
-     "by": "crescit_eundo",
-     "time": 1794595182,
-     "comments": 7
-    },
-    {
-     "id": 50482379,
-     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 377,
-     "by": "voxleone",
-     "time": 1794571824,
-     "comments": 267
+     "comments": 159
     },
     {
      "id": 50487228,
      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
      "url": "https://isometricsf.com/",
-     "score": 43,
+     "score": 59,
      "by": "juscha1",
      "time": 1794592717,
-     "comments": 17
+     "comments": 19
     },
     {
-     "id": 50484235,
-     "title": "A technical vision for the Haskell ecosystem",
-     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-     "score": 131,
-     "by": "cosmic_quanta",
-     "time": 1794580992,
-     "comments": 53
-    },
-    {
-     "id": 50486748,
-     "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
-     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-     "score": 174,
-     "by": "bookofjoe",
-     "time": 1794591010,
-     "comments": 38
-    },
-    {
-     "id": 50484007,
-     "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
-     "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-     "score": 100,
-     "by": "ortuman",
-     "time": 1794580120,
-     "comments": 23
-    },
-    {
-     "id": 50487522,
-     "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-     "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-     "score": 65,
-     "by": "BobaFloutist",
-     "time": 1794593917,
-     "comments": 31
+     "id": 50482379,
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "score": 385,
+     "by": "voxleone",
+     "time": 1794571824,
+     "comments": 267
     },
     {
      "id": 50487605,
      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-     "score": 12,
+     "score": 24,
      "by": "dethmasque",
      "time": 1794594229,
-     "comments": 3
+     "comments": 6
     },
     {
-     "id": 50484650,
-     "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-     "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-     "score": 61,
+     "id": 50487762,
+     "title": "Models can now transmit viruses in weight-space",
+     "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+     "score": 62,
+     "by": "mkglees",
+     "time": 1794594815,
+     "comments": 30
+    },
+    {
+     "id": 50484235,
+     "title": "A technical vision for the Haskell ecosystem",
+     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+     "score": 137,
+     "by": "cosmic_quanta",
+     "time": 1794580992,
+     "comments": 57
+    },
+    {
+     "id": 50486748,
+     "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+     "score": 191,
      "by": "bookofjoe",
-     "time": 1794582487,
+     "time": 1794591010,
+     "comments": 45
+    },
+    {
+     "id": 50487522,
+     "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+     "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+     "score": 102,
+     "by": "BobaFloutist",
+     "time": 1794593917,
      "comments": 44
+    },
+    {
+     "id": 50484007,
+     "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
+     "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+     "score": 104,
+     "by": "ortuman",
+     "time": 1794580120,
+     "comments": 24
+    },
+    {
+     "id": 50488464,
+     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+     "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+     "score": 6,
+     "by": "gmays",
+     "time": 1794597887,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T19:32:26.629895+00:00",
+   "fetched_at": "2026-11-13T20:02:32.228540+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T19:32:28.100732+00:00",
+   "fetched_at": "2026-11-13T20:02:33.754160+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7261,
+     "stars": 7265,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3826,
+     "stars": 3834,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1903,
+     "stars": 1904,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1424,
+     "stars": 1427,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1390,
+     "stars": 1401,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1324,
+     "stars": 1329,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1224,
+     "stars": 1230,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1083,
+     "stars": 1084,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T19:32:28.571499+00:00",
+   "fetched_at": "2026-11-13T20:02:34.256554+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 134,
+     "reactions": 136,
      "comments": 36,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -266,7 +266,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 186,
+     "reactions": 187,
      "comments": 107,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -275,14 +275,14 @@
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
      "reactions": 147,
-     "comments": 60,
+     "comments": 61,
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 131,
+     "reactions": 132,
      "comments": 94,
      "published_at": "2026-11-12T08:14:36Z"
     },
@@ -298,7 +298,7 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 139,
+     "reactions": 141,
      "comments": 45,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T19:32:28.700931+00:00",
+   "fetched_at": "2026-11-13T20:02:34.594110+00:00",
    "stale": false,
    "items": [
     {
