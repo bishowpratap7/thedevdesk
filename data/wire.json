@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T01:57:21.551586+00:00",
+ "generated_at": "2026-11-13T02:27:26.035452+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T01:57:18.741123+00:00",
+   "fetched_at": "2026-11-13T02:27:23.303215+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 2963,
+     "score": 3015,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2799
+     "comments": 2827
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 431,
+     "score": 449,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 174
+     "comments": 186
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 307,
+     "score": 315,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 72
-    },
-    {
-     "id": 50472490,
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 202,
-     "by": "cybermango",
-     "time": 1794510333,
-     "comments": 94
+     "comments": 76
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 342,
+     "score": 354,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 139
+     "comments": 143
+    },
+    {
+     "id": 50472490,
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+     "score": 205,
+     "by": "cybermango",
+     "time": 1794510333,
+     "comments": 95
     },
     {
      "id": 50474361,
      "title": "Foundation Models framework",
      "url": "https://developer.apple.com/foundation-models-framework/",
-     "score": 128,
+     "score": 134,
      "by": "kermatt",
      "time": 1794518006,
-     "comments": 16
-    },
-    {
-     "id": 50471731,
-     "title": "Service degradation on Microsoft 365",
-     "url": "https://status.cloud.microsoft/",
-     "score": 515,
-     "by": "dkpk",
-     "time": 1794507648,
-     "comments": 473
+     "comments": 18
     },
     {
      "id": 50475713,
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 48,
+     "score": 63,
      "by": "sroussey",
      "time": 1794524777,
-     "comments": 13
+     "comments": 17
     },
     {
-     "id": 50474311,
-     "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-     "score": 97,
-     "by": "anigbrowl",
-     "time": 1794517789,
-     "comments": 90
+     "id": 50471731,
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "score": 532,
+     "by": "dkpk",
+     "time": 1794507648,
+     "comments": 487
     },
     {
      "id": 50471761,
      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 145,
+     "score": 147,
      "by": "ozirus",
      "time": 1794507742,
-     "comments": 20
+     "comments": 22
     },
     {
      "id": 50468888,
      "title": "I'm making LLMs work on small and old devices",
      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 279,
+     "score": 282,
      "by": "mrashad74",
      "time": 1794496990,
-     "comments": 95
+     "comments": 97
+    },
+    {
+     "id": 50474311,
+     "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+     "score": 107,
+     "by": "anigbrowl",
+     "time": 1794517789,
+     "comments": 103
     },
     {
      "id": 50467618,
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 240,
+     "score": 243,
      "by": "klaussilveira",
      "time": 1794493129,
-     "comments": 82
+     "comments": 84
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T01:57:19.705778+00:00",
+   "fetched_at": "2026-11-13T02:27:24.241108+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T01:57:20.610728+00:00",
+   "fetched_at": "2026-11-13T02:27:25.160713+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6960,
+     "stars": 6969,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3582,
+     "stars": 3588,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2765,
+     "stars": 2767,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1733,
+     "stars": 1734,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1311,
+     "stars": 1317,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1188,
+     "stars": 1194,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Th0rgal/satmux",
      "url": "https://github.com/Th0rgal/satmux",
-     "stars": 1057,
+     "stars": 1058,
      "language": "Python",
      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
      "created_at": "2026-11-07T16:09:41Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 984,
+     "stars": 1001,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 978,
+     "stars": 980,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 961,
+     "stars": 967,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T01:57:20.923518+00:00",
+   "fetched_at": "2026-11-13T02:27:25.566027+00:00",
    "stale": false,
    "items": [
     {
@@ -298,7 +298,7 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 128,
+     "reactions": 127,
      "comments": 40,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T01:57:21.210675+00:00",
+   "fetched_at": "2026-11-13T02:27:25.605213+00:00",
    "stale": false,
    "items": [
     {
