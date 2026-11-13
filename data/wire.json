@@ -1,96 +1,96 @@
 {
- "generated_at": "2026-11-13T11:30:02.699074+00:00",
+ "generated_at": "2026-11-13T12:00:09.119567+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T11:29:59.453232+00:00",
+   "fetched_at": "2026-11-13T12:00:04.527521+00:00",
    "stale": false,
    "items": [
     {
      "id": 50481187,
      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-     "score": 192,
+     "score": 228,
      "by": "__vivek",
      "time": 1794565093,
-     "comments": 135
+     "comments": 164
     },
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3622,
+     "score": 3640,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 3174
+     "comments": 3188
     },
     {
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 206,
+     "score": 214,
      "by": "inatreecrown2",
      "time": 1794545693,
-     "comments": 101
-    },
-    {
-     "id": 50480480,
-     "title": "The Dawn of the Data Intelligence Engineer",
-     "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-     "score": 40,
-     "by": "jonbaer",
-     "time": 1794560898,
-     "comments": 37
+     "comments": 104
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 710,
+     "score": 720,
      "by": "mbStavola",
      "time": 1794508745,
      "comments": 263
     },
     {
-     "id": 50481220,
-     "title": "Claude Is Down",
-     "url": "https://status.claude.com/history",
-     "score": 101,
-     "by": "cornfieldlabs",
-     "time": 1794565209,
-     "comments": 70
-    },
-    {
      "id": 50477649,
      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
      "url": "https://brave.com/blog/search-api-agentic-payments/",
-     "score": 119,
+     "score": 129,
      "by": "sjdh76",
      "time": 1794539288,
      "comments": 76
     },
     {
+     "id": 50482045,
+     "title": "Europe's electric car sales jump 49% as global EV sales grow",
+     "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+     "score": 23,
+     "by": "cisc",
+     "time": 1794569665,
+     "comments": 7
+    },
+    {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 548,
+     "score": 558,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 188
+     "comments": 192
+    },
+    {
+     "id": 50481220,
+     "title": "Claude Is Down",
+     "url": "https://status.claude.com/history",
+     "score": 117,
+     "by": "cornfieldlabs",
+     "time": 1794565209,
+     "comments": 90
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 423,
+     "score": 427,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 123
+     "comments": 124
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 322,
+     "score": 326,
      "by": "cybermango",
      "time": 1794510333,
      "comments": 135
@@ -99,24 +99,24 @@
      "id": 50475713,
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 268,
+     "score": 273,
      "by": "sroussey",
      "time": 1794524777,
-     "comments": 75
+     "comments": 77
     },
     {
      "id": 50473190,
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 298,
+     "score": 301,
      "by": "jbredeche",
      "time": 1794513093,
-     "comments": 322
+     "comments": 332
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T11:30:01.011492+00:00",
+   "fetched_at": "2026-11-13T12:00:06.683526+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T11:30:01.594455+00:00",
+   "fetched_at": "2026-11-13T12:00:07.959485+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7143,
+     "stars": 7151,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3675,
+     "stars": 3683,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1832,
+     "stars": 1836,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1396,
+     "stars": 1398,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1267,
+     "stars": 1270,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1205,
+     "stars": 1214,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1115,
+     "stars": 1117,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Th0rgal/satmux",
      "url": "https://github.com/Th0rgal/satmux",
-     "stars": 1065,
+     "stars": 1067,
      "language": "Python",
      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
      "created_at": "2026-11-07T16:09:41Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1037,
+     "stars": 1039,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T11:30:02.030200+00:00",
+   "fetched_at": "2026-11-13T12:00:08.411684+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 107,
+     "reactions": 112,
      "comments": 14,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -266,7 +266,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 177,
+     "reactions": 178,
      "comments": 102,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
      "reactions": 147,
-     "comments": 58,
+     "comments": 59,
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
@@ -290,8 +290,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 104,
-     "comments": 76,
+     "reactions": 109,
+     "comments": 77,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T11:30:02.230315+00:00",
+   "fetched_at": "2026-11-13T12:00:08.655507+00:00",
    "stale": false,
    "items": [
     {
