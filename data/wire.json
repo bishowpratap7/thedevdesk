@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T14:31:06.383333+00:00",
+ "generated_at": "2026-11-13T15:01:14.676574+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T14:31:02.587012+00:00",
+   "fetched_at": "2026-11-13T15:01:07.790570+00:00",
    "stale": false,
    "items": [
     {
      "id": 50482379,
      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 203,
+     "score": 245,
      "by": "voxleone",
      "time": 1794571824,
-     "comments": 125
-    },
-    {
-     "id": 50483480,
-     "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
-     "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-     "score": 110,
-     "by": "Noaidi",
-     "time": 1794577887,
-     "comments": 81
-    },
-    {
-     "id": 50467087,
-     "title": "Jensen Huang resigns",
-     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3754,
-     "by": "lldb",
-     "time": 1794491549,
-     "comments": 3254
+     "comments": 152
     },
     {
      "id": 50474959,
      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 21,
+     "score": 75,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 2
+     "comments": 16
+    },
+    {
+     "id": 50483611,
+     "title": "Why Zig over C for Systems Programming",
+     "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+     "score": 24,
+     "by": "torutofu",
+     "time": 1794578473,
+     "comments": 1
+    },
+    {
+     "id": 50467087,
+     "title": "Jensen Huang resigns",
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+     "score": 3786,
+     "by": "lldb",
+     "time": 1794491549,
+     "comments": 3267
     },
     {
      "id": 50481187,
      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-     "score": 339,
+     "score": 361,
      "by": "__vivek",
      "time": 1794565093,
-     "comments": 298
+     "comments": 313
     },
     {
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 272,
+     "score": 283,
      "by": "inatreecrown2",
      "time": 1794545693,
-     "comments": 140
+     "comments": 142
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 775,
+     "score": 788,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 284
+     "comments": 286
     },
     {
      "id": 50477649,
      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
      "url": "https://brave.com/blog/search-api-agentic-payments/",
-     "score": 183,
+     "score": 192,
      "by": "sjdh76",
      "time": 1794539288,
-     "comments": 102
+     "comments": 105
     },
     {
-     "id": 50483546,
-     "title": "Building collapses in Brooklyn with 8 people dead so far",
-     "url": "https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn",
-     "score": 13,
-     "by": "bmitc",
-     "time": 1794578132,
-     "comments": 2
+     "id": 50483480,
+     "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+     "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+     "score": 178,
+     "by": "Noaidi",
+     "time": 1794577887,
+     "comments": 192
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 622,
+     "score": 633,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 210
+     "comments": 211
+    },
+    {
+     "id": 50482455,
+     "title": "Show HN: Reflota \u2013 Open-source data recovery for NTFS/FAT disks with phased copy",
+     "url": "https://github.com/Christ10-8/reflota",
+     "score": 12,
+     "by": "christ_dev",
+     "time": 1794572272,
+     "comments": 2
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 455,
+     "score": 460,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 140
-    },
-    {
-     "id": 50473190,
-     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-     "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 352,
-     "by": "jbredeche",
-     "time": 1794513093,
-     "comments": 387
+     "comments": 142
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T14:31:04.076025+00:00",
+   "fetched_at": "2026-11-13T15:01:12.011183+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T14:31:05.369754+00:00",
+   "fetched_at": "2026-11-13T15:01:13.652258+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7191,
+     "stars": 7199,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3730,
+     "stars": 3742,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2839,
+     "stars": 2844,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1859,
+     "stars": 1865,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1410,
+     "stars": 1411,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1292,
+     "stars": 1293,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1267,
+     "stars": 1271,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1173,
+     "stars": 1180,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1051,
+     "stars": 1054,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T14:31:05.818823+00:00",
+   "fetched_at": "2026-11-13T15:01:14.167371+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 115,
+     "reactions": 117,
      "comments": 17,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -266,8 +266,8 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 179,
-     "comments": 105,
+     "reactions": 182,
+     "comments": 107,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -279,6 +279,14 @@
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
+     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+     "author": "Sylwia Laskowska",
+     "reactions": 122,
+     "comments": 89,
+     "published_at": "2026-11-12T08:14:36Z"
+    },
+    {
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
@@ -287,18 +295,10 @@
      "published_at": "2026-11-08T11:50:29Z"
     },
     {
-     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
-     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
-     "author": "Sylwia Laskowska",
-     "reactions": 116,
-     "comments": 89,
-     "published_at": "2026-11-12T08:14:36Z"
-    },
-    {
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 131,
+     "reactions": 132,
      "comments": 44,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T14:31:05.896236+00:00",
+   "fetched_at": "2026-11-13T15:01:14.305598+00:00",
    "stale": false,
    "items": [
     {
