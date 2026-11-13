@@ -1,114 +1,114 @@
 {
- "generated_at": "2026-11-13T00:57:12.453908+00:00",
+ "generated_at": "2026-11-13T01:27:17.214013+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T00:57:09.741831+00:00",
+   "fetched_at": "2026-11-13T01:27:14.227658+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 2877,
+     "score": 2918,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2725
+     "comments": 2759
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 384,
+     "score": 408,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 161
+     "comments": 171
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 285,
+     "score": 294,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 63
-    },
-    {
-     "id": 50474361,
-     "title": "Foundation Models framework",
-     "url": "https://developer.apple.com/foundation-models-framework/",
-     "score": 113,
-     "by": "kermatt",
-     "time": 1794518006,
-     "comments": 13
+     "comments": 72
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 188,
+     "score": 196,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 92
+     "comments": 93
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 308,
+     "score": 327,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 129
+     "comments": 131
     },
     {
-     "id": 50471731,
-     "title": "Service degradation on Microsoft 365",
-     "url": "https://status.cloud.microsoft/",
-     "score": 466,
-     "by": "dkpk",
-     "time": 1794507648,
-     "comments": 434
+     "id": 50474361,
+     "title": "Foundation Models framework",
+     "url": "https://developer.apple.com/foundation-models-framework/",
+     "score": 122,
+     "by": "kermatt",
+     "time": 1794518006,
+     "comments": 16
     },
     {
      "id": 50474311,
      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-     "score": 73,
+     "score": 86,
      "by": "anigbrowl",
      "time": 1794517789,
-     "comments": 69
+     "comments": 78
     },
     {
-     "id": 50471761,
-     "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-     "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 138,
-     "by": "ozirus",
-     "time": 1794507742,
-     "comments": 17
-    },
-    {
-     "id": 50468888,
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 275,
-     "by": "mrashad74",
-     "time": 1794496990,
-     "comments": 92
+     "id": 50471731,
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "score": 486,
+     "by": "dkpk",
+     "time": 1794507648,
+     "comments": 454
     },
     {
      "id": 50475713,
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 19,
+     "score": 31,
      "by": "sroussey",
      "time": 1794524777,
-     "comments": 5
+     "comments": 9
+    },
+    {
+     "id": 50471761,
+     "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+     "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+     "score": 141,
+     "by": "ozirus",
+     "time": 1794507742,
+     "comments": 18
+    },
+    {
+     "id": 50468888,
+     "title": "I'm making LLMs work on small and old devices",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "score": 278,
+     "by": "mrashad74",
+     "time": 1794496990,
+     "comments": 93
     },
     {
      "id": 50467618,
      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-     "score": 235,
+     "score": 237,
      "by": "klaussilveira",
      "time": 1794493129,
      "comments": 81
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T00:57:10.714919+00:00",
+   "fetched_at": "2026-11-13T01:27:15.264816+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T00:57:11.639367+00:00",
+   "fetched_at": "2026-11-13T01:27:16.148986+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6948,
+     "stars": 6954,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3566,
+     "stars": 3574,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2758,
+     "stars": 2762,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1724,
+     "stars": 1728,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1308,
+     "stars": 1310,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1177,
+     "stars": 1183,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 967,
+     "stars": 973,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 955,
+     "stars": 972,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 946,
+     "stars": 958,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T00:57:11.969999+00:00",
+   "fetched_at": "2026-11-13T01:27:16.493834+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 168,
+     "reactions": 169,
      "comments": 99,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -290,8 +290,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 81,
-     "comments": 51,
+     "reactions": 82,
+     "comments": 52,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T00:57:12.059940+00:00",
+   "fetched_at": "2026-11-13T01:27:16.852825+00:00",
    "stale": false,
    "items": [
     {
