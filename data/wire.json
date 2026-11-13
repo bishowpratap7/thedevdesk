@@ -1,81 +1,90 @@
 {
- "generated_at": "2026-11-13T22:33:14.584488+00:00",
+ "generated_at": "2026-11-13T23:03:21.472016+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T22:33:10.154693+00:00",
+   "fetched_at": "2026-11-13T23:03:17.060132+00:00",
    "stale": false,
    "items": [
     {
      "id": 50489641,
      "title": "FAA Issues National Ground Stop",
      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-     "score": 725,
+     "score": 878,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 379
+     "comments": 510
     },
     {
      "id": 50487864,
      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-     "score": 220,
+     "score": 242,
      "by": "crescit_eundo",
      "time": 1794595244,
-     "comments": 115
+     "comments": 130
+    },
+    {
+     "id": 50490778,
+     "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+     "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+     "score": 37,
+     "by": "galleywest200",
+     "time": 1794608171,
+     "comments": 5
     },
     {
      "id": 50490593,
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "url": "https://orcasairband.com/",
-     "score": 19,
+     "score": 50,
      "by": "mmaunder",
      "time": 1794607464,
-     "comments": 1
+     "comments": 18
+    },
+    {
+     "id": 50491097,
+     "title": "Claude Meetings",
+     "url": "https://claude.com/resources/articles/claude-meetings",
+     "score": 23,
+     "by": "hmokiguess",
+     "time": 1794609555,
+     "comments": 5
     },
     {
      "id": 50488325,
      "title": "FM-1 Workbench",
      "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 125,
+     "score": 144,
      "by": "simonebrunozzi",
      "time": 1794597242,
-     "comments": 80
-    },
-    {
-     "id": 50487185,
-     "title": "After 600 experiments, here's what I discovered about JEPA world models",
-     "url": "https://haddyalchaer.com/jepa",
-     "score": 182,
-     "by": "halcdev",
-     "time": 1794592528,
-     "comments": 32
+     "comments": 86
     },
     {
      "id": 50474959,
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 633,
+     "score": 637,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 186
+     "comments": 188
+    },
+    {
+     "id": 50487185,
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "url": "https://haddyalchaer.com/jepa",
+     "score": 191,
+     "by": "halcdev",
+     "time": 1794592528,
+     "comments": 32
     },
     {
      "id": 50488464,
      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "score": 71,
+     "score": 76,
      "by": "gmays",
      "time": 1794597887,
-     "comments": 13
-    },
-    {
-     "id": 50488470,
-     "title": "Found: A protein that drives ageing without unleashing inflammation",
-     "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 60,
-     "by": "gumby",
-     "time": 1794597921,
-     "comments": 12
+     "comments": 16
     },
     {
      "id": 50489589,
@@ -87,36 +96,27 @@
      "comments": 0
     },
     {
-     "id": 50482379,
-     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 416,
-     "by": "voxleone",
-     "time": 1794571824,
-     "comments": 293
-    },
-    {
-     "id": 50489083,
-     "title": "Big tech is here to let us down",
-     "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-     "score": 147,
-     "by": "speckx",
-     "time": 1794601230,
-     "comments": 132
+     "id": 50488470,
+     "title": "Found: A protein that drives ageing without unleashing inflammation",
+     "url": "https://www.nature.com/articles/d41586-026-03638-3",
+     "score": 73,
+     "by": "gumby",
+     "time": 1794597921,
+     "comments": 15
     },
     {
      "id": 50488835,
      "title": "Live-migration support in FreeBSD and bhyve coming",
      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-     "score": 38,
+     "score": 45,
      "by": "JohnDohnBohn",
      "time": 1794599922,
-     "comments": 3
+     "comments": 5
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T22:33:11.757871+00:00",
+   "fetched_at": "2026-11-13T23:03:18.791281+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T22:33:13.310036+00:00",
+   "fetched_at": "2026-11-13T23:03:20.389730+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7286,
+     "stars": 7289,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3860,
+     "stars": 3869,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1438,
+     "stars": 1449,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1432,
+     "stars": 1433,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1335,
+     "stars": 1337,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1250,
+     "stars": 1254,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1094,
+     "stars": 1097,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T22:33:13.811187+00:00",
+   "fetched_at": "2026-11-13T23:03:20.864953+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T22:33:13.909021+00:00",
+   "fetched_at": "2026-11-13T23:03:20.936563+00:00",
    "stale": false,
    "items": [
     {
