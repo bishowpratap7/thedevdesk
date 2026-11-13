@@ -1,42 +1,51 @@
 {
- "generated_at": "2026-11-13T21:02:49.521876+00:00",
+ "generated_at": "2026-11-13T21:33:01.695482+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T21:02:44.755658+00:00",
+   "fetched_at": "2026-11-13T21:32:57.093420+00:00",
    "stale": false,
    "items": [
     {
-     "id": 50487864,
-     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-     "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-     "score": 81,
-     "by": "crescit_eundo",
-     "time": 1794595244,
-     "comments": 46
-    },
-    {
-     "id": 50488325,
-     "title": "FM-1 Workbench",
-     "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 88,
-     "by": "simonebrunozzi",
-     "time": 1794597242,
-     "comments": 48
+     "id": 50489641,
+     "title": "FAA Issues National Ground Stop",
+     "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+     "score": 204,
+     "by": "zulln",
+     "time": 1794603953,
+     "comments": 53
     },
     {
      "id": 50489083,
      "title": "Big tech is here to let us down",
      "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-     "score": 31,
+     "score": 97,
      "by": "speckx",
      "time": 1794601230,
-     "comments": 10
+     "comments": 64
+    },
+    {
+     "id": 50487864,
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+     "score": 133,
+     "by": "crescit_eundo",
+     "time": 1794595244,
+     "comments": 80
+    },
+    {
+     "id": 50488325,
+     "title": "FM-1 Workbench",
+     "url": "https://open.m-vave.com/fm1-workbench",
+     "score": 103,
+     "by": "simonebrunozzi",
+     "time": 1794597242,
+     "comments": 65
     },
     {
      "id": 50487185,
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "url": "https://haddyalchaer.com/jepa",
-     "score": 152,
+     "score": 162,
      "by": "halcdev",
      "time": 1794592528,
      "comments": 30
@@ -45,10 +54,10 @@
      "id": 50474959,
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 601,
+     "score": 609,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 171
+     "comments": 175
     },
     {
      "id": 50489589,
@@ -63,60 +72,51 @@
      "id": 50488464,
      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "score": 40,
+     "score": 54,
      "by": "gmays",
      "time": 1794597887,
      "comments": 12
     },
     {
-     "id": 50482379,
-     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 398,
-     "by": "voxleone",
-     "time": 1794571824,
-     "comments": 277
-    },
-    {
-     "id": 50487228,
-     "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-     "url": "https://isometricsf.com/",
-     "score": 88,
-     "by": "juscha1",
-     "time": 1794592717,
-     "comments": 30
-    },
-    {
      "id": 50488470,
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 27,
+     "score": 42,
      "by": "gumby",
      "time": 1794597921,
-     "comments": 3
+     "comments": 7
+    },
+    {
+     "id": 50482379,
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "score": 402,
+     "by": "voxleone",
+     "time": 1794571824,
+     "comments": 280
     },
     {
      "id": 50487605,
      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-     "score": 35,
+     "score": 43,
      "by": "dethmasque",
      "time": 1794594229,
-     "comments": 15
+     "comments": 18
     },
     {
-     "id": 50484235,
-     "title": "A technical vision for the Haskell ecosystem",
-     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-     "score": 146,
-     "by": "cosmic_quanta",
-     "time": 1794580992,
-     "comments": 64
+     "id": 50487228,
+     "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+     "url": "https://isometricsf.com/",
+     "score": 99,
+     "by": "juscha1",
+     "time": 1794592717,
+     "comments": 35
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T21:02:46.513680+00:00",
+   "fetched_at": "2026-11-13T21:32:58.813564+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T21:02:48.015205+00:00",
+   "fetched_at": "2026-11-13T21:33:00.388273+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7273,
+     "stars": 7276,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3842,
+     "stars": 3850,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1414,
+     "stars": 1419,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1239,
+     "stars": 1244,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1090,
+     "stars": 1091,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T21:02:48.546321+00:00",
+   "fetched_at": "2026-11-13T21:33:00.882016+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 118,
+     "reactions": 119,
      "comments": 18,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -266,7 +266,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 187,
+     "reactions": 188,
      "comments": 108,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -282,8 +282,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 132,
-     "comments": 99,
+     "reactions": 133,
+     "comments": 103,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T21:02:48.729473+00:00",
+   "fetched_at": "2026-11-13T21:33:01.090216+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "minor",
-     "description": "Partially Degraded Service"
+     "indicator": "none",
+     "description": "All Systems Operational"
     },
     {
      "name": "Cloudflare",
