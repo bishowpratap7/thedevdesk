@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T19:02:08.854445+00:00",
+ "generated_at": "2026-11-13T19:32:15.687858+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T19:02:05.024550+00:00",
+   "fetched_at": "2026-11-13T19:32:11.693366+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50474959,
-     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-     "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 522,
-     "by": "scottjg",
-     "time": 1794520989,
-     "comments": 150
-    },
     {
      "id": 50487185,
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "url": "https://haddyalchaer.com/jepa",
-     "score": 48,
+     "score": 96,
      "by": "halcdev",
      "time": 1794592528,
-     "comments": 3
+     "comments": 18
+    },
+    {
+     "id": 50474959,
+     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+     "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+     "score": 550,
+     "by": "scottjg",
+     "time": 1794520989,
+     "comments": 154
+    },
+    {
+     "id": 50487762,
+     "title": "Models can now transmit viruses in weight-space",
+     "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+     "score": 41,
+     "by": "mkglees",
+     "time": 1794594815,
+     "comments": 17
+    },
+    {
+     "id": 50487854,
+     "title": "The avalanche that hit math is coming for AI development",
+     "url": "https://www.dwarkesh.com/p/rsi",
+     "score": 22,
+     "by": "crescit_eundo",
+     "time": 1794595182,
+     "comments": 7
     },
     {
      "id": 50482379,
      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 362,
+     "score": 377,
      "by": "voxleone",
      "time": 1794571824,
-     "comments": 260
-    },
-    {
-     "id": 50484235,
-     "title": "A technical vision for the Haskell ecosystem",
-     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-     "score": 123,
-     "by": "cosmic_quanta",
-     "time": 1794580992,
-     "comments": 45
+     "comments": 266
     },
     {
      "id": 50487228,
      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
      "url": "https://isometricsf.com/",
-     "score": 29,
+     "score": 43,
      "by": "juscha1",
      "time": 1794592717,
-     "comments": 12
+     "comments": 17
     },
     {
-     "id": 50487861,
-     "title": "6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
-     "url": "https://github.com/me-farza/lightreason/tree/main",
-     "score": 14,
-     "by": "AI4Science",
-     "time": 1794595237,
-     "comments": 2
+     "id": 50484235,
+     "title": "A technical vision for the Haskell ecosystem",
+     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+     "score": 131,
+     "by": "cosmic_quanta",
+     "time": 1794580992,
+     "comments": 53
     },
     {
      "id": 50486748,
      "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-     "score": 144,
+     "score": 174,
      "by": "bookofjoe",
      "time": 1794591010,
-     "comments": 24
+     "comments": 37
     },
     {
      "id": 50484007,
      "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-     "score": 94,
+     "score": 100,
      "by": "ortuman",
      "time": 1794580120,
-     "comments": 19
+     "comments": 23
     },
     {
-     "id": 50476257,
-     "title": "US Intel isn't sure if Alice Huang spied on Nvidia for China",
-     "url": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia",
-     "score": 24,
-     "by": "Leary",
-     "time": 1794528154,
-     "comments": 27
+     "id": 50487522,
+     "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+     "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+     "score": 64,
+     "by": "BobaFloutist",
+     "time": 1794593917,
+     "comments": 31
     },
     {
-     "id": 50486482,
-     "title": "LibreOffice actually works 365 days a year",
-     "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
-     "score": 470,
-     "by": "mksaunders2",
-     "time": 1794589798,
-     "comments": 164
-    },
-    {
-     "id": 50486480,
-     "title": "Gnomon. Git for Postgres data, built for agents",
-     "url": "https://github.com/bitsinfra/gnomon",
+     "id": 50487605,
+     "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+     "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
      "score": 12,
-     "by": "shawkisukkar",
-     "time": 1794589792,
-     "comments": 10
+     "by": "dethmasque",
+     "time": 1794594229,
+     "comments": 3
     },
     {
-     "id": 50483959,
-     "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
-     "url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
-     "score": 37,
-     "by": "marc__1",
-     "time": 1794579946,
-     "comments": 3
+     "id": 50484650,
+     "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+     "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+     "score": 61,
+     "by": "bookofjoe",
+     "time": 1794582487,
+     "comments": 44
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T19:02:06.617023+00:00",
+   "fetched_at": "2026-11-13T19:32:13.345805+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T19:02:07.955952+00:00",
+   "fetched_at": "2026-11-13T19:32:14.708269+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7257,
+     "stars": 7261,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3818,
+     "stars": 3826,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2859,
+     "stars": 2861,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1900,
+     "stars": 1903,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1422,
+     "stars": 1424,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1373,
+     "stars": 1390,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1323,
+     "stars": 1324,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1220,
+     "stars": 1224,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1081,
+     "stars": 1083,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Th0rgal/satmux",
      "url": "https://github.com/Th0rgal/satmux",
-     "stars": 1071,
+     "stars": 1072,
      "language": "Python",
      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
      "created_at": "2026-11-07T16:09:41Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T19:02:08.429276+00:00",
+   "fetched_at": "2026-11-13T19:32:15.203343+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T19:02:08.448028+00:00",
+   "fetched_at": "2026-11-13T19:32:15.232581+00:00",
    "stale": false,
    "items": [
     {
