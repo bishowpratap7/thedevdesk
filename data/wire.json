@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T07:28:47.219913+00:00",
+ "generated_at": "2026-11-13T07:58:53.196378+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T07:28:42.961754+00:00",
+   "fetched_at": "2026-11-13T07:58:49.230960+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3373,
+     "score": 3413,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 3045
+     "comments": 3069
     },
     {
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 94,
+     "score": 109,
      "by": "inatreecrown2",
      "time": 1794545693,
-     "comments": 37
-    },
-    {
-     "id": 50478635,
-     "title": "Scientists claim the universe is twice as old as believed",
-     "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-     "score": 46,
-     "by": "mattm",
-     "time": 1794546810,
-     "comments": 33
+     "comments": 56
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 617,
+     "score": 627,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 231
+     "comments": 239
     },
     {
      "id": 50477649,
      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
      "url": "https://brave.com/blog/search-api-agentic-payments/",
-     "score": 65,
+     "score": 76,
      "by": "sjdh76",
      "time": 1794539288,
-     "comments": 24
-    },
-    {
-     "id": 50477714,
-     "title": "Switcher (2004)",
-     "url": "https://folklore.org/Switcher.html",
-     "score": 84,
-     "by": "sammatilda",
-     "time": 1794539699,
-     "comments": 20
+     "comments": 36
     },
     {
      "id": 50477231,
      "title": "Nvidia employees petition to bring back Jensen Huang",
      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-     "score": 448,
+     "score": 491,
      "by": "lavendermon",
      "time": 1794536184,
-     "comments": 333
+     "comments": 350
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 394,
+     "score": 400,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 106
+     "comments": 107
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 477,
+     "score": 483,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 176
+     "comments": 177
+    },
+    {
+     "id": 50477714,
+     "title": "Switcher (2004)",
+     "url": "https://folklore.org/Switcher.html",
+     "score": 86,
+     "by": "sammatilda",
+     "time": 1794539699,
+     "comments": 23
     },
     {
      "id": 50475713,
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 203,
+     "score": 217,
      "by": "sroussey",
      "time": 1794524777,
-     "comments": 54
+     "comments": 57
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 272,
+     "score": 278,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 116
+     "comments": 119
     },
     {
      "id": 50473190,
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 227,
+     "score": 234,
      "by": "jbredeche",
      "time": 1794513093,
-     "comments": 241
+     "comments": 249
+    },
+    {
+     "id": 50471731,
+     "title": "Service degradation on Microsoft 365",
+     "url": "https://status.cloud.microsoft/",
+     "score": 798,
+     "by": "dkpk",
+     "time": 1794507648,
+     "comments": 703
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T07:28:44.064447+00:00",
+   "fetched_at": "2026-11-13T07:58:50.328547+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T07:28:45.728974+00:00",
+   "fetched_at": "2026-11-13T07:58:51.924242+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7070,
+     "stars": 7086,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3650,
+     "stars": 3656,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2803,
+     "stars": 2806,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1762,
+     "stars": 1764,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1360,
+     "stars": 1368,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1247,
+     "stars": 1251,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,10 +211,18 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1106,
+     "stars": 1115,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
+    },
+    {
+     "full_name": "FrigadeHQ/yogurt",
+     "url": "https://github.com/FrigadeHQ/yogurt",
+     "stars": 1059,
+     "language": "TypeScript",
+     "description": "Private AI meeting notes. Free and open source.",
+     "created_at": "2026-11-10T20:01:01Z"
     },
     {
      "full_name": "Th0rgal/satmux",
@@ -225,17 +233,9 @@
      "created_at": "2026-11-07T16:09:41Z"
     },
     {
-     "full_name": "FrigadeHQ/yogurt",
-     "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1049,
-     "language": "TypeScript",
-     "description": "Private AI meeting notes. Free and open source.",
-     "created_at": "2026-11-10T20:01:01Z"
-    },
-    {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1018,
+     "stars": 1021,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T07:28:46.265562+00:00",
+   "fetched_at": "2026-11-13T07:58:52.463452+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T07:28:46.708099+00:00",
+   "fetched_at": "2026-11-13T07:58:52.546613+00:00",
    "stale": false,
    "items": [
     {
