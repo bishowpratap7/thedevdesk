@@ -1,90 +1,99 @@
 {
- "generated_at": "2026-11-13T23:03:21.472016+00:00",
+ "generated_at": "2026-11-13T23:33:29.137137+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T23:03:17.060132+00:00",
+   "fetched_at": "2026-11-13T23:33:24.684917+00:00",
    "stale": false,
    "items": [
     {
      "id": 50489641,
      "title": "FAA Issues National Ground Stop",
      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-     "score": 878,
+     "score": 1011,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 510
-    },
-    {
-     "id": 50487864,
-     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-     "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-     "score": 242,
-     "by": "crescit_eundo",
-     "time": 1794595244,
-     "comments": 130
-    },
-    {
-     "id": 50490778,
-     "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
-     "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
-     "score": 37,
-     "by": "galleywest200",
-     "time": 1794608171,
-     "comments": 5
+     "comments": 599
     },
     {
      "id": 50490593,
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "url": "https://orcasairband.com/",
-     "score": 50,
+     "score": 78,
      "by": "mmaunder",
      "time": 1794607464,
+     "comments": 23
+    },
+    {
+     "id": 50488325,
+     "title": "FM-1 Workbench",
+     "url": "https://open.m-vave.com/fm1-workbench",
+     "score": 153,
+     "by": "simonebrunozzi",
+     "time": 1794597242,
+     "comments": 91
+    },
+    {
+     "id": 50474959,
+     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+     "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+     "score": 646,
+     "by": "scottjg",
+     "time": 1794520989,
+     "comments": 191
+    },
+    {
+     "id": 50487185,
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "url": "https://haddyalchaer.com/jepa",
+     "score": 195,
+     "by": "halcdev",
+     "time": 1794592528,
+     "comments": 32
+    },
+    {
+     "id": 50488470,
+     "title": "Found: A protein that drives ageing without unleashing inflammation",
+     "url": "https://www.nature.com/articles/d41586-026-03638-3",
+     "score": 83,
+     "by": "gumby",
+     "time": 1794597921,
+     "comments": 18
+    },
+    {
+     "id": 50488464,
+     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+     "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+     "score": 83,
+     "by": "gmays",
+     "time": 1794597887,
      "comments": 18
     },
     {
      "id": 50491097,
      "title": "Claude Meetings",
      "url": "https://claude.com/resources/articles/claude-meetings",
-     "score": 23,
+     "score": 53,
      "by": "hmokiguess",
      "time": 1794609555,
-     "comments": 5
+     "comments": 36
     },
     {
-     "id": 50488325,
-     "title": "FM-1 Workbench",
-     "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 144,
-     "by": "simonebrunozzi",
-     "time": 1794597242,
-     "comments": 86
+     "id": 50482379,
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "score": 427,
+     "by": "voxleone",
+     "time": 1794571824,
+     "comments": 298
     },
     {
-     "id": 50474959,
-     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-     "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 637,
-     "by": "scottjg",
-     "time": 1794520989,
-     "comments": 188
-    },
-    {
-     "id": 50487185,
-     "title": "After 600 experiments, here's what I discovered about JEPA world models",
-     "url": "https://haddyalchaer.com/jepa",
-     "score": 191,
-     "by": "halcdev",
-     "time": 1794592528,
-     "comments": 32
-    },
-    {
-     "id": 50488464,
-     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-     "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "score": 76,
-     "by": "gmays",
-     "time": 1794597887,
-     "comments": 16
+     "id": 50488835,
+     "title": "Live-migration support in FreeBSD and bhyve coming",
+     "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+     "score": 48,
+     "by": "JohnDohnBohn",
+     "time": 1794599922,
+     "comments": 7
     },
     {
      "id": 50489589,
@@ -96,27 +105,18 @@
      "comments": 0
     },
     {
-     "id": 50488470,
-     "title": "Found: A protein that drives ageing without unleashing inflammation",
-     "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 73,
-     "by": "gumby",
-     "time": 1794597921,
-     "comments": 15
-    },
-    {
-     "id": 50488835,
-     "title": "Live-migration support in FreeBSD and bhyve coming",
-     "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-     "score": 45,
-     "by": "JohnDohnBohn",
-     "time": 1794599922,
-     "comments": 5
+     "id": 50489083,
+     "title": "Big tech is here to let us down",
+     "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+     "score": 179,
+     "by": "speckx",
+     "time": 1794601230,
+     "comments": 160
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T23:03:18.791281+00:00",
+   "fetched_at": "2026-11-13T23:33:26.282740+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T23:03:20.389730+00:00",
+   "fetched_at": "2026-11-13T23:33:27.757980+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7289,
+     "stars": 7294,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3869,
+     "stars": 3875,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1906,
+     "stars": 1909,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1449,
+     "stars": 1455,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1433,
+     "stars": 1435,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1337,
+     "stars": 1338,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1254,
+     "stars": 1255,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1097,
+     "stars": 1099,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T23:03:20.864953+00:00",
+   "fetched_at": "2026-11-13T23:33:28.281782+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 188,
+     "reactions": 189,
      "comments": 108,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -282,7 +282,7 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 134,
+     "reactions": 136,
      "comments": 103,
      "published_at": "2026-11-12T08:14:36Z"
     },
@@ -298,7 +298,7 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 144,
+     "reactions": 145,
      "comments": 45,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T23:03:20.936563+00:00",
+   "fetched_at": "2026-11-13T23:33:28.478700+00:00",
    "stale": false,
    "items": [
     {
