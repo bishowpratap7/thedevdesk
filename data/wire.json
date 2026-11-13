@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-13T09:29:14.573507+00:00",
+ "generated_at": "2026-11-13T09:29:37.034209+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T09:29:10.395895+00:00",
+   "fetched_at": "2026-11-13T09:29:32.985403+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3513,
+     "score": 3514,
      "by": "lldb",
      "time": 1794491549,
      "comments": 3109
@@ -18,7 +18,7 @@
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 154,
+     "score": 155,
      "by": "inatreecrown2",
      "time": 1794545693,
      "comments": 81
@@ -30,7 +30,7 @@
      "score": 7,
      "by": "jonbaer",
      "time": 1794560898,
-     "comments": 1
+     "comments": 2
     },
     {
      "id": 50472038,
@@ -90,10 +90,10 @@
      "id": 50478609,
      "title": "Microsoft Outlook/365 still down after 12 hours",
      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-     "score": 199,
+     "score": 200,
      "by": "player85",
      "time": 1794546503,
-     "comments": 109
+     "comments": 111
     },
     {
      "id": 50473190,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T09:29:11.526433+00:00",
+   "fetched_at": "2026-11-13T09:29:34.605618+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T09:29:13.170350+00:00",
+   "fetched_at": "2026-11-13T09:29:36.085818+00:00",
    "stale": false,
    "items": [
     {
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2818,
+     "stars": 2819,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T09:29:13.662290+00:00",
+   "fetched_at": "2026-11-13T09:29:36.490717+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T09:29:13.913831+00:00",
+   "fetched_at": "2026-11-13T09:29:36.610848+00:00",
    "stale": false,
    "items": [
     {
