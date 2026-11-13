@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T04:27:49.840402+00:00",
+ "generated_at": "2026-11-13T04:28:05.542219+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T04:27:46.841104+00:00",
+   "fetched_at": "2026-11-13T04:28:01.542344+00:00",
    "stale": false,
    "items": [
     {
@@ -18,7 +18,7 @@
      "id": 50477714,
      "title": "Switcher (2004)",
      "url": "https://folklore.org/Switcher.html",
-     "score": 30,
+     "score": 31,
      "by": "sammatilda",
      "time": 1794539699,
      "comments": 4
@@ -81,16 +81,16 @@
      "id": 50471731,
      "title": "Service degradation on Microsoft 365",
      "url": "https://status.cloud.microsoft/",
-     "score": 626,
+     "score": 627,
      "by": "dkpk",
      "time": 1794507648,
-     "comments": 585
+     "comments": 589
     },
     {
      "id": 50473190,
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 143,
+     "score": 144,
      "by": "jbredeche",
      "time": 1794513093,
      "comments": 201
@@ -99,7 +99,7 @@
      "id": 50477231,
      "title": "Nvidia employees petition to bring back Jensen Huang",
      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-     "score": 219,
+     "score": 220,
      "by": "lavendermon",
      "time": 1794536184,
      "comments": 180
@@ -108,7 +108,7 @@
      "id": 50474311,
      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-     "score": 133,
+     "score": 134,
      "by": "anigbrowl",
      "time": 1794517789,
      "comments": 119
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T04:27:47.758721+00:00",
+   "fetched_at": "2026-11-13T04:28:02.756685+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T04:27:48.699611+00:00",
+   "fetched_at": "2026-11-13T04:28:04.298445+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T04:27:49.048779+00:00",
+   "fetched_at": "2026-11-13T04:28:04.737805+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T04:27:49.340265+00:00",
+   "fetched_at": "2026-11-13T04:28:04.880585+00:00",
    "stale": false,
    "items": [
     {
