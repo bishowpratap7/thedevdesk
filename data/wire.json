@@ -1,114 +1,114 @@
 {
- "generated_at": "2026-11-13T09:29:37.034209+00:00",
+ "generated_at": "2026-11-13T09:59:42.848694+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T09:29:32.985403+00:00",
+   "fetched_at": "2026-11-13T09:59:39.361208+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3514,
+     "score": 3547,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 3109
+     "comments": 3131
     },
     {
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 155,
+     "score": 165,
      "by": "inatreecrown2",
      "time": 1794545693,
-     "comments": 81
+     "comments": 87
     },
     {
      "id": 50480480,
      "title": "The Dawn of the Data Intelligence Engineer",
      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-     "score": 7,
+     "score": 12,
      "by": "jonbaer",
      "time": 1794560898,
-     "comments": 2
+     "comments": 11
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 664,
+     "score": 676,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 253
+     "comments": 258
     },
     {
      "id": 50477649,
      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
      "url": "https://brave.com/blog/search-api-agentic-payments/",
-     "score": 92,
+     "score": 100,
      "by": "sjdh76",
      "time": 1794539288,
-     "comments": 60
+     "comments": 64
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 514,
+     "score": 522,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 181
+     "comments": 182
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 412,
+     "score": 416,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 111
+     "comments": 115
     },
     {
      "id": 50475713,
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 236,
+     "score": 248,
      "by": "sroussey",
      "time": 1794524777,
-     "comments": 70
-    },
-    {
-     "id": 50472490,
-     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 300,
-     "by": "cybermango",
-     "time": 1794510333,
-     "comments": 125
+     "comments": 71
     },
     {
      "id": 50478609,
      "title": "Microsoft Outlook/365 still down after 12 hours",
      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-     "score": 200,
+     "score": 252,
      "by": "player85",
      "time": 1794546503,
-     "comments": 111
+     "comments": 153
+    },
+    {
+     "id": 50472490,
+     "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+     "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+     "score": 308,
+     "by": "cybermango",
+     "time": 1794510333,
+     "comments": 127
     },
     {
      "id": 50473190,
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 264,
+     "score": 276,
      "by": "jbredeche",
      "time": 1794513093,
-     "comments": 272
+     "comments": 279
     },
     {
      "id": 50477714,
      "title": "Switcher (2004)",
      "url": "https://folklore.org/Switcher.html",
-     "score": 93,
+     "score": 95,
      "by": "sammatilda",
      "time": 1794539699,
      "comments": 26
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T09:29:34.605618+00:00",
+   "fetched_at": "2026-11-13T09:59:40.924493+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T09:29:36.085818+00:00",
+   "fetched_at": "2026-11-13T09:59:41.692990+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7109,
+     "stars": 7118,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3667,
+     "stars": 3671,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2819,
+     "stars": 2824,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1797,
+     "stars": 1815,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1386,
+     "stars": 1388,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1253,
+     "stars": 1255,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1155,
+     "stars": 1168,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1083,
+     "stars": 1092,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1031,
+     "stars": 1034,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T09:29:36.490717+00:00",
+   "fetched_at": "2026-11-13T09:59:42.123219+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 132,
+     "reactions": 134,
      "comments": 35,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -266,7 +266,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 175,
+     "reactions": 176,
      "comments": 102,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -282,7 +282,7 @@
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 169,
+     "reactions": 170,
      "comments": 119,
      "published_at": "2026-11-08T11:50:29Z"
     },
@@ -290,8 +290,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 103,
-     "comments": 69,
+     "reactions": 104,
+     "comments": 72,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T09:29:36.610848+00:00",
+   "fetched_at": "2026-11-13T09:59:42.444213+00:00",
    "stale": false,
    "items": [
     {
