@@ -1,69 +1,78 @@
 {
- "generated_at": "2026-11-13T02:57:30.611114+00:00",
+ "generated_at": "2026-11-13T03:27:36.442757+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T02:57:27.989410+00:00",
+   "fetched_at": "2026-11-13T03:27:32.295555+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50467087,
-     "title": "Jensen Huang resigns",
-     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3053,
-     "by": "lldb",
-     "time": 1794491549,
-     "comments": 2861
-    },
     {
      "id": 50477331,
      "title": "Africa's solar revolution is vast and speedy",
      "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
-     "score": 21,
+     "score": 60,
      "by": "andsoitis",
      "time": 1794536895,
-     "comments": 0
+     "comments": 7
+    },
+    {
+     "id": 50467087,
+     "title": "Jensen Huang resigns",
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+     "score": 3084,
+     "by": "lldb",
+     "time": 1794491549,
+     "comments": 2893
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 463,
+     "score": 477,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 202
+     "comments": 206
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 323,
+     "score": 333,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 80
+     "comments": 82
+    },
+    {
+     "id": 50477231,
+     "title": "Nvidia employees petition to bring back Jensen Huang",
+     "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+     "score": 109,
+     "by": "lavendermon",
+     "time": 1794536184,
+     "comments": 72
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 365,
+     "score": 373,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 145
+     "comments": 147
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 214,
+     "score": 220,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 98
+     "comments": 102
     },
     {
      "id": 50474361,
      "title": "Foundation Models framework",
      "url": "https://developer.apple.com/foundation-models-framework/",
-     "score": 141,
+     "score": 148,
      "by": "kermatt",
      "time": 1794518006,
      "comments": 18
@@ -72,51 +81,42 @@
      "id": 50475713,
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 78,
+     "score": 86,
      "by": "sroussey",
      "time": 1794524777,
-     "comments": 18
-    },
-    {
-     "id": 50477231,
-     "title": "Nvidia employees petition to bring back Jensen Huang",
-     "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-     "score": 54,
-     "by": "lavendermon",
-     "time": 1794536184,
-     "comments": 22
+     "comments": 19
     },
     {
      "id": 50471731,
      "title": "Service degradation on Microsoft 365",
      "url": "https://status.cloud.microsoft/",
-     "score": 555,
+     "score": 579,
      "by": "dkpk",
      "time": 1794507648,
-     "comments": 511
+     "comments": 534
+    },
+    {
+     "id": 50473190,
+     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+     "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+     "score": 125,
+     "by": "jbredeche",
+     "time": 1794513093,
+     "comments": 167
     },
     {
      "id": 50471761,
      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-     "score": 150,
+     "score": 153,
      "by": "ozirus",
      "time": 1794507742,
-     "comments": 23
-    },
-    {
-     "id": 50468888,
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 287,
-     "by": "mrashad74",
-     "time": 1794496990,
-     "comments": 98
+     "comments": 24
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T02:57:28.962720+00:00",
+   "fetched_at": "2026-11-13T03:27:34.773303+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T02:57:29.863636+00:00",
+   "fetched_at": "2026-11-13T03:27:35.656480+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 6977,
+     "stars": 6983,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3597,
+     "stars": 3603,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2775,
+     "stars": 2778,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1737,
+     "stars": 1741,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1324,
+     "stars": 1332,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1206,
+     "stars": 1218,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1014,
+     "stars": 1027,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 984,
+     "stars": 989,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 979,
+     "stars": 985,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T02:57:30.190157+00:00",
+   "fetched_at": "2026-11-13T03:27:36.042331+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 169,
+     "reactions": 170,
      "comments": 100,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T02:57:30.260345+00:00",
+   "fetched_at": "2026-11-13T03:27:36.069376+00:00",
    "stale": false,
    "items": [
     {
