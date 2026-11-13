@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T16:01:32.125345+00:00",
+ "generated_at": "2026-11-13T16:31:37.890363+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T16:01:27.888661+00:00",
+   "fetched_at": "2026-11-13T16:31:33.707237+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50485295,
+     "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+     "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+     "score": 40,
+     "by": "dvaplima",
+     "time": 1794585124,
+     "comments": 5
+    },
     {
      "id": 50474959,
      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 202,
+     "score": 264,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 43
-    },
-    {
-     "id": 50482379,
-     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 304,
-     "by": "voxleone",
-     "time": 1794571824,
-     "comments": 199
+     "comments": 65
     },
     {
      "id": 50483611,
      "title": "Why Zig over C for Systems Programming",
      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-     "score": 87,
+     "score": 106,
      "by": "torutofu",
      "time": 1794578473,
-     "comments": 29
+     "comments": 54
+    },
+    {
+     "id": 50482379,
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "score": 314,
+     "by": "voxleone",
+     "time": 1794571824,
+     "comments": 214
     },
     {
      "id": 50484235,
      "title": "A technical vision for the Haskell ecosystem",
      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-     "score": 30,
+     "score": 43,
      "by": "cosmic_quanta",
      "time": 1794580992,
-     "comments": 6
+     "comments": 14
     },
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3834,
+     "score": 3852,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 3302
-    },
-    {
-     "id": 50481187,
-     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-     "url": "https://status.claude.com/incidents/nn11wk485zfn",
-     "score": 401,
-     "by": "__vivek",
-     "time": 1794565093,
-     "comments": 333
+     "comments": 3314
     },
     {
      "id": 50484421,
      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
      "url": null,
-     "score": 54,
+     "score": 93,
      "by": "moonypto",
      "time": 1794581612,
-     "comments": 20
-    },
-    {
-     "id": 50484650,
-     "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
-     "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-     "score": 12,
-     "by": "bookofjoe",
-     "time": 1794582487,
-     "comments": 3
-    },
-    {
-     "id": 50478515,
-     "title": "IceWM",
-     "url": "https://ice-wm.org/",
-     "score": 301,
-     "by": "inatreecrown2",
-     "time": 1794545693,
-     "comments": 154
+     "comments": 44
     },
     {
      "id": 50484007,
      "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-     "score": 17,
+     "score": 29,
      "by": "ortuman",
      "time": 1794580120,
-     "comments": 4
+     "comments": 5
     },
     {
-     "id": 50472038,
-     "title": "Rust 1.100",
-     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 801,
-     "by": "mbStavola",
-     "time": 1794508745,
-     "comments": 293
+     "id": 50481187,
+     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+     "url": "https://status.claude.com/incidents/nn11wk485zfn",
+     "score": 415,
+     "by": "__vivek",
+     "time": 1794565093,
+     "comments": 340
     },
     {
-     "id": 50477649,
-     "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-     "url": "https://brave.com/blog/search-api-agentic-payments/",
-     "score": 204,
-     "by": "sjdh76",
-     "time": 1794539288,
-     "comments": 114
+     "id": 50484650,
+     "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+     "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+     "score": 16,
+     "by": "bookofjoe",
+     "time": 1794582487,
+     "comments": 12
+    },
+    {
+     "id": 50478515,
+     "title": "IceWM",
+     "url": "https://ice-wm.org/",
+     "score": 309,
+     "by": "inatreecrown2",
+     "time": 1794545693,
+     "comments": 158
+    },
+    {
+     "id": 50483759,
+     "title": "US university students tell surveillance cameras to Flock off",
+     "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+     "score": 64,
+     "by": "beardyw",
+     "time": 1794579116,
+     "comments": 18
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T16:01:29.584621+00:00",
+   "fetched_at": "2026-11-13T16:31:35.308417+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T16:01:30.953946+00:00",
+   "fetched_at": "2026-11-13T16:31:36.666839+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7217,
+     "stars": 7221,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3764,
+     "stars": 3774,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2847,
+     "stars": 2851,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1879,
+     "stars": 1886,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1416,
+     "stars": 1417,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1299,
+     "stars": 1316,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1298,
+     "stars": 1302,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1186,
+     "stars": 1190,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Th0rgal/satmux",
      "url": "https://github.com/Th0rgal/satmux",
-     "stars": 1070,
+     "stars": 1071,
      "language": "Python",
      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
      "created_at": "2026-11-07T16:09:41Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1066,
+     "stars": 1070,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T16:01:31.456158+00:00",
+   "fetched_at": "2026-11-13T16:31:37.273770+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 125,
-     "comments": 90,
+     "comments": 91,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -298,7 +298,7 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 134,
+     "reactions": 135,
      "comments": 45,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -307,20 +307,20 @@
      "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
      "author": "S\u1d1b\u1d00\u0280\u2b50",
      "reactions": 93,
-     "comments": 47,
+     "comments": 48,
      "published_at": "2026-11-12T11:18:53Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T16:01:31.602422+00:00",
+   "fetched_at": "2026-11-13T16:31:37.458662+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
      "indicator": "minor",
-     "description": "Minor Service Outage"
+     "description": "Partially Degraded Service"
     },
     {
      "name": "Cloudflare",
