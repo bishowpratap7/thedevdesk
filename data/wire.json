@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T19:32:15.687858+00:00",
+ "generated_at": "2026-11-13T19:32:29.168046+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T19:32:11.693366+00:00",
+   "fetched_at": "2026-11-13T19:32:25.088679+00:00",
    "stale": false,
    "items": [
     {
@@ -12,7 +12,7 @@
      "score": 96,
      "by": "halcdev",
      "time": 1794592528,
-     "comments": 18
+     "comments": 20
     },
     {
      "id": 50474959,
@@ -36,7 +36,7 @@
      "id": 50487854,
      "title": "The avalanche that hit math is coming for AI development",
      "url": "https://www.dwarkesh.com/p/rsi",
-     "score": 22,
+     "score": 24,
      "by": "crescit_eundo",
      "time": 1794595182,
      "comments": 7
@@ -48,7 +48,7 @@
      "score": 377,
      "by": "voxleone",
      "time": 1794571824,
-     "comments": 266
+     "comments": 267
     },
     {
      "id": 50487228,
@@ -75,7 +75,7 @@
      "score": 174,
      "by": "bookofjoe",
      "time": 1794591010,
-     "comments": 37
+     "comments": 38
     },
     {
      "id": 50484007,
@@ -90,7 +90,7 @@
      "id": 50487522,
      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-     "score": 64,
+     "score": 65,
      "by": "BobaFloutist",
      "time": 1794593917,
      "comments": 31
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T19:32:13.345805+00:00",
+   "fetched_at": "2026-11-13T19:32:26.629895+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T19:32:14.708269+00:00",
+   "fetched_at": "2026-11-13T19:32:28.100732+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T19:32:15.203343+00:00",
+   "fetched_at": "2026-11-13T19:32:28.571499+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T19:32:15.232581+00:00",
+   "fetched_at": "2026-11-13T19:32:28.700931+00:00",
    "stale": false,
    "items": [
     {
