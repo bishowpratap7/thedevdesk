@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T10:29:50.261036+00:00",
+ "generated_at": "2026-11-13T10:59:55.695679+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T10:29:46.893585+00:00",
+   "fetched_at": "2026-11-13T10:59:52.015263+00:00",
    "stale": false,
    "items": [
     {
      "id": 50481187,
      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-     "score": 58,
+     "score": 133,
      "by": "__vivek",
      "time": 1794565093,
-     "comments": 37
+     "comments": 82
     },
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3582,
+     "score": 3597,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 3148
+     "comments": 3167
     },
     {
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 181,
+     "score": 194,
      "by": "inatreecrown2",
      "time": 1794545693,
-     "comments": 91
-    },
-    {
-     "id": 50480480,
-     "title": "The Dawn of the Data Intelligence Engineer",
-     "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-     "score": 25,
-     "by": "jonbaer",
-     "time": 1794560898,
-     "comments": 23
-    },
-    {
-     "id": 50472038,
-     "title": "Rust 1.100",
-     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 692,
-     "by": "mbStavola",
-     "time": 1794508745,
-     "comments": 260
+     "comments": 98
     },
     {
      "id": 50481220,
      "title": "Claude Is Down",
      "url": "https://status.claude.com/history",
-     "score": 20,
+     "score": 63,
      "by": "cornfieldlabs",
      "time": 1794565209,
-     "comments": 3
+     "comments": 39
+    },
+    {
+     "id": 50480480,
+     "title": "The Dawn of the Data Intelligence Engineer",
+     "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+     "score": 32,
+     "by": "jonbaer",
+     "time": 1794560898,
+     "comments": 32
+    },
+    {
+     "id": 50472038,
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "score": 700,
+     "by": "mbStavola",
+     "time": 1794508745,
+     "comments": 261
     },
     {
      "id": 50477649,
      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
      "url": "https://brave.com/blog/search-api-agentic-payments/",
-     "score": 107,
+     "score": 111,
      "by": "sjdh76",
      "time": 1794539288,
-     "comments": 70
+     "comments": 74
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 531,
+     "score": 539,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 183
+     "comments": 184
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 420,
+     "score": 422,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 115
+     "comments": 117
     },
     {
      "id": 50475713,
      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 255,
+     "score": 264,
      "by": "sroussey",
      "time": 1794524777,
-     "comments": 72
+     "comments": 74
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 316,
+     "score": 320,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 129
+     "comments": 131
     },
     {
      "id": 50473190,
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 287,
+     "score": 290,
      "by": "jbredeche",
      "time": 1794513093,
-     "comments": 295
+     "comments": 309
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T10:29:48.441051+00:00",
+   "fetched_at": "2026-11-13T10:59:53.529835+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T10:29:49.034441+00:00",
+   "fetched_at": "2026-11-13T10:59:54.735429+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7130,
+     "stars": 7137,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3672,
+     "stars": 3674,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2829,
+     "stars": 2831,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1820,
+     "stars": 1829,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1391,
+     "stars": 1395,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1257,
+     "stars": 1262,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1181,
+     "stars": 1195,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1096,
+     "stars": 1101,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1035,
+     "stars": 1036,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T10:29:49.488529+00:00",
+   "fetched_at": "2026-11-13T10:59:55.235186+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T10:29:49.820495+00:00",
+   "fetched_at": "2026-11-13T10:59:55.272066+00:00",
    "stale": false,
    "items": [
     {
