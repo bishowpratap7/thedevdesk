@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T05:28:21.648133+00:00",
+ "generated_at": "2026-11-13T05:58:28.161825+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T05:28:14.958011+00:00",
+   "fetched_at": "2026-11-13T05:58:24.222125+00:00",
    "stale": false,
    "items": [
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3202,
+     "score": 3246,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 2972
-    },
-    {
-     "id": 50477714,
-     "title": "Switcher (2004)",
-     "url": "https://folklore.org/Switcher.html",
-     "score": 57,
-     "by": "sammatilda",
-     "time": 1794539699,
-     "comments": 11
-    },
-    {
-     "id": 50472038,
-     "title": "Rust 1.100",
-     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 539,
-     "by": "mbStavola",
-     "time": 1794508745,
-     "comments": 220
-    },
-    {
-     "id": 50475713,
-     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 155,
-     "by": "sroussey",
-     "time": 1794524777,
-     "comments": 38
-    },
-    {
-     "id": 50472260,
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 357,
-     "by": "jonbaer",
-     "time": 1794509521,
-     "comments": 96
-    },
-    {
-     "id": 50470488,
-     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-     "url": "https://github.com/simpsoka/zigzag",
-     "score": 417,
-     "by": "simpsoka",
-     "time": 1794502962,
-     "comments": 163
+     "comments": 2990
     },
     {
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 4,
+     "score": 31,
      "by": "inatreecrown2",
      "time": 1794545693,
-     "comments": 0
+     "comments": 8
+    },
+    {
+     "id": 50472038,
+     "title": "Rust 1.100",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+     "score": 556,
+     "by": "mbStavola",
+     "time": 1794508745,
+     "comments": 223
+    },
+    {
+     "id": 50477714,
+     "title": "Switcher (2004)",
+     "url": "https://folklore.org/Switcher.html",
+     "score": 68,
+     "by": "sammatilda",
+     "time": 1794539699,
+     "comments": 14
+    },
+    {
+     "id": 50472260,
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "score": 366,
+     "by": "jonbaer",
+     "time": 1794509521,
+     "comments": 100
+    },
+    {
+     "id": 50470488,
+     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "url": "https://github.com/simpsoka/zigzag",
+     "score": 434,
+     "by": "simpsoka",
+     "time": 1794502962,
+     "comments": 166
+    },
+    {
+     "id": 50475713,
+     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+     "score": 166,
+     "by": "sroussey",
+     "time": 1794524777,
+     "comments": 39
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 240,
+     "score": 253,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 109
-    },
-    {
-     "id": 50474361,
-     "title": "Foundation Models framework",
-     "url": "https://developer.apple.com/foundation-models-framework/",
-     "score": 170,
-     "by": "kermatt",
-     "time": 1794518006,
-     "comments": 23
+     "comments": 110
     },
     {
      "id": 50473190,
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 178,
+     "score": 190,
      "by": "jbredeche",
      "time": 1794513093,
-     "comments": 213
+     "comments": 220
     },
     {
-     "id": 50471731,
-     "title": "Service degradation on Microsoft 365",
-     "url": "https://status.cloud.microsoft/",
-     "score": 662,
-     "by": "dkpk",
-     "time": 1794507648,
-     "comments": 623
+     "id": 50474361,
+     "title": "Foundation Models framework",
+     "url": "https://developer.apple.com/foundation-models-framework/",
+     "score": 175,
+     "by": "kermatt",
+     "time": 1794518006,
+     "comments": 25
     },
     {
-     "id": 50468888,
-     "title": "I'm making LLMs work on small and old devices",
-     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-     "score": 312,
-     "by": "mrashad74",
-     "time": 1794496990,
-     "comments": 103
+     "id": 50477649,
+     "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+     "url": "https://brave.com/blog/search-api-agentic-payments/",
+     "score": 25,
+     "by": "sjdh76",
+     "time": 1794539288,
+     "comments": 8
+    },
+    {
+     "id": 50477231,
+     "title": "Nvidia employees petition to bring back Jensen Huang",
+     "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+     "score": 321,
+     "by": "lavendermon",
+     "time": 1794536184,
+     "comments": 250
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T05:28:16.295520+00:00",
+   "fetched_at": "2026-11-13T05:58:25.293924+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T05:28:17.944601+00:00",
+   "fetched_at": "2026-11-13T05:58:26.927511+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7024,
+     "stars": 7031,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3623,
+     "stars": 3631,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2793,
+     "stars": 2796,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1747,
+     "stars": 1749,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1343,
+     "stars": 1349,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1232,
+     "stars": 1234,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1070,
+     "stars": 1078,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1008,
+     "stars": 1015,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1004,
+     "stars": 1008,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T05:28:18.407780+00:00",
+   "fetched_at": "2026-11-13T05:58:27.438438+00:00",
    "stale": false,
    "items": [
     {
@@ -298,8 +298,8 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 127,
-     "comments": 40,
+     "reactions": 129,
+     "comments": 41,
      "published_at": "2026-11-09T15:30:54Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T05:28:18.664285+00:00",
+   "fetched_at": "2026-11-13T05:58:27.671217+00:00",
    "stale": false,
    "items": [
     {
