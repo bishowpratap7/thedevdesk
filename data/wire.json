@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T20:02:35.186591+00:00",
+ "generated_at": "2026-11-13T20:32:42.894687+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T20:02:30.622142+00:00",
+   "fetched_at": "2026-11-13T20:32:38.469132+00:00",
    "stale": false,
    "items": [
     {
      "id": 50488325,
      "title": "FM-1 Workbench",
      "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 37,
+     "score": 63,
      "by": "simonebrunozzi",
      "time": 1794597242,
-     "comments": 15
+     "comments": 32
     },
     {
      "id": 50487185,
      "title": "After 600 experiments, here's what I discovered about JEPA world models",
      "url": "https://haddyalchaer.com/jepa",
-     "score": 118,
+     "score": 140,
      "by": "halcdev",
      "time": 1794592528,
-     "comments": 24
+     "comments": 28
     },
     {
      "id": 50474959,
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 566,
+     "score": 590,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 159
-    },
-    {
-     "id": 50487228,
-     "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-     "url": "https://isometricsf.com/",
-     "score": 59,
-     "by": "juscha1",
-     "time": 1794592717,
-     "comments": 19
-    },
-    {
-     "id": 50482379,
-     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 385,
-     "by": "voxleone",
-     "time": 1794571824,
-     "comments": 267
-    },
-    {
-     "id": 50487605,
-     "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-     "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-     "score": 24,
-     "by": "dethmasque",
-     "time": 1794594229,
-     "comments": 6
+     "comments": 164
     },
     {
      "id": 50487762,
      "title": "Models can now transmit viruses in weight-space",
      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-     "score": 62,
+     "score": 95,
      "by": "mkglees",
      "time": 1794594815,
-     "comments": 30
+     "comments": 34
     },
     {
-     "id": 50484235,
-     "title": "A technical vision for the Haskell ecosystem",
-     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-     "score": 137,
-     "by": "cosmic_quanta",
-     "time": 1794580992,
-     "comments": 57
+     "id": 50487864,
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+     "score": 34,
+     "by": "crescit_eundo",
+     "time": 1794595244,
+     "comments": 12
     },
     {
-     "id": 50486748,
-     "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
-     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-     "score": 191,
-     "by": "bookofjoe",
-     "time": 1794591010,
-     "comments": 45
+     "id": 50487228,
+     "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+     "url": "https://isometricsf.com/",
+     "score": 74,
+     "by": "juscha1",
+     "time": 1794592717,
+     "comments": 27
     },
     {
-     "id": 50487522,
-     "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-     "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-     "score": 102,
-     "by": "BobaFloutist",
-     "time": 1794593917,
-     "comments": 44
+     "id": 50482379,
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "score": 390,
+     "by": "voxleone",
+     "time": 1794571824,
+     "comments": 274
     },
     {
-     "id": 50484007,
-     "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
-     "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-     "score": 104,
-     "by": "ortuman",
-     "time": 1794580120,
-     "comments": 24
+     "id": 50487605,
+     "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+     "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+     "score": 30,
+     "by": "dethmasque",
+     "time": 1794594229,
+     "comments": 14
     },
     {
      "id": 50488464,
      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "score": 6,
+     "score": 21,
      "by": "gmays",
      "time": 1794597887,
-     "comments": 0
+     "comments": 5
+    },
+    {
+     "id": 50484235,
+     "title": "A technical vision for the Haskell ecosystem",
+     "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+     "score": 141,
+     "by": "cosmic_quanta",
+     "time": 1794580992,
+     "comments": 62
+    },
+    {
+     "id": 50488470,
+     "title": "Found: A protein that drives ageing without unleashing inflammation",
+     "url": "https://www.nature.com/articles/d41586-026-03638-3",
+     "score": 15,
+     "by": "gumby",
+     "time": 1794597921,
+     "comments": 1
+    },
+    {
+     "id": 50486748,
+     "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+     "score": 217,
+     "by": "bookofjoe",
+     "time": 1794591010,
+     "comments": 49
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T20:02:32.228540+00:00",
+   "fetched_at": "2026-11-13T20:32:40.069338+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T20:02:33.754160+00:00",
+   "fetched_at": "2026-11-13T20:32:41.505384+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7265,
+     "stars": 7268,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3834,
+     "stars": 3839,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2861,
+     "stars": 2862,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1427,
+     "stars": 1428,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1401,
+     "stars": 1407,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1329,
+     "stars": 1330,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1230,
+     "stars": 1234,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1084,
+     "stars": 1089,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T20:02:34.256554+00:00",
+   "fetched_at": "2026-11-13T20:32:42.046295+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 136,
+     "reactions": 137,
      "comments": 36,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -267,7 +267,7 @@
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 187,
-     "comments": 107,
+     "comments": 108,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 132,
-     "comments": 94,
+     "comments": 96,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -298,7 +298,7 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 141,
+     "reactions": 144,
      "comments": 45,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T20:02:34.594110+00:00",
+   "fetched_at": "2026-11-13T20:32:42.309068+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "none",
-     "description": "All Systems Operational"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "Cloudflare",
