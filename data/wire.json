@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-13T12:00:09.119567+00:00",
+ "generated_at": "2026-11-13T12:30:14.410472+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T12:00:04.527521+00:00",
+   "fetched_at": "2026-11-13T12:30:11.115726+00:00",
    "stale": false,
    "items": [
     {
      "id": 50481187,
      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-     "score": 228,
+     "score": 262,
      "by": "__vivek",
      "time": 1794565093,
-     "comments": 164
+     "comments": 193
     },
     {
      "id": 50467087,
      "title": "Jensen Huang resigns",
      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-     "score": 3640,
+     "score": 3661,
      "by": "lldb",
      "time": 1794491549,
-     "comments": 3188
+     "comments": 3203
     },
     {
      "id": 50478515,
      "title": "IceWM",
      "url": "https://ice-wm.org/",
-     "score": 214,
+     "score": 229,
      "by": "inatreecrown2",
      "time": 1794545693,
-     "comments": 104
+     "comments": 111
+    },
+    {
+     "id": 50482379,
+     "title": "\"Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "score": 7,
+     "by": "voxleone",
+     "time": 1794571824,
+     "comments": 0
     },
     {
      "id": 50472038,
      "title": "Rust 1.100",
      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-     "score": 720,
+     "score": 733,
      "by": "mbStavola",
      "time": 1794508745,
-     "comments": 263
+     "comments": 269
     },
     {
      "id": 50477649,
      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
      "url": "https://brave.com/blog/search-api-agentic-payments/",
-     "score": 129,
+     "score": 146,
      "by": "sjdh76",
      "time": 1794539288,
-     "comments": 76
-    },
-    {
-     "id": 50482045,
-     "title": "Europe's electric car sales jump 49% as global EV sales grow",
-     "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
-     "score": 23,
-     "by": "cisc",
-     "time": 1794569665,
-     "comments": 7
+     "comments": 81
     },
     {
      "id": 50470488,
      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
      "url": "https://github.com/simpsoka/zigzag",
-     "score": 558,
+     "score": 570,
      "by": "simpsoka",
      "time": 1794502962,
-     "comments": 192
-    },
-    {
-     "id": 50481220,
-     "title": "Claude Is Down",
-     "url": "https://status.claude.com/history",
-     "score": 117,
-     "by": "cornfieldlabs",
-     "time": 1794565209,
-     "comments": 90
+     "comments": 195
     },
     {
      "id": 50472260,
      "title": "Gemini 4 Hydrogen and Orchestrator",
      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "score": 427,
+     "score": 432,
      "by": "jonbaer",
      "time": 1794509521,
-     "comments": 124
+     "comments": 126
     },
     {
      "id": 50472490,
      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-     "score": 326,
+     "score": 330,
      "by": "cybermango",
      "time": 1794510333,
-     "comments": 135
-    },
-    {
-     "id": 50475713,
-     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "score": 273,
-     "by": "sroussey",
-     "time": 1794524777,
-     "comments": 77
+     "comments": 136
     },
     {
      "id": 50473190,
      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "score": 301,
+     "score": 317,
      "by": "jbredeche",
      "time": 1794513093,
-     "comments": 332
+     "comments": 344
+    },
+    {
+     "id": 50475713,
+     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+     "score": 278,
+     "by": "sroussey",
+     "time": 1794524777,
+     "comments": 81
+    },
+    {
+     "id": 50480480,
+     "title": "The Dawn of the Data Intelligence Engineer",
+     "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+     "score": 61,
+     "by": "jonbaer",
+     "time": 1794560898,
+     "comments": 45
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T12:00:06.683526+00:00",
+   "fetched_at": "2026-11-13T12:30:12.600302+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T12:00:07.959485+00:00",
+   "fetched_at": "2026-11-13T12:30:13.181874+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7151,
+     "stars": 7160,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "tangerineturtle1/NX2navi",
      "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3683,
+     "stars": 3690,
      "language": "C",
      "description": null,
      "created_at": "2026-11-07T10:01:23Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2832,
+     "stars": 2835,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1836,
+     "stars": 1840,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1398,
+     "stars": 1400,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1270,
+     "stars": 1274,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1214,
+     "stars": 1226,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1117,
+     "stars": 1128,
      "language": "TypeScript",
      "description": "Private AI meeting notes. Free and open source.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T12:00:08.411684+00:00",
+   "fetched_at": "2026-11-13T12:30:13.779129+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 112,
-     "comments": 14,
+     "reactions": 113,
+     "comments": 15,
      "published_at": "2026-11-12T15:30:50Z"
     },
     {
@@ -290,8 +290,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 109,
-     "comments": 77,
+     "reactions": 111,
+     "comments": 80,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T12:00:08.655507+00:00",
+   "fetched_at": "2026-11-13T12:30:14.034596+00:00",
    "stale": false,
    "items": [
     {
