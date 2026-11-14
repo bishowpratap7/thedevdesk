@@ -1,99 +1,108 @@
 {
- "generated_at": "2026-11-13T23:33:29.137137+00:00",
+ "generated_at": "2026-11-14T00:03:35.403298+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-13T23:33:24.684917+00:00",
+   "fetched_at": "2026-11-14T00:03:30.658241+00:00",
    "stale": false,
    "items": [
     {
      "id": 50489641,
-     "title": "FAA Issues National Ground Stop",
-     "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-     "score": 1011,
+     "title": "FAA issues national ground stop",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+     "score": 1101,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 599
+     "comments": 669
     },
     {
      "id": 50490593,
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "url": "https://orcasairband.com/",
-     "score": 78,
+     "score": 117,
      "by": "mmaunder",
      "time": 1794607464,
-     "comments": 23
+     "comments": 31
     },
     {
      "id": 50488325,
      "title": "FM-1 Workbench",
      "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 153,
+     "score": 169,
      "by": "simonebrunozzi",
      "time": 1794597242,
-     "comments": 91
+     "comments": 94
     },
     {
      "id": 50474959,
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 646,
+     "score": 655,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 191
-    },
-    {
-     "id": 50487185,
-     "title": "After 600 experiments, here's what I discovered about JEPA world models",
-     "url": "https://haddyalchaer.com/jepa",
-     "score": 195,
-     "by": "halcdev",
-     "time": 1794592528,
-     "comments": 32
+     "comments": 192
     },
     {
      "id": 50488470,
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 83,
+     "score": 99,
      "by": "gumby",
      "time": 1794597921,
      "comments": 18
     },
     {
+     "id": 50487185,
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "url": "https://haddyalchaer.com/jepa",
+     "score": 200,
+     "by": "halcdev",
+     "time": 1794592528,
+     "comments": 33
+    },
+    {
      "id": 50488464,
      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "score": 83,
+     "score": 87,
      "by": "gmays",
      "time": 1794597887,
      "comments": 18
     },
     {
-     "id": 50491097,
-     "title": "Claude Meetings",
-     "url": "https://claude.com/resources/articles/claude-meetings",
-     "score": 53,
-     "by": "hmokiguess",
-     "time": 1794609555,
-     "comments": 36
-    },
-    {
      "id": 50482379,
      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-     "score": 427,
+     "score": 432,
      "by": "voxleone",
      "time": 1794571824,
-     "comments": 298
+     "comments": 301
     },
     {
      "id": 50488835,
      "title": "Live-migration support in FreeBSD and bhyve coming",
      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-     "score": 48,
+     "score": 56,
      "by": "JohnDohnBohn",
      "time": 1794599922,
-     "comments": 7
+     "comments": 10
+    },
+    {
+     "id": 50487605,
+     "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+     "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+     "score": 60,
+     "by": "dethmasque",
+     "time": 1794594229,
+     "comments": 24
+    },
+    {
+     "id": 50487228,
+     "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+     "url": "https://isometricsf.com/",
+     "score": 136,
+     "by": "juscha1",
+     "time": 1794592717,
+     "comments": 49
     },
     {
      "id": 50489589,
@@ -103,20 +112,11 @@
      "by": "dkobran",
      "time": 1794603671,
      "comments": 0
-    },
-    {
-     "id": 50489083,
-     "title": "Big tech is here to let us down",
-     "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-     "score": 179,
-     "by": "speckx",
-     "time": 1794601230,
-     "comments": 160
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-13T23:33:26.282740+00:00",
+   "fetched_at": "2026-11-14T00:03:32.470115+00:00",
    "stale": false,
    "items": [
     {
@@ -157,29 +157,21 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-13T23:33:27.757980+00:00",
+   "fetched_at": "2026-11-14T00:03:33.964213+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7294,
+     "stars": 7303,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
     },
     {
-     "full_name": "tangerineturtle1/NX2navi",
-     "url": "https://github.com/tangerineturtle1/NX2navi",
-     "stars": 3875,
-     "language": "C",
-     "description": null,
-     "created_at": "2026-11-07T10:01:23Z"
-    },
-    {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2864,
+     "stars": 2866,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1909,
+     "stars": 1911,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -195,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1455,
+     "stars": 1468,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -211,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1338,
+     "stars": 1339,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,9 +211,9 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1255,
+     "stars": 1259,
      "language": "TypeScript",
-     "description": "Private AI meeting notes. Free and open source.",
+     "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
     },
     {
@@ -233,17 +225,25 @@
      "created_at": "2026-11-09T23:53:25Z"
     },
     {
-     "full_name": "Th0rgal/satmux",
-     "url": "https://github.com/Th0rgal/satmux",
-     "stars": 1073,
-     "language": "Python",
-     "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-     "created_at": "2026-11-07T16:09:41Z"
+     "full_name": "kolbicz/WQFiles",
+     "url": "https://github.com/kolbicz/WQFiles",
+     "stars": 801,
+     "language": "Objective-C",
+     "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+     "created_at": "2026-11-09T13:43:40Z"
+    },
+    {
+     "full_name": "serveroshq/panel",
+     "url": "https://github.com/serveroshq/panel",
+     "stars": 747,
+     "language": "PHP",
+     "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+     "created_at": "2026-11-09T00:47:33Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-13T23:33:28.281782+00:00",
+   "fetched_at": "2026-11-14T00:03:34.429816+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 137,
+     "reactions": 138,
      "comments": 37,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -267,8 +267,16 @@
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 189,
-     "comments": 108,
+     "comments": 109,
      "published_at": "2026-11-09T15:11:22Z"
+    },
+    {
+     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+     "author": "Sylwia Laskowska",
+     "reactions": 138,
+     "comments": 106,
+     "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "How did you end up in tech, and are you staying?",
@@ -277,14 +285,6 @@
      "reactions": 148,
      "comments": 61,
      "published_at": "2026-11-09T23:02:37Z"
-    },
-    {
-     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
-     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
-     "author": "Sylwia Laskowska",
-     "reactions": 136,
-     "comments": 103,
-     "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-13T23:33:28.478700+00:00",
+   "fetched_at": "2026-11-14T00:03:34.667530+00:00",
    "stale": false,
    "items": [
     {
