@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T12:36:55.091228+00:00",
+ "generated_at": "2026-11-14T13:07:02.033178+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T12:36:51.467577+00:00",
+   "fetched_at": "2026-11-14T13:06:58.163322+00:00",
    "stale": false,
    "items": [
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 140,
+     "score": 162,
      "by": "casi",
      "time": 1794320165,
-     "comments": 90
+     "comments": 110
     },
     {
      "id": 50493062,
      "title": "Ggml v1.0.0",
      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 301,
+     "score": 307,
      "by": "cobychapple",
      "time": 1794623309,
-     "comments": 47
+     "comments": 48
     },
     {
      "id": 50493904,
      "title": "Monkey Island: all 13 versions side by side",
      "url": "https://monkeyisland.pages.dev/",
-     "score": 206,
+     "score": 228,
      "by": "maximilianburke",
      "time": 1794630210,
-     "comments": 62
+     "comments": 72
     },
     {
      "id": 50493251,
      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-     "score": 697,
+     "score": 729,
      "by": "speckx",
      "time": 1794624779,
-     "comments": 403
+     "comments": 421
     },
     {
      "id": 50491980,
      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
      "url": "https://unsloth.ai/docs/models/qwen3.8",
-     "score": 171,
+     "score": 179,
      "by": "Retro_Dev",
      "time": 1794614764,
-     "comments": 50
+     "comments": 51
     },
     {
      "id": 50491423,
      "title": "Terminal borders that don't cost a cell",
      "url": "https://www.joshka.net/cell-borders/",
-     "score": 305,
+     "score": 313,
      "by": "vinhnx",
      "time": 1794611200,
-     "comments": 134
+     "comments": 137
     },
     {
      "id": 50489641,
      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1569,
+     "score": 1573,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 1195
+     "comments": 1200
+    },
+    {
+     "id": 50478632,
+     "title": "Let's Write a PostScript Interpreter",
+     "url": "https://beyondloom.com/blog/postscript.html",
+     "score": 15,
+     "by": "RebelPotato",
+     "time": 1794546776,
+     "comments": 4
     },
     {
      "id": 50491830,
      "title": "What happened to 3Com?",
      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "score": 162,
+     "score": 166,
      "by": "gvieri",
      "time": 1794613739,
-     "comments": 84
-    },
-    {
-     "id": 50491545,
-     "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-     "url": "https://grounds.top/",
-     "score": 160,
-     "by": "gvsi",
-     "time": 1794611859,
-     "comments": 22
+     "comments": 89
     },
     {
      "id": 50484658,
      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-     "score": 330,
+     "score": 344,
      "by": "helloplanets",
      "time": 1794582524,
-     "comments": 446
+     "comments": 464
+    },
+    {
+     "id": 50491545,
+     "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+     "url": "https://grounds.top/",
+     "score": 166,
+     "by": "gvsi",
+     "time": 1794611859,
+     "comments": 23
     },
     {
      "id": 50488470,
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 211,
+     "score": 212,
      "by": "gumby",
      "time": 1794597921,
-     "comments": 45
-    },
-    {
-     "id": 50488325,
-     "title": "FM-1 Workbench",
-     "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 241,
-     "by": "simonebrunozzi",
-     "time": 1794597242,
-     "comments": 159
+     "comments": 48
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T12:36:52.961421+00:00",
+   "fetched_at": "2026-11-14T13:06:59.911535+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T12:36:53.944313+00:00",
+   "fetched_at": "2026-11-14T13:07:00.862835+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7482,
+     "stars": 7487,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2920,
+     "stars": 2922,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2005,
+     "stars": 2010,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1653,
+     "stars": 1667,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1477,
+     "stars": 1478,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1428,
+     "stars": 1454,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1366,
+     "stars": 1368,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1359,
+     "stars": 1362,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1139,
+     "stars": 1141,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T12:36:54.269354+00:00",
+   "fetched_at": "2026-11-14T13:07:01.288516+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T12:36:54.442002+00:00",
+   "fetched_at": "2026-11-14T13:07:01.323815+00:00",
    "stale": false,
    "items": [
     {
