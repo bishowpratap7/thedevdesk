@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T21:08:52.173496+00:00",
+ "generated_at": "2026-11-14T21:38:57.654738+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T21:08:49.798986+00:00",
+   "fetched_at": "2026-11-14T21:38:53.730593+00:00",
    "stale": false,
    "items": [
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 413,
+     "score": 462,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 137
+     "comments": 160
     },
     {
-     "id": 50497892,
-     "title": "PyPI's redesigned project pages with clearer security signals are now live",
-     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 161,
-     "by": "rbanffy",
-     "time": 1794670852,
-     "comments": 65
+     "id": 50500963,
+     "title": "SpaceX Catches the Starship to end Flight 15",
+     "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+     "score": 118,
+     "by": "ls612",
+     "time": 1794691344,
+     "comments": 47
     },
     {
      "id": 50499038,
      "title": "A Family Tree of Software Job Titles",
      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 96,
+     "score": 114,
      "by": "umerf",
      "time": 1794678319,
-     "comments": 39
+     "comments": 52
+    },
+    {
+     "id": 50497892,
+     "title": "PyPI's redesigned project pages with clearer security signals are now live",
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+     "score": 171,
+     "by": "rbanffy",
+     "time": 1794670852,
+     "comments": 74
     },
     {
      "id": 50496976,
      "title": "KDE: The documentary [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 300,
+     "score": 314,
      "by": "mrkn1",
      "time": 1794663808,
-     "comments": 63
-    },
-    {
-     "id": 50440709,
-     "title": "Why get an expensive Pi when I have an old phone?",
-     "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 455,
-     "by": "casi",
-     "time": 1794320165,
-     "comments": 263
+     "comments": 67
     },
     {
      "id": 50453901,
      "title": "Seagate's new hybrid drive raises some old questions",
      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-     "score": 36,
+     "score": 49,
      "by": "PaulHoule",
      "time": 1794407529,
-     "comments": 13
+     "comments": 19
     },
     {
      "id": 50471874,
      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-     "score": 23,
+     "score": 35,
      "by": "NaOH",
      "time": 1794508086,
-     "comments": 4
+     "comments": 11
+    },
+    {
+     "id": 50440709,
+     "title": "Why get an expensive Pi when I have an old phone?",
+     "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+     "score": 464,
+     "by": "casi",
+     "time": 1794320165,
+     "comments": 264
     },
     {
      "id": 50496811,
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "score": 127,
+     "score": 133,
      "by": "acossta",
      "time": 1794662443,
-     "comments": 31
+     "comments": 33
     },
     {
      "id": 50499723,
      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-     "score": 93,
+     "score": 113,
      "by": "gnabgib",
      "time": 1794682607,
-     "comments": 31
+     "comments": 44
     },
     {
      "id": 50497589,
      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "score": 101,
+     "score": 107,
      "by": "VaibhaavTiwari",
      "time": 1794668655,
-     "comments": 6
-    },
-    {
-     "id": 50498945,
-     "title": "Will we put data centers in space?",
-     "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-     "score": 27,
-     "by": "simonebrunozzi",
-     "time": 1794677733,
-     "comments": 62
+     "comments": 7
     },
     {
      "id": 50416011,
      "title": "Reverse engineering a vintage diode-transistor logic chip",
      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-     "score": 61,
+     "score": 70,
      "by": "dverlaeckt80",
      "time": 1794164628,
-     "comments": 2
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T21:08:50.773478+00:00",
+   "fetched_at": "2026-11-14T21:38:57.108818+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T21:08:51.700355+00:00",
+   "fetched_at": "2026-11-14T21:38:57.260056+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7547,
+     "stars": 7549,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2981,
+     "stars": 2982,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1792,
+     "stars": 1801,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1706,
+     "stars": 1712,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1453,
+     "stars": 1457,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1391,
+     "stars": 1392,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T21:08:52.053153+00:00",
+   "fetched_at": "2026-11-14T21:38:57.570804+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 157,
+     "reactions": 158,
      "comments": 133,
      "published_at": "2026-11-12T08:14:36Z"
     },
@@ -282,8 +282,8 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 160,
-     "comments": 63,
+     "reactions": 161,
+     "comments": 64,
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T21:08:52.066320+00:00",
+   "fetched_at": "2026-11-14T21:38:57.584738+00:00",
    "stale": false,
    "items": [
     {
