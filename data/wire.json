@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T15:37:29.830648+00:00",
+ "generated_at": "2026-11-14T15:37:49.228548+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T15:37:26.111651+00:00",
+   "fetched_at": "2026-11-14T15:37:46.459488+00:00",
    "stale": false,
    "items": [
     {
@@ -12,7 +12,7 @@
      "score": 297,
      "by": "casi",
      "time": 1794320165,
-     "comments": 174
+     "comments": 175
     },
     {
      "id": 50497132,
@@ -36,16 +36,16 @@
      "id": 50441444,
      "title": "Generative AI uses more energy on non-English text",
      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-     "score": 57,
+     "score": 58,
      "by": "DeepLogin",
      "time": 1794323248,
-     "comments": 39
+     "comments": 40
     },
     {
      "id": 50496811,
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "score": 28,
+     "score": 29,
      "by": "acossta",
      "time": 1794662443,
      "comments": 10
@@ -66,7 +66,7 @@
      "score": 149,
      "by": "gslin",
      "time": 1794660345,
-     "comments": 33
+     "comments": 34
     },
     {
      "id": 50493062,
@@ -111,12 +111,12 @@
      "score": 306,
      "by": "maximilianburke",
      "time": 1794630210,
-     "comments": 92
+     "comments": 93
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T15:37:27.639297+00:00",
+   "fetched_at": "2026-11-14T15:37:47.711202+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T15:37:28.580976+00:00",
+   "fetched_at": "2026-11-14T15:37:48.667552+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T15:37:28.969842+00:00",
+   "fetched_at": "2026-11-14T15:37:49.144432+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T15:37:29.026015+00:00",
+   "fetched_at": "2026-11-14T15:37:49.155649+00:00",
    "stale": false,
    "items": [
     {
