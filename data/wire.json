@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T14:07:13.592985+00:00",
+ "generated_at": "2026-11-14T14:37:19.142429+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T14:07:09.970168+00:00",
+   "fetched_at": "2026-11-14T14:37:15.542640+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50496921,
+     "title": "The Claude Delusion",
+     "url": "https://www.netmeister.org/blog/claude-delusion.html",
+     "score": 48,
+     "by": "janvdberg",
+     "time": 1794663377,
+     "comments": 20
+    },
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 217,
+     "score": 240,
      "by": "casi",
      "time": 1794320165,
-     "comments": 143
+     "comments": 156
     },
     {
      "id": 50441444,
      "title": "Generative AI uses more energy on non-English text",
      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-     "score": 22,
+     "score": 34,
      "by": "DeepLogin",
      "time": 1794323248,
-     "comments": 11
+     "comments": 17
     },
     {
      "id": 50493062,
      "title": "Ggml v1.0.0",
      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 322,
+     "score": 332,
      "by": "cobychapple",
      "time": 1794623309,
-     "comments": 50
-    },
-    {
-     "id": 50493904,
-     "title": "Monkey Island: all 13 versions side by side",
-     "url": "https://monkeyisland.pages.dev/",
-     "score": 265,
-     "by": "maximilianburke",
-     "time": 1794630210,
-     "comments": 83
+     "comments": 52
     },
     {
      "id": 50496602,
      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-     "score": 58,
+     "score": 91,
      "by": "gslin",
      "time": 1794660345,
-     "comments": 7
+     "comments": 15
     },
     {
-     "id": 50493251,
-     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-     "score": 790,
-     "by": "speckx",
-     "time": 1794624779,
-     "comments": 465
+     "id": 50493904,
+     "title": "Monkey Island: all 13 versions side by side",
+     "url": "https://monkeyisland.pages.dev/",
+     "score": 279,
+     "by": "maximilianburke",
+     "time": 1794630210,
+     "comments": 83
     },
     {
-     "id": 50491423,
-     "title": "Terminal borders that don't cost a cell",
-     "url": "https://www.joshka.net/cell-borders/",
-     "score": 328,
-     "by": "vinhnx",
-     "time": 1794611200,
-     "comments": 143
+     "id": 50496811,
+     "title": "Advancing science and engineering with Antigravity's /teamwork",
+     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "score": 10,
+     "by": "acossta",
+     "time": 1794662443,
+     "comments": 0
     },
     {
-     "id": 50491980,
-     "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-     "url": "https://unsloth.ai/docs/models/qwen3.8",
-     "score": 195,
-     "by": "Retro_Dev",
-     "time": 1794614764,
-     "comments": 55
+     "id": 50497147,
+     "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
+     "url": "https://github.com/paul-nameless/agweb",
+     "score": 4,
+     "by": "paul_nameless",
+     "time": 1794665292,
+     "comments": 0
     },
     {
-     "id": 50478632,
-     "title": "Let's Write a PostScript Interpreter",
-     "url": "https://beyondloom.com/blog/postscript.html",
-     "score": 25,
-     "by": "RebelPotato",
-     "time": 1794546776,
-     "comments": 6
+     "id": 50497141,
+     "title": "Show HN: Lampka \u2013 a Windows PDF reader whose dark mode keeps figures in colour",
+     "url": "https://lampka.app/",
+     "score": 4,
+     "by": "NightPageReader",
+     "time": 1794665216,
+     "comments": 0
     },
     {
-     "id": 50489641,
-     "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
-     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1587,
-     "by": "zulln",
-     "time": 1794603953,
-     "comments": 1205
+     "id": 50497137,
+     "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+     "url": "https://github.com/FURSOY/fursoy-cpu",
+     "score": 3,
+     "by": "fursoy",
+     "time": 1794665194,
+     "comments": 0
     },
     {
-     "id": 50466069,
-     "title": "The curious case of the north-east arrow",
-     "url": "https://arsh.zip/posts/north-east-arrow/",
-     "score": 18,
-     "by": "arshxyz",
-     "time": 1794485660,
-     "comments": 8
+     "id": 50497132,
+     "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+     "url": "https://gitlab.com/snipedbywifi/terminactory",
+     "score": 3,
+     "by": "snipedbywifi",
+     "time": 1794665154,
+     "comments": 0
     },
     {
-     "id": 50484658,
-     "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
-     "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-     "score": 367,
-     "by": "helloplanets",
-     "time": 1794582524,
-     "comments": 502
+     "id": 50497155,
+     "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+     "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+     "score": 17,
+     "by": "wondersky",
+     "time": 1794665365,
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T14:07:11.489119+00:00",
+   "fetched_at": "2026-11-14T14:37:17.210277+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T14:07:12.472115+00:00",
+   "fetched_at": "2026-11-14T14:37:18.084059+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7500,
+     "stars": 7508,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2931,
+     "stars": 2934,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2016,
+     "stars": 2020,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1688,
+     "stars": 1695,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1498,
+     "stars": 1518,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -203,31 +203,31 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1481,
+     "stars": 1482,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
     },
     {
-     "full_name": "agentes-chat/agentes-chat",
-     "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1372,
-     "language": "TypeScript",
-     "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-     "created_at": "2026-11-09T00:50:28Z"
-    },
-    {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1372,
+     "stars": 1382,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
     },
     {
+     "full_name": "agentes-chat/agentes-chat",
+     "url": "https://github.com/agentes-chat/agentes-chat",
+     "stars": 1373,
+     "language": "TypeScript",
+     "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+     "created_at": "2026-11-09T00:50:28Z"
+    },
+    {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1143,
+     "stars": 1144,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T14:07:12.829321+00:00",
+   "fetched_at": "2026-11-14T14:37:18.405294+00:00",
    "stale": false,
    "items": [
     {
@@ -266,15 +266,15 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 152,
-     "comments": 125,
+     "reactions": 153,
+     "comments": 126,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 200,
+     "reactions": 201,
      "comments": 111,
      "published_at": "2026-11-09T15:11:22Z"
     },
@@ -282,7 +282,7 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 153,
+     "reactions": 159,
      "comments": 62,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -306,14 +306,14 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 77,
+     "reactions": 78,
      "comments": 4,
      "published_at": "2026-11-13T18:28:11Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T14:07:12.886703+00:00",
+   "fetched_at": "2026-11-14T14:37:18.564743+00:00",
    "stale": false,
    "items": [
     {
