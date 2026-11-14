@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-14T12:06:48.531614+00:00",
+ "generated_at": "2026-11-14T12:36:55.091228+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T12:06:44.756930+00:00",
+   "fetched_at": "2026-11-14T12:36:51.467577+00:00",
    "stale": false,
    "items": [
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 119,
+     "score": 140,
      "by": "casi",
      "time": 1794320165,
-     "comments": 72
+     "comments": 90
     },
     {
      "id": 50493062,
      "title": "Ggml v1.0.0",
      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 293,
+     "score": 301,
      "by": "cobychapple",
      "time": 1794623309,
-     "comments": 46
+     "comments": 47
     },
     {
      "id": 50493904,
      "title": "Monkey Island: all 13 versions side by side",
      "url": "https://monkeyisland.pages.dev/",
-     "score": 189,
+     "score": 206,
      "by": "maximilianburke",
      "time": 1794630210,
-     "comments": 58
+     "comments": 62
     },
     {
      "id": 50493251,
      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-     "score": 661,
+     "score": 697,
      "by": "speckx",
      "time": 1794624779,
-     "comments": 385
+     "comments": 403
     },
     {
      "id": 50491980,
      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
      "url": "https://unsloth.ai/docs/models/qwen3.8",
-     "score": 161,
+     "score": 171,
      "by": "Retro_Dev",
      "time": 1794614764,
      "comments": 50
@@ -54,55 +54,55 @@
      "id": 50491423,
      "title": "Terminal borders that don't cost a cell",
      "url": "https://www.joshka.net/cell-borders/",
-     "score": 293,
+     "score": 305,
      "by": "vinhnx",
      "time": 1794611200,
-     "comments": 131
+     "comments": 134
     },
     {
      "id": 50489641,
      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1564,
+     "score": 1569,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 1186
+     "comments": 1195
     },
     {
      "id": 50491830,
      "title": "What happened to 3Com?",
      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "score": 157,
+     "score": 162,
      "by": "gvieri",
      "time": 1794613739,
-     "comments": 81
+     "comments": 84
     },
     {
      "id": 50491545,
      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
      "url": "https://grounds.top/",
-     "score": 158,
+     "score": 160,
      "by": "gvsi",
      "time": 1794611859,
-     "comments": 21
+     "comments": 22
     },
     {
      "id": 50484658,
      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-     "score": 321,
+     "score": 330,
      "by": "helloplanets",
      "time": 1794582524,
-     "comments": 422
+     "comments": 446
     },
     {
      "id": 50488470,
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 209,
+     "score": 211,
      "by": "gumby",
      "time": 1794597921,
-     "comments": 43
+     "comments": 45
     },
     {
      "id": 50488325,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T12:06:46.291698+00:00",
+   "fetched_at": "2026-11-14T12:36:52.961421+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T12:06:47.305037+00:00",
+   "fetched_at": "2026-11-14T12:36:53.944313+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7477,
+     "stars": 7482,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2002,
+     "stars": 2005,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1636,
+     "stars": 1653,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1406,
+     "stars": 1428,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1365,
+     "stars": 1366,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1356,
+     "stars": 1359,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1040,
+     "stars": 1042,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T12:06:47.683829+00:00",
+   "fetched_at": "2026-11-14T12:36:54.269354+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 141,
+     "reactions": 142,
      "comments": 39,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -275,14 +275,14 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 151,
-     "comments": 121,
+     "comments": 124,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 152,
+     "reactions": 153,
      "comments": 62,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T12:06:47.852008+00:00",
+   "fetched_at": "2026-11-14T12:36:54.442002+00:00",
    "stale": false,
    "items": [
     {
