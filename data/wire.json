@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T22:39:07.748752+00:00",
+ "generated_at": "2026-11-14T23:09:11.468688+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T22:39:05.530879+00:00",
+   "fetched_at": "2026-11-14T23:09:09.493515+00:00",
    "stale": false,
    "items": [
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 526,
+     "score": 551,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 190
+     "comments": 213
     },
     {
      "id": 50500963,
      "title": "SpaceX Catches the Starship to end Flight 15",
      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-     "score": 341,
+     "score": 419,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 185
+     "comments": 245
     },
     {
      "id": 50499038,
      "title": "A Family Tree of Software Job Titles",
      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 147,
+     "score": 164,
      "by": "umerf",
      "time": 1794678319,
-     "comments": 65
+     "comments": 77
     },
     {
      "id": 50496976,
      "title": "KDE: The documentary [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 333,
+     "score": 344,
      "by": "mrkn1",
      "time": 1794663808,
-     "comments": 73
+     "comments": 74
     },
     {
      "id": 50497892,
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 178,
+     "score": 185,
      "by": "rbanffy",
      "time": 1794670852,
-     "comments": 82
+     "comments": 83
+    },
+    {
+     "id": 50501594,
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "url": "https://retrocomputing.stackexchange.com/questions/17957",
+     "score": 6,
+     "by": "Skyfall106",
+     "time": 1794694969,
+     "comments": 0
     },
     {
      "id": 50471874,
      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-     "score": 52,
+     "score": 65,
      "by": "NaOH",
      "time": 1794508086,
-     "comments": 28
-    },
-    {
-     "id": 50453901,
-     "title": "Seagate's new hybrid drive raises some old questions",
-     "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-     "score": 54,
-     "by": "PaulHoule",
-     "time": 1794407529,
-     "comments": 27
+     "comments": 34
     },
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 474,
+     "score": 478,
      "by": "casi",
      "time": 1794320165,
-     "comments": 269
+     "comments": 272
+    },
+    {
+     "id": 50453901,
+     "title": "Seagate's new hybrid drive raises some old questions",
+     "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+     "score": 57,
+     "by": "PaulHoule",
+     "time": 1794407529,
+     "comments": 31
+    },
+    {
+     "id": 50464467,
+     "title": "Possible Futures",
+     "url": "https://borretti.me/article/possible-futures",
+     "score": 29,
+     "by": "varjag",
+     "time": 1794471711,
+     "comments": 21
     },
     {
      "id": 50496811,
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "score": 140,
+     "score": 147,
      "by": "acossta",
      "time": 1794662443,
-     "comments": 33
+     "comments": 34
     },
     {
      "id": 50497589,
      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "score": 124,
+     "score": 134,
      "by": "VaibhaavTiwari",
      "time": 1794668655,
      "comments": 7
-    },
-    {
-     "id": 50416011,
-     "title": "Reverse engineering a vintage diode-transistor logic chip",
-     "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-     "score": 78,
-     "by": "dverlaeckt80",
-     "time": 1794164628,
-     "comments": 4
-    },
-    {
-     "id": 50499723,
-     "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-     "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-     "score": 137,
-     "by": "gnabgib",
-     "time": 1794682607,
-     "comments": 61
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T22:39:06.408243+00:00",
+   "fetched_at": "2026-11-14T23:09:10.879633+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T22:39:07.252297+00:00",
+   "fetched_at": "2026-11-14T23:09:11.037429+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7554,
+     "stars": 7555,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1817,
+     "stars": 1824,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1717,
+     "stars": 1723,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1471,
+     "stars": 1477,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1397,
+     "stars": 1398,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1177,
+     "stars": 1180,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T22:39:07.599162+00:00",
+   "fetched_at": "2026-11-14T23:09:11.317022+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T22:39:07.642590+00:00",
+   "fetched_at": "2026-11-14T23:09:11.375412+00:00",
    "stale": false,
    "items": [
     {
