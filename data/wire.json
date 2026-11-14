@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T03:34:34.123649+00:00",
+ "generated_at": "2026-11-14T04:04:40.436621+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T03:34:29.354630+00:00",
+   "fetched_at": "2026-11-14T04:04:36.456605+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50492860,
-     "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
-     "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-     "score": 44,
-     "by": "gmays",
-     "time": 1794621762,
-     "comments": 6
-    },
     {
      "id": 50493062,
      "title": "Ggml v1.0.0",
      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 24,
+     "score": 54,
      "by": "cobychapple",
      "time": 1794623309,
-     "comments": 1
+     "comments": 2
     },
     {
-     "id": 50492601,
-     "title": "FAA lifted National Ground Stop at 0119Z",
-     "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-     "score": 190,
-     "by": "d3nit",
-     "time": 1794619801,
-     "comments": 186
+     "id": 50489641,
+     "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+     "score": 1398,
+     "by": "zulln",
+     "time": 1794603953,
+     "comments": 1067
     },
     {
      "id": 50491423,
      "title": "Terminal borders that don't cost a cell",
      "url": "https://www.joshka.net/cell-borders/",
-     "score": 113,
+     "score": 130,
      "by": "vinhnx",
      "time": 1794611200,
-     "comments": 59
-    },
-    {
-     "id": 50489641,
-     "title": "FAA issues national ground stop",
-     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1382,
-     "by": "zulln",
-     "time": 1794603953,
-     "comments": 856
+     "comments": 62
     },
     {
      "id": 50491830,
      "title": "What Happened to 3Com?",
      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "score": 70,
+     "score": 76,
      "by": "gvieri",
      "time": 1794613739,
-     "comments": 36
+     "comments": 43
     },
     {
      "id": 50490593,
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "url": "https://orcasairband.com/",
-     "score": 226,
+     "score": 230,
      "by": "mmaunder",
      "time": 1794607464,
-     "comments": 52
+     "comments": 54
+    },
+    {
+     "id": 50493251,
+     "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+     "score": 59,
+     "by": "speckx",
+     "time": 1794624779,
+     "comments": 21
     },
     {
      "id": 50474959,
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 694,
+     "score": 699,
      "by": "scottjg",
      "time": 1794520989,
-     "comments": 201
-    },
-    {
-     "id": 50492315,
-     "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-     "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-     "score": 132,
-     "by": "snow_mac",
-     "time": 1794617549,
-     "comments": 42
-    },
-    {
-     "id": 50492456,
-     "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-     "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-     "score": 194,
-     "by": "kaycebasques",
-     "time": 1794618622,
-     "comments": 79
+     "comments": 202
     },
     {
      "id": 50491545,
      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
      "url": "https://grounds.top/",
-     "score": 57,
+     "score": 65,
      "by": "gvsi",
      "time": 1794611859,
      "comments": 10
     },
     {
+     "id": 50492860,
+     "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+     "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+     "score": 66,
+     "by": "gmays",
+     "time": 1794621762,
+     "comments": 13
+    },
+    {
+     "id": 50492315,
+     "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+     "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+     "score": 134,
+     "by": "snow_mac",
+     "time": 1794617549,
+     "comments": 43
+    },
+    {
      "id": 50488470,
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 143,
+     "score": 146,
      "by": "gumby",
      "time": 1794597921,
      "comments": 23
+    },
+    {
+     "id": 50482379,
+     "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+     "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+     "score": 465,
+     "by": "voxleone",
+     "time": 1794571824,
+     "comments": 320
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T03:34:31.432819+00:00",
+   "fetched_at": "2026-11-14T04:04:37.903765+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T03:34:32.906493+00:00",
+   "fetched_at": "2026-11-14T04:04:39.280672+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7362,
+     "stars": 7371,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2883,
+     "stars": 2885,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1945,
+     "stars": 1951,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1517,
+     "stars": 1523,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1448,
+     "stars": 1451,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1350,
+     "stars": 1353,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1301,
+     "stars": 1310,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 937,
+     "stars": 975,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T03:34:33.361655+00:00",
+   "fetched_at": "2026-11-14T04:04:39.712748+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 119,
+     "reactions": 120,
      "comments": 18,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -274,15 +274,15 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 141,
-     "comments": 112,
+     "reactions": 142,
+     "comments": 113,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 149,
+     "reactions": 150,
      "comments": 61,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -298,7 +298,7 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 144,
+     "reactions": 145,
      "comments": 45,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T03:34:33.489480+00:00",
+   "fetched_at": "2026-11-14T04:04:39.877055+00:00",
    "stale": false,
    "items": [
     {
