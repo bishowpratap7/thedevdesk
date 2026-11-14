@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T20:38:33.833616+00:00",
+ "generated_at": "2026-11-14T20:38:48.326524+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T20:38:32.166414+00:00",
+   "fetched_at": "2026-11-14T20:38:46.417846+00:00",
    "stale": false,
    "items": [
     {
@@ -12,13 +12,13 @@
      "score": 359,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 120
+     "comments": 121
     },
     {
      "id": 50497892,
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 153,
+     "score": 154,
      "by": "rbanffy",
      "time": 1794670852,
      "comments": 57
@@ -45,10 +45,10 @@
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 443,
+     "score": 444,
      "by": "casi",
      "time": 1794320165,
-     "comments": 261
+     "comments": 262
     },
     {
      "id": 50453901,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T20:38:33.192208+00:00",
+   "fetched_at": "2026-11-14T20:38:47.571439+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T20:38:33.364271+00:00",
+   "fetched_at": "2026-11-14T20:38:47.822068+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T20:38:33.707897+00:00",
+   "fetched_at": "2026-11-14T20:38:48.183585+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T20:38:33.749208+00:00",
+   "fetched_at": "2026-11-14T20:38:48.198734+00:00",
    "stale": false,
    "items": [
     {
