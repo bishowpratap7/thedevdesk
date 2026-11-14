@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T13:37:07.247369+00:00",
+ "generated_at": "2026-11-14T14:07:13.592985+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T13:37:03.739325+00:00",
+   "fetched_at": "2026-11-14T14:07:09.970168+00:00",
    "stale": false,
    "items": [
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 190,
+     "score": 217,
      "by": "casi",
      "time": 1794320165,
-     "comments": 130
-    },
-    {
-     "id": 50493062,
-     "title": "Ggml v1.0.0",
-     "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 313,
-     "by": "cobychapple",
-     "time": 1794623309,
-     "comments": 51
-    },
-    {
-     "id": 50493904,
-     "title": "Monkey Island: all 13 versions side by side",
-     "url": "https://monkeyisland.pages.dev/",
-     "score": 247,
-     "by": "maximilianburke",
-     "time": 1794630210,
-     "comments": 80
+     "comments": 143
     },
     {
      "id": 50441444,
      "title": "Generative AI uses more energy on non-English text",
      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-     "score": 6,
+     "score": 22,
      "by": "DeepLogin",
      "time": 1794323248,
-     "comments": 0
+     "comments": 11
     },
     {
-     "id": 50493251,
-     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-     "score": 760,
-     "by": "speckx",
-     "time": 1794624779,
-     "comments": 448
-    },
-    {
-     "id": 50491980,
-     "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-     "url": "https://unsloth.ai/docs/models/qwen3.8",
-     "score": 190,
-     "by": "Retro_Dev",
-     "time": 1794614764,
-     "comments": 52
-    },
-    {
-     "id": 50491423,
-     "title": "Terminal borders that don't cost a cell",
-     "url": "https://www.joshka.net/cell-borders/",
+     "id": 50493062,
+     "title": "Ggml v1.0.0",
+     "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
      "score": 322,
-     "by": "vinhnx",
-     "time": 1794611200,
-     "comments": 141
+     "by": "cobychapple",
+     "time": 1794623309,
+     "comments": 50
     },
     {
-     "id": 50478632,
-     "title": "Let's Write a PostScript Interpreter",
-     "url": "https://beyondloom.com/blog/postscript.html",
-     "score": 19,
-     "by": "RebelPotato",
-     "time": 1794546776,
-     "comments": 5
-    },
-    {
-     "id": 50489641,
-     "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
-     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1578,
-     "by": "zulln",
-     "time": 1794603953,
-     "comments": 1203
+     "id": 50493904,
+     "title": "Monkey Island: all 13 versions side by side",
+     "url": "https://monkeyisland.pages.dev/",
+     "score": 265,
+     "by": "maximilianburke",
+     "time": 1794630210,
+     "comments": 83
     },
     {
      "id": 50496602,
      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-     "score": 16,
+     "score": 58,
      "by": "gslin",
      "time": 1794660345,
-     "comments": 0
+     "comments": 7
     },
     {
-     "id": 50491830,
-     "title": "What happened to 3Com?",
-     "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "score": 169,
-     "by": "gvieri",
-     "time": 1794613739,
-     "comments": 90
+     "id": 50493251,
+     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+     "score": 790,
+     "by": "speckx",
+     "time": 1794624779,
+     "comments": 465
+    },
+    {
+     "id": 50491423,
+     "title": "Terminal borders that don't cost a cell",
+     "url": "https://www.joshka.net/cell-borders/",
+     "score": 328,
+     "by": "vinhnx",
+     "time": 1794611200,
+     "comments": 143
+    },
+    {
+     "id": 50491980,
+     "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+     "url": "https://unsloth.ai/docs/models/qwen3.8",
+     "score": 195,
+     "by": "Retro_Dev",
+     "time": 1794614764,
+     "comments": 55
+    },
+    {
+     "id": 50478632,
+     "title": "Let's Write a PostScript Interpreter",
+     "url": "https://beyondloom.com/blog/postscript.html",
+     "score": 25,
+     "by": "RebelPotato",
+     "time": 1794546776,
+     "comments": 6
+    },
+    {
+     "id": 50489641,
+     "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+     "score": 1587,
+     "by": "zulln",
+     "time": 1794603953,
+     "comments": 1205
+    },
+    {
+     "id": 50466069,
+     "title": "The curious case of the north-east arrow",
+     "url": "https://arsh.zip/posts/north-east-arrow/",
+     "score": 18,
+     "by": "arshxyz",
+     "time": 1794485660,
+     "comments": 8
     },
     {
      "id": 50484658,
      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-     "score": 359,
+     "score": 367,
      "by": "helloplanets",
      "time": 1794582524,
-     "comments": 483
+     "comments": 502
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T13:37:05.310996+00:00",
+   "fetched_at": "2026-11-14T14:07:11.489119+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T13:37:06.113069+00:00",
+   "fetched_at": "2026-11-14T14:07:12.472115+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7491,
+     "stars": 7500,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2927,
+     "stars": 2931,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2015,
+     "stars": 2016,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1681,
+     "stars": 1688,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1479,
+     "stars": 1498,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1478,
+     "stars": 1481,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1370,
+     "stars": 1372,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1367,
+     "stars": 1372,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1141,
+     "stars": 1143,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1043,
+     "stars": 1044,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T13:37:06.471472+00:00",
+   "fetched_at": "2026-11-14T14:07:12.829321+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T13:37:06.578843+00:00",
+   "fetched_at": "2026-11-14T14:07:12.886703+00:00",
    "stale": false,
    "items": [
     {
