@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T17:08:02.017527+00:00",
+ "generated_at": "2026-11-14T17:38:05.539782+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T17:07:59.294817+00:00",
+   "fetched_at": "2026-11-14T17:38:03.256729+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50498063,
+     "title": "Italy fines Meta \u20ac805M over photo privacy",
+     "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+     "score": 82,
+     "by": "jruohonen",
+     "time": 1794672014,
+     "comments": 30
+    },
     {
      "id": 50497892,
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 64,
+     "score": 88,
      "by": "rbanffy",
      "time": 1794670852,
-     "comments": 11
+     "comments": 19
     },
     {
      "id": 50496976,
      "title": "KDE: The Documentary on Free Software [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 128,
+     "score": 161,
      "by": "mrkn1",
      "time": 1794663808,
-     "comments": 10
-    },
-    {
-     "id": 50498063,
-     "title": "Italy fines Meta \u20ac805M over photo privacy",
-     "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
-     "score": 28,
-     "by": "jruohonen",
-     "time": 1794672014,
-     "comments": 5
-    },
-    {
-     "id": 50498151,
-     "title": "The Cloud Is Just Someone Else's Computer \u2013 They Let It Burn",
-     "url": "https://soargram.io/content/369523282",
-     "score": 16,
-     "by": "levicanskij",
-     "time": 1794672657,
-     "comments": 10
+     "comments": 26
     },
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 356,
+     "score": 370,
      "by": "casi",
      "time": 1794320165,
-     "comments": 217
+     "comments": 225
     },
     {
      "id": 50496811,
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "score": 56,
+     "score": 67,
      "by": "acossta",
      "time": 1794662443,
-     "comments": 15
+     "comments": 16
     },
     {
      "id": 50497132,
      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
      "url": "https://gitlab.com/snipedbywifi/terminactory",
-     "score": 66,
+     "score": 73,
      "by": "snipedbywifi",
      "time": 1794665154,
-     "comments": 11
+     "comments": 12
     },
     {
      "id": 50441444,
      "title": "Generative AI uses more energy on non-English text",
      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-     "score": 87,
+     "score": 94,
      "by": "DeepLogin",
      "time": 1794323248,
-     "comments": 57
-    },
-    {
-     "id": 50497137,
-     "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-     "url": "https://github.com/FURSOY/fursoy-cpu",
-     "score": 26,
-     "by": "fursoy",
-     "time": 1794665194,
-     "comments": 5
+     "comments": 64
     },
     {
      "id": 50497147,
      "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
      "url": "https://github.com/paul-nameless/agweb",
-     "score": 40,
+     "score": 47,
      "by": "paul_nameless",
      "time": 1794665292,
-     "comments": 9
+     "comments": 13
     },
     {
-     "id": 50496602,
-     "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-     "score": 217,
-     "by": "gslin",
-     "time": 1794660345,
-     "comments": 82
+     "id": 50497137,
+     "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+     "url": "https://github.com/FURSOY/fursoy-cpu",
+     "score": 29,
+     "by": "fursoy",
+     "time": 1794665194,
+     "comments": 7
     },
     {
      "id": 50493062,
      "title": "Ggml v1.0.0",
      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 370,
+     "score": 376,
      "by": "cobychapple",
      "time": 1794623309,
-     "comments": 58
+     "comments": 62
+    },
+    {
+     "id": 50467278,
+     "title": "Testing a Trash Can Faraday Cage",
+     "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+     "score": 37,
+     "by": "torutofu",
+     "time": 1794492267,
+     "comments": 20
+    },
+    {
+     "id": 50497589,
+     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "score": 15,
+     "by": "VaibhaavTiwari",
+     "time": 1794668655,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T17:08:00.677464+00:00",
+   "fetched_at": "2026-11-14T17:38:04.191903+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T17:08:01.563746+00:00",
+   "fetched_at": "2026-11-14T17:38:05.011618+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7530,
+     "stars": 7533,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2954,
+     "stars": 2961,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2043,
+     "stars": 2044,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1737,
+     "stars": 1744,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1634,
+     "stars": 1657,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1406,
+     "stars": 1410,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1160,
+     "stars": 1161,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T17:08:01.930286+00:00",
+   "fetched_at": "2026-11-14T17:38:05.374992+00:00",
    "stale": false,
    "items": [
     {
@@ -263,20 +263,20 @@
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
+     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+     "author": "Sylwia Laskowska",
+     "reactions": 156,
+     "comments": 128,
+     "published_at": "2026-11-12T08:14:36Z"
+    },
+    {
      "title": "How do you truly stand out in Tech?",
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 202,
      "comments": 111,
      "published_at": "2026-11-09T15:11:22Z"
-    },
-    {
-     "title": "MCP Is Dead Simple. And That's Exactly the Problem",
-     "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
-     "author": "Sylwia Laskowska",
-     "reactions": 154,
-     "comments": 127,
-     "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "How did you end up in tech, and are you staying?",
@@ -306,14 +306,14 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 78,
+     "reactions": 84,
      "comments": 4,
      "published_at": "2026-11-13T18:28:11Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T17:08:01.949841+00:00",
+   "fetched_at": "2026-11-14T17:38:05.426661+00:00",
    "stale": false,
    "items": [
     {
