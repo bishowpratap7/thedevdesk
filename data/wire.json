@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T20:08:27.853508+00:00",
+ "generated_at": "2026-11-14T20:38:33.833616+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T20:08:25.633796+00:00",
+   "fetched_at": "2026-11-14T20:38:32.166414+00:00",
    "stale": false,
    "items": [
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 292,
+     "score": 359,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 95
-    },
-    {
-     "id": 50499083,
-     "title": "US IRS free online tax filing open source repo",
-     "url": "https://github.com/IRS-Public/direct-file",
-     "score": 71,
-     "by": "accountinhn",
-     "time": 1794678500,
-     "comments": 23
-    },
-    {
-     "id": 50499038,
-     "title": "A Family Tree of Software Job Titles",
-     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 75,
-     "by": "umerf",
-     "time": 1794678319,
-     "comments": 23
+     "comments": 120
     },
     {
      "id": 50497892,
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 148,
+     "score": 153,
      "by": "rbanffy",
      "time": 1794670852,
-     "comments": 52
+     "comments": 57
+    },
+    {
+     "id": 50499038,
+     "title": "A Family Tree of Software Job Titles",
+     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+     "score": 82,
+     "by": "umerf",
+     "time": 1794678319,
+     "comments": 28
     },
     {
      "id": 50496976,
      "title": "KDE: The documentary [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 267,
+     "score": 281,
      "by": "mrkn1",
      "time": 1794663808,
-     "comments": 50
+     "comments": 57
     },
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 432,
+     "score": 443,
      "by": "casi",
      "time": 1794320165,
-     "comments": 255
+     "comments": 261
     },
     {
      "id": 50453901,
      "title": "Seagate's new hybrid drive raises some old questions",
      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-     "score": 27,
+     "score": 30,
      "by": "PaulHoule",
      "time": 1794407529,
-     "comments": 11
+     "comments": 12
     },
     {
      "id": 50496811,
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "score": 111,
+     "score": 117,
      "by": "acossta",
      "time": 1794662443,
-     "comments": 28
+     "comments": 30
     },
     {
      "id": 50499723,
      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-     "score": 56,
+     "score": 76,
      "by": "gnabgib",
      "time": 1794682607,
-     "comments": 6
-    },
-    {
-     "id": 50416011,
-     "title": "Reverse engineering a vintage diode-transistor logic chip",
-     "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-     "score": 53,
-     "by": "dverlaeckt80",
-     "time": 1794164628,
-     "comments": 1
+     "comments": 22
     },
     {
      "id": 50497589,
      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "score": 83,
+     "score": 89,
      "by": "VaibhaavTiwari",
      "time": 1794668655,
      "comments": 4
     },
     {
-     "id": 50453613,
-     "title": "A QR code that says who made it",
-     "url": "https://qrsig.org/",
-     "score": 14,
-     "by": "mart9",
-     "time": 1794406119,
-     "comments": 5
+     "id": 50416011,
+     "title": "Reverse engineering a vintage diode-transistor logic chip",
+     "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+     "score": 56,
+     "by": "dverlaeckt80",
+     "time": 1794164628,
+     "comments": 2
+    },
+    {
+     "id": 50497132,
+     "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+     "url": "https://gitlab.com/snipedbywifi/terminactory",
+     "score": 110,
+     "by": "snipedbywifi",
+     "time": 1794665154,
+     "comments": 24
+    },
+    {
+     "id": 50441444,
+     "title": "Generative AI uses more energy on non-English text",
+     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+     "score": 139,
+     "by": "DeepLogin",
+     "time": 1794323248,
+     "comments": 87
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T20:08:26.575083+00:00",
+   "fetched_at": "2026-11-14T20:38:33.192208+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T20:08:27.380004+00:00",
+   "fetched_at": "2026-11-14T20:38:33.364271+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7544,
+     "stars": 7546,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2050,
+     "stars": 2052,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1776,
+     "stars": 1784,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1698,
+     "stars": 1701,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1443,
+     "stars": 1447,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T20:08:27.697664+00:00",
+   "fetched_at": "2026-11-14T20:38:33.707897+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 156,
-     "comments": 131,
+     "reactions": 157,
+     "comments": 133,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 159,
+     "reactions": 160,
      "comments": 63,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T20:08:27.769233+00:00",
+   "fetched_at": "2026-11-14T20:38:33.749208+00:00",
    "stale": false,
    "items": [
     {
