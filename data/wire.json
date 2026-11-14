@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T09:36:04.446243+00:00",
+ "generated_at": "2026-11-14T10:06:10.779519+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T09:36:00.670587+00:00",
+   "fetched_at": "2026-11-14T10:06:06.717097+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50493062,
-     "title": "Ggml v1.0.0",
-     "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 251,
-     "by": "cobychapple",
-     "time": 1794623309,
-     "comments": 39
-    },
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 9,
+     "score": 34,
      "by": "casi",
      "time": 1794320165,
-     "comments": 2
+     "comments": 16
     },
     {
-     "id": 50493251,
-     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-     "score": 542,
-     "by": "speckx",
-     "time": 1794624779,
-     "comments": 324
+     "id": 50493062,
+     "title": "Ggml v1.0.0",
+     "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+     "score": 263,
+     "by": "cobychapple",
+     "time": 1794623309,
+     "comments": 42
     },
     {
      "id": 50493904,
      "title": "Monkey Island: all 13 versions side by side",
      "url": "https://monkeyisland.pages.dev/",
-     "score": 84,
+     "score": 104,
      "by": "maximilianburke",
      "time": 1794630210,
-     "comments": 12
+     "comments": 17
+    },
+    {
+     "id": 50493251,
+     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+     "score": 568,
+     "by": "speckx",
+     "time": 1794624779,
+     "comments": 330
     },
     {
      "id": 50489641,
      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1536,
+     "score": 1544,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 1167
+     "comments": 1170
     },
     {
      "id": 50491980,
      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
      "url": "https://unsloth.ai/docs/models/qwen3.8",
-     "score": 135,
+     "score": 145,
      "by": "Retro_Dev",
      "time": 1794614764,
-     "comments": 34
+     "comments": 42
     },
     {
      "id": 50491423,
      "title": "Terminal borders that don't cost a cell",
      "url": "https://www.joshka.net/cell-borders/",
-     "score": 240,
+     "score": 253,
      "by": "vinhnx",
      "time": 1794611200,
-     "comments": 105
+     "comments": 107
     },
     {
      "id": 50491545,
      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
      "url": "https://grounds.top/",
-     "score": 143,
+     "score": 147,
      "by": "gvsi",
      "time": 1794611859,
-     "comments": 20
+     "comments": 21
     },
     {
      "id": 50491830,
      "title": "What happened to 3Com?",
      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "score": 136,
+     "score": 141,
      "by": "gvieri",
      "time": 1794613739,
-     "comments": 70
+     "comments": 74
     },
     {
      "id": 50488470,
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 195,
+     "score": 201,
      "by": "gumby",
      "time": 1794597921,
-     "comments": 30
+     "comments": 31
     },
     {
      "id": 50484658,
      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-     "score": 284,
+     "score": 295,
      "by": "helloplanets",
      "time": 1794582524,
-     "comments": 328
+     "comments": 340
     },
     {
      "id": 50488325,
      "title": "FM-1 Workbench",
      "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 235,
+     "score": 238,
      "by": "simonebrunozzi",
      "time": 1794597242,
-     "comments": 155
+     "comments": 157
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T09:36:02.323859+00:00",
+   "fetched_at": "2026-11-14T10:06:08.444033+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T09:36:03.546371+00:00",
+   "fetched_at": "2026-11-14T10:06:09.722925+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7448,
+     "stars": 7454,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2906,
+     "stars": 2907,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1985,
+     "stars": 1986,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1593,
+     "stars": 1598,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1471,
+     "stars": 1472,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1362,
+     "stars": 1363,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1342,
+     "stars": 1345,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1294,
+     "stars": 1322,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -227,23 +227,23 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1132,
+     "stars": 1133,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
     },
     {
-     "full_name": "kolbicz/WQFiles",
-     "url": "https://github.com/kolbicz/WQFiles",
-     "stars": 828,
-     "language": "Objective-C",
-     "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
-     "created_at": "2026-11-09T13:43:40Z"
+     "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+     "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+     "stars": 984,
+     "language": "Visual Basic .NET",
+     "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+     "created_at": "2026-11-12T20:49:07Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T09:36:03.952524+00:00",
+   "fetched_at": "2026-11-14T10:06:10.166420+00:00",
    "stale": false,
    "items": [
     {
@@ -274,8 +274,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 147,
-     "comments": 117,
+     "reactions": 149,
+     "comments": 119,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -298,7 +298,7 @@
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
-     "reactions": 150,
+     "reactions": 151,
      "comments": 47,
      "published_at": "2026-11-09T15:30:54Z"
     },
@@ -306,14 +306,14 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 70,
+     "reactions": 75,
      "comments": 4,
      "published_at": "2026-11-13T18:28:11Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T09:36:03.983972+00:00",
+   "fetched_at": "2026-11-14T10:06:10.284323+00:00",
    "stale": false,
    "items": [
     {
