@@ -1,60 +1,60 @@
 {
- "generated_at": "2026-11-14T05:35:16.542629+00:00",
+ "generated_at": "2026-11-14T06:05:22.236207+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T05:35:12.530117+00:00",
+   "fetched_at": "2026-11-14T06:05:18.266374+00:00",
    "stale": false,
    "items": [
     {
      "id": 50493062,
      "title": "Ggml v1.0.0",
      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "score": 117,
+     "score": 135,
      "by": "cobychapple",
      "time": 1794623309,
-     "comments": 19
+     "comments": 24
     },
     {
      "id": 50493251,
      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-     "score": 190,
+     "score": 257,
      "by": "speckx",
      "time": 1794624779,
-     "comments": 112
+     "comments": 132
     },
     {
      "id": 50489641,
      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1450,
+     "score": 1462,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 1119
+     "comments": 1127
     },
     {
      "id": 50491423,
      "title": "Terminal borders that don't cost a cell",
      "url": "https://www.joshka.net/cell-borders/",
-     "score": 166,
+     "score": 170,
      "by": "vinhnx",
      "time": 1794611200,
-     "comments": 78
+     "comments": 79
     },
     {
      "id": 50491980,
      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
      "url": "https://unsloth.ai/docs/models/qwen3.8",
-     "score": 65,
+     "score": 75,
      "by": "Retro_Dev",
      "time": 1794614764,
-     "comments": 10
+     "comments": 11
     },
     {
      "id": 50491545,
      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
      "url": "https://grounds.top/",
-     "score": 92,
+     "score": 101,
      "by": "gvsi",
      "time": 1794611859,
      "comments": 11
@@ -63,34 +63,25 @@
      "id": 50491830,
      "title": "What Happened to 3Com?",
      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "score": 98,
+     "score": 103,
      "by": "gvieri",
      "time": 1794613739,
-     "comments": 56
+     "comments": 57
     },
     {
      "id": 50490593,
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "url": "https://orcasairband.com/",
-     "score": 242,
+     "score": 244,
      "by": "mmaunder",
      "time": 1794607464,
-     "comments": 55
-    },
-    {
-     "id": 50474959,
-     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-     "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 720,
-     "by": "scottjg",
-     "time": 1794520989,
-     "comments": 207
+     "comments": 56
     },
     {
      "id": 50488325,
      "title": "FM-1 Workbench",
      "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 206,
+     "score": 212,
      "by": "simonebrunozzi",
      "time": 1794597242,
      "comments": 137
@@ -99,24 +90,33 @@
      "id": 50488470,
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 164,
+     "score": 167,
      "by": "gumby",
      "time": 1794597921,
-     "comments": 24
+     "comments": 26
     },
     {
      "id": 50484658,
      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-     "score": 188,
+     "score": 205,
      "by": "helloplanets",
      "time": 1794582524,
-     "comments": 188
+     "comments": 204
+    },
+    {
+     "id": 50487185,
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "url": "https://haddyalchaer.com/jepa",
+     "score": 237,
+     "by": "halcdev",
+     "time": 1794592528,
+     "comments": 37
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T05:35:14.326611+00:00",
+   "fetched_at": "2026-11-14T06:05:20.055558+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T05:35:15.633386+00:00",
+   "fetched_at": "2026-11-14T06:05:21.325245+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7404,
+     "stars": 7408,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2891,
+     "stars": 2895,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1960,
+     "stars": 1962,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1543,
+     "stars": 1548,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1455,
+     "stars": 1456,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1078,
+     "stars": 1101,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "kolbicz/WQFiles",
      "url": "https://github.com/kolbicz/WQFiles",
-     "stars": 816,
+     "stars": 818,
      "language": "Objective-C",
      "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
      "created_at": "2026-11-09T13:43:40Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T05:35:16.097059+00:00",
+   "fetched_at": "2026-11-14T06:05:21.817925+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 139,
-     "comments": 37,
+     "reactions": 140,
+     "comments": 38,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T05:35:16.176533+00:00",
+   "fetched_at": "2026-11-14T06:05:21.921760+00:00",
    "stale": false,
    "items": [
     {
