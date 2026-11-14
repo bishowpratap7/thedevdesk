@@ -105,6 +105,13 @@
   .follow-btn:hover{background:var(--red);text-decoration:none;transform:translateY(-1px)}
   .follow-btn.dark{border-color:#000}
   .follow-btn.dark:hover{background:var(--red)}
+  /* Journal CTA */
+  .journal-cta{display:flex;gap:18px;align-items:center;flex-wrap:wrap;background:linear-gradient(135deg,#fffdf6,#fdf3e3);border:2px dashed var(--red);border-radius:10px;padding:18px 20px;margin:0 0 16px}
+  .journal-cta .jc-text{flex:1 1 320px}
+  .journal-cta h2{margin:0 0 6px;font-size:22px}
+  .journal-cta p{margin:0;font-family:Arial,sans-serif;font-size:14px;line-height:1.55;color:#333}
+  .jc-btn{display:inline-block;background:var(--red);color:#fff;font-family:Arial,sans-serif;font-weight:800;font-size:15px;padding:12px 22px;border-radius:999px;text-decoration:none;white-space:nowrap;transition:transform .15s ease}
+  .jc-btn:hover{transform:translateY(-1px);text-decoration:none}
   /* Anchor card */
   .anchor{display:flex;gap:14px;align-items:center;background:#f7fafc;border:1px solid var(--line);padding:12px;margin:4px 0 10px}
   .anchor img{width:74px;height:74px;border-radius:50%;object-fit:cover;border:3px solid var(--red)}
@@ -140,7 +147,7 @@
 <div class="ticker"><div class="inner" id="ticker">Loading the wire…</div></div>
 
 <nav class="desknav">
-  <a href="#top-stories">Top Stories</a><a href="#release-radar">Release Radar</a><a href="#trending-github">Trending on GitHub</a><a href="#community-pulse">Community Pulse</a><a href="#outage-watch">Outage Watch</a><a href="#latest-wire">Latest Headlines</a><a href="#faq">FAQ</a>
+  <a href="#top-stories">Top Stories</a><a href="#release-radar">Release Radar</a><a href="#trending-github">Trending on GitHub</a><a href="#community-pulse">Community Pulse</a><a href="#outage-watch">Outage Watch</a><a href="#latest-wire">Latest Headlines</a><a href="#free-journal">📓 Free Journal</a><a href="#faq">FAQ</a>
 </nav>
 <p class="seointro"><strong>The Dev Desk</strong> is a live <strong>developer news</strong> wire anchored by <a class="name-link" href="https://x.com/bishowppandey" target="_blank" rel="noopener" style="color:var(--navy)">Bishow Pandey</a>. Every hour it scans the places developer news actually happens — the <strong>Hacker News</strong> front page, <strong>GitHub trending</strong> repositories and the latest <strong>code pushes</strong> (Spring Boot, Kubernetes, Node.js, VS Code, Rust, Go releases), the <strong>dev.to</strong> community, and live <strong>cloud status</strong> pages — and lays them out like a newsroom rundown, with every story linked to its primary source.</p>
 <main class="wrap">
@@ -158,6 +165,13 @@
     <ul><li><a href="https://dev.to/ben/long-live-rails-3p21">Long Live Rails</a> — by Ben Halpern</li><li><a href="https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf">Our Looping Factory Cut DEV Page Load Time by 75% and Counting</a> — by Ben Halpern</li><li><a href="https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a">How do you truly stand out in Tech?</a> — by FrancisTRᴅᴇᴠ</li><li><a href="https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811">MCP Is Dead Simple. And That&#x27;s Exactly the Problem</a> — by Sylwia Laskowska</li><li><a href="https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b">How did you end up in tech, and are you staying?</a> — by Maame Afua A. P. Fordjour </li><li><a href="https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454">Necoz Has a New Home on DEV! 🐈🎉</a> — by nyaomaru</li></ul>
   </section>
   <!--WIRE:END-->
+  <section class="journal-cta" id="free-journal">
+    <div class="jc-text">
+      <h2>📓 Hey — want to write a journal? It's free.</h2>
+      <p><strong>I Only Trust You</strong> is a private journal I built and opened up to everyone. Write your thoughts and keep them truly yours — no ads, no card required, nothing to pay. Just head over and start writing.</p>
+    </div>
+    <a class="jc-btn" href="https://ionlytrustyou.com" target="_blank" rel="noopener">Start writing at ionlytrustyou.com — free →</a>
+  </section>
   <div class="grid">
     <section class="card red" id="top-stories">
       <h2>🔴 Top Stories</h2>
