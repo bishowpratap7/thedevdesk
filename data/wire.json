@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-14T02:34:21.543778+00:00",
+ "generated_at": "2026-11-14T03:04:27.485850+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T02:34:17.226000+00:00",
+   "fetched_at": "2026-11-14T03:04:23.072619+00:00",
    "stale": false,
    "items": [
     {
      "id": 50492601,
      "title": "FAA lifted National Ground Stop at 0119Z",
      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-     "score": 128,
+     "score": 169,
      "by": "d3nit",
      "time": 1794619801,
-     "comments": 106
+     "comments": 151
     },
     {
      "id": 50489641,
      "title": "FAA issues national ground stop",
      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "score": 1347,
+     "score": 1366,
      "by": "zulln",
      "time": 1794603953,
-     "comments": 828
-    },
-    {
-     "id": 50490593,
-     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-     "url": "https://orcasairband.com/",
-     "score": 214,
-     "by": "mmaunder",
-     "time": 1794607464,
-     "comments": 48
+     "comments": 841
     },
     {
      "id": 50491423,
      "title": "Terminal borders that don't cost a cell",
      "url": "https://www.joshka.net/cell-borders/",
-     "score": 80,
+     "score": 95,
      "by": "vinhnx",
      "time": 1794611200,
-     "comments": 46
+     "comments": 55
+    },
+    {
+     "id": 50492860,
+     "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+     "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+     "score": 15,
+     "by": "gmays",
+     "time": 1794621762,
+     "comments": 1
+    },
+    {
+     "id": 50490593,
+     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+     "url": "https://orcasairband.com/",
+     "score": 222,
+     "by": "mmaunder",
+     "time": 1794607464,
+     "comments": 52
     },
     {
      "id": 50491830,
      "title": "What Happened to 3Com?",
      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "score": 53,
+     "score": 62,
      "by": "gvieri",
      "time": 1794613739,
-     "comments": 24
-    },
-    {
-     "id": 50492315,
-     "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-     "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-     "score": 116,
-     "by": "snow_mac",
-     "time": 1794617549,
-     "comments": 34
+     "comments": 32
     },
     {
      "id": 50492141,
      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-     "score": 34,
+     "score": 42,
      "by": "toppa33",
      "time": 1794616091,
-     "comments": 14
+     "comments": 28
+    },
+    {
+     "id": 50492315,
+     "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+     "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+     "score": 126,
+     "by": "snow_mac",
+     "time": 1794617549,
+     "comments": 39
     },
     {
      "id": 50474959,
      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-     "score": 683,
+     "score": 690,
      "by": "scottjg",
      "time": 1794520989,
      "comments": 200
     },
     {
-     "id": 50488325,
-     "title": "FM-1 Workbench",
-     "url": "https://open.m-vave.com/fm1-workbench",
-     "score": 187,
-     "by": "simonebrunozzi",
-     "time": 1794597242,
-     "comments": 116
-    },
-    {
      "id": 50492456,
      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-     "score": 121,
+     "score": 168,
      "by": "kaycebasques",
      "time": 1794618622,
-     "comments": 24
-    },
-    {
-     "id": 50488470,
-     "title": "Found: A protein that drives ageing without unleashing inflammation",
-     "url": "https://www.nature.com/articles/d41586-026-03638-3",
-     "score": 134,
-     "by": "gumby",
-     "time": 1794597921,
-     "comments": 21
+     "comments": 55
     },
     {
      "id": 50491545,
      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
      "url": "https://grounds.top/",
-     "score": 39,
+     "score": 49,
      "by": "gvsi",
      "time": 1794611859,
-     "comments": 7
+     "comments": 9
+    },
+    {
+     "id": 50488470,
+     "title": "Found: A protein that drives ageing without unleashing inflammation",
+     "url": "https://www.nature.com/articles/d41586-026-03638-3",
+     "score": 137,
+     "by": "gumby",
+     "time": 1794597921,
+     "comments": 21
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T02:34:18.766987+00:00",
+   "fetched_at": "2026-11-14T03:04:24.520682+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T02:34:20.155152+00:00",
+   "fetched_at": "2026-11-14T03:04:26.004009+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7344,
+     "stars": 7352,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "jhaizhou-ops/S2Arm",
      "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2876,
+     "stars": 2880,
      "language": "C#",
      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
      "created_at": "2026-11-08T05:49:46Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 1935,
+     "stars": 1940,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1501,
+     "stars": 1508,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1441,
+     "stars": 1443,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1346,
+     "stars": 1349,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1293,
+     "stars": 1298,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1104,
+     "stars": 1105,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 846,
+     "stars": 892,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "kolbicz/WQFiles",
      "url": "https://github.com/kolbicz/WQFiles",
-     "stars": 806,
+     "stars": 807,
      "language": "Objective-C",
      "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
      "created_at": "2026-11-09T13:43:40Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T02:34:20.670951+00:00",
+   "fetched_at": "2026-11-14T03:04:26.484058+00:00",
    "stale": false,
    "items": [
     {
@@ -275,14 +275,14 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 139,
-     "comments": 111,
+     "comments": 112,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
      "title": "How did you end up in tech, and are you staying?",
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 148,
+     "reactions": 149,
      "comments": 61,
      "published_at": "2026-11-09T23:02:37Z"
     },
@@ -290,7 +290,7 @@
      "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
      "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
      "author": "nyaomaru",
-     "reactions": 172,
+     "reactions": 178,
      "comments": 119,
      "published_at": "2026-11-08T11:50:29Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T02:34:20.840389+00:00",
+   "fetched_at": "2026-11-14T03:04:26.825651+00:00",
    "stale": false,
    "items": [
     {
