@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T13:42:30.261247+00:00",
+ "generated_at": "2026-11-15T14:12:35.614879+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T13:42:26.768625+00:00",
+   "fetched_at": "2026-11-15T14:12:31.823769+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50506719,
+     "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+     "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+     "score": 17,
+     "by": "MacAnorak",
+     "time": 1794748522,
+     "comments": 4
+    },
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 1364,
+     "score": 1391,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 915
+     "comments": 922
     },
     {
      "id": 50505271,
      "title": "Why did some Apollo missions carry a grenade launcher?",
      "url": "https://space.stackexchange.com/questions/37775",
-     "score": 88,
+     "score": 101,
      "by": "Skyfall106",
      "time": 1794733603,
-     "comments": 56
+     "comments": 62
+    },
+    {
+     "id": 50506376,
+     "title": "Understanding Positional Embeddings in Modern LLMs",
+     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+     "score": 20,
+     "by": "vismit2000",
+     "time": 1794744846,
+     "comments": 0
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 885,
+     "score": 897,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 338
+     "comments": 341
     },
     {
      "id": 50502988,
      "title": "Court denies motion to dismiss DRAM price fixing case",
      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-     "score": 276,
+     "score": 292,
      "by": "ybathaee",
      "time": 1794705516,
-     "comments": 103
-    },
-    {
-     "id": 50481056,
-     "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-     "url": "https://tsoracle.rs/",
-     "score": 18,
-     "by": "znano",
-     "time": 1794564277,
-     "comments": 2
+     "comments": 115
     },
     {
      "id": 50481321,
      "title": "What thousands of conversations look like inside a language model",
      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-     "score": 15,
+     "score": 27,
      "by": "josip208",
      "time": 1794565561,
+     "comments": 5
+    },
+    {
+     "id": 50506588,
+     "title": "A NES emulator written in Odin",
+     "url": "https://lucypero.com/lucynes.html",
+     "score": 5,
+     "by": "frostbyte7",
+     "time": 1794747107,
+     "comments": 0
+    },
+    {
+     "id": 50475759,
+     "title": "Chasing an audio artifact on power loss",
+     "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
+     "score": 13,
+     "by": "ireflect",
+     "time": 1794525085,
      "comments": 1
-    },
-    {
-     "id": 50501594,
-     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-     "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 248,
-     "by": "Skyfall106",
-     "time": 1794694969,
-     "comments": 130
-    },
-    {
-     "id": 50474529,
-     "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-     "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-     "score": 34,
-     "by": "nephihaha",
-     "time": 1794518821,
-     "comments": 18
-    },
-    {
-     "id": 50504277,
-     "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-     "url": "https://netbsd.org/~nia/disk-encrypt/",
-     "score": 58,
-     "by": "jaypatelani",
-     "time": 1794720594,
-     "comments": 11
-    },
-    {
-     "id": 50503465,
-     "title": "My favourite modern NES games",
-     "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-     "score": 130,
-     "by": "jordigh",
-     "time": 1794710485,
-     "comments": 13
     },
     {
      "id": 50506180,
      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-     "score": 26,
+     "score": 58,
      "by": "JumpCrisscross",
      "time": 1794742851,
-     "comments": 5
+     "comments": 17
     },
     {
-     "id": 50496976,
-     "title": "KDE: The documentary [video]",
-     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 520,
-     "by": "mrkn1",
-     "time": 1794663808,
-     "comments": 116
+     "id": 50474529,
+     "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+     "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+     "score": 36,
+     "by": "nephihaha",
+     "time": 1794518821,
+     "comments": 22
+    },
+    {
+     "id": 50501594,
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "url": "https://retrocomputing.stackexchange.com/questions/17957",
+     "score": 251,
+     "by": "Skyfall106",
+     "time": 1794694969,
+     "comments": 130
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T13:42:28.103881+00:00",
+   "fetched_at": "2026-11-15T14:12:33.272930+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T13:42:29.257578+00:00",
+   "fetched_at": "2026-11-15T14:12:34.521161+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7686,
+     "stars": 7690,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 2216,
+     "stars": 2295,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2107,
+     "stars": 2110,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1951,
+     "stars": 1958,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1566,
+     "stars": 1572,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1535,
+     "stars": 1537,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1531,
+     "stars": 1532,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1460,
+     "stars": 1463,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1219,
+     "stars": 1222,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 1078,
+     "stars": 1091,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T13:42:29.690402+00:00",
+   "fetched_at": "2026-11-15T14:12:34.955640+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 165,
+     "reactions": 166,
      "comments": 147,
      "published_at": "2026-11-12T08:14:36Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 202,
-     "comments": 111,
+     "comments": 112,
      "published_at": "2026-11-09T15:11:22Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T13:42:29.726843+00:00",
+   "fetched_at": "2026-11-15T14:12:35.074116+00:00",
    "stale": false,
    "items": [
     {
