@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T08:41:15.299632+00:00",
+ "generated_at": "2026-11-15T09:11:22.038067+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T08:41:11.768485+00:00",
+   "fetched_at": "2026-11-15T09:11:16.886681+00:00",
    "stale": false,
    "items": [
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 1146,
+     "score": 1178,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 753
+     "comments": 774
     },
     {
      "id": 50478701,
      "title": "Memory Safety Bugs in Rust Standard Library",
      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-     "score": 112,
+     "score": 119,
      "by": "pjmlp",
      "time": 1794547328,
-     "comments": 41
+     "comments": 56
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 791,
+     "score": 798,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 308
+     "comments": 314
     },
     {
      "id": 50443331,
      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-     "score": 42,
+     "score": 45,
      "by": "everybodyknows",
      "time": 1794331308,
-     "comments": 3
+     "comments": 4
     },
     {
      "id": 50502988,
      "title": "Court denies motion to dismiss DRAM price fixing case",
      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-     "score": 100,
+     "score": 119,
      "by": "ybathaee",
      "time": 1794705516,
-     "comments": 22
+     "comments": 27
     },
     {
      "id": 50501594,
      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 201,
+     "score": 206,
      "by": "Skyfall106",
      "time": 1794694969,
-     "comments": 98
-    },
-    {
-     "id": 50504072,
-     "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-     "url": "https://github.com/matheuzgomes/gawain",
-     "score": 42,
-     "by": "MarinhoD",
-     "time": 1794717565,
-     "comments": 20
-    },
-    {
-     "id": 50503465,
-     "title": "My favourite modern NES games",
-     "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-     "score": 60,
-     "by": "jordigh",
-     "time": 1794710485,
-     "comments": 4
+     "comments": 99
     },
     {
      "id": 50504277,
      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
      "url": "https://netbsd.org/~nia/disk-encrypt/",
-     "score": 13,
+     "score": 18,
      "by": "jaypatelani",
      "time": 1794720594,
      "comments": 0
     },
     {
-     "id": 50452037,
-     "title": "Open-Source HF Communications for Remote Communities and Experimenters",
-     "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
-     "score": 9,
-     "by": "tejtm",
-     "time": 1794395482,
-     "comments": 1
+     "id": 50504072,
+     "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+     "url": "https://github.com/matheuzgomes/gawain",
+     "score": 45,
+     "by": "MarinhoD",
+     "time": 1794717565,
+     "comments": 21
+    },
+    {
+     "id": 50503465,
+     "title": "My favourite modern NES games",
+     "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+     "score": 68,
+     "by": "jordigh",
+     "time": 1794710485,
+     "comments": 5
     },
     {
      "id": 50499038,
      "title": "A family tree of software job titles",
      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 296,
+     "score": 299,
      "by": "umerf",
      "time": 1794678319,
-     "comments": 147
+     "comments": 148
+    },
+    {
+     "id": 50496976,
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "score": 461,
+     "by": "mrkn1",
+     "time": 1794663808,
+     "comments": 101
     },
     {
      "id": 50482222,
      "title": "The Evolving Story of How Chemistry Became Biology",
      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-     "score": 41,
+     "score": 42,
      "by": "pseudolus",
      "time": 1794570919,
-     "comments": 6
+     "comments": 10
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T08:41:13.315578+00:00",
+   "fetched_at": "2026-11-15T09:11:20.032576+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T08:41:14.247357+00:00",
+   "fetched_at": "2026-11-15T09:11:20.866781+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7645,
+     "stars": 7649,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2094,
+     "stars": 2096,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1926,
+     "stars": 1935,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1905,
+     "stars": 1908,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1537,
+     "stars": 1539,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1516,
+     "stars": 1517,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1427,
+     "stars": 1431,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1208,
+     "stars": 1210,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 1012,
+     "stars": 1023,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T08:41:14.619384+00:00",
+   "fetched_at": "2026-11-15T09:11:21.166611+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T08:41:14.655829+00:00",
+   "fetched_at": "2026-11-15T09:11:21.221431+00:00",
    "stale": false,
    "items": [
     {
