@@ -1,63 +1,72 @@
 {
- "generated_at": "2026-11-15T03:10:00.051407+00:00",
+ "generated_at": "2026-11-15T03:40:06.943906+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T03:09:56.896113+00:00",
+   "fetched_at": "2026-11-15T03:40:04.055122+00:00",
    "stale": false,
    "items": [
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 823,
+     "score": 856,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 548
+     "comments": 584
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 683,
+     "score": 692,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 282
+     "comments": 283
     },
     {
      "id": 50501594,
      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 126,
+     "score": 134,
      "by": "Skyfall106",
      "time": 1794694969,
-     "comments": 39
+     "comments": 45
     },
     {
      "id": 50499038,
      "title": "A family tree of software job titles",
      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 227,
+     "score": 234,
      "by": "umerf",
      "time": 1794678319,
-     "comments": 110
+     "comments": 113
     },
     {
      "id": 50501631,
      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-     "score": 251,
+     "score": 281,
      "by": "madihaa",
      "time": 1794695190,
-     "comments": 141
+     "comments": 153
     },
     {
      "id": 50496976,
      "title": "KDE: The documentary [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 398,
+     "score": 405,
      "by": "mrkn1",
      "time": 1794663808,
      "comments": 87
+    },
+    {
+     "id": 50503255,
+     "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+     "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+     "score": 68,
+     "by": "nobody9999",
+     "time": 1794708054,
+     "comments": 10
     },
     {
      "id": 50497892,
@@ -69,19 +78,10 @@
      "comments": 94
     },
     {
-     "id": 50503255,
-     "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-     "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-     "score": 39,
-     "by": "nobody9999",
-     "time": 1794708054,
-     "comments": 5
-    },
-    {
      "id": 50483431,
      "title": "500 Lines or Less A 3D Modeller",
      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-     "score": 17,
+     "score": 20,
      "by": "myth_drannon",
      "time": 1794577662,
      "comments": 1
@@ -90,33 +90,33 @@
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 520,
+     "score": 527,
      "by": "casi",
      "time": 1794320165,
-     "comments": 285
+     "comments": 286
+    },
+    {
+     "id": 50475692,
+     "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+     "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
+     "score": 11,
+     "by": "CharlesW",
+     "time": 1794524663,
+     "comments": 0
     },
     {
      "id": 50455732,
      "title": "Oxford Molecular Motors",
      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-     "score": 23,
+     "score": 24,
      "by": "handfuloflight",
      "time": 1794416768,
      "comments": 3
-    },
-    {
-     "id": 50471874,
-     "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-     "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-     "score": 115,
-     "by": "NaOH",
-     "time": 1794508086,
-     "comments": 61
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T03:09:58.059637+00:00",
+   "fetched_at": "2026-11-15T03:40:05.132261+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T03:09:59.004545+00:00",
+   "fetched_at": "2026-11-15T03:40:06.063870+00:00",
    "stale": false,
    "items": [
     {
@@ -179,7 +179,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1852,
+     "stars": 1854,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1814,
+     "stars": 1833,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1507,
+     "stars": 1509,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1408,
+     "stars": 1411,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1190,
+     "stars": 1191,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1049,
+     "stars": 1050,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 941,
+     "stars": 943,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T03:09:59.390778+00:00",
+   "fetched_at": "2026-11-15T03:40:06.450780+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T03:09:59.474129+00:00",
+   "fetched_at": "2026-11-15T03:40:06.502848+00:00",
    "stale": false,
    "items": [
     {
