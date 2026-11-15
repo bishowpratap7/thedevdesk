@@ -1,96 +1,105 @@
 {
- "generated_at": "2026-11-15T11:42:05.610178+00:00",
+ "generated_at": "2026-11-15T12:12:11.800904+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T11:42:01.923067+00:00",
+   "fetched_at": "2026-11-15T12:12:07.118355+00:00",
    "stale": false,
    "items": [
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 1284,
+     "score": 1297,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 865
+     "comments": 872
     },
     {
      "id": 50505271,
      "title": "Why did some Apollo missions carry a grenade launcher?",
      "url": "https://space.stackexchange.com/questions/37775",
-     "score": 50,
+     "score": 65,
      "by": "Skyfall106",
      "time": 1794733603,
-     "comments": 20
+     "comments": 30
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 848,
+     "score": 854,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 322
+     "comments": 330
     },
     {
      "id": 50502988,
      "title": "Court denies motion to dismiss DRAM price fixing case",
      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-     "score": 200,
+     "score": 221,
      "by": "ybathaee",
      "time": 1794705516,
-     "comments": 69
-    },
-    {
-     "id": 50474529,
-     "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-     "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-     "score": 26,
-     "by": "nephihaha",
-     "time": 1794518821,
-     "comments": 14
-    },
-    {
-     "id": 50504277,
-     "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-     "url": "https://netbsd.org/~nia/disk-encrypt/",
-     "score": 45,
-     "by": "jaypatelani",
-     "time": 1794720594,
-     "comments": 3
-    },
-    {
-     "id": 50501594,
-     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-     "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 228,
-     "by": "Skyfall106",
-     "time": 1794694969,
-     "comments": 114
+     "comments": 77
     },
     {
      "id": 50481056,
      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
      "url": "https://tsoracle.rs/",
-     "score": 10,
+     "score": 13,
      "by": "znano",
      "time": 1794564277,
      "comments": 1
     },
     {
+     "id": 50474529,
+     "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+     "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+     "score": 29,
+     "by": "nephihaha",
+     "time": 1794518821,
+     "comments": 16
+    },
+    {
+     "id": 50504277,
+     "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+     "url": "https://netbsd.org/~nia/disk-encrypt/",
+     "score": 48,
+     "by": "jaypatelani",
+     "time": 1794720594,
+     "comments": 6
+    },
+    {
+     "id": 50501594,
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "url": "https://retrocomputing.stackexchange.com/questions/17957",
+     "score": 234,
+     "by": "Skyfall106",
+     "time": 1794694969,
+     "comments": 117
+    },
+    {
      "id": 50503465,
      "title": "My favourite modern NES games",
      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-     "score": 102,
+     "score": 108,
      "by": "jordigh",
      "time": 1794710485,
-     "comments": 10
+     "comments": 11
+    },
+    {
+     "id": 50482279,
+     "title": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
+     "url": "https://www.niklasroy.com/carton-clock/",
+     "score": 6,
+     "by": "r0r0",
+     "time": 1794571218,
+     "comments": 0
     },
     {
      "id": 50484234,
      "title": "Semicircle Packing",
      "url": "https://rorz.io/writing/semicircle-packing",
-     "score": 37,
+     "score": 39,
      "by": "sarreph",
      "time": 1794580977,
      "comments": 4
@@ -103,20 +112,11 @@
      "by": "pseudolus",
      "time": 1794570919,
      "comments": 14
-    },
-    {
-     "id": 50496976,
-     "title": "KDE: The documentary [video]",
-     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 496,
-     "by": "mrkn1",
-     "time": 1794663808,
-     "comments": 109
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T11:42:03.514791+00:00",
+   "fetched_at": "2026-11-15T12:12:09.497869+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T11:42:04.716619+00:00",
+   "fetched_at": "2026-11-15T12:12:10.771771+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7664,
+     "stars": 7668,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 2017,
+     "stars": 2054,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1928,
+     "stars": 1932,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1557,
+     "stars": 1559,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1525,
+     "stars": 1526,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1453,
+     "stars": 1456,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 1056,
+     "stars": 1065,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1054,
+     "stars": 1055,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T11:42:05.107571+00:00",
+   "fetched_at": "2026-11-15T12:12:11.147958+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 162,
-     "comments": 143,
+     "reactions": 164,
+     "comments": 145,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -287,14 +287,6 @@
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
-     "title": "Necoz Has a New Home on DEV! \ud83d\udc08\ud83c\udf89",
-     "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
-     "author": "nyaomaru",
-     "reactions": 179,
-     "comments": 119,
-     "published_at": "2026-11-08T11:50:29Z"
-    },
-    {
      "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
      "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
      "author": "Dhruv Jani",
@@ -309,11 +301,19 @@
      "reactions": 89,
      "comments": 5,
      "published_at": "2026-11-13T18:28:11Z"
+    },
+    {
+     "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+     "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
+     "author": "Jem",
+     "reactions": 91,
+     "comments": 38,
+     "published_at": "2026-11-13T15:56:26Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T11:42:05.182173+00:00",
+   "fetched_at": "2026-11-15T12:12:11.333081+00:00",
    "stale": false,
    "items": [
     {
