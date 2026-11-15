@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T11:11:44.175112+00:00",
+ "generated_at": "2026-11-15T11:41:50.537397+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T11:11:40.464131+00:00",
+   "fetched_at": "2026-11-15T11:41:46.815932+00:00",
    "stale": false,
    "items": [
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 1262,
+     "score": 1284,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 858
+     "comments": 865
     },
     {
      "id": 50505271,
      "title": "Why did some Apollo missions carry a grenade launcher?",
      "url": "https://space.stackexchange.com/questions/37775",
-     "score": 38,
+     "score": 50,
      "by": "Skyfall106",
      "time": 1794733603,
-     "comments": 16
+     "comments": 20
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 843,
+     "score": 848,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 320
+     "comments": 322
     },
     {
      "id": 50502988,
      "title": "Court denies motion to dismiss DRAM price fixing case",
      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-     "score": 183,
+     "score": 200,
      "by": "ybathaee",
      "time": 1794705516,
-     "comments": 56
+     "comments": 69
     },
     {
      "id": 50474529,
      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-     "score": 20,
+     "score": 26,
      "by": "nephihaha",
      "time": 1794518821,
-     "comments": 9
-    },
-    {
-     "id": 50501594,
-     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-     "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 226,
-     "by": "Skyfall106",
-     "time": 1794694969,
-     "comments": 111
+     "comments": 14
     },
     {
      "id": 50504277,
      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
      "url": "https://netbsd.org/~nia/disk-encrypt/",
-     "score": 36,
+     "score": 45,
      "by": "jaypatelani",
      "time": 1794720594,
      "comments": 3
     },
     {
-     "id": 50484234,
-     "title": "Semicircle Packing",
-     "url": "https://rorz.io/writing/semicircle-packing",
-     "score": 31,
-     "by": "sarreph",
-     "time": 1794580977,
-     "comments": 4
-    },
-    {
-     "id": 50503465,
-     "title": "My favourite modern NES games",
-     "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-     "score": 97,
-     "by": "jordigh",
-     "time": 1794710485,
-     "comments": 10
+     "id": 50501594,
+     "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+     "url": "https://retrocomputing.stackexchange.com/questions/17957",
+     "score": 228,
+     "by": "Skyfall106",
+     "time": 1794694969,
+     "comments": 114
     },
     {
      "id": 50481056,
      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
      "url": "https://tsoracle.rs/",
-     "score": 7,
+     "score": 10,
      "by": "znano",
      "time": 1794564277,
      "comments": 1
     },
     {
-     "id": 50443331,
-     "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-     "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-     "score": 77,
-     "by": "everybodyknows",
-     "time": 1794331308,
-     "comments": 58
+     "id": 50503465,
+     "title": "My favourite modern NES games",
+     "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+     "score": 102,
+     "by": "jordigh",
+     "time": 1794710485,
+     "comments": 10
+    },
+    {
+     "id": 50484234,
+     "title": "Semicircle Packing",
+     "url": "https://rorz.io/writing/semicircle-packing",
+     "score": 37,
+     "by": "sarreph",
+     "time": 1794580977,
+     "comments": 4
     },
     {
      "id": 50482222,
      "title": "The Evolving Story of How Chemistry Became Biology",
      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-     "score": 58,
+     "score": 60,
      "by": "pseudolus",
      "time": 1794570919,
      "comments": 14
+    },
+    {
+     "id": 50496976,
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "score": 496,
+     "by": "mrkn1",
+     "time": 1794663808,
+     "comments": 109
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T11:11:42.171351+00:00",
+   "fetched_at": "2026-11-15T11:41:48.387911+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T11:11:43.069396+00:00",
+   "fetched_at": "2026-11-15T11:41:49.526585+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7663,
+     "stars": 7664,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1982,
+     "stars": 2017,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1925,
+     "stars": 1929,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1553,
+     "stars": 1557,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1450,
+     "stars": 1453,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,31 +219,31 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1216,
+     "stars": 1217,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
     },
     {
-     "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
-     "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1053,
-     "language": "Visual Basic .NET",
-     "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
-     "created_at": "2026-11-12T20:49:07Z"
-    },
-    {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 1050,
+     "stars": 1056,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
+    },
+    {
+     "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+     "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+     "stars": 1054,
+     "language": "Visual Basic .NET",
+     "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+     "created_at": "2026-11-12T20:49:07Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T11:11:43.399787+00:00",
+   "fetched_at": "2026-11-15T11:41:49.877893+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T11:11:43.455361+00:00",
+   "fetched_at": "2026-11-15T11:41:49.909323+00:00",
    "stale": false,
    "items": [
     {
