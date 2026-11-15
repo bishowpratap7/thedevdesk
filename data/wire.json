@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T15:42:51.228020+00:00",
+ "generated_at": "2026-11-15T16:12:57.538138+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T15:42:47.719782+00:00",
+   "fetched_at": "2026-11-15T16:12:52.591367+00:00",
    "stale": false,
    "items": [
     {
      "id": 50507303,
      "title": "All AI-generated code should be Open Source",
      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-     "score": 85,
+     "score": 183,
      "by": "jcubic",
      "time": 1794754018,
-     "comments": 56
+     "comments": 119
     },
     {
      "id": 50506719,
      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-     "score": 134,
+     "score": 162,
      "by": "MacAnorak",
      "time": 1794748522,
-     "comments": 73
+     "comments": 85
     },
     {
      "id": 50506894,
      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
      "url": "https://prog21.dadgum.com/116.html",
-     "score": 53,
+     "score": 65,
      "by": "ksec",
      "time": 1794750256,
+     "comments": 18
+    },
+    {
+     "id": 50507206,
+     "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+     "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+     "score": 36,
+     "by": "rbanffy",
+     "time": 1794753112,
      "comments": 16
     },
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 1435,
+     "score": 1453,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 966
+     "comments": 980
     },
     {
      "id": 50506376,
      "title": "Understanding Positional Embeddings in Modern LLMs",
      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-     "score": 76,
+     "score": 86,
      "by": "vismit2000",
      "time": 1794744846,
-     "comments": 0
-    },
-    {
-     "id": 50507206,
-     "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-     "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-     "score": 26,
-     "by": "rbanffy",
-     "time": 1794753112,
-     "comments": 12
+     "comments": 1
     },
     {
      "id": 50506588,
      "title": "A NES emulator written in Odin",
      "url": "https://lucypero.com/lucynes.html",
-     "score": 41,
+     "score": 45,
      "by": "frostbyte7",
      "time": 1794747107,
-     "comments": 3
+     "comments": 4
     },
     {
      "id": 50505271,
      "title": "Why did some Apollo missions carry a grenade launcher?",
      "url": "https://space.stackexchange.com/questions/37775",
-     "score": 130,
+     "score": 133,
      "by": "Skyfall106",
      "time": 1794733603,
-     "comments": 80
+     "comments": 87
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 926,
+     "score": 937,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 355
+     "comments": 357
+    },
+    {
+     "id": 50507553,
+     "title": "Emacs Is My Browser",
+     "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+     "score": 8,
+     "by": "nyc111",
+     "time": 1794756081,
+     "comments": 1
     },
     {
      "id": 50502988,
      "title": "Court denies motion to dismiss DRAM price fixing case",
      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-     "score": 343,
+     "score": 360,
      "by": "ybathaee",
      "time": 1794705516,
-     "comments": 143
+     "comments": 149
     },
     {
      "id": 50481321,
      "title": "What thousands of conversations look like inside a language model",
      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-     "score": 50,
+     "score": 56,
      "by": "josip208",
      "time": 1794565561,
-     "comments": 16
-    },
-    {
-     "id": 50501887,
-     "title": "The Telephone Changed the World",
-     "url": "https://lithub.com/how-the-telephone-changed-the-world/",
-     "score": 15,
-     "by": "NaOH",
-     "time": 1794696969,
-     "comments": 4
+     "comments": 18
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T15:42:49.105231+00:00",
+   "fetched_at": "2026-11-15T16:12:55.340074+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T15:42:50.302797+00:00",
+   "fetched_at": "2026-11-15T16:12:56.678296+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7706,
+     "stars": 7711,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 2492,
+     "stars": 2543,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2116,
+     "stars": 2120,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1980,
+     "stars": 1996,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1587,
+     "stars": 1590,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1539,
+     "stars": 1541,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1535,
+     "stars": 1537,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1475,
+     "stars": 1476,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1229,
+     "stars": 1232,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 1109,
+     "stars": 1115,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T15:42:50.699686+00:00",
+   "fetched_at": "2026-11-15T16:12:57.077666+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T15:42:50.766219+00:00",
+   "fetched_at": "2026-11-15T16:12:57.131835+00:00",
    "stale": false,
    "items": [
     {
