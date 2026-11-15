@@ -1,60 +1,51 @@
 {
- "generated_at": "2026-11-14T23:39:14.245649+00:00",
+ "generated_at": "2026-11-15T00:09:19.556694+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-14T23:39:12.664710+00:00",
+   "fetched_at": "2026-11-15T00:09:17.051380+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50500963,
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "score": 526,
+     "by": "ls612",
+     "time": 1794691344,
+     "comments": 327
+    },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 569,
+     "score": 589,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 232
-    },
-    {
-     "id": 50501844,
-     "title": "L3Harris Statement on the Nov. 13 Ground Stop",
-     "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
-     "score": 16,
-     "by": "taspeotis",
-     "time": 1794696704,
-     "comments": 6
-    },
-    {
-     "id": 50500963,
-     "title": "SpaceX Catches the Starship to end Flight 15",
-     "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-     "score": 469,
-     "by": "ls612",
-     "time": 1794691344,
-     "comments": 290
-    },
-    {
-     "id": 50499038,
-     "title": "A Family Tree of Software Job Titles",
-     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 175,
-     "by": "umerf",
-     "time": 1794678319,
-     "comments": 81
+     "comments": 244
     },
     {
      "id": 50501594,
      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 20,
+     "score": 38,
      "by": "Skyfall106",
      "time": 1794694969,
-     "comments": 5
+     "comments": 8
+    },
+    {
+     "id": 50499038,
+     "title": "A family tree of software job titles",
+     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+     "score": 185,
+     "by": "umerf",
+     "time": 1794678319,
+     "comments": 86
     },
     {
      "id": 50496976,
      "title": "KDE: The documentary [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 352,
+     "score": 361,
      "by": "mrkn1",
      "time": 1794663808,
      "comments": 75
@@ -63,60 +54,69 @@
      "id": 50497892,
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 188,
+     "score": 193,
      "by": "rbanffy",
      "time": 1794670852,
-     "comments": 85
+     "comments": 87
     },
     {
-     "id": 50464467,
-     "title": "Possible Futures",
-     "url": "https://borretti.me/article/possible-futures",
-     "score": 45,
-     "by": "varjag",
-     "time": 1794471711,
-     "comments": 33
+     "id": 50501631,
+     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+     "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+     "score": 65,
+     "by": "madihaa",
+     "time": 1794695190,
+     "comments": 34
     },
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 482,
+     "score": 486,
      "by": "casi",
      "time": 1794320165,
-     "comments": 273
-    },
-    {
-     "id": 50471874,
-     "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-     "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-     "score": 71,
-     "by": "NaOH",
-     "time": 1794508086,
-     "comments": 40
+     "comments": 274
     },
     {
      "id": 50453901,
      "title": "Seagate's new hybrid drive raises some old questions",
      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-     "score": 60,
+     "score": 62,
      "by": "PaulHoule",
      "time": 1794407529,
-     "comments": 33
+     "comments": 37
     },
     {
      "id": 50496811,
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "score": 150,
+     "score": 155,
      "by": "acossta",
      "time": 1794662443,
-     "comments": 34
+     "comments": 36
+    },
+    {
+     "id": 50497589,
+     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "score": 147,
+     "by": "VaibhaavTiwari",
+     "time": 1794668655,
+     "comments": 8
+    },
+    {
+     "id": 50471874,
+     "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+     "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+     "score": 74,
+     "by": "NaOH",
+     "time": 1794508086,
+     "comments": 41
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-14T23:39:13.632823+00:00",
+   "fetched_at": "2026-11-15T00:09:18.163453+00:00",
    "stale": false,
    "items": [
     {
@@ -157,24 +157,16 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-14T23:39:13.782487+00:00",
+   "fetched_at": "2026-11-15T00:09:19.019346+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7555,
+     "stars": 7560,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
-    },
-    {
-     "full_name": "jhaizhou-ops/S2Arm",
-     "url": "https://github.com/jhaizhou-ops/S2Arm",
-     "stars": 2984,
-     "language": "C#",
-     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. \u628a\u4f60\u81ea\u5df1\u7684 Switch \u6e38\u620f\u539f\u751f\u5e26\u5230 iPhone / iPad / Mac\u3002",
-     "created_at": "2026-11-08T05:49:46Z"
     },
     {
      "full_name": "Kianuni/Erosion-CN",
@@ -187,7 +179,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1829,
+     "stars": 1835,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +187,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1730,
+     "stars": 1740,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -203,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1497,
+     "stars": 1498,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +203,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1480,
+     "stars": 1484,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -227,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1181,
+     "stars": 1182,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -239,11 +231,19 @@
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
+    },
+    {
+     "full_name": "adriadam10/mkw-recomp",
+     "url": "https://github.com/adriadam10/mkw-recomp",
+     "stars": 920,
+     "language": "C",
+     "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+     "created_at": "2026-11-09T15:40:06Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-14T23:39:14.114804+00:00",
+   "fetched_at": "2026-11-15T00:09:19.399995+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 158,
-     "comments": 135,
+     "reactions": 159,
+     "comments": 136,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-14T23:39:14.127627+00:00",
+   "fetched_at": "2026-11-15T00:09:19.415980+00:00",
    "stale": false,
    "items": [
     {
