@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T05:10:22.261379+00:00",
+ "generated_at": "2026-11-15T05:40:29.003662+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T05:10:19.237265+00:00",
+   "fetched_at": "2026-11-15T05:40:25.235375+00:00",
    "stale": false,
    "items": [
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 934,
+     "score": 965,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 638
+     "comments": 656
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 719,
+     "score": 734,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 292
+     "comments": 295
     },
     {
      "id": 50504072,
      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
      "url": "https://github.com/matheuzgomes/gawain",
-     "score": 9,
+     "score": 16,
      "by": "MarinhoD",
      "time": 1794717565,
-     "comments": 0
-    },
-    {
-     "id": 50504077,
-     "title": "Kiri \u2013 The Modern Container Runtime",
-     "url": "https://runkiri.com/",
-     "score": 9,
-     "by": "nikolay",
-     "time": 1794717641,
-     "comments": 2
+     "comments": 3
     },
     {
      "id": 50501594,
      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 152,
+     "score": 158,
      "by": "Skyfall106",
      "time": 1794694969,
-     "comments": 57
+     "comments": 64
     },
     {
      "id": 50503731,
      "title": "Osint Case Studies",
      "url": "https://osintsearch.org/blog/osint-case-studies",
-     "score": 9,
+     "score": 12,
      "by": "maiama",
      "time": 1794713621,
+     "comments": 1
+    },
+    {
+     "id": 50503930,
+     "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+     "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+     "score": 8,
+     "by": "tthanh2k6",
+     "time": 1794715751,
      "comments": 0
     },
     {
      "id": 50503255,
      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-     "score": 134,
+     "score": 150,
      "by": "nobody9999",
      "time": 1794708054,
-     "comments": 27
-    },
-    {
-     "id": 50499038,
-     "title": "A family tree of software job titles",
-     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 252,
-     "by": "umerf",
-     "time": 1794678319,
-     "comments": 123
+     "comments": 30
     },
     {
      "id": 50482222,
      "title": "The Evolving Story of How Chemistry Became Biology",
      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-     "score": 14,
+     "score": 18,
      "by": "pseudolus",
      "time": 1794570919,
      "comments": 0
     },
     {
-     "id": 50503930,
-     "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
-     "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-     "score": 5,
-     "by": "tthanh2k6",
-     "time": 1794715751,
-     "comments": 0
-    },
-    {
-     "id": 50501631,
-     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-     "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-     "score": 355,
-     "by": "madihaa",
-     "time": 1794695190,
-     "comments": 182
+     "id": 50499038,
+     "title": "A family tree of software job titles",
+     "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+     "score": 259,
+     "by": "umerf",
+     "time": 1794678319,
+     "comments": 128
     },
     {
      "id": 50496976,
      "title": "KDE: The documentary [video]",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 420,
+     "score": 423,
      "by": "mrkn1",
      "time": 1794663808,
      "comments": 91
+    },
+    {
+     "id": 50501631,
+     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+     "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+     "score": 375,
+     "by": "madihaa",
+     "time": 1794695190,
+     "comments": 190
+    },
+    {
+     "id": 50483431,
+     "title": "500 Lines or Less A 3D Modeller",
+     "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+     "score": 33,
+     "by": "myth_drannon",
+     "time": 1794577662,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T05:10:20.310826+00:00",
+   "fetched_at": "2026-11-15T05:40:27.087178+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T05:10:21.326082+00:00",
+   "fetched_at": "2026-11-15T05:40:28.053908+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7609,
+     "stars": 7614,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2074,
+     "stars": 2075,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1870,
+     "stars": 1874,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1862,
+     "stars": 1870,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1516,
+     "stars": 1519,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1414,
+     "stars": 1415,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1199,
+     "stars": 1200,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1050,
+     "stars": 1051,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 954,
+     "stars": 964,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T05:10:21.697965+00:00",
+   "fetched_at": "2026-11-15T05:40:28.438610+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 127,
+     "reactions": 126,
      "comments": 21,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -266,8 +266,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 160,
-     "comments": 140,
+     "reactions": 161,
+     "comments": 141,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T05:10:21.755080+00:00",
+   "fetched_at": "2026-11-15T05:40:28.555083+00:00",
    "stale": false,
    "items": [
     {
