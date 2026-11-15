@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T03:40:06.943906+00:00",
+ "generated_at": "2026-11-15T04:10:12.161260+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T03:40:04.055122+00:00",
+   "fetched_at": "2026-11-15T04:10:08.865949+00:00",
    "stale": false,
    "items": [
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 856,
+     "score": 875,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 584
+     "comments": 605
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 692,
+     "score": 701,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 283
+     "comments": 289
     },
     {
      "id": 50501594,
      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 134,
+     "score": 140,
      "by": "Skyfall106",
      "time": 1794694969,
-     "comments": 45
+     "comments": 53
     },
     {
      "id": 50499038,
      "title": "A family tree of software job titles",
      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 234,
+     "score": 240,
      "by": "umerf",
      "time": 1794678319,
-     "comments": 113
-    },
-    {
-     "id": 50501631,
-     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-     "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-     "score": 281,
-     "by": "madihaa",
-     "time": 1794695190,
-     "comments": 153
-    },
-    {
-     "id": 50496976,
-     "title": "KDE: The documentary [video]",
-     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 405,
-     "by": "mrkn1",
-     "time": 1794663808,
-     "comments": 87
+     "comments": 116
     },
     {
      "id": 50503255,
      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-     "score": 68,
+     "score": 84,
      "by": "nobody9999",
      "time": 1794708054,
-     "comments": 10
+     "comments": 15
     },
     {
-     "id": 50497892,
-     "title": "PyPI's redesigned project pages with clearer security signals are now live",
-     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 215,
-     "by": "rbanffy",
-     "time": 1794670852,
-     "comments": 94
+     "id": 50501631,
+     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+     "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+     "score": 311,
+     "by": "madihaa",
+     "time": 1794695190,
+     "comments": 167
+    },
+    {
+     "id": 50496976,
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "score": 409,
+     "by": "mrkn1",
+     "time": 1794663808,
+     "comments": 88
     },
     {
      "id": 50483431,
      "title": "500 Lines or Less A 3D Modeller",
      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-     "score": 20,
+     "score": 25,
      "by": "myth_drannon",
      "time": 1794577662,
      "comments": 1
     },
     {
+     "id": 50482222,
+     "title": "The Evolving Story of How Chemistry Became Biology",
+     "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+     "score": 8,
+     "by": "pseudolus",
+     "time": 1794570919,
+     "comments": 0
+    },
+    {
+     "id": 50497892,
+     "title": "PyPI's redesigned project pages with clearer security signals are now live",
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+     "score": 218,
+     "by": "rbanffy",
+     "time": 1794670852,
+     "comments": 95
+    },
+    {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 527,
+     "score": 528,
      "by": "casi",
      "time": 1794320165,
-     "comments": 286
+     "comments": 288
     },
     {
      "id": 50475692,
      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
-     "score": 11,
+     "score": 12,
      "by": "CharlesW",
      "time": 1794524663,
      "comments": 0
-    },
-    {
-     "id": 50455732,
-     "title": "Oxford Molecular Motors",
-     "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-     "score": 24,
-     "by": "handfuloflight",
-     "time": 1794416768,
-     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T03:40:05.132261+00:00",
+   "fetched_at": "2026-11-15T04:10:10.094023+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T03:40:06.063870+00:00",
+   "fetched_at": "2026-11-15T04:10:11.061823+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7591,
+     "stars": 7597,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2064,
+     "stars": 2067,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1854,
+     "stars": 1862,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1833,
+     "stars": 1843,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1509,
+     "stars": 1511,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1503,
+     "stars": 1504,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1411,
+     "stars": 1413,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1191,
+     "stars": 1194,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 943,
+     "stars": 948,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,22 +243,22 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T03:40:06.450780+00:00",
+   "fetched_at": "2026-11-15T04:10:11.456982+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 125,
-     "comments": 20,
+     "reactions": 127,
+     "comments": 21,
      "published_at": "2026-11-12T15:30:50Z"
     },
     {
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 141,
+     "reactions": 142,
      "comments": 39,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -283,7 +283,7 @@
      "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
      "author": "Maame Afua A. P. Fordjour ",
      "reactions": 161,
-     "comments": 64,
+     "comments": 65,
      "published_at": "2026-11-09T23:02:37Z"
     },
     {
@@ -306,14 +306,14 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 88,
+     "reactions": 89,
      "comments": 5,
      "published_at": "2026-11-13T18:28:11Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T03:40:06.502848+00:00",
+   "fetched_at": "2026-11-15T04:10:11.653210+00:00",
    "stale": false,
    "items": [
     {
