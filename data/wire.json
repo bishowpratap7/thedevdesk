@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T14:42:41.224751+00:00",
+ "generated_at": "2026-11-15T15:12:46.159696+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T14:42:37.118370+00:00",
+   "fetched_at": "2026-11-15T15:12:42.525825+00:00",
    "stale": false,
    "items": [
     {
      "id": 50506719,
      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-     "score": 69,
+     "score": 102,
      "by": "MacAnorak",
      "time": 1794748522,
-     "comments": 36
-    },
-    {
-     "id": 50500963,
-     "title": "SpaceX catches the Starship to end Flight 15",
-     "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 1403,
-     "by": "ls612",
-     "time": 1794691344,
-     "comments": 934
-    },
-    {
-     "id": 50505271,
-     "title": "Why did some Apollo missions carry a grenade launcher?",
-     "url": "https://space.stackexchange.com/questions/37775",
-     "score": 110,
-     "by": "Skyfall106",
-     "time": 1794733603,
-     "comments": 67
-    },
-    {
-     "id": 50506376,
-     "title": "Understanding Positional Embeddings in Modern LLMs",
-     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-     "score": 38,
-     "by": "vismit2000",
-     "time": 1794744846,
-     "comments": 0
+     "comments": 56
     },
     {
      "id": 50506894,
      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
      "url": "https://prog21.dadgum.com/116.html",
-     "score": 17,
+     "score": 41,
      "by": "ksec",
      "time": 1794750256,
-     "comments": 2
+     "comments": 7
+    },
+    {
+     "id": 50500963,
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "score": 1425,
+     "by": "ls612",
+     "time": 1794691344,
+     "comments": 943
     },
     {
      "id": 50507206,
      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-     "score": 4,
+     "score": 17,
      "by": "rbanffy",
      "time": 1794753112,
-     "comments": 1
+     "comments": 7
     },
     {
-     "id": 50502988,
-     "title": "Court denies motion to dismiss DRAM price fixing case",
-     "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-     "score": 315,
-     "by": "ybathaee",
-     "time": 1794705516,
-     "comments": 125
-    },
-    {
-     "id": 50499017,
-     "title": "Lovable apps expose passport details and more than 200K private messages",
-     "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 909,
-     "by": "armcat",
-     "time": 1794678190,
-     "comments": 344
-    },
-    {
-     "id": 50481321,
-     "title": "What thousands of conversations look like inside a language model",
-     "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-     "score": 39,
-     "by": "josip208",
-     "time": 1794565561,
-     "comments": 10
+     "id": 50506376,
+     "title": "Understanding Positional Embeddings in Modern LLMs",
+     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+     "score": 61,
+     "by": "vismit2000",
+     "time": 1794744846,
+     "comments": 0
     },
     {
      "id": 50506588,
      "title": "A NES emulator written in Odin",
      "url": "https://lucypero.com/lucynes.html",
-     "score": 14,
+     "score": 31,
      "by": "frostbyte7",
      "time": 1794747107,
      "comments": 0
     },
     {
+     "id": 50505271,
+     "title": "Why did some Apollo missions carry a grenade launcher?",
+     "url": "https://space.stackexchange.com/questions/37775",
+     "score": 122,
+     "by": "Skyfall106",
+     "time": 1794733603,
+     "comments": 75
+    },
+    {
+     "id": 50499017,
+     "title": "Lovable apps expose passport details and more than 200K private messages",
+     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "score": 917,
+     "by": "armcat",
+     "time": 1794678190,
+     "comments": 349
+    },
+    {
+     "id": 50502988,
+     "title": "Court denies motion to dismiss DRAM price fixing case",
+     "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+     "score": 329,
+     "by": "ybathaee",
+     "time": 1794705516,
+     "comments": 134
+    },
+    {
+     "id": 50481321,
+     "title": "What thousands of conversations look like inside a language model",
+     "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+     "score": 45,
+     "by": "josip208",
+     "time": 1794565561,
+     "comments": 12
+    },
+    {
+     "id": 50501887,
+     "title": "The Telephone Changed the World",
+     "url": "https://lithub.com/how-the-telephone-changed-the-world/",
+     "score": 11,
+     "by": "NaOH",
+     "time": 1794696969,
+     "comments": 2
+    },
+    {
      "id": 50475759,
      "title": "Chasing an audio artifact on power loss",
      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-     "score": 14,
+     "score": 18,
      "by": "ireflect",
      "time": 1794525085,
      "comments": 1
-    },
-    {
-     "id": 50474529,
-     "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-     "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-     "score": 40,
-     "by": "nephihaha",
-     "time": 1794518821,
-     "comments": 24
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T14:42:38.882941+00:00",
+   "fetched_at": "2026-11-15T15:12:43.996992+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T14:42:40.109464+00:00",
+   "fetched_at": "2026-11-15T15:12:45.197462+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7697,
+     "stars": 7702,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 2365,
+     "stars": 2436,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2112,
+     "stars": 2113,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1964,
+     "stars": 1973,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1579,
+     "stars": 1581,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1537,
+     "stars": 1538,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "agentes-chat/agentes-chat",
      "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1468,
+     "stars": 1470,
      "language": "TypeScript",
      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
      "created_at": "2026-11-09T00:50:28Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1224,
+     "stars": 1226,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 1096,
+     "stars": 1101,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T14:42:40.596222+00:00",
+   "fetched_at": "2026-11-15T15:12:45.593528+00:00",
    "stale": false,
    "items": [
     {
@@ -298,8 +298,8 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 89,
-     "comments": 5,
+     "reactions": 94,
+     "comments": 6,
      "published_at": "2026-11-13T18:28:11Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T14:42:40.711621+00:00",
+   "fetched_at": "2026-11-15T15:12:45.690102+00:00",
    "stale": false,
    "items": [
     {
