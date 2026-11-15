@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T11:41:50.537397+00:00",
+ "generated_at": "2026-11-15T11:42:05.610178+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T11:41:46.815932+00:00",
+   "fetched_at": "2026-11-15T11:42:01.923067+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T11:41:48.387911+00:00",
+   "fetched_at": "2026-11-15T11:42:03.514791+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T11:41:49.526585+00:00",
+   "fetched_at": "2026-11-15T11:42:04.716619+00:00",
    "stale": false,
    "items": [
     {
@@ -187,7 +187,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1929,
+     "stars": 1928,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T11:41:49.877893+00:00",
+   "fetched_at": "2026-11-15T11:42:05.107571+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T11:41:49.909323+00:00",
+   "fetched_at": "2026-11-15T11:42:05.182173+00:00",
    "stale": false,
    "items": [
     {
