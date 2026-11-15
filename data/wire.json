@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T01:09:26.992576+00:00",
+ "generated_at": "2026-11-15T01:39:33.642816+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T01:09:25.367880+00:00",
+   "fetched_at": "2026-11-15T01:39:32.058476+00:00",
    "stale": false,
    "items": [
     {
      "id": 50500963,
      "title": "SpaceX catches the Starship to end Flight 15",
      "url": "https://www.spacex.com/launches/starship-flight-15",
-     "score": 638,
+     "score": 691,
      "by": "ls612",
      "time": 1794691344,
-     "comments": 436
+     "comments": 460
     },
     {
      "id": 50499017,
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "url": "https://www.crissyfield.de/research/lovable-en/",
-     "score": 623,
+     "score": 641,
      "by": "armcat",
      "time": 1794678190,
-     "comments": 259
+     "comments": 271
     },
     {
      "id": 50501594,
      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-     "score": 74,
+     "score": 86,
      "by": "Skyfall106",
      "time": 1794694969,
-     "comments": 24
+     "comments": 27
     },
     {
      "id": 50499038,
      "title": "A family tree of software job titles",
      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-     "score": 198,
+     "score": 205,
      "by": "umerf",
      "time": 1794678319,
-     "comments": 96
-    },
-    {
-     "id": 50496976,
-     "title": "KDE: The documentary [video]",
-     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-     "score": 375,
-     "by": "mrkn1",
-     "time": 1794663808,
-     "comments": 81
+     "comments": 101
     },
     {
      "id": 50501631,
      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-     "score": 140,
+     "score": 174,
      "by": "madihaa",
      "time": 1794695190,
-     "comments": 75
+     "comments": 91
+    },
+    {
+     "id": 50496976,
+     "title": "KDE: The documentary [video]",
+     "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "score": 384,
+     "by": "mrkn1",
+     "time": 1794663808,
+     "comments": 82
     },
     {
      "id": 50497892,
      "title": "PyPI's redesigned project pages with clearer security signals are now live",
      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-     "score": 200,
+     "score": 203,
      "by": "rbanffy",
      "time": 1794670852,
-     "comments": 90
+     "comments": 92
     },
     {
      "id": 50440709,
      "title": "Why get an expensive Pi when I have an old phone?",
      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-     "score": 499,
+     "score": 509,
      "by": "casi",
      "time": 1794320165,
-     "comments": 280
+     "comments": 282
+    },
+    {
+     "id": 50455732,
+     "title": "Oxford Molecular Motors",
+     "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+     "score": 8,
+     "by": "handfuloflight",
+     "time": 1794416768,
+     "comments": 1
     },
     {
      "id": 50497589,
      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "score": 166,
+     "score": 175,
      "by": "VaibhaavTiwari",
      "time": 1794668655,
      "comments": 8
     },
     {
-     "id": 50453901,
-     "title": "Seagate's new hybrid drive raises some old questions",
-     "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-     "score": 66,
-     "by": "PaulHoule",
-     "time": 1794407529,
-     "comments": 38
-    },
-    {
      "id": 50496811,
      "title": "Advancing science and engineering with Antigravity's /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-     "score": 158,
+     "score": 162,
      "by": "acossta",
      "time": 1794662443,
-     "comments": 36
+     "comments": 37
     },
     {
-     "id": 50444891,
-     "title": "Write your own kernel optimiser",
-     "url": "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
-     "score": 14,
-     "by": "speckx",
-     "time": 1794338236,
-     "comments": 0
+     "id": 50453901,
+     "title": "Seagate's new hybrid drive raises some old questions",
+     "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+     "score": 70,
+     "by": "PaulHoule",
+     "time": 1794407529,
+     "comments": 39
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T01:09:26.377901+00:00",
+   "fetched_at": "2026-11-15T01:39:32.985816+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T01:09:26.556883+00:00",
+   "fetched_at": "2026-11-15T01:39:33.137337+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "huamidev/GestaltX",
      "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7569,
+     "stars": 7574,
      "language": "Swift",
      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
      "created_at": "2026-11-09T05:15:48Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2057,
+     "stars": 2060,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 1841,
+     "stars": 1844,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 1757,
+     "stars": 1769,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1492,
+     "stars": 1496,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "HolyArrs/HolyArrs",
      "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1184,
+     "stars": 1185,
      "language": "Go",
      "description": "One self-hosted app for your shows, movies and music.",
      "created_at": "2026-11-09T23:53:25Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "adriadam10/mkw-recomp",
      "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 927,
+     "stars": 930,
      "language": "C",
      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
      "created_at": "2026-11-09T15:40:06Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T01:09:26.869768+00:00",
+   "fetched_at": "2026-11-15T01:39:33.471783+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 123,
+     "reactions": 125,
      "comments": 19,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -258,7 +258,7 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 142,
+     "reactions": 141,
      "comments": 39,
      "published_at": "2026-11-09T16:12:25Z"
     },
@@ -266,8 +266,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 159,
-     "comments": 136,
+     "reactions": 160,
+     "comments": 137,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T01:09:26.886974+00:00",
+   "fetched_at": "2026-11-15T01:39:33.528603+00:00",
    "stale": false,
    "items": [
     {
