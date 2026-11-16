@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T11:48:15.736909+00:00",
+ "generated_at": "2026-11-16T12:18:22.467709+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T11:48:10.727789+00:00",
+   "fetched_at": "2026-11-16T12:18:17.616354+00:00",
    "stale": false,
    "items": [
     {
      "id": 50516245,
      "title": "Coffeehouses and the Rise of Science [pdf]",
      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-     "score": 24,
+     "score": 45,
      "by": "Michelangelo11",
      "time": 1794826996,
-     "comments": 5
-    },
-    {
-     "id": 50514470,
-     "title": "How to make almost anything",
-     "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 367,
-     "by": "o4c",
-     "time": 1794808237,
-     "comments": 68
-    },
-    {
-     "id": 50513160,
-     "title": "Universal XSS in uBlock Origin from website-driven element picker",
-     "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 410,
-     "by": "zaik",
-     "time": 1794794688,
-     "comments": 119
+     "comments": 20
     },
     {
      "id": 50516232,
      "title": "Doing Show HN generates a ton of automated email pitches",
      "url": "https://petervandijck.com/post/pbrgs-ev0bc",
-     "score": 9,
+     "score": 38,
      "by": "petervandijck",
      "time": 1794826802,
-     "comments": 4
+     "comments": 30
+    },
+    {
+     "id": 50514470,
+     "title": "How to make almost anything",
+     "url": "https://pub.cba.mit.edu/863.26/site/",
+     "score": 388,
+     "by": "o4c",
+     "time": 1794808237,
+     "comments": 73
+    },
+    {
+     "id": 50516473,
+     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+     "score": 11,
+     "by": "sammatilda",
+     "time": 1794829171,
+     "comments": 1
+    },
+    {
+     "id": 50513160,
+     "title": "Universal XSS in uBlock Origin from website-driven element picker",
+     "url": "https://iter.ca/post/ubo-uxss/",
+     "score": 418,
+     "by": "zaik",
+     "time": 1794794688,
+     "comments": 120
     },
     {
      "id": 50486745,
      "title": "Researchers track whole body movement with just a smartwatch",
      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "score": 70,
+     "score": 76,
      "by": "PaulHoule",
      "time": 1794590989,
-     "comments": 12
+     "comments": 15
     },
     {
      "id": 50513215,
      "title": "Qwen4-Max",
      "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 588,
+     "score": 608,
      "by": "ilreb",
      "time": 1794795284,
-     "comments": 248
-    },
-    {
-     "id": 50487628,
-     "title": "Exact Gradients Through a BRep Kernel",
-     "url": "https://muni.works/research/vcad",
-     "score": 13,
-     "by": "ecto",
-     "time": 1794594294,
-     "comments": 0
+     "comments": 259
     },
     {
      "id": 50511395,
      "title": "Old Bitly links are being hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 305,
+     "score": 312,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 158
+     "comments": 159
     },
     {
      "id": 50512235,
      "title": "What's Next for Nvidia?",
      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 286,
+     "score": 296,
      "by": "zdw",
      "time": 1794786955,
-     "comments": 369
+     "comments": 377
+    },
+    {
+     "id": 50487628,
+     "title": "Exact Gradients Through a BRep Kernel",
+     "url": "https://muni.works/research/vcad",
+     "score": 16,
+     "by": "ecto",
+     "time": 1794594294,
+     "comments": 3
     },
     {
      "id": 50512441,
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "score": 166,
+     "score": 170,
      "by": "aillia",
      "time": 1794788514,
-     "comments": 48
+     "comments": 49
     },
     {
-     "id": 50509837,
-     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-     "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 365,
-     "by": "bcye",
-     "time": 1794770782,
-     "comments": 60
-    },
-    {
-     "id": 50489536,
-     "title": "I Can't Believe It Can Sort",
-     "url": "https://yugen-tsuki.github.io/unbelievablesort.html",
-     "score": 25,
-     "by": "Muhammad523",
-     "time": 1794603370,
-     "comments": 31
+     "id": 50515616,
+     "title": "It's always DNS, so why are we running our own?",
+     "url": "https://s2.dev/blog/dns-server",
+     "score": 12,
+     "by": "misker1",
+     "time": 1794820778,
+     "comments": 6
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T11:48:12.116625+00:00",
+   "fetched_at": "2026-11-16T12:18:19.012285+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T11:48:14.237389+00:00",
+   "fetched_at": "2026-11-16T12:18:21.079073+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3796,
+     "stars": 3819,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2349,
+     "stars": 2354,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1920,
+     "stars": 1922,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1759,
+     "stars": 1763,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1638,
+     "stars": 1641,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1347,
+     "stars": 1365,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1302,
+     "stars": 1320,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1233,
+     "stars": 1288,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1228,
+     "stars": 1235,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T11:48:14.949274+00:00",
+   "fetched_at": "2026-11-16T12:18:21.756094+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 186,
-     "comments": 166,
+     "comments": 168,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,14 +313,14 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T11:48:15.046305+00:00",
+   "fetched_at": "2026-11-16T12:18:21.909888+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "none",
-     "description": "All Systems Operational"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "Cloudflare",
