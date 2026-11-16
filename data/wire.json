@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T00:45:02.755058+00:00",
+ "generated_at": "2026-11-16T01:15:11.843493+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T00:44:57.240862+00:00",
+   "fetched_at": "2026-11-16T01:15:07.645052+00:00",
    "stale": false,
    "items": [
     {
      "id": 50511395,
      "title": "Old Bitly Links Are Being Hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 135,
+     "score": 148,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 66
+     "comments": 78
     },
     {
      "id": 50511806,
      "title": "Preserving 30 Years of Salon Journalism",
      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 51,
+     "score": 61,
      "by": "CharlesW",
      "time": 1794783611,
-     "comments": 9
+     "comments": 11
     },
     {
-     "id": 50509837,
-     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-     "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 141,
-     "by": "bcye",
-     "time": 1794770782,
-     "comments": 32
-    },
-    {
-     "id": 50511718,
-     "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-     "url": "https://lastcomplication.com/",
-     "score": 23,
-     "by": "tdeangelis",
-     "time": 1794782932,
-     "comments": 4
-    },
-    {
-     "id": 50509308,
-     "title": "A short explainer on how El Ni\u00f1o works [video]",
-     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 163,
-     "by": "nharada",
-     "time": 1794767001,
-     "comments": 65
-    },
-    {
-     "id": 50510296,
-     "title": "WebGL Flight Simulator with seed generated terrain",
-     "url": "https://baron.by.dai.studio/",
-     "score": 75,
-     "by": "ranger_danger",
-     "time": 1794774005,
-     "comments": 10
-    },
-    {
-     "id": 50509023,
-     "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-     "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-     "score": 156,
-     "by": "gumby",
-     "time": 1794765211,
-     "comments": 116
+     "id": 50512235,
+     "title": "What's Next for Nvidia?",
+     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+     "score": 24,
+     "by": "zdw",
+     "time": 1794786955,
+     "comments": 12
     },
     {
      "id": 50512231,
      "title": "Mini.nvim Is Now on Tangled",
      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
-     "score": 11,
+     "score": 24,
      "by": "nerdypepper",
      "time": 1794786941,
-     "comments": 1
+     "comments": 7
     },
     {
-     "id": 50509972,
-     "title": "Handwriting, as a Font",
-     "url": "https://ductus.sorenblank.com",
-     "score": 107,
-     "by": "coinfused",
-     "time": 1794771733,
-     "comments": 26
+     "id": 50509837,
+     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+     "url": "https://bruceroettgers.eu/blog/protomaps/",
+     "score": 154,
+     "by": "bcye",
+     "time": 1794770782,
+     "comments": 34
+    },
+    {
+     "id": 50509308,
+     "title": "A short explainer on how El Ni\u00f1o works [video]",
+     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+     "score": 174,
+     "by": "nharada",
+     "time": 1794767001,
+     "comments": 71
+    },
+    {
+     "id": 50510296,
+     "title": "WebGL Flight Simulator with seed generated terrain",
+     "url": "https://baron.by.dai.studio/",
+     "score": 84,
+     "by": "ranger_danger",
+     "time": 1794774005,
+     "comments": 11
+    },
+    {
+     "id": 50509023,
+     "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+     "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+     "score": 163,
+     "by": "gumby",
+     "time": 1794765211,
+     "comments": 122
     },
     {
      "id": 50506719,
      "title": "The MacBook Pro's OLED PWM problem",
      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-     "score": 411,
+     "score": 417,
      "by": "MacAnorak",
      "time": 1794748522,
-     "comments": 229
+     "comments": 231
+    },
+    {
+     "id": 50509972,
+     "title": "Handwriting, as a Font",
+     "url": "https://ductus.sorenblank.com",
+     "score": 117,
+     "by": "coinfused",
+     "time": 1794771733,
+     "comments": 30
     },
     {
      "id": 50463399,
      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-     "score": 325,
+     "score": 331,
      "by": "envoked",
      "time": 1794461364,
-     "comments": 160
+     "comments": 164
     },
     {
-     "id": 50509411,
-     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-     "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-     "score": 360,
-     "by": "DeepLogin",
-     "time": 1794767770,
-     "comments": 175
+     "id": 50511718,
+     "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+     "url": "https://lastcomplication.com/",
+     "score": 36,
+     "by": "tdeangelis",
+     "time": 1794782932,
+     "comments": 5
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T00:44:59.968011+00:00",
+   "fetched_at": "2026-11-16T01:15:09.249981+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T00:45:01.362835+00:00",
+   "fetched_at": "2026-11-16T01:15:10.664113+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 2972,
+     "stars": 3020,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2210,
+     "stars": 2215,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2130,
+     "stars": 2131,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1650,
+     "stars": 1653,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1555,
+     "stars": 1557,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1137,
+     "stars": 1189,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1080,
+     "stars": 1087,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1022,
+     "stars": 1033,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1004,
+     "stars": 1022,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T00:45:01.809832+00:00",
+   "fetched_at": "2026-11-16T01:15:11.093778+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 174,
-     "comments": 156,
+     "comments": 157,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -290,7 +290,7 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 95,
+     "reactions": 96,
      "comments": 9,
      "published_at": "2026-11-13T18:28:11Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T00:45:02.141278+00:00",
+   "fetched_at": "2026-11-16T01:15:11.254686+00:00",
    "stale": false,
    "items": [
     {
