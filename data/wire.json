@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T03:45:58.593841+00:00",
+ "generated_at": "2026-11-16T04:16:04.855136+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T03:45:54.016954+00:00",
+   "fetched_at": "2026-11-16T04:16:00.455479+00:00",
    "stale": false,
    "items": [
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 102,
+     "score": 135,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 15
+     "comments": 27
     },
     {
      "id": 50513215,
      "title": "Qwen4-Max",
      "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 141,
+     "score": 185,
      "by": "ilreb",
      "time": 1794795284,
-     "comments": 27
+     "comments": 51
     },
     {
      "id": 50511395,
      "title": "Old Bitly links are being hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 205,
+     "score": 213,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 109
+     "comments": 114
     },
     {
      "id": 50512235,
      "title": "What's Next for Nvidia?",
      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 108,
+     "score": 133,
      "by": "zdw",
      "time": 1794786955,
-     "comments": 123
-    },
-    {
-     "id": 50512824,
-     "title": "Coles hit by a cybersecurity incident",
-     "url": "https://www.colesgroup.com.au/updates/",
-     "score": 60,
-     "by": "sagunsh",
-     "time": 1794791675,
-     "comments": 41
-    },
-    {
-     "id": 50511806,
-     "title": "Preserving 30 years of Salon journalism",
-     "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 93,
-     "by": "CharlesW",
-     "time": 1794783611,
-     "comments": 29
+     "comments": 151
     },
     {
      "id": 50512441,
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "score": 61,
+     "score": 70,
      "by": "aillia",
      "time": 1794788514,
-     "comments": 8
+     "comments": 14
+    },
+    {
+     "id": 50512824,
+     "title": "Coles hit by a cybersecurity incident",
+     "url": "https://www.colesgroup.com.au/updates/",
+     "score": 72,
+     "by": "sagunsh",
+     "time": 1794791675,
+     "comments": 48
+    },
+    {
+     "id": 50511806,
+     "title": "Preserving 30 years of Salon journalism",
+     "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+     "score": 104,
+     "by": "CharlesW",
+     "time": 1794783611,
+     "comments": 31
     },
     {
      "id": 50509837,
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 208,
+     "score": 219,
      "by": "bcye",
      "time": 1794770782,
-     "comments": 46
-    },
-    {
-     "id": 50509308,
-     "title": "A short explainer on how El Ni\u00f1o works [video]",
-     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 192,
-     "by": "nharada",
-     "time": 1794767001,
-     "comments": 85
+     "comments": 47
     },
     {
      "id": 50484998,
      "title": "Do we still have to denormalize? Have your schema and search it too",
      "url": "https://www.paradedb.com/blog/joins",
-     "score": 23,
+     "score": 34,
      "by": "philippemnoel",
      "time": 1794583910,
-     "comments": 2
+     "comments": 3
+    },
+    {
+     "id": 50479405,
+     "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+     "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+     "score": 7,
+     "by": "mutexjp",
+     "time": 1794553121,
+     "comments": 0
+    },
+    {
+     "id": 50509308,
+     "title": "A short explainer on how El Ni\u00f1o works [video]",
+     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+     "score": 194,
+     "by": "nharada",
+     "time": 1794767001,
+     "comments": 86
     },
     {
      "id": 50509023,
      "title": "Crows make decisions faster than we can",
      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-     "score": 186,
+     "score": 189,
      "by": "gumby",
      "time": 1794765211,
-     "comments": 139
-    },
-    {
-     "id": 50506719,
-     "title": "The MacBook Pro's OLED PWM problem",
-     "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-     "score": 433,
-     "by": "MacAnorak",
-     "time": 1794748522,
-     "comments": 244
+     "comments": 141
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T03:45:55.759393+00:00",
+   "fetched_at": "2026-11-16T04:16:02.296595+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T03:45:57.297014+00:00",
+   "fetched_at": "2026-11-16T04:16:03.724344+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3290,
+     "stars": 3326,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2248,
+     "stars": 2250,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2143,
+     "stars": 2145,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u7b80\u4f53\u4e2d\u6587\u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1673,
+     "stars": 1675,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1578,
+     "stars": 1580,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1472,
+     "stars": 1541,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1230,
+     "stars": 1231,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1157,
+     "stars": 1172,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1101,
+     "stars": 1116,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1092,
+     "stars": 1096,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T03:45:57.752491+00:00",
+   "fetched_at": "2026-11-16T04:16:04.186008+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T03:45:57.920808+00:00",
+   "fetched_at": "2026-11-16T04:16:04.283265+00:00",
    "stale": false,
    "items": [
     {
