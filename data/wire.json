@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T19:20:23.651951+00:00",
+ "generated_at": "2026-11-16T19:50:29.750795+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T19:20:19.097822+00:00",
+   "fetched_at": "2026-11-16T19:50:25.314730+00:00",
    "stale": false,
    "items": [
     {
      "id": 50521045,
      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "score": 61,
+     "score": 223,
      "by": "samk3nny",
      "time": 1794853890,
-     "comments": 15
+     "comments": 115
     },
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 93,
+     "score": 111,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 77
+     "comments": 95
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 152,
+     "score": 176,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 38
-    },
-    {
-     "id": 50516473,
-     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 249,
-     "by": "sammatilda",
-     "time": 1794829171,
-     "comments": 99
-    },
-    {
-     "id": 50520270,
-     "title": "Aristotle Expands into Rust",
-     "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
-     "score": 36,
-     "by": "maufl",
-     "time": 1794850481,
-     "comments": 14
+     "comments": 42
     },
     {
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 63,
+     "score": 97,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 29
+     "comments": 53
+    },
+    {
+     "id": 50520270,
+     "title": "Aristotle Expands into Rust",
+     "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+     "score": 47,
+     "by": "maufl",
+     "time": 1794850481,
+     "comments": 24
+    },
+    {
+     "id": 50516473,
+     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+     "score": 255,
+     "by": "sammatilda",
+     "time": 1794829171,
+     "comments": 101
+    },
+    {
+     "id": 50520866,
+     "title": "Software is breaking down at a systemic level",
+     "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+     "score": 117,
+     "by": "zero_shift",
+     "time": 1794853037,
+     "comments": 88
     },
     {
      "id": 50520518,
      "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
      "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-     "score": 26,
+     "score": 35,
      "by": "speckx",
      "time": 1794851543,
-     "comments": 3
-    },
-    {
-     "id": 50517488,
-     "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
-     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-     "score": 616,
-     "by": "DeepLogin",
-     "time": 1794836347,
-     "comments": 384
-    },
-    {
-     "id": 50514470,
-     "title": "How to make almost anything",
-     "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 756,
-     "by": "o4c",
-     "time": 1794808237,
-     "comments": 126
+     "comments": 6
     },
     {
      "id": 50519345,
      "title": "Jolt \u2013 Clojure that speaks C",
      "url": "https://jolt-lang.net/",
-     "score": 29,
+     "score": 41,
      "by": "michaelsbradley",
      "time": 1794846181,
-     "comments": 7
+     "comments": 10
     },
     {
-     "id": 50520697,
-     "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
-     "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
-     "score": 37,
-     "by": "Betelbuddy",
-     "time": 1794852295,
-     "comments": 24
+     "id": 50517488,
+     "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
+     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+     "score": 646,
+     "by": "DeepLogin",
+     "time": 1794836347,
+     "comments": 396
     },
     {
-     "id": 50497746,
-     "title": "Smallest possible nopert polyhedra: the Septopert",
-     "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
-     "score": 30,
-     "by": "RebelPotato",
-     "time": 1794669750,
-     "comments": 3
+     "id": 50514470,
+     "title": "How to make almost anything",
+     "url": "https://pub.cba.mit.edu/863.26/site/",
+     "score": 769,
+     "by": "o4c",
+     "time": 1794808237,
+     "comments": 129
+    },
+    {
+     "id": 50443844,
+     "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+     "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+     "score": 10,
+     "by": "bookofjoe",
+     "time": 1794333794,
+     "comments": 6
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T19:20:20.755657+00:00",
+   "fetched_at": "2026-11-16T19:50:27.036919+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T19:20:22.239345+00:00",
+   "fetched_at": "2026-11-16T19:50:28.144738+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3998,
+     "stars": 4003,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2433,
+     "stars": 2439,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2193,
+     "stars": 2194,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2120,
+     "stars": 2121,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1825,
+     "stars": 1829,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1652,
+     "stars": 1653,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1599,
+     "stars": 1606,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1108,
+     "stars": 1110,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T19:20:22.769810+00:00",
+   "fetched_at": "2026-11-16T19:50:28.787860+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 136,
+     "reactions": 137,
      "comments": 24,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -258,8 +258,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 192,
-     "comments": 173,
+     "reactions": 194,
+     "comments": 175,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 103,
+     "reactions": 104,
      "comments": 46,
      "published_at": "2026-11-13T15:56:26Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T19:20:22.861654+00:00",
+   "fetched_at": "2026-11-16T19:50:28.918201+00:00",
    "stale": false,
    "items": [
     {
