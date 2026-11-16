@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T14:19:07.951361+00:00",
+ "generated_at": "2026-11-16T14:49:14.140239+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T14:19:03.210923+00:00",
+   "fetched_at": "2026-11-16T14:49:09.835672+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50517602,
+     "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
+     "url": "https://jack.cab/blog/siterate",
+     "score": 106,
+     "by": "dverlaeckt80",
+     "time": 1794837098,
+     "comments": 17
+    },
+    {
+     "id": 50517488,
+     "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings\u2013 1 in 10 Cost More",
+     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+     "score": 51,
+     "by": "DeepLogin",
+     "time": 1794836347,
+     "comments": 39
+    },
     {
      "id": 50516473,
      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 94,
+     "score": 111,
      "by": "sammatilda",
      "time": 1794829171,
-     "comments": 36
+     "comments": 50
     },
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 489,
+     "score": 513,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 91
+     "comments": 97
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 484,
+     "score": 493,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 138
-    },
-    {
-     "id": 50516245,
-     "title": "Coffeehouses and the Rise of Science [pdf]",
-     "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-     "score": 105,
-     "by": "Michelangelo11",
-     "time": 1794826996,
-     "comments": 64
+     "comments": 141
     },
     {
      "id": 50486745,
      "title": "Researchers track whole body movement with just a smartwatch",
      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "score": 108,
+     "score": 116,
      "by": "PaulHoule",
      "time": 1794590989,
-     "comments": 34
+     "comments": 33
     },
     {
      "id": 50490159,
      "title": "OOS \u2013 an open operating system for the Rigol Scopes",
      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
-     "score": 48,
+     "score": 53,
      "by": "qwezxcrty",
      "time": 1794605819,
-     "comments": 13
-    },
-    {
-     "id": 50513215,
-     "title": "Qwen4-Max",
-     "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 679,
-     "by": "ilreb",
-     "time": 1794795284,
-     "comments": 318
-    },
-    {
-     "id": 50512235,
-     "title": "What's Next for Nvidia?",
-     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 346,
-     "by": "zdw",
-     "time": 1794786955,
-     "comments": 421
-    },
-    {
-     "id": 50511395,
-     "title": "Old Bitly links are being hijacked",
-     "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 330,
-     "by": "hspeiser",
-     "time": 1794780703,
-     "comments": 165
+     "comments": 14
     },
     {
      "id": 50515058,
      "title": "\u201c\u2026and the proof is checked in Lean\u201d",
      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-     "score": 96,
+     "score": 110,
      "by": "matt_d",
      "time": 1794814699,
-     "comments": 39
+     "comments": 46
     },
     {
-     "id": 50515182,
-     "title": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME",
-     "url": "https://github.com/ages2001/WINUDF",
-     "score": 40,
-     "by": "Oxodao",
-     "time": 1794816013,
-     "comments": 3
+     "id": 50513215,
+     "title": "Qwen4-Max",
+     "url": "https://qwen.ai/blog?id=qwen4-max",
+     "score": 693,
+     "by": "ilreb",
+     "time": 1794795284,
+     "comments": 332
     },
     {
-     "id": 50509837,
-     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-     "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 401,
-     "by": "bcye",
-     "time": 1794770782,
-     "comments": 68
+     "id": 50516245,
+     "title": "Coffeehouses and the Rise of Science [pdf]",
+     "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+     "score": 112,
+     "by": "Michelangelo11",
+     "time": 1794826996,
+     "comments": 71
+    },
+    {
+     "id": 50512235,
+     "title": "What's Next for Nvidia?",
+     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+     "score": 355,
+     "by": "zdw",
+     "time": 1794786955,
+     "comments": 444
+    },
+    {
+     "id": 50511395,
+     "title": "Old Bitly links are being hijacked",
+     "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+     "score": 331,
+     "by": "hspeiser",
+     "time": 1794780703,
+     "comments": 166
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T14:19:05.189225+00:00",
+   "fetched_at": "2026-11-16T14:49:11.476711+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T14:19:06.773854+00:00",
+   "fetched_at": "2026-11-16T14:49:12.894035+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3886,
+     "stars": 3896,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2386,
+     "stars": 2396,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2179,
+     "stars": 2183,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1941,
+     "stars": 1974,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1784,
+     "stars": 1793,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1644,
+     "stars": 1646,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1433,
+     "stars": 1450,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1357,
+     "stars": 1364,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1257,
+     "stars": 1261,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1036,
+     "stars": 1054,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T14:19:07.462835+00:00",
+   "fetched_at": "2026-11-16T14:49:13.394452+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T14:19:07.483094+00:00",
+   "fetched_at": "2026-11-16T14:49:13.679380+00:00",
    "stale": false,
    "items": [
     {
