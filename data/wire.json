@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T12:48:30.640424+00:00",
+ "generated_at": "2026-11-16T12:48:47.882625+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T12:48:24.446075+00:00",
+   "fetched_at": "2026-11-16T12:48:43.185883+00:00",
    "stale": false,
    "items": [
     {
@@ -81,7 +81,7 @@
      "id": 50487628,
      "title": "Exact Gradients Through a BRep Kernel",
      "url": "https://muni.works/research/vcad",
-     "score": 19,
+     "score": 20,
      "by": "ecto",
      "time": 1794594294,
      "comments": 3
@@ -93,7 +93,7 @@
      "score": 307,
      "by": "zdw",
      "time": 1794786955,
-     "comments": 385
+     "comments": 386
     },
     {
      "id": 50512441,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T12:48:27.321594+00:00",
+   "fetched_at": "2026-11-16T12:48:45.679819+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T12:48:29.411291+00:00",
+   "fetched_at": "2026-11-16T12:48:47.008545+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T12:48:30.068735+00:00",
+   "fetched_at": "2026-11-16T12:48:47.490587+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T12:48:30.185111+00:00",
+   "fetched_at": "2026-11-16T12:48:47.566255+00:00",
    "stale": false,
    "items": [
     {
