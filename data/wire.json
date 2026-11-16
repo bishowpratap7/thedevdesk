@@ -1,87 +1,96 @@
 {
- "generated_at": "2026-11-16T10:17:54.665252+00:00",
+ "generated_at": "2026-11-16T10:48:01.963313+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T10:17:49.782841+00:00",
+   "fetched_at": "2026-11-16T10:47:57.177974+00:00",
    "stale": false,
    "items": [
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 293,
+     "score": 315,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 51
+     "comments": 55
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 372,
+     "score": 384,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 101
-    },
-    {
-     "id": 50513215,
-     "title": "Qwen4-Max",
-     "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 524,
-     "by": "ilreb",
-     "time": 1794795284,
-     "comments": 213
-    },
-    {
-     "id": 50511395,
-     "title": "Old Bitly links are being hijacked",
-     "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 289,
-     "by": "hspeiser",
-     "time": 1794780703,
-     "comments": 151
+     "comments": 110
     },
     {
      "id": 50486745,
      "title": "Researchers track whole body movement with just a smartwatch",
      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "score": 36,
+     "score": 47,
      "by": "PaulHoule",
      "time": 1794590989,
-     "comments": 6
+     "comments": 7
+    },
+    {
+     "id": 50513215,
+     "title": "Qwen4-Max",
+     "url": "https://qwen.ai/blog?id=qwen4-max",
+     "score": 544,
+     "by": "ilreb",
+     "time": 1794795284,
+     "comments": 228
+    },
+    {
+     "id": 50511395,
+     "title": "Old Bitly links are being hijacked",
+     "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+     "score": 297,
+     "by": "hspeiser",
+     "time": 1794780703,
+     "comments": 155
     },
     {
      "id": 50512235,
      "title": "What's Next for Nvidia?",
      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 269,
+     "score": 274,
      "by": "zdw",
      "time": 1794786955,
-     "comments": 338
+     "comments": 347
     },
     {
      "id": 50512441,
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "score": 155,
+     "score": 161,
      "by": "aillia",
      "time": 1794788514,
-     "comments": 43
+     "comments": 45
     },
     {
      "id": 50509837,
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 346,
+     "score": 351,
      "by": "bcye",
      "time": 1794770782,
      "comments": 57
     },
     {
+     "id": 50515058,
+     "title": "\u201c\u2026and the proof is checked in Lean\u201d",
+     "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+     "score": 22,
+     "by": "matt_d",
+     "time": 1794814699,
+     "comments": 3
+    },
+    {
      "id": 50511806,
      "title": "Preserving 30 years of Salon journalism",
      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 151,
+     "score": 155,
      "by": "CharlesW",
      "time": 1794783611,
      "comments": 39
@@ -90,7 +99,7 @@
      "id": 50462816,
      "title": "The Lasting Influence of John Berger",
      "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-     "score": 23,
+     "score": 25,
      "by": "prismatic",
      "time": 1794455073,
      "comments": 0
@@ -99,24 +108,15 @@
      "id": 50509308,
      "title": "A short explainer on how El Ni\u00f1o works [video]",
      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 242,
+     "score": 245,
      "by": "nharada",
      "time": 1794767001,
-     "comments": 106
-    },
-    {
-     "id": 50509972,
-     "title": "Handwriting, as a Font",
-     "url": "https://ductus.sorenblank.com",
-     "score": 297,
-     "by": "coinfused",
-     "time": 1794771733,
-     "comments": 57
+     "comments": 112
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T10:17:51.131893+00:00",
+   "fetched_at": "2026-11-16T10:47:58.482168+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T10:17:53.104486+00:00",
+   "fetched_at": "2026-11-16T10:48:00.606340+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3745,
+     "stars": 3763,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2326,
+     "stars": 2331,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1895,
+     "stars": 1910,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1743,
+     "stars": 1746,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1633,
+     "stars": 1634,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1317,
+     "stars": 1323,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1272,
+     "stars": 1278,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1209,
+     "stars": 1212,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T10:17:53.698360+00:00",
+   "fetched_at": "2026-11-16T10:48:01.315176+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 186,
-     "comments": 164,
+     "comments": 165,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T10:17:53.911978+00:00",
+   "fetched_at": "2026-11-16T10:48:01.476572+00:00",
    "stale": false,
    "items": [
     {
