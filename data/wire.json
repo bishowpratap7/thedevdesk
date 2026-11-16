@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T18:50:17.516666+00:00",
+ "generated_at": "2026-11-16T19:20:23.651951+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T18:50:13.193039+00:00",
+   "fetched_at": "2026-11-16T19:20:19.097822+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50521045,
+     "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "score": 61,
+     "by": "samk3nny",
+     "time": 1794853890,
+     "comments": 15
+    },
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 77,
+     "score": 93,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 52
+     "comments": 77
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 120,
+     "score": 152,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 31
-    },
-    {
-     "id": 50520804,
-     "title": "OpenAI: Strengthening the fight against online child sexual abuse",
-     "url": "https://openai.com/index/strengthening-online-child-safety/",
-     "score": 18,
-     "by": "rossant",
-     "time": 1794852768,
-     "comments": 7
+     "comments": 38
     },
     {
      "id": 50516473,
      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 245,
+     "score": 249,
      "by": "sammatilda",
      "time": 1794829171,
-     "comments": 95
+     "comments": 99
     },
     {
      "id": 50520270,
      "title": "Aristotle Expands into Rust",
      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
-     "score": 27,
+     "score": 36,
      "by": "maufl",
      "time": 1794850481,
-     "comments": 8
-    },
-    {
-     "id": 50520518,
-     "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-     "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-     "score": 19,
-     "by": "speckx",
-     "time": 1794851543,
-     "comments": 1
-    },
-    {
-     "id": 50517488,
-     "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
-     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-     "score": 585,
-     "by": "DeepLogin",
-     "time": 1794836347,
-     "comments": 359
+     "comments": 14
     },
     {
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 35,
+     "score": 63,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 15
+     "comments": 29
+    },
+    {
+     "id": 50520518,
+     "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+     "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+     "score": 26,
+     "by": "speckx",
+     "time": 1794851543,
+     "comments": 3
+    },
+    {
+     "id": 50517488,
+     "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
+     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+     "score": 616,
+     "by": "DeepLogin",
+     "time": 1794836347,
+     "comments": 384
     },
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 735,
+     "score": 756,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 119
+     "comments": 126
     },
     {
      "id": 50519345,
      "title": "Jolt \u2013 Clojure that speaks C",
      "url": "https://jolt-lang.net/",
-     "score": 19,
+     "score": 29,
      "by": "michaelsbradley",
      "time": 1794846181,
-     "comments": 1
+     "comments": 7
     },
     {
-     "id": 50513160,
-     "title": "Universal XSS in uBlock Origin from website-driven element picker",
-     "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 570,
-     "by": "zaik",
-     "time": 1794794688,
-     "comments": 163
+     "id": 50520697,
+     "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+     "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+     "score": 37,
+     "by": "Betelbuddy",
+     "time": 1794852295,
+     "comments": 24
     },
     {
      "id": 50497746,
      "title": "Smallest possible nopert polyhedra: the Septopert",
      "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
-     "score": 23,
+     "score": 30,
      "by": "RebelPotato",
      "time": 1794669750,
-     "comments": 2
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T18:50:14.745003+00:00",
+   "fetched_at": "2026-11-16T19:20:20.755657+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T18:50:16.216931+00:00",
+   "fetched_at": "2026-11-16T19:20:22.239345+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3996,
+     "stars": 3998,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2430,
+     "stars": 2433,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2119,
+     "stars": 2120,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1822,
+     "stars": 1825,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1592,
+     "stars": 1599,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1416,
+     "stars": 1417,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1287,
+     "stars": 1289,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T18:50:16.779337+00:00",
+   "fetched_at": "2026-11-16T19:20:22.769810+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T18:50:16.882508+00:00",
+   "fetched_at": "2026-11-16T19:20:22.861654+00:00",
    "stale": false,
    "items": [
     {
