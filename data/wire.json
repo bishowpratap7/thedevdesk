@@ -1,69 +1,78 @@
 {
- "generated_at": "2026-11-16T03:15:51.924209+00:00",
+ "generated_at": "2026-11-16T03:45:58.593841+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T03:15:47.518587+00:00",
+   "fetched_at": "2026-11-16T03:45:54.016954+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50513215,
-     "title": "Qwen4-Max",
-     "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 73,
-     "by": "ilreb",
-     "time": 1794795284,
-     "comments": 10
-    },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 68,
+     "score": 102,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 9
+     "comments": 15
+    },
+    {
+     "id": 50513215,
+     "title": "Qwen4-Max",
+     "url": "https://qwen.ai/blog?id=qwen4-max",
+     "score": 141,
+     "by": "ilreb",
+     "time": 1794795284,
+     "comments": 27
     },
     {
      "id": 50511395,
      "title": "Old Bitly links are being hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 199,
+     "score": 205,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 105
+     "comments": 109
+    },
+    {
+     "id": 50512235,
+     "title": "What's Next for Nvidia?",
+     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+     "score": 108,
+     "by": "zdw",
+     "time": 1794786955,
+     "comments": 123
     },
     {
      "id": 50512824,
      "title": "Coles hit by a cybersecurity incident",
      "url": "https://www.colesgroup.com.au/updates/",
-     "score": 55,
+     "score": 60,
      "by": "sagunsh",
      "time": 1794791675,
-     "comments": 31
+     "comments": 41
     },
     {
      "id": 50511806,
      "title": "Preserving 30 years of Salon journalism",
      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 85,
+     "score": 93,
      "by": "CharlesW",
      "time": 1794783611,
-     "comments": 24
+     "comments": 29
     },
     {
      "id": 50512441,
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "score": 51,
+     "score": 61,
      "by": "aillia",
      "time": 1794788514,
-     "comments": 7
+     "comments": 8
     },
     {
      "id": 50509837,
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 203,
+     "score": 208,
      "by": "bcye",
      "time": 1794770782,
      "comments": 46
@@ -72,51 +81,42 @@
      "id": 50509308,
      "title": "A short explainer on how El Ni\u00f1o works [video]",
      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 186,
+     "score": 192,
      "by": "nharada",
      "time": 1794767001,
-     "comments": 84
+     "comments": 85
+    },
+    {
+     "id": 50484998,
+     "title": "Do we still have to denormalize? Have your schema and search it too",
+     "url": "https://www.paradedb.com/blog/joins",
+     "score": 23,
+     "by": "philippemnoel",
+     "time": 1794583910,
+     "comments": 2
     },
     {
      "id": 50509023,
      "title": "Crows make decisions faster than we can",
      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-     "score": 182,
+     "score": 186,
      "by": "gumby",
      "time": 1794765211,
-     "comments": 136
+     "comments": 139
     },
     {
      "id": 50506719,
      "title": "The MacBook Pro's OLED PWM problem",
      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-     "score": 430,
+     "score": 433,
      "by": "MacAnorak",
      "time": 1794748522,
-     "comments": 241
-    },
-    {
-     "id": 50510296,
-     "title": "WebGL Flight Simulator with seed generated terrain",
-     "url": "https://baron.by.dai.studio/",
-     "score": 98,
-     "by": "ranger_danger",
-     "time": 1794774005,
-     "comments": 12
-    },
-    {
-     "id": 50509972,
-     "title": "Handwriting, as a Font",
-     "url": "https://ductus.sorenblank.com",
-     "score": 149,
-     "by": "coinfused",
-     "time": 1794771733,
-     "comments": 39
+     "comments": 244
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T03:15:49.285497+00:00",
+   "fetched_at": "2026-11-16T03:45:55.759393+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T03:15:50.739936+00:00",
+   "fetched_at": "2026-11-16T03:45:57.297014+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3241,
+     "stars": 3290,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2241,
+     "stars": 2248,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1672,
+     "stars": 1673,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1576,
+     "stars": 1578,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1415,
+     "stars": 1472,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-     "stars": 1229,
+     "stars": 1230,
      "language": "Visual Basic .NET",
      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
      "created_at": "2026-11-12T20:49:07Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1140,
+     "stars": 1157,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1086,
+     "stars": 1101,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1080,
+     "stars": 1092,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T03:15:51.173179+00:00",
+   "fetched_at": "2026-11-16T03:45:57.752491+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 177,
-     "comments": 159,
+     "reactions": 178,
+     "comments": 160,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T03:15:51.378225+00:00",
+   "fetched_at": "2026-11-16T03:45:57.920808+00:00",
    "stale": false,
    "items": [
     {
