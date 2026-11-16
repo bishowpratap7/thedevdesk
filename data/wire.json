@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T22:21:03.863208+00:00",
+ "generated_at": "2026-11-16T22:51:10.559521+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T22:20:59.118382+00:00",
+   "fetched_at": "2026-11-16T22:51:05.745701+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50521045,
-     "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "score": 624,
-     "by": "samk3nny",
-     "time": 1794853890,
-     "comments": 475
-    },
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 80,
+     "score": 214,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 18
+     "comments": 42
+    },
+    {
+     "id": 50524225,
+     "title": "How to Break into Security, Ptacek Edition",
+     "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+     "score": 35,
+     "by": "ronfriedhaber",
+     "time": 1794867563,
+     "comments": 4
     },
     {
      "id": 50522563,
      "title": "Rust changed me as a developer",
      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-     "score": 77,
+     "score": 111,
      "by": "speckx",
      "time": 1794860210,
-     "comments": 34
+     "comments": 55
+    },
+    {
+     "id": 50523601,
+     "title": "BugMeNot Has Closed",
+     "url": "https://www.bugmenot.com/",
+     "score": 136,
+     "by": "lode",
+     "time": 1794864737,
+     "comments": 73
     },
     {
      "id": 50523784,
      "title": "Spamhaus new email sender requirements in November",
      "url": "https://www.spamhaus.org/sender-guidelines/",
-     "score": 20,
+     "score": 37,
      "by": "computer23",
      "time": 1794865639,
-     "comments": 12
+     "comments": 25
     },
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 170,
+     "score": 181,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 144
+     "comments": 163
+    },
+    {
+     "id": 50521045,
+     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "score": 652,
+     "by": "samk3nny",
+     "time": 1794853890,
+     "comments": 513
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 256,
+     "score": 268,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 54
+     "comments": 58
     },
     {
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 232,
+     "score": 242,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 152
+     "comments": 160
+    },
+    {
+     "id": 50523459,
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 35,
+     "by": "mfiguiere",
+     "time": 1794864037,
+     "comments": 14
     },
     {
      "id": 50515151,
      "title": "Squircles",
      "url": "https://linebender.org/wiki/curves/squircle/",
-     "score": 76,
+     "score": 89,
      "by": "raphlinus",
      "time": 1794815710,
-     "comments": 26
+     "comments": 33
     },
     {
-     "id": 50523291,
-     "title": "My Quest to push native Three.js quality match AAA Game Engines",
-     "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-     "score": 43,
-     "by": "bhouston",
-     "time": 1794863263,
-     "comments": 13
-    },
-    {
-     "id": 50522776,
-     "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
-     "url": null,
-     "score": 21,
-     "by": "arshpatankar",
-     "time": 1794860988,
+     "id": 50524165,
+     "title": "United Airlines Widespread System Outage",
+     "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+     "score": 60,
+     "by": "bearsyankees",
+     "time": 1794867278,
      "comments": 6
-    },
-    {
-     "id": 50523300,
-     "title": "Optimizely Compromised",
-     "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
-     "score": 35,
-     "by": "martinald",
-     "time": 1794863318,
-     "comments": 5
-    },
-    {
-     "id": 50522643,
-     "title": "Chemistry Is Geometry",
-     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 21,
-     "by": "sebg",
-     "time": 1794860538,
-     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T22:21:00.844865+00:00",
+   "fetched_at": "2026-11-16T22:51:07.512911+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T22:21:02.395110+00:00",
+   "fetched_at": "2026-11-16T22:51:09.359118+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4035,
+     "stars": 4040,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2453,
+     "stars": 2455,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2150,
+     "stars": 2159,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,10 +195,18 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1852,
+     "stars": 1855,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
+    },
+    {
+     "full_name": "Noniv/abyssal-garden",
+     "url": "https://github.com/Noniv/abyssal-garden",
+     "stars": 1663,
+     "language": "JavaScript",
+     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+     "created_at": "2026-11-12T13:57:34Z"
     },
     {
      "full_name": "HybridRobotics/supermimic",
@@ -209,17 +217,9 @@
      "created_at": "2026-11-10T10:46:56Z"
     },
     {
-     "full_name": "Noniv/abyssal-garden",
-     "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1651,
-     "language": "JavaScript",
-     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
-     "created_at": "2026-11-12T13:57:34Z"
-    },
-    {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1427,
+     "stars": 1429,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1296,
+     "stars": 1297,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1119,
+     "stars": 1123,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T22:21:02.974447+00:00",
+   "fetched_at": "2026-11-16T22:51:09.914116+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T22:21:03.057055+00:00",
+   "fetched_at": "2026-11-16T22:51:09.980038+00:00",
    "stale": false,
    "items": [
     {
