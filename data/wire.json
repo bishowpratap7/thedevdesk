@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T15:49:27.169642+00:00",
+ "generated_at": "2026-11-16T16:19:33.794203+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T15:49:22.967846+00:00",
+   "fetched_at": "2026-11-16T16:19:29.335051+00:00",
    "stale": false,
    "items": [
     {
      "id": 50516473,
      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 138,
+     "score": 161,
      "by": "sammatilda",
      "time": 1794829171,
-     "comments": 60
-    },
-    {
-     "id": 50514470,
-     "title": "How to make almost anything",
-     "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 585,
-     "by": "o4c",
-     "time": 1794808237,
-     "comments": 101
+     "comments": 71
     },
     {
      "id": 50517488,
      "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cDeals\u201d Offered No Savings",
      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-     "score": 197,
+     "score": 273,
      "by": "DeepLogin",
      "time": 1794836347,
-     "comments": 107
+     "comments": 139
     },
     {
-     "id": 50517602,
-     "title": "What is w2rt6byl5nf1opmc-a.com?",
-     "url": "https://jack.cab/blog/siterate",
-     "score": 225,
-     "by": "dverlaeckt80",
-     "time": 1794837098,
-     "comments": 80
+     "id": 50514470,
+     "title": "How to make almost anything",
+     "url": "https://pub.cba.mit.edu/863.26/site/",
+     "score": 613,
+     "by": "o4c",
+     "time": 1794808237,
+     "comments": 102
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 504,
+     "score": 516,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 146
+     "comments": 148
+    },
+    {
+     "id": 50517602,
+     "title": "What is w2rt6byl5nf1opmc-a.com?",
+     "url": "https://jack.cab/blog/siterate",
+     "score": 238,
+     "by": "dverlaeckt80",
+     "time": 1794837098,
+     "comments": 98
     },
     {
      "id": 50515058,
      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-     "score": 159,
+     "score": 177,
      "by": "matt_d",
      "time": 1794814699,
-     "comments": 57
-    },
-    {
-     "id": 50486745,
-     "title": "Researchers track whole body movement with just a smartwatch",
-     "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "score": 133,
-     "by": "PaulHoule",
-     "time": 1794590989,
-     "comments": 38
+     "comments": 66
     },
     {
      "id": 50490159,
      "title": "OOS \u2013 an open operating system for the Rigol Scopes",
      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
-     "score": 60,
+     "score": 71,
      "by": "qwezxcrty",
      "time": 1794605819,
-     "comments": 19
+     "comments": 23
+    },
+    {
+     "id": 50486745,
+     "title": "Researchers track whole body movement with just a smartwatch",
+     "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+     "score": 137,
+     "by": "PaulHoule",
+     "time": 1794590989,
+     "comments": 42
     },
     {
      "id": 50513215,
      "title": "Qwen4-Max",
      "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 731,
+     "score": 747,
      "by": "ilreb",
      "time": 1794795284,
-     "comments": 366
+     "comments": 376
     },
     {
      "id": 50512235,
      "title": "What's Next for Nvidia?",
      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 377,
+     "score": 393,
      "by": "zdw",
      "time": 1794786955,
-     "comments": 481
+     "comments": 494
+    },
+    {
+     "id": 50517352,
+     "title": "Show HN: OpenTodo \u2013 a self-hosted, local-first task manager in one Go binary",
+     "url": "https://github.com/OpenTodoApp/OpenTodo",
+     "score": 10,
+     "by": "pixari8383",
+     "time": 1794835313,
+     "comments": 3
     },
     {
      "id": 50511395,
      "title": "Old Bitly links are being hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 339,
+     "score": 346,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 174
-    },
-    {
-     "id": 50515182,
-     "title": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME",
-     "url": "https://github.com/ages2001/WINUDF",
-     "score": 52,
-     "by": "Oxodao",
-     "time": 1794816013,
-     "comments": 6
+     "comments": 179
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T15:49:24.713732+00:00",
+   "fetched_at": "2026-11-16T16:19:31.056425+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T15:49:26.175448+00:00",
+   "fetched_at": "2026-11-16T16:19:32.600289+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3935,
+     "stars": 3954,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2405,
+     "stars": 2415,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2187,
+     "stars": 2188,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2024,
+     "stars": 2055,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1799,
+     "stars": 1805,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1649,
+     "stars": 1650,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1489,
+     "stars": 1516,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1379,
+     "stars": 1389,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1274,
+     "stars": 1280,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1071,
+     "stars": 1082,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T15:49:26.694640+00:00",
+   "fetched_at": "2026-11-16T16:19:33.187729+00:00",
    "stale": false,
    "items": [
     {
@@ -255,19 +255,11 @@
      "published_at": "2026-11-12T15:30:50Z"
     },
     {
-     "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
-     "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
-     "author": "Ben Halpern",
-     "reactions": 144,
-     "comments": 40,
-     "published_at": "2026-11-09T16:12:25Z"
-    },
-    {
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 189,
-     "comments": 170,
+     "reactions": 192,
+     "comments": 171,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -287,14 +279,6 @@
      "published_at": "2026-11-13T18:28:11Z"
     },
     {
-     "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World \ud83c\udfdb\ufe0f",
-     "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
-     "author": "Dhruv Jani",
-     "reactions": 154,
-     "comments": 47,
-     "published_at": "2026-11-09T15:30:54Z"
-    },
-    {
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
@@ -303,24 +287,40 @@
      "published_at": "2026-11-13T15:56:26Z"
     },
     {
+     "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+     "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+     "author": "Earl Grey",
+     "reactions": 56,
+     "comments": 16,
+     "published_at": "2026-11-15T04:00:28Z"
+    },
+    {
      "title": "A 10 years old developer who has become a DEV.to Trusted Member! \ud83d\ude31",
      "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
      "author": "S\u1d1b\u1d00\u0280\u2b50",
      "reactions": 96,
      "comments": 48,
      "published_at": "2026-11-12T11:18:53Z"
+    },
+    {
+     "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+     "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+     "author": "xulingfeng",
+     "reactions": 112,
+     "comments": 110,
+     "published_at": "2026-11-11T08:35:15Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T15:49:26.734263+00:00",
+   "fetched_at": "2026-11-16T16:19:33.292951+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "minor",
-     "description": "Partially Degraded Service"
+     "indicator": "none",
+     "description": "All Systems Operational"
     },
     {
      "name": "Cloudflare",
