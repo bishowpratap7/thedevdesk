@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-15T23:44:48.758002+00:00",
+ "generated_at": "2026-11-16T00:14:55.087148+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-15T23:44:44.569133+00:00",
+   "fetched_at": "2026-11-16T00:14:50.494770+00:00",
    "stale": false,
    "items": [
     {
      "id": 50511395,
      "title": "Old Bitly Links Are Being Hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 84,
+     "score": 119,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 44
-    },
-    {
-     "id": 50511899,
-     "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-     "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
-     "score": 16,
-     "by": "mikhael",
-     "time": 1794784358,
-     "comments": 4
+     "comments": 58
     },
     {
      "id": 50511806,
      "title": "Preserving 30 Years of Salon Journalism",
      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 18,
+     "score": 36,
      "by": "CharlesW",
      "time": 1794783611,
-     "comments": 4
+     "comments": 8
     },
     {
      "id": 50509837,
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 104,
+     "score": 125,
      "by": "bcye",
      "time": 1794770782,
-     "comments": 29
+     "comments": 32
     },
     {
      "id": 50509308,
      "title": "A short explainer on how El Ni\u00f1o works [video]",
      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 145,
+     "score": 155,
      "by": "nharada",
      "time": 1794767001,
-     "comments": 50
+     "comments": 60
     },
     {
      "id": 50510296,
      "title": "WebGL Flight Simulator with seed generated terrain",
      "url": "https://baron.by.dai.studio/",
-     "score": 56,
+     "score": 67,
      "by": "ranger_danger",
      "time": 1794774005,
-     "comments": 8
-    },
-    {
-     "id": 50509023,
-     "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-     "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-     "score": 138,
-     "by": "gumby",
-     "time": 1794765211,
-     "comments": 103
-    },
-    {
-     "id": 50506719,
-     "title": "The MacBook Pro's OLED PWM problem",
-     "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-     "score": 393,
-     "by": "MacAnorak",
-     "time": 1794748522,
-     "comments": 215
+     "comments": 9
     },
     {
      "id": 50509972,
      "title": "Handwriting, as a Font",
      "url": "https://ductus.sorenblank.com",
-     "score": 79,
+     "score": 94,
      "by": "coinfused",
      "time": 1794771733,
-     "comments": 17
+     "comments": 22
     },
     {
-     "id": 50510799,
-     "title": "Your Agent Will Pick the Hackable One",
-     "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-     "score": 65,
-     "by": "tensafefrogs",
-     "time": 1794777039,
-     "comments": 38
+     "id": 50509023,
+     "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+     "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+     "score": 150,
+     "by": "gumby",
+     "time": 1794765211,
+     "comments": 109
+    },
+    {
+     "id": 50506719,
+     "title": "The MacBook Pro's OLED PWM problem",
+     "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+     "score": 402,
+     "by": "MacAnorak",
+     "time": 1794748522,
+     "comments": 226
     },
     {
      "id": 50511718,
      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
      "url": "https://lastcomplication.com/",
-     "score": 7,
+     "score": 15,
      "by": "tdeangelis",
      "time": 1794782932,
-     "comments": 1
+     "comments": 3
+    },
+    {
+     "id": 50511982,
+     "title": "Jensen Huang might return to Nvidia as CEO",
+     "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+     "score": 68,
+     "by": "YakubYilmaz",
+     "time": 1794785093,
+     "comments": 39
     },
     {
      "id": 50463399,
      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-     "score": 302,
+     "score": 317,
      "by": "envoked",
      "time": 1794461364,
-     "comments": 154
+     "comments": 158
+    },
+    {
+     "id": 50509411,
+     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+     "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+     "score": 343,
+     "by": "DeepLogin",
+     "time": 1794767770,
+     "comments": 164
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-15T23:44:46.055775+00:00",
+   "fetched_at": "2026-11-16T00:14:52.259643+00:00",
    "stale": false,
    "items": [
     {
@@ -157,21 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-15T23:44:47.548987+00:00",
+   "fetched_at": "2026-11-16T00:14:53.795072+00:00",
    "stale": false,
    "items": [
     {
-     "full_name": "huamidev/GestaltX",
-     "url": "https://github.com/huamidev/GestaltX",
-     "stars": 7734,
-     "language": "Swift",
-     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-     "created_at": "2026-11-09T05:15:48Z"
-    },
-    {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 2927,
+     "stars": 2948,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2196,
+     "stars": 2206,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -195,7 +187,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1638,
+     "stars": 1644,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -209,22 +201,6 @@
      "created_at": "2026-11-10T10:46:56Z"
     },
     {
-     "full_name": "agentes-chat/agentes-chat",
-     "url": "https://github.com/agentes-chat/agentes-chat",
-     "stars": 1504,
-     "language": "TypeScript",
-     "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-     "created_at": "2026-11-09T00:50:28Z"
-    },
-    {
-     "full_name": "HolyArrs/HolyArrs",
-     "url": "https://github.com/HolyArrs/HolyArrs",
-     "stars": 1258,
-     "language": "Go",
-     "description": "One self-hosted app for your shows, movies and music.",
-     "created_at": "2026-11-09T23:53:25Z"
-    },
-    {
      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
      "stars": 1228,
@@ -233,17 +209,41 @@
      "created_at": "2026-11-12T20:49:07Z"
     },
     {
-     "full_name": "adriadam10/mkw-recomp",
-     "url": "https://github.com/adriadam10/mkw-recomp",
-     "stars": 1222,
-     "language": "C",
-     "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
-     "created_at": "2026-11-09T15:40:06Z"
+     "full_name": "hitkeeen/blender-ai-mcp-addon",
+     "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+     "stars": 1082,
+     "language": null,
+     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+     "created_at": "2026-11-12T14:32:15Z"
+    },
+    {
+     "full_name": "Noniv/abyssal-garden",
+     "url": "https://github.com/Noniv/abyssal-garden",
+     "stars": 1071,
+     "language": "JavaScript",
+     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+     "created_at": "2026-11-12T13:57:34Z"
+    },
+    {
+     "full_name": "duwqijlk/muse-protocol",
+     "url": "https://github.com/duwqijlk/muse-protocol",
+     "stars": 1015,
+     "language": "Python",
+     "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+     "created_at": "2026-11-14T01:24:58Z"
+    },
+    {
+     "full_name": "Eynnzerr/TelemetryCleaner",
+     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+     "stars": 994,
+     "language": "Kotlin",
+     "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
+     "created_at": "2026-11-11T06:25:10Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-15T23:44:48.013181+00:00",
+   "fetched_at": "2026-11-16T00:14:54.226511+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 171,
-     "comments": 154,
+     "reactions": 174,
+     "comments": 155,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-15T23:44:48.121959+00:00",
+   "fetched_at": "2026-11-16T00:14:54.434202+00:00",
    "stale": false,
    "items": [
     {
