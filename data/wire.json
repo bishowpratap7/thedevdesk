@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T09:17:40.432799+00:00",
+ "generated_at": "2026-11-16T09:47:48.099619+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T09:17:35.681003+00:00",
+   "fetched_at": "2026-11-16T09:47:43.210641+00:00",
    "stale": false,
    "items": [
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 232,
+     "score": 264,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 36
+     "comments": 46
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 337,
+     "score": 354,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 93
+     "comments": 100
     },
     {
      "id": 50513215,
      "title": "Qwen4-Max",
      "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 476,
+     "score": 492,
      "by": "ilreb",
      "time": 1794795284,
-     "comments": 187
+     "comments": 200
     },
     {
      "id": 50511395,
      "title": "Old Bitly links are being hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 274,
+     "score": 281,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 143
+     "comments": 144
     },
     {
      "id": 50512235,
      "title": "What's Next for Nvidia?",
      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 247,
+     "score": 257,
      "by": "zdw",
      "time": 1794786955,
-     "comments": 314
+     "comments": 330
     },
     {
      "id": 50486745,
      "title": "Researchers track whole body movement with just a smartwatch",
      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "score": 24,
+     "score": 29,
      "by": "PaulHoule",
      "time": 1794590989,
-     "comments": 2
+     "comments": 3
     },
     {
      "id": 50512441,
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "score": 141,
+     "score": 147,
      "by": "aillia",
      "time": 1794788514,
-     "comments": 42
+     "comments": 43
     },
     {
      "id": 50509837,
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 323,
+     "score": 332,
      "by": "bcye",
      "time": 1794770782,
-     "comments": 55
+     "comments": 56
     },
     {
      "id": 50511806,
      "title": "Preserving 30 years of Salon journalism",
      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 145,
+     "score": 148,
      "by": "CharlesW",
      "time": 1794783611,
      "comments": 38
     },
     {
-     "id": 50514093,
-     "title": "Stop Filming in Log",
-     "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-     "score": 48,
-     "by": "dabinat",
-     "time": 1794803823,
-     "comments": 31
-    },
-    {
      "id": 50509308,
      "title": "A short explainer on how El Ni\u00f1o works [video]",
      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 233,
+     "score": 238,
      "by": "nharada",
      "time": 1794767001,
-     "comments": 105
+     "comments": 106
     },
     {
      "id": 50509972,
      "title": "Handwriting, as a Font",
      "url": "https://ductus.sorenblank.com",
-     "score": 277,
+     "score": 287,
      "by": "coinfused",
      "time": 1794771733,
-     "comments": 49
+     "comments": 53
+    },
+    {
+     "id": 50462816,
+     "title": "The Lasting Influence of John Berger",
+     "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
+     "score": 18,
+     "by": "prismatic",
+     "time": 1794455073,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T09:17:37.032390+00:00",
+   "fetched_at": "2026-11-16T09:47:44.567116+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T09:17:39.099629+00:00",
+   "fetched_at": "2026-11-16T09:47:46.724808+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3702,
+     "stars": 3726,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2315,
+     "stars": 2322,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2167,
+     "stars": 2170,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1871,
+     "stars": 1877,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1733,
+     "stars": 1735,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1627,
+     "stars": 1630,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1297,
+     "stars": 1307,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1243,
+     "stars": 1255,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1194,
+     "stars": 1203,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T09:17:39.836998+00:00",
+   "fetched_at": "2026-11-16T09:47:47.414570+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 134,
+     "reactions": 135,
      "comments": 23,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -267,7 +267,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 184,
-     "comments": 163,
+     "comments": 164,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T09:17:39.896192+00:00",
+   "fetched_at": "2026-11-16T09:47:47.596666+00:00",
    "stale": false,
    "items": [
     {
