@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T07:16:48.416252+00:00",
+ "generated_at": "2026-11-16T07:47:01.470177+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T07:16:43.367232+00:00",
+   "fetched_at": "2026-11-16T07:46:56.800170+00:00",
    "stale": false,
    "items": [
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 86,
+     "score": 126,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 9
+     "comments": 19
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 274,
+     "score": 291,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 70
+     "comments": 77
     },
     {
      "id": 50513215,
      "title": "Qwen4-Max",
      "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 376,
+     "score": 401,
      "by": "ilreb",
      "time": 1794795284,
-     "comments": 129
+     "comments": 148
     },
     {
      "id": 50511395,
      "title": "Old Bitly links are being hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 253,
+     "score": 257,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 134
+     "comments": 137
     },
     {
      "id": 50512235,
      "title": "What's Next for Nvidia?",
      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 196,
+     "score": 208,
      "by": "zdw",
      "time": 1794786955,
-     "comments": 263
+     "comments": 277
     },
     {
      "id": 50512441,
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "score": 119,
+     "score": 126,
      "by": "aillia",
      "time": 1794788514,
-     "comments": 29
-    },
-    {
-     "id": 50511806,
-     "title": "Preserving 30 years of Salon journalism",
-     "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 134,
-     "by": "CharlesW",
-     "time": 1794783611,
-     "comments": 37
-    },
-    {
-     "id": 50509837,
-     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-     "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 280,
-     "by": "bcye",
-     "time": 1794770782,
-     "comments": 53
+     "comments": 31
     },
     {
      "id": 50514093,
      "title": "Stop Filming in Log",
      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-     "score": 30,
+     "score": 35,
      "by": "dabinat",
      "time": 1794803823,
-     "comments": 16
+     "comments": 21
+    },
+    {
+     "id": 50509837,
+     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+     "url": "https://bruceroettgers.eu/blog/protomaps/",
+     "score": 290,
+     "by": "bcye",
+     "time": 1794770782,
+     "comments": 54
+    },
+    {
+     "id": 50511806,
+     "title": "Preserving 30 years of Salon journalism",
+     "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+     "score": 136,
+     "by": "CharlesW",
+     "time": 1794783611,
+     "comments": 38
     },
     {
      "id": 50509308,
      "title": "A short explainer on how El Ni\u00f1o works [video]",
      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 217,
+     "score": 223,
      "by": "nharada",
      "time": 1794767001,
-     "comments": 94
+     "comments": 96
+    },
+    {
+     "id": 50484998,
+     "title": "Do we still have to denormalize? Have your schema and search it too",
+     "url": "https://www.paradedb.com/blog/joins",
+     "score": 63,
+     "by": "philippemnoel",
+     "time": 1794583910,
+     "comments": 8
     },
     {
      "id": 50509972,
      "title": "Handwriting, as a Font",
      "url": "https://ductus.sorenblank.com",
-     "score": 227,
+     "score": 237,
      "by": "coinfused",
      "time": 1794771733,
      "comments": 45
-    },
-    {
-     "id": 50462816,
-     "title": "The Lasting Influence of John Berger",
-     "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-     "score": 5,
-     "by": "prismatic",
-     "time": 1794455073,
-     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T07:16:45.523188+00:00",
+   "fetched_at": "2026-11-16T07:46:58.645081+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T07:16:47.018033+00:00",
+   "fetched_at": "2026-11-16T07:47:00.205141+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3562,
+     "stars": 3609,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2286,
+     "stars": 2290,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1842,
+     "stars": 1855,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1713,
+     "stars": 1717,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1605,
+     "stars": 1609,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1249,
+     "stars": 1264,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1197,
+     "stars": 1209,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1153,
+     "stars": 1163,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T07:16:47.546009+00:00",
+   "fetched_at": "2026-11-16T07:47:00.734196+00:00",
    "stale": false,
    "items": [
     {
@@ -306,14 +306,14 @@
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 97,
-     "comments": 39,
+     "reactions": 98,
+     "comments": 43,
      "published_at": "2026-11-13T15:56:26Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T07:16:47.686799+00:00",
+   "fetched_at": "2026-11-16T07:47:00.895326+00:00",
    "stale": false,
    "items": [
     {
