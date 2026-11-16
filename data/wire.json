@@ -1,42 +1,33 @@
 {
- "generated_at": "2026-11-16T20:20:36.093509+00:00",
+ "generated_at": "2026-11-16T20:50:42.200756+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T20:20:31.146556+00:00",
+   "fetched_at": "2026-11-16T20:50:37.736868+00:00",
    "stale": false,
    "items": [
     {
      "id": 50521045,
      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "score": 349,
+     "score": 453,
      "by": "samk3nny",
      "time": 1794853890,
-     "comments": 239
-    },
-    {
-     "id": 50520866,
-     "title": "Software is breaking down at a systemic level",
-     "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-     "score": 180,
-     "by": "zero_shift",
-     "time": 1794853037,
-     "comments": 109
+     "comments": 331
     },
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 127,
+     "score": 140,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 107
+     "comments": 108
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 199,
+     "score": 216,
      "by": "burntsushi",
      "time": 1794848019,
      "comments": 46
@@ -45,78 +36,87 @@
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 143,
+     "score": 162,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 73
+     "comments": 92
+    },
+    {
+     "id": 50522776,
+     "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
+     "url": null,
+     "score": 9,
+     "by": "arshpatankar",
+     "time": 1794860988,
+     "comments": 1
     },
     {
      "id": 50515151,
      "title": "Squircles",
      "url": "https://linebender.org/wiki/curves/squircle/",
-     "score": 18,
+     "score": 33,
      "by": "raphlinus",
      "time": 1794815710,
-     "comments": 8
-    },
-    {
-     "id": 50516473,
-     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 261,
-     "by": "sammatilda",
-     "time": 1794829171,
-     "comments": 105
+     "comments": 11
     },
     {
      "id": 50520270,
      "title": "Aristotle Expands into Rust",
      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
-     "score": 53,
+     "score": 62,
      "by": "maufl",
      "time": 1794850481,
-     "comments": 31
+     "comments": 35
     },
     {
-     "id": 50520518,
-     "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-     "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-     "score": 42,
-     "by": "speckx",
-     "time": 1794851543,
-     "comments": 10
+     "id": 50516473,
+     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+     "score": 266,
+     "by": "sammatilda",
+     "time": 1794829171,
+     "comments": 106
     },
     {
-     "id": 50521870,
-     "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
-     "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
-     "score": 11,
-     "by": "anof-cyber",
-     "time": 1794857357,
-     "comments": 0
+     "id": 50443844,
+     "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+     "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+     "score": 23,
+     "by": "bookofjoe",
+     "time": 1794333794,
+     "comments": 16
     },
     {
      "id": 50520804,
      "title": "OpenAI: Strengthening the fight against online child sexual abuse",
      "url": "https://openai.com/index/strengthening-online-child-safety/",
-     "score": 38,
+     "score": 52,
      "by": "rossant",
      "time": 1794852768,
-     "comments": 62
+     "comments": 81
     },
     {
-     "id": 50517488,
-     "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
-     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-     "score": 681,
-     "by": "DeepLogin",
-     "time": 1794836347,
-     "comments": 414
+     "id": 50520518,
+     "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+     "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+     "score": 47,
+     "by": "speckx",
+     "time": 1794851543,
+     "comments": 16
+    },
+    {
+     "id": 50520866,
+     "title": "Software is breaking down at a systemic level",
+     "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+     "score": 243,
+     "by": "zero_shift",
+     "time": 1794853037,
+     "comments": 132
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T20:20:32.834053+00:00",
+   "fetched_at": "2026-11-16T20:50:39.493921+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T20:20:34.458217+00:00",
+   "fetched_at": "2026-11-16T20:50:41.047112+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4009,
+     "stars": 4011,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2442,
+     "stars": 2445,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2122,
+     "stars": 2123,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1830,
+     "stars": 1839,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1654,
+     "stars": 1655,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1617,
+     "stars": 1623,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1419,
+     "stars": 1421,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T20:20:35.124252+00:00",
+   "fetched_at": "2026-11-16T20:50:41.505123+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T20:20:35.250373+00:00",
+   "fetched_at": "2026-11-16T20:50:41.579264+00:00",
    "stale": false,
    "items": [
     {
