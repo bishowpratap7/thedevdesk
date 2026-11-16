@@ -1,69 +1,69 @@
 {
- "generated_at": "2026-11-16T09:47:48.099619+00:00",
+ "generated_at": "2026-11-16T10:17:54.665252+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T09:47:43.210641+00:00",
+   "fetched_at": "2026-11-16T10:17:49.782841+00:00",
    "stale": false,
    "items": [
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 264,
+     "score": 293,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 46
+     "comments": 51
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 354,
+     "score": 372,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 100
+     "comments": 101
     },
     {
      "id": 50513215,
      "title": "Qwen4-Max",
      "url": "https://qwen.ai/blog?id=qwen4-max",
-     "score": 492,
+     "score": 524,
      "by": "ilreb",
      "time": 1794795284,
-     "comments": 200
+     "comments": 213
     },
     {
      "id": 50511395,
      "title": "Old Bitly links are being hijacked",
      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "score": 281,
+     "score": 289,
      "by": "hspeiser",
      "time": 1794780703,
-     "comments": 144
-    },
-    {
-     "id": 50512235,
-     "title": "What's Next for Nvidia?",
-     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "score": 257,
-     "by": "zdw",
-     "time": 1794786955,
-     "comments": 330
+     "comments": 151
     },
     {
      "id": 50486745,
      "title": "Researchers track whole body movement with just a smartwatch",
      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "score": 29,
+     "score": 36,
      "by": "PaulHoule",
      "time": 1794590989,
-     "comments": 3
+     "comments": 6
+    },
+    {
+     "id": 50512235,
+     "title": "What's Next for Nvidia?",
+     "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+     "score": 269,
+     "by": "zdw",
+     "time": 1794786955,
+     "comments": 338
     },
     {
      "id": 50512441,
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "score": 147,
+     "score": 155,
      "by": "aillia",
      "time": 1794788514,
      "comments": 43
@@ -72,25 +72,34 @@
      "id": 50509837,
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "url": "https://bruceroettgers.eu/blog/protomaps/",
-     "score": 332,
+     "score": 346,
      "by": "bcye",
      "time": 1794770782,
-     "comments": 56
+     "comments": 57
     },
     {
      "id": 50511806,
      "title": "Preserving 30 years of Salon journalism",
      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-     "score": 148,
+     "score": 151,
      "by": "CharlesW",
      "time": 1794783611,
-     "comments": 38
+     "comments": 39
+    },
+    {
+     "id": 50462816,
+     "title": "The Lasting Influence of John Berger",
+     "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
+     "score": 23,
+     "by": "prismatic",
+     "time": 1794455073,
+     "comments": 0
     },
     {
      "id": 50509308,
      "title": "A short explainer on how El Ni\u00f1o works [video]",
      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "score": 238,
+     "score": 242,
      "by": "nharada",
      "time": 1794767001,
      "comments": 106
@@ -99,24 +108,15 @@
      "id": 50509972,
      "title": "Handwriting, as a Font",
      "url": "https://ductus.sorenblank.com",
-     "score": 287,
+     "score": 297,
      "by": "coinfused",
      "time": 1794771733,
-     "comments": 53
-    },
-    {
-     "id": 50462816,
-     "title": "The Lasting Influence of John Berger",
-     "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-     "score": 18,
-     "by": "prismatic",
-     "time": 1794455073,
-     "comments": 0
+     "comments": 57
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T09:47:44.567116+00:00",
+   "fetched_at": "2026-11-16T10:17:51.131893+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T09:47:46.724808+00:00",
+   "fetched_at": "2026-11-16T10:17:53.104486+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3726,
+     "stars": 3745,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2322,
+     "stars": 2326,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2170,
+     "stars": 2171,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 1877,
+     "stars": 1895,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1735,
+     "stars": 1743,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1630,
+     "stars": 1633,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1307,
+     "stars": 1317,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1255,
+     "stars": 1272,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1203,
+     "stars": 1209,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T09:47:47.414570+00:00",
+   "fetched_at": "2026-11-16T10:17:53.698360+00:00",
    "stale": false,
    "items": [
     {
@@ -258,15 +258,15 @@
      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
      "author": "Ben Halpern",
-     "reactions": 143,
-     "comments": 39,
+     "reactions": 144,
+     "comments": 40,
      "published_at": "2026-11-09T16:12:25Z"
     },
     {
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 184,
+     "reactions": 186,
      "comments": 164,
      "published_at": "2026-11-12T08:14:36Z"
     },
@@ -306,14 +306,14 @@
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 99,
-     "comments": 43,
+     "reactions": 100,
+     "comments": 44,
      "published_at": "2026-11-13T15:56:26Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T09:47:47.596666+00:00",
+   "fetched_at": "2026-11-16T10:17:53.911978+00:00",
    "stale": false,
    "items": [
     {
