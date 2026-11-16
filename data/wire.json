@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T17:49:51.309704+00:00",
+ "generated_at": "2026-11-16T18:20:11.234169+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T17:49:47.203940+00:00",
+   "fetched_at": "2026-11-16T18:20:06.574880+00:00",
    "stale": false,
    "items": [
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 23,
+     "score": 55,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 2
+     "comments": 32
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 21,
+     "score": 76,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 2
+     "comments": 21
     },
     {
      "id": 50516473,
      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 224,
+     "score": 233,
      "by": "sammatilda",
      "time": 1794829171,
-     "comments": 90
+     "comments": 92
     },
     {
      "id": 50517488,
      "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-     "score": 492,
+     "score": 548,
      "by": "DeepLogin",
      "time": 1794836347,
-     "comments": 294
+     "comments": 332
+    },
+    {
+     "id": 50520866,
+     "title": "Software is breaking down at a systemic level",
+     "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+     "score": 4,
+     "by": "zero_shift",
+     "time": 1794853037,
+     "comments": 0
+    },
+    {
+     "id": 50520518,
+     "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+     "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+     "score": 5,
+     "by": "speckx",
+     "time": 1794851543,
+     "comments": 0
     },
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 693,
+     "score": 720,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 115
+     "comments": 116
+    },
+    {
+     "id": 50520506,
+     "title": "Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys",
+     "url": "https://github.com/claimseed/claimseed",
+     "score": 5,
+     "by": "littlej",
+     "time": 1794851478,
+     "comments": 0
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 555,
+     "score": 565,
      "by": "zaik",
      "time": 1794794688,
-     "comments": 160
-    },
-    {
-     "id": 50518567,
-     "title": "Nvidia was in trouble before the Jensen Huang mess",
-     "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-     "score": 130,
-     "by": "Brajeshwar",
-     "time": 1794842649,
-     "comments": 99
-    },
-    {
-     "id": 50515058,
-     "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-     "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-     "score": 215,
-     "by": "matt_d",
-     "time": 1794814699,
-     "comments": 84
+     "comments": 163
     },
     {
      "id": 50497746,
      "title": "Smallest possible nopert polyhedra: the Septopert",
      "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
-     "score": 14,
+     "score": 19,
      "by": "RebelPotato",
      "time": 1794669750,
      "comments": 2
     },
     {
-     "id": 50490159,
-     "title": "OOS \u2013 an open operating system for the Rigol Scopes",
-     "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
-     "score": 85,
-     "by": "qwezxcrty",
-     "time": 1794605819,
-     "comments": 31
+     "id": 50515058,
+     "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+     "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+     "score": 230,
+     "by": "matt_d",
+     "time": 1794814699,
+     "comments": 98
     },
     {
-     "id": 50517815,
-     "title": "The Active Directory Era Is Finally Over",
-     "url": "https://infisical.com/blog/active-directory-machine-identity",
-     "score": 48,
-     "by": "FinnLobsien",
-     "time": 1794838531,
-     "comments": 21
-    },
-    {
-     "id": 50486745,
-     "title": "Researchers track whole body movement with just a smartwatch",
-     "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-     "score": 160,
-     "by": "PaulHoule",
-     "time": 1794590989,
-     "comments": 57
+     "id": 50520076,
+     "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+     "url": null,
+     "score": 20,
+     "by": "ex-aws-dude",
+     "time": 1794849628,
+     "comments": 15
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T17:49:48.904863+00:00",
+   "fetched_at": "2026-11-16T18:20:08.073907+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T17:49:50.242307+00:00",
+   "fetched_at": "2026-11-16T18:20:09.811988+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3989,
+     "stars": 3994,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2422,
+     "stars": 2427,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2191,
+     "stars": 2192,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2115,
+     "stars": 2117,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1814,
+     "stars": 1816,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1570,
+     "stars": 1584,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1407,
+     "stars": 1410,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1100,
+     "stars": 1107,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T17:49:50.705676+00:00",
+   "fetched_at": "2026-11-16T18:20:10.390670+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 135,
+     "reactions": 136,
      "comments": 24,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -274,7 +274,7 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 102,
+     "reactions": 103,
      "comments": 9,
      "published_at": "2026-11-13T18:28:11Z"
     },
@@ -282,9 +282,17 @@
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 101,
-     "comments": 45,
+     "reactions": 103,
+     "comments": 46,
      "published_at": "2026-11-13T15:56:26Z"
+    },
+    {
+     "title": "A 10 years old developer who has become a DEV.to Trusted Member! \ud83d\ude31",
+     "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
+     "author": "S\u1d1b\u1d00\u0280\u2b50",
+     "reactions": 97,
+     "comments": 49,
+     "published_at": "2026-11-12T11:18:53Z"
     },
     {
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
@@ -295,25 +303,17 @@
      "published_at": "2026-11-15T04:00:28Z"
     },
     {
-     "title": "A 10 years old developer who has become a DEV.to Trusted Member! \ud83d\ude31",
-     "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
-     "author": "S\u1d1b\u1d00\u0280\u2b50",
-     "reactions": 96,
-     "comments": 48,
-     "published_at": "2026-11-12T11:18:53Z"
-    },
-    {
-     "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
-     "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
-     "author": "xulingfeng",
-     "reactions": 112,
-     "comments": 110,
-     "published_at": "2026-11-11T08:35:15Z"
+     "title": "One Year on DEV.to, 109 Articles Later",
+     "url": "https://dev.to/dannwaneri/one-year-on-devto-109-articles-later-p31",
+     "author": "Daniel Nwaneri",
+     "reactions": 74,
+     "comments": 46,
+     "published_at": "2026-11-11T13:00:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T17:49:50.839564+00:00",
+   "fetched_at": "2026-11-16T18:20:10.577515+00:00",
    "stale": false,
    "items": [
     {
