@@ -1,87 +1,105 @@
 {
- "generated_at": "2026-11-16T18:20:11.234169+00:00",
+ "generated_at": "2026-11-16T18:50:17.516666+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T18:20:06.574880+00:00",
+   "fetched_at": "2026-11-16T18:50:13.193039+00:00",
    "stale": false,
    "items": [
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 55,
+     "score": 77,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 32
+     "comments": 52
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 76,
+     "score": 120,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 21
+     "comments": 31
+    },
+    {
+     "id": 50520804,
+     "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+     "url": "https://openai.com/index/strengthening-online-child-safety/",
+     "score": 18,
+     "by": "rossant",
+     "time": 1794852768,
+     "comments": 7
     },
     {
      "id": 50516473,
      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 233,
+     "score": 245,
      "by": "sammatilda",
      "time": 1794829171,
-     "comments": 92
+     "comments": 95
     },
     {
-     "id": 50517488,
-     "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
-     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-     "score": 548,
-     "by": "DeepLogin",
-     "time": 1794836347,
-     "comments": 332
-    },
-    {
-     "id": 50520866,
-     "title": "Software is breaking down at a systemic level",
-     "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-     "score": 4,
-     "by": "zero_shift",
-     "time": 1794853037,
-     "comments": 0
+     "id": 50520270,
+     "title": "Aristotle Expands into Rust",
+     "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+     "score": 27,
+     "by": "maufl",
+     "time": 1794850481,
+     "comments": 8
     },
     {
      "id": 50520518,
      "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
      "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-     "score": 5,
+     "score": 19,
      "by": "speckx",
      "time": 1794851543,
-     "comments": 0
+     "comments": 1
+    },
+    {
+     "id": 50517488,
+     "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
+     "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+     "score": 585,
+     "by": "DeepLogin",
+     "time": 1794836347,
+     "comments": 359
+    },
+    {
+     "id": 50519354,
+     "title": "Frame \u2013 31.5\" color ePaper display",
+     "url": "https://trmnl.com/blog/introducing-frame",
+     "score": 35,
+     "by": "geerlingguy",
+     "time": 1794846202,
+     "comments": 15
     },
     {
      "id": 50514470,
      "title": "How to make almost anything",
      "url": "https://pub.cba.mit.edu/863.26/site/",
-     "score": 720,
+     "score": 735,
      "by": "o4c",
      "time": 1794808237,
-     "comments": 116
+     "comments": 119
     },
     {
-     "id": 50520506,
-     "title": "Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys",
-     "url": "https://github.com/claimseed/claimseed",
-     "score": 5,
-     "by": "littlej",
-     "time": 1794851478,
-     "comments": 0
+     "id": 50519345,
+     "title": "Jolt \u2013 Clojure that speaks C",
+     "url": "https://jolt-lang.net/",
+     "score": 19,
+     "by": "michaelsbradley",
+     "time": 1794846181,
+     "comments": 1
     },
     {
      "id": 50513160,
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "url": "https://iter.ca/post/ubo-uxss/",
-     "score": 565,
+     "score": 570,
      "by": "zaik",
      "time": 1794794688,
      "comments": 163
@@ -90,33 +108,15 @@
      "id": 50497746,
      "title": "Smallest possible nopert polyhedra: the Septopert",
      "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
-     "score": 19,
+     "score": 23,
      "by": "RebelPotato",
      "time": 1794669750,
      "comments": 2
-    },
-    {
-     "id": 50515058,
-     "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-     "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-     "score": 230,
-     "by": "matt_d",
-     "time": 1794814699,
-     "comments": 98
-    },
-    {
-     "id": 50520076,
-     "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-     "url": null,
-     "score": 20,
-     "by": "ex-aws-dude",
-     "time": 1794849628,
-     "comments": 15
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T18:20:08.073907+00:00",
+   "fetched_at": "2026-11-16T18:50:14.745003+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T18:20:09.811988+00:00",
+   "fetched_at": "2026-11-16T18:50:16.216931+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 3994,
+     "stars": 3996,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2427,
+     "stars": 2430,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2192,
+     "stars": 2193,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2117,
+     "stars": 2119,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1816,
+     "stars": 1822,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1651,
+     "stars": 1652,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1584,
+     "stars": 1592,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1410,
+     "stars": 1416,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1286,
+     "stars": 1287,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1107,
+     "stars": 1108,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T18:20:10.390670+00:00",
+   "fetched_at": "2026-11-16T18:50:16.779337+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T18:20:10.577515+00:00",
+   "fetched_at": "2026-11-16T18:50:16.882508+00:00",
    "stale": false,
    "items": [
     {
