@@ -1,60 +1,60 @@
 {
- "generated_at": "2026-11-16T21:50:57.670778+00:00",
+ "generated_at": "2026-11-16T22:21:03.863208+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T21:50:53.046023+00:00",
+   "fetched_at": "2026-11-16T22:20:59.118382+00:00",
    "stale": false,
    "items": [
     {
      "id": 50521045,
      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "score": 570,
+     "score": 624,
      "by": "samk3nny",
      "time": 1794853890,
-     "comments": 434
+     "comments": 475
     },
     {
-     "id": 50523601,
-     "title": "BugMeNot Has Closed",
-     "url": "https://www.bugmenot.com/",
-     "score": 44,
-     "by": "lode",
-     "time": 1794864737,
-     "comments": 21
+     "id": 50522980,
+     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+     "url": "https://www.cs.cmu.edu/learn/",
+     "score": 80,
+     "by": "pcompeau",
+     "time": 1794861816,
+     "comments": 18
     },
     {
      "id": 50522563,
      "title": "Rust changed me as a developer",
      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-     "score": 57,
+     "score": 77,
      "by": "speckx",
      "time": 1794860210,
-     "comments": 17
+     "comments": 34
+    },
+    {
+     "id": 50523784,
+     "title": "Spamhaus new email sender requirements in November",
+     "url": "https://www.spamhaus.org/sender-guidelines/",
+     "score": 20,
+     "by": "computer23",
+     "time": 1794865639,
+     "comments": 12
     },
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 163,
+     "score": 170,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 133
-    },
-    {
-     "id": 50523291,
-     "title": "My Quest to push native Three.js quality match AAA Game Engines",
-     "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-     "score": 27,
-     "by": "bhouston",
-     "time": 1794863263,
-     "comments": 1
+     "comments": 144
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 247,
+     "score": 256,
      "by": "burntsushi",
      "time": 1794848019,
      "comments": 54
@@ -63,60 +63,60 @@
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 217,
+     "score": 232,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 134
-    },
-    {
-     "id": 50522776,
-     "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
-     "url": null,
-     "score": 20,
-     "by": "arshpatankar",
-     "time": 1794860988,
-     "comments": 5
+     "comments": 152
     },
     {
      "id": 50515151,
      "title": "Squircles",
      "url": "https://linebender.org/wiki/curves/squircle/",
-     "score": 60,
+     "score": 76,
      "by": "raphlinus",
      "time": 1794815710,
-     "comments": 22
+     "comments": 26
     },
     {
-     "id": 50521870,
-     "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
-     "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
-     "score": 32,
-     "by": "anof-cyber",
-     "time": 1794857357,
-     "comments": 2
+     "id": 50523291,
+     "title": "My Quest to push native Three.js quality match AAA Game Engines",
+     "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+     "score": 43,
+     "by": "bhouston",
+     "time": 1794863263,
+     "comments": 13
     },
     {
-     "id": 50516473,
-     "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-     "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-     "score": 276,
-     "by": "sammatilda",
-     "time": 1794829171,
-     "comments": 110
+     "id": 50522776,
+     "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
+     "url": null,
+     "score": 21,
+     "by": "arshpatankar",
+     "time": 1794860988,
+     "comments": 6
     },
     {
-     "id": 50520518,
-     "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-     "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-     "score": 58,
-     "by": "speckx",
-     "time": 1794851543,
-     "comments": 20
+     "id": 50523300,
+     "title": "Optimizely Compromised",
+     "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+     "score": 35,
+     "by": "martinald",
+     "time": 1794863318,
+     "comments": 5
+    },
+    {
+     "id": 50522643,
+     "title": "Chemistry Is Geometry",
+     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+     "score": 21,
+     "by": "sebg",
+     "time": 1794860538,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T21:50:54.839826+00:00",
+   "fetched_at": "2026-11-16T22:21:00.844865+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T21:50:56.358952+00:00",
+   "fetched_at": "2026-11-16T22:21:02.395110+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4029,
+     "stars": 4035,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2450,
+     "stars": 2453,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Kianuni/Erosion-CN",
      "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2195,
+     "stars": 2196,
      "language": "Swift",
      "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
      "created_at": "2026-11-10T02:37:31Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2142,
+     "stars": 2150,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "FrigadeHQ/yogurt",
      "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1851,
+     "stars": 1852,
      "language": "TypeScript",
      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
      "created_at": "2026-11-10T20:01:01Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1656,
+     "stars": 1657,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1644,
+     "stars": 1651,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1424,
+     "stars": 1427,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1295,
+     "stars": 1296,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1116,
+     "stars": 1119,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T21:50:56.847501+00:00",
+   "fetched_at": "2026-11-16T22:21:02.974447+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T21:50:56.925270+00:00",
+   "fetched_at": "2026-11-16T22:21:03.057055+00:00",
    "stale": false,
    "items": [
     {
