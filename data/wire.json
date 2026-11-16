@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T22:51:26.160706+00:00",
+ "generated_at": "2026-11-16T23:21:33.033737+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T22:51:21.327739+00:00",
+   "fetched_at": "2026-11-16T23:21:28.054090+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 215,
+     "score": 326,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 43
+     "comments": 62
+    },
+    {
+     "id": 50523601,
+     "title": "BugMeNot has closed",
+     "url": "https://www.bugmenot.com/",
+     "score": 185,
+     "by": "lode",
+     "time": 1794864737,
+     "comments": 96
     },
     {
      "id": 50524225,
-     "title": "How to Break into Security, Ptacek Edition",
+     "title": "How to Break into Security, Ptacek Edition (2012)",
      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-     "score": 35,
+     "score": 46,
      "by": "ronfriedhaber",
      "time": 1794867563,
-     "comments": 4
+     "comments": 10
     },
     {
      "id": 50522563,
      "title": "Rust changed me as a developer",
      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-     "score": 111,
+     "score": 131,
      "by": "speckx",
      "time": 1794860210,
-     "comments": 58
-    },
-    {
-     "id": 50523601,
-     "title": "BugMeNot Has Closed",
-     "url": "https://www.bugmenot.com/",
-     "score": 136,
-     "by": "lode",
-     "time": 1794864737,
-     "comments": 73
+     "comments": 71
     },
     {
      "id": 50523784,
      "title": "Spamhaus new email sender requirements in November",
      "url": "https://www.spamhaus.org/sender-guidelines/",
-     "score": 37,
+     "score": 45,
      "by": "computer23",
      "time": 1794865639,
-     "comments": 25
-    },
-    {
-     "id": 50520182,
-     "title": "Grazing sheep in fields with solar arrays",
-     "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 181,
-     "by": "PaulHoule",
-     "time": 1794850066,
-     "comments": 164
-    },
-    {
-     "id": 50521045,
-     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "score": 652,
-     "by": "samk3nny",
-     "time": 1794853890,
-     "comments": 513
-    },
-    {
-     "id": 50519744,
-     "title": "Jiff 1.0: A datetime library for Rust",
-     "url": "https://burntsushi.net/jiff/",
-     "score": 268,
-     "by": "burntsushi",
-     "time": 1794848019,
-     "comments": 58
-    },
-    {
-     "id": 50519354,
-     "title": "Frame \u2013 31.5\" color ePaper display",
-     "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 242,
-     "by": "geerlingguy",
-     "time": 1794846202,
-     "comments": 160
+     "comments": 38
     },
     {
      "id": 50523459,
      "title": "OpenCode Browse",
      "url": "https://opencode.ai/product/browse",
-     "score": 35,
+     "score": 47,
      "by": "mfiguiere",
      "time": 1794864037,
-     "comments": 14
+     "comments": 25
+    },
+    {
+     "id": 50519744,
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "url": "https://burntsushi.net/jiff/",
+     "score": 275,
+     "by": "burntsushi",
+     "time": 1794848019,
+     "comments": 62
+    },
+    {
+     "id": 50520182,
+     "title": "Grazing sheep in fields with solar arrays",
+     "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+     "score": 187,
+     "by": "PaulHoule",
+     "time": 1794850066,
+     "comments": 181
+    },
+    {
+     "id": 50521045,
+     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "score": 671,
+     "by": "samk3nny",
+     "time": 1794853890,
+     "comments": 532
+    },
+    {
+     "id": 50519354,
+     "title": "Frame \u2013 31.5\" color ePaper display",
+     "url": "https://trmnl.com/blog/introducing-frame",
+     "score": 253,
+     "by": "geerlingguy",
+     "time": 1794846202,
+     "comments": 169
+    },
+    {
+     "id": 50524165,
+     "title": "United Airlines experiencing a widespread system outage, airline says",
+     "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+     "score": 109,
+     "by": "bearsyankees",
+     "time": 1794867278,
+     "comments": 31
     },
     {
      "id": 50515151,
      "title": "Squircles",
      "url": "https://linebender.org/wiki/curves/squircle/",
-     "score": 89,
+     "score": 99,
      "by": "raphlinus",
      "time": 1794815710,
      "comments": 33
-    },
-    {
-     "id": 50524165,
-     "title": "United Airlines Widespread System Outage",
-     "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-     "score": 60,
-     "by": "bearsyankees",
-     "time": 1794867278,
-     "comments": 6
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T22:51:22.800296+00:00",
+   "fetched_at": "2026-11-16T23:21:29.500235+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T22:51:24.723919+00:00",
+   "fetched_at": "2026-11-16T23:21:31.540271+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4040,
+     "stars": 4046,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2455,
+     "stars": 2461,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2159,
+     "stars": 2168,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1663,
+     "stars": 1677,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1657,
+     "stars": 1658,
      "language": "Python",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
      "created_at": "2026-11-10T10:46:56Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1429,
+     "stars": 1430,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1123,
+     "stars": 1127,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T22:51:25.319776+00:00",
+   "fetched_at": "2026-11-16T23:21:32.172717+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 137,
+     "reactions": 138,
      "comments": 24,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -258,23 +258,15 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 194,
-     "comments": 177,
+     "reactions": 195,
+     "comments": 178,
      "published_at": "2026-11-12T08:14:36Z"
-    },
-    {
-     "title": "How did you end up in tech, and are you staying?",
-     "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
-     "author": "Maame Afua A. P. Fordjour ",
-     "reactions": 161,
-     "comments": 66,
-     "published_at": "2026-11-09T23:02:37Z"
     },
     {
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 103,
+     "reactions": 108,
      "comments": 9,
      "published_at": "2026-11-13T18:28:11Z"
     },
@@ -282,7 +274,7 @@
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 104,
+     "reactions": 105,
      "comments": 46,
      "published_at": "2026-11-13T15:56:26Z"
     },
@@ -298,7 +290,7 @@
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
-     "reactions": 56,
+     "reactions": 58,
      "comments": 16,
      "published_at": "2026-11-15T04:00:28Z"
     },
@@ -309,11 +301,19 @@
      "reactions": 74,
      "comments": 46,
      "published_at": "2026-11-11T13:00:00Z"
+    },
+    {
+     "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+     "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+     "author": "xulingfeng",
+     "reactions": 112,
+     "comments": 110,
+     "published_at": "2026-11-11T08:35:15Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T22:51:25.455213+00:00",
+   "fetched_at": "2026-11-16T23:21:32.353639+00:00",
    "stale": false,
    "items": [
     {
