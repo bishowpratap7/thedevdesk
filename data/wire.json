@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T19:56:58.974361+00:00",
+ "generated_at": "2026-11-17T20:27:05.240670+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T19:56:54.498622+00:00",
+   "fetched_at": "2026-11-17T20:27:00.832386+00:00",
    "stale": false,
    "items": [
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 653,
+     "score": 716,
      "by": "jasondavies",
      "time": 1794937603,
-     "comments": 375
+     "comments": 438
     },
     {
      "id": 50535238,
      "title": "Apple Services Down",
      "url": "https://developer.apple.com/system-status/",
-     "score": 344,
+     "score": 419,
      "by": "willy_k",
      "time": 1794937634,
-     "comments": 192
+     "comments": 230
+    },
+    {
+     "id": 50537156,
+     "title": "jQuery 4.1.0",
+     "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+     "score": 48,
+     "by": "petecooper",
+     "time": 1794945040,
+     "comments": 20
     },
     {
      "id": 50535885,
      "title": "MAI Code 2 and Code 2 Flash",
      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-     "score": 104,
+     "score": 137,
      "by": "lemonish97",
      "time": 1794939913,
-     "comments": 38
-    },
-    {
-     "id": 50535992,
-     "title": "Phrack 73 Released",
-     "url": "https://phrack.org/issues/73/introduction_md",
-     "score": 62,
-     "by": "notmine1337",
-     "time": 1794940285,
-     "comments": 3
+     "comments": 67
     },
     {
      "id": 50536813,
      "title": "350 years ago, this man discovered that light has a finite speed",
      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-     "score": 24,
+     "score": 60,
      "by": "dxs",
      "time": 1794943527,
-     "comments": 1
+     "comments": 5
+    },
+    {
+     "id": 50535992,
+     "title": "Phrack 73 Released",
+     "url": "https://phrack.org/issues/73/introduction_md",
+     "score": 90,
+     "by": "notmine1337",
+     "time": 1794940285,
+     "comments": 4
+    },
+    {
+     "id": 50537290,
+     "title": "Web Browser Engineering",
+     "url": "https://browser.engineering/",
+     "score": 14,
+     "by": "ibobev",
+     "time": 1794945695,
+     "comments": 0
     },
     {
      "id": 50536387,
      "title": "Solid 2.0",
      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-     "score": 54,
+     "score": 77,
      "by": "pier25",
      "time": 1794941777,
-     "comments": 13
+     "comments": 20
     },
     {
      "id": 50532191,
      "title": "What is the best harness for each model?",
      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-     "score": 267,
+     "score": 272,
      "by": "Edward40",
      "time": 1794927223,
-     "comments": 93
+     "comments": 97
+    },
+    {
+     "id": 50537441,
+     "title": "Israel vs. Wikipedia",
+     "url": "https://techforpalestine.org/wikipedia-report",
+     "score": 56,
+     "by": "srvo",
+     "time": 1794946203,
+     "comments": 1
     },
     {
      "id": 50536468,
      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
      "url": "https://starsling.dev",
-     "score": 20,
+     "score": 24,
      "by": "yonasb",
      "time": 1794942103,
-     "comments": 4
+     "comments": 8
     },
     {
      "id": 50535208,
      "title": "Who Builds the Machines That Build the Machines?",
      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
-     "score": 39,
+     "score": 46,
      "by": "gmays",
      "time": 1794937539,
-     "comments": 3
-    },
-    {
-     "id": 50532385,
-     "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-     "url": "https://alloyhtml.com/example.html",
-     "score": 139,
-     "by": "prafandy",
-     "time": 1794928029,
-     "comments": 23
-    },
-    {
-     "id": 50536031,
-     "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-     "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-     "score": 18,
-     "by": "gnufx",
-     "time": 1794940450,
-     "comments": 6
-    },
-    {
-     "id": 50534429,
-     "title": "YC wrote software to run our internship expo \u2013 and an 8-bit SIM to show it off",
-     "url": null,
-     "score": 1,
-     "by": "ryankicks",
-     "time": 1794934824,
-     "comments": 0
+     "comments": 7
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T19:56:56.222037+00:00",
+   "fetched_at": "2026-11-17T20:27:02.336717+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T19:56:57.717292+00:00",
+   "fetched_at": "2026-11-17T20:27:03.832981+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4505,
+     "stars": 4506,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2571,
+     "stars": 2574,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 2323,
+     "stars": 2373,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2107,
+     "stars": 2110,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1574,
+     "stars": 1575,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1536,
+     "stars": 1564,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1462,
+     "stars": 1465,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1413,
+     "stars": 1414,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 1312,
+     "stars": 1345,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 966,
+     "stars": 971,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T19:56:58.183220+00:00",
+   "fetched_at": "2026-11-17T20:27:04.294840+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T19:56:58.284059+00:00",
+   "fetched_at": "2026-11-17T20:27:04.424008+00:00",
    "stale": false,
    "items": [
     {
