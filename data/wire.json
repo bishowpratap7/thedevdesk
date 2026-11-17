@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T23:57:49.563902+00:00",
+ "generated_at": "2026-11-17T23:58:03.544544+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T23:57:45.074461+00:00",
+   "fetched_at": "2026-11-17T23:58:00.733283+00:00",
    "stale": false,
    "items": [
     {
@@ -12,7 +12,7 @@
      "score": 390,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 99
+     "comments": 100
     },
     {
      "id": 50535230,
@@ -27,7 +27,7 @@
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 165,
+     "score": 166,
      "by": "subset",
      "time": 1794953614,
      "comments": 29
@@ -45,10 +45,10 @@
      "id": 50534631,
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "score": 339,
+     "score": 340,
      "by": "louiereederson",
      "time": 1794935526,
-     "comments": 173
+     "comments": 174
     },
     {
      "id": 50535885,
@@ -84,7 +84,7 @@
      "score": 425,
      "by": "monkeydust",
      "time": 1794929908,
-     "comments": 517
+     "comments": 518
     },
     {
      "id": 50532118,
@@ -99,7 +99,7 @@
      "id": 50539747,
      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-     "score": 10,
+     "score": 11,
      "by": "digitaldragon",
      "time": 1794958378,
      "comments": 2
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T23:57:46.849657+00:00",
+   "fetched_at": "2026-11-17T23:58:01.692318+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T23:57:48.440785+00:00",
+   "fetched_at": "2026-11-17T23:58:02.678217+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 2621,
+     "stars": 2622,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T23:57:48.892050+00:00",
+   "fetched_at": "2026-11-17T23:58:03.001229+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T23:57:49.057657+00:00",
+   "fetched_at": "2026-11-17T23:58:03.035996+00:00",
    "stale": false,
    "items": [
     {
