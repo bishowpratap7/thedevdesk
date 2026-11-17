@@ -1,69 +1,69 @@
 {
- "generated_at": "2026-11-17T11:24:29.590987+00:00",
+ "generated_at": "2026-11-17T11:54:36.227801+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T11:24:24.993152+00:00",
+   "fetched_at": "2026-11-17T11:54:31.606523+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50522980,
-     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-     "url": "https://www.cs.cmu.edu/learn/",
-     "score": 1606,
-     "by": "pcompeau",
-     "time": 1794861816,
-     "comments": 220
-    },
     {
      "id": 50529612,
      "title": "How the Claude Code team thinks about verification",
      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-     "score": 16,
+     "score": 37,
      "by": "craigmart",
      "time": 1794910840,
-     "comments": 8
+     "comments": 36
+    },
+    {
+     "id": 50522980,
+     "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+     "url": "https://www.cs.cmu.edu/learn/",
+     "score": 1641,
+     "by": "pcompeau",
+     "time": 1794861816,
+     "comments": 224
     },
     {
      "id": 50511874,
      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
      "url": "https://visualbasic.world/",
-     "score": 39,
+     "score": 52,
      "by": "broast",
      "time": 1794784110,
-     "comments": 13
+     "comments": 19
     },
     {
      "id": 50508845,
      "title": "Japan's Hometown Tax (2018)",
      "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-     "score": 51,
+     "score": 60,
      "by": "waximabbax",
      "time": 1794764062,
-     "comments": 14
-    },
-    {
-     "id": 50512779,
-     "title": "Nimony: A New Compiler for Nim",
-     "url": "https://nimony.org/",
-     "score": 76,
-     "by": "Fervicus",
-     "time": 1794791122,
-     "comments": 25
+     "comments": 21
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 567,
+     "score": 578,
      "by": "lode",
      "time": 1794864737,
-     "comments": 257
+     "comments": 263
+    },
+    {
+     "id": 50512779,
+     "title": "Nimony: A New Compiler for Nim",
+     "url": "https://nimony.org/",
+     "score": 81,
+     "by": "Fervicus",
+     "time": 1794791122,
+     "comments": 29
     },
     {
      "id": 50524767,
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 383,
+     "score": 392,
      "by": "kristjansson",
      "time": 1794870034,
      "comments": 163
@@ -72,51 +72,51 @@
      "id": 50526560,
      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
      "url": "https://support.apple.com/en-us/149699",
-     "score": 135,
+     "score": 144,
      "by": "jshier",
      "time": 1794881824,
-     "comments": 79
+     "comments": 83
     },
     {
      "id": 50525575,
      "title": "Why 3dfx 1 cards had such a washed out color output?",
      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-     "score": 155,
+     "score": 162,
      "by": "mfiguiere",
      "time": 1794874584,
-     "comments": 49
-    },
-    {
-     "id": 50523459,
-     "title": "OpenCode Browse",
-     "url": "https://opencode.ai/product/browse",
-     "score": 271,
-     "by": "mfiguiere",
-     "time": 1794864037,
-     "comments": 154
+     "comments": 50
     },
     {
      "id": 50522643,
      "title": "Chemistry is Actually Geometry",
      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 239,
+     "score": 248,
      "by": "sebg",
      "time": 1794860538,
-     "comments": 114
+     "comments": 116
     },
     {
-     "id": 50519354,
-     "title": "Frame \u2013 31.5\" color ePaper display",
-     "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 431,
-     "by": "geerlingguy",
-     "time": 1794846202,
-     "comments": 309
+     "id": 50523459,
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 280,
+     "by": "mfiguiere",
+     "time": 1794864037,
+     "comments": 159
+    },
+    {
+     "id": 50470523,
+     "title": "Rows vs. Columns: How different are they, really?",
+     "url": "https://spiraldb.com/blog/rows-vs-columns",
+     "score": 7,
+     "by": "eatonphil",
+     "time": 1794503081,
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T11:24:27.186003+00:00",
+   "fetched_at": "2026-11-17T11:54:33.563503+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T11:24:28.528879+00:00",
+   "fetched_at": "2026-11-17T11:54:35.060373+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4374,
+     "stars": 4384,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2531,
+     "stars": 2532,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2380,
+     "stars": 2386,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1944,
+     "stars": 1957,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1545,
+     "stars": 1548,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1408,
+     "stars": 1411,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1332,
+     "stars": 1336,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1092,
+     "stars": 1111,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 985,
+     "stars": 1041,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T11:24:28.994955+00:00",
+   "fetched_at": "2026-11-17T11:54:35.543226+00:00",
    "stale": false,
    "items": [
     {
@@ -271,12 +271,28 @@
      "published_at": "2026-11-13T18:28:11Z"
     },
     {
+     "title": "What does DEV stand for?",
+     "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
+     "author": "FrancisTR\u1d05\u1d07\u1d20",
+     "reactions": 111,
+     "comments": 61,
+     "published_at": "2026-11-16T14:55:10Z"
+    },
+    {
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 107,
+     "reactions": 109,
      "comments": 46,
      "published_at": "2026-11-13T15:56:26Z"
+    },
+    {
+     "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+     "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+     "author": "Earl Grey",
+     "reactions": 62,
+     "comments": 21,
+     "published_at": "2026-11-15T04:00:28Z"
     },
     {
      "title": "A 10 years old developer who has become a DEV.to Trusted Member! \ud83d\ude31",
@@ -287,33 +303,17 @@
      "published_at": "2026-11-12T11:18:53Z"
     },
     {
-     "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
-     "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
-     "author": "Earl Grey",
-     "reactions": 60,
-     "comments": 21,
-     "published_at": "2026-11-15T04:00:28Z"
-    },
-    {
      "title": "One Year on DEV.to, 109 Articles Later",
      "url": "https://dev.to/dannwaneri/one-year-on-devto-109-articles-later-p31",
      "author": "Daniel Nwaneri",
-     "reactions": 74,
-     "comments": 46,
+     "reactions": 76,
+     "comments": 47,
      "published_at": "2026-11-11T13:00:00Z"
-    },
-    {
-     "title": "AI is getting better. Here is my plan to stay ahead.",
-     "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
-     "author": "Julien Avezou",
-     "reactions": 50,
-     "comments": 30,
-     "published_at": "2026-11-12T15:35:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T11:24:29.135845+00:00",
+   "fetched_at": "2026-11-17T11:54:35.663736+00:00",
    "stale": false,
    "items": [
     {
