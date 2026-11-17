@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-16T23:51:39.936189+00:00",
+ "generated_at": "2026-11-17T00:21:46.566111+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-16T23:51:34.835374+00:00",
+   "fetched_at": "2026-11-17T00:21:41.615774+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 429,
+     "score": 511,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 77
-    },
-    {
-     "id": 50523601,
-     "title": "BugMeNot has closed",
-     "url": "https://www.bugmenot.com/",
-     "score": 218,
-     "by": "lode",
-     "time": 1794864737,
-     "comments": 108
-    },
-    {
-     "id": 50524225,
-     "title": "How to Break into Security, Ptacek Edition (2012)",
-     "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-     "score": 55,
-     "by": "ronfriedhaber",
-     "time": 1794867563,
-     "comments": 13
+     "comments": 86
     },
     {
      "id": 50524736,
      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "score": 31,
+     "score": 78,
      "by": "cwaffles",
      "time": 1794869900,
-     "comments": 10
+     "comments": 36
     },
     {
-     "id": 50523459,
-     "title": "OpenCode Browse",
-     "url": "https://opencode.ai/product/browse",
-     "score": 67,
-     "by": "mfiguiere",
-     "time": 1794864037,
-     "comments": 33
+     "id": 50523601,
+     "title": "BugMeNot has closed",
+     "url": "https://www.bugmenot.com/",
+     "score": 245,
+     "by": "lode",
+     "time": 1794864737,
+     "comments": 131
     },
     {
      "id": 50523300,
      "title": "World's Largest Brands Infected With Malware Via Optimizely",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 88,
+     "score": 124,
      "by": "martinald",
      "time": 1794863318,
+     "comments": 21
+    },
+    {
+     "id": 50524225,
+     "title": "How to Break into Security, Ptacek Edition (2012)",
+     "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+     "score": 58,
+     "by": "ronfriedhaber",
+     "time": 1794867563,
      "comments": 15
     },
     {
-     "id": 50522563,
-     "title": "Rust changed me as a developer",
-     "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-     "score": 154,
-     "by": "speckx",
-     "time": 1794860210,
-     "comments": 87
+     "id": 50523459,
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 81,
+     "by": "mfiguiere",
+     "time": 1794864037,
+     "comments": 37
     },
     {
      "id": 50520182,
      "title": "Grazing sheep in fields with solar arrays",
      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 195,
+     "score": 197,
      "by": "PaulHoule",
      "time": 1794850066,
-     "comments": 190
+     "comments": 197
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 283,
+     "score": 288,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 67
-    },
-    {
-     "id": 50521045,
-     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "score": 686,
-     "by": "samk3nny",
-     "time": 1794853890,
-     "comments": 543
-    },
-    {
-     "id": 50519354,
-     "title": "Frame \u2013 31.5\" color ePaper display",
-     "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 265,
-     "by": "geerlingguy",
-     "time": 1794846202,
-     "comments": 182
+     "comments": 69
     },
     {
      "id": 50522643,
      "title": "Chemistry is Actually Geometry",
      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 60,
+     "score": 72,
      "by": "sebg",
      "time": 1794860538,
-     "comments": 13
+     "comments": 18
+    },
+    {
+     "id": 50519354,
+     "title": "Frame \u2013 31.5\" color ePaper display",
+     "url": "https://trmnl.com/blog/introducing-frame",
+     "score": 275,
+     "by": "geerlingguy",
+     "time": 1794846202,
+     "comments": 194
+    },
+    {
+     "id": 50521045,
+     "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+     "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "score": 692,
+     "by": "samk3nny",
+     "time": 1794853890,
+     "comments": 565
+    },
+    {
+     "id": 50497621,
+     "title": "Formal Verification Is Not Verifiable",
+     "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+     "score": 28,
+     "by": "zdw",
+     "time": 1794668868,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-16T23:51:36.187083+00:00",
+   "fetched_at": "2026-11-17T00:21:42.947914+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-16T23:51:38.366806+00:00",
+   "fetched_at": "2026-11-17T00:21:44.988838+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4052,
+     "stars": 4057,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,55 +171,31 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2464,
+     "stars": 2465,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
     },
     {
-     "full_name": "Kianuni/Erosion-CN",
-     "url": "https://github.com/Kianuni/Erosion-CN",
-     "stars": 2196,
-     "language": "Swift",
-     "description": "iOS / iPadOS \u7cfb\u7edf\u914d\u7f6e\u4e0e MobileGestalt \u7814\u7a76\u5de5\u5177\u7bb1\uff08\u4e2d\u82f1\u53cc\u8bed \u00b7 \u9632\u767d\u82f9\u679c\u5b89\u5168\u52a0\u56fa\u7248\uff09 | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
-     "created_at": "2026-11-10T02:37:31Z"
-    },
-    {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2176,
+     "stars": 2188,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
     },
     {
-     "full_name": "FrigadeHQ/yogurt",
-     "url": "https://github.com/FrigadeHQ/yogurt",
-     "stars": 1858,
-     "language": "TypeScript",
-     "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-     "created_at": "2026-11-10T20:01:01Z"
-    },
-    {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1686,
+     "stars": 1694,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
     },
     {
-     "full_name": "HybridRobotics/supermimic",
-     "url": "https://github.com/HybridRobotics/supermimic",
-     "stars": 1659,
-     "language": "Python",
-     "description": "Humanoid whole-body motion tracking with one differentiable world model.",
-     "created_at": "2026-11-10T10:46:56Z"
-    },
-    {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1434,
+     "stars": 1438,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -227,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1299,
+     "stars": 1304,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -235,15 +211,39 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1134,
+     "stars": 1142,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
+    },
+    {
+     "full_name": "opencoredev/islandcn",
+     "url": "https://github.com/opencoredev/islandcn",
+     "stars": 775,
+     "language": "TypeScript",
+     "description": "The open-source Dynamic Island for React, installed with shadcn.",
+     "created_at": "2026-11-13T11:50:50Z"
+    },
+    {
+     "full_name": "AIRzZ90/study-materials-fork",
+     "url": "https://github.com/AIRzZ90/study-materials-fork",
+     "stars": 739,
+     "language": "TypeScript",
+     "description": "A cross-platform Tauri 2 interface and interaction practice project",
+     "created_at": "2026-11-12T10:52:32Z"
+    },
+    {
+     "full_name": "linknimiball1974/ai-texture-forge",
+     "url": "https://github.com/linknimiball1974/ai-texture-forge",
+     "stars": 685,
+     "language": null,
+     "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
+     "created_at": "2026-11-11T19:09:18Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-16T23:51:38.941605+00:00",
+   "fetched_at": "2026-11-17T00:21:45.568827+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-16T23:51:39.046798+00:00",
+   "fetched_at": "2026-11-17T00:21:45.765814+00:00",
    "stale": false,
    "items": [
     {
