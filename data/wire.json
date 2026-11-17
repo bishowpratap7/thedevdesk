@@ -1,108 +1,108 @@
 {
- "generated_at": "2026-11-17T09:24:03.858105+00:00",
+ "generated_at": "2026-11-17T09:54:10.221069+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T09:23:59.558512+00:00",
+   "fetched_at": "2026-11-17T09:54:05.642081+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 1476,
+     "score": 1502,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 199
-    },
-    {
-     "id": 50512779,
-     "title": "Nimony: A New Compiler for Nim",
-     "url": "https://nimony.org/",
-     "score": 46,
-     "by": "Fervicus",
-     "time": 1794791122,
-     "comments": 15
+     "comments": 206
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 527,
+     "score": 538,
      "by": "lode",
      "time": 1794864737,
-     "comments": 234
+     "comments": 238
+    },
+    {
+     "id": 50512779,
+     "title": "Nimony: A New Compiler for Nim",
+     "url": "https://nimony.org/",
+     "score": 50,
+     "by": "Fervicus",
+     "time": 1794791122,
+     "comments": 16
     },
     {
      "id": 50524767,
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 326,
+     "score": 338,
      "by": "kristjansson",
      "time": 1794870034,
-     "comments": 142
+     "comments": 147
     },
     {
      "id": 50496787,
      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
      "url": "https://github.com/ZigaoWang/zigzag",
-     "score": 47,
+     "score": 57,
      "by": "ZigaoWang",
      "time": 1794662230,
-     "comments": 23
+     "comments": 32
     },
     {
      "id": 50526560,
      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
      "url": "https://support.apple.com/en-us/149699",
-     "score": 119,
+     "score": 123,
      "by": "jshier",
      "time": 1794881824,
-     "comments": 63
-    },
-    {
-     "id": 50523459,
-     "title": "OpenCode Browse",
-     "url": "https://opencode.ai/product/browse",
-     "score": 246,
-     "by": "mfiguiere",
-     "time": 1794864037,
-     "comments": 130
+     "comments": 65
     },
     {
      "id": 50525575,
      "title": "Why 3dfx 1 cards had such a washed out color output?",
      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-     "score": 121,
+     "score": 130,
      "by": "mfiguiere",
      "time": 1794874584,
-     "comments": 32
+     "comments": 36
+    },
+    {
+     "id": 50508845,
+     "title": "Japan's Hometown Tax (2018)",
+     "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+     "score": 13,
+     "by": "waximabbax",
+     "time": 1794764062,
+     "comments": 2
+    },
+    {
+     "id": 50523459,
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 249,
+     "by": "mfiguiere",
+     "time": 1794864037,
+     "comments": 141
     },
     {
      "id": 50522643,
      "title": "Chemistry is Actually Geometry",
      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 222,
+     "score": 225,
      "by": "sebg",
      "time": 1794860538,
-     "comments": 109
+     "comments": 111
     },
     {
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 409,
+     "score": 415,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 284
-    },
-    {
-     "id": 50524736,
-     "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-     "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "score": 588,
-     "by": "cwaffles",
-     "time": 1794869900,
-     "comments": 421
+     "comments": 290
     },
     {
      "id": 50519744,
@@ -111,12 +111,12 @@
      "score": 376,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 83
+     "comments": 87
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T09:24:01.403161+00:00",
+   "fetched_at": "2026-11-17T09:54:07.411611+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T09:24:02.748883+00:00",
+   "fetched_at": "2026-11-17T09:54:08.898205+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4334,
+     "stars": 4348,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2520,
+     "stars": 2524,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2344,
+     "stars": 2356,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1907,
+     "stars": 1915,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1533,
+     "stars": 1538,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1395,
+     "stars": 1397,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1293,
+     "stars": 1301,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,10 +219,18 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 994,
+     "stars": 1023,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
+    },
+    {
+     "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+     "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+     "stars": 794,
+     "language": "C++",
+     "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+     "created_at": "2026-11-16T19:28:29Z"
     },
     {
      "full_name": "opencoredev/islandcn",
@@ -231,19 +239,11 @@
      "language": "TypeScript",
      "description": "The open-source Dynamic Island for React, installed with shadcn.",
      "created_at": "2026-11-13T11:50:50Z"
-    },
-    {
-     "full_name": "AIRzZ90/study-materials-fork",
-     "url": "https://github.com/AIRzZ90/study-materials-fork",
-     "stars": 746,
-     "language": "TypeScript",
-     "description": "A cross-platform Tauri 2 interface and interaction practice project",
-     "created_at": "2026-11-12T10:52:32Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T09:24:03.267913+00:00",
+   "fetched_at": "2026-11-17T09:54:09.379037+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 205,
-     "comments": 189,
+     "comments": 190,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T09:24:03.390678+00:00",
+   "fetched_at": "2026-11-17T09:54:09.750232+00:00",
    "stale": false,
    "items": [
     {
