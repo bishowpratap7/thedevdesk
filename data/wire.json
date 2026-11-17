@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T05:23:04.850498+00:00",
+ "generated_at": "2026-11-17T05:53:10.547528+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T05:22:58.424735+00:00",
+   "fetched_at": "2026-11-17T05:53:06.390936+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 1046,
+     "score": 1090,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 158
+     "comments": 162
     },
     {
      "id": 50524736,
      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "score": 398,
+     "score": 422,
      "by": "cwaffles",
      "time": 1794869900,
-     "comments": 255
+     "comments": 268
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 420,
+     "score": 430,
      "by": "lode",
      "time": 1794864737,
-     "comments": 202
+     "comments": 208
     },
     {
      "id": 50524767,
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 208,
+     "score": 231,
      "by": "kristjansson",
      "time": 1794870034,
-     "comments": 96
-    },
-    {
-     "id": 50526560,
-     "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-     "url": "https://support.apple.com/en-us/149699",
-     "score": 61,
-     "by": "jshier",
-     "time": 1794881824,
-     "comments": 35
-    },
-    {
-     "id": 50526152,
-     "title": "Running coding agents without handing them my credentials",
-     "url": "https://blog.antonio.cx/running-agents-with-lend",
-     "score": 73,
-     "by": "antoniomika",
-     "time": 1794878336,
-     "comments": 35
+     "comments": 99
     },
     {
      "id": 50523459,
      "title": "OpenCode Browse",
      "url": "https://opencode.ai/product/browse",
-     "score": 181,
+     "score": 192,
      "by": "mfiguiere",
      "time": 1794864037,
-     "comments": 81
+     "comments": 83
     },
     {
      "id": 50510969,
      "title": "Why did modems have speakers? (2019)",
      "url": "https://retrocomputing.stackexchange.com/questions/11765",
-     "score": 20,
+     "score": 28,
      "by": "Skyfall106",
      "time": 1794778049,
-     "comments": 10
+     "comments": 13
     },
     {
-     "id": 50522643,
-     "title": "Chemistry is Actually Geometry",
-     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 172,
-     "by": "sebg",
-     "time": 1794860538,
-     "comments": 85
+     "id": 50526152,
+     "title": "Running coding agents without handing them my credentials",
+     "url": "https://blog.antonio.cx/running-agents-with-lend",
+     "score": 79,
+     "by": "antoniomika",
+     "time": 1794878336,
+     "comments": 37
     },
     {
      "id": 50525575,
      "title": "Why 3dfx 1 cards had such a washed out color output?",
      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-     "score": 53,
+     "score": 62,
      "by": "mfiguiere",
      "time": 1794874584,
-     "comments": 1
+     "comments": 6
+    },
+    {
+     "id": 50522643,
+     "title": "Chemistry is Actually Geometry",
+     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+     "score": 180,
+     "by": "sebg",
+     "time": 1794860538,
+     "comments": 89
     },
     {
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 352,
+     "score": 362,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 245
+     "comments": 249
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 348,
+     "score": 351,
      "by": "burntsushi",
      "time": 1794848019,
      "comments": 79
+    },
+    {
+     "id": 50515035,
+     "title": "Test/verification technique effectiveness with Astra",
+     "url": "https://danluu.com/astra-testing/",
+     "score": 7,
+     "by": "luu",
+     "time": 1794814431,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T05:23:02.685267+00:00",
+   "fetched_at": "2026-11-17T05:53:08.145847+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T05:23:03.958529+00:00",
+   "fetched_at": "2026-11-17T05:53:09.466631+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4220,
+     "stars": 4233,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2288,
+     "stars": 2286,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1802,
+     "stars": 1821,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1496,
+     "stars": 1498,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1367,
+     "stars": 1373,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1212,
+     "stars": 1219,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,31 +219,31 @@
     {
      "full_name": "opencoredev/islandcn",
      "url": "https://github.com/opencoredev/islandcn",
-     "stars": 785,
+     "stars": 786,
      "language": "TypeScript",
      "description": "The open-source Dynamic Island for React, installed with shadcn.",
      "created_at": "2026-11-13T11:50:50Z"
     },
     {
-     "full_name": "AIRzZ90/study-materials-fork",
-     "url": "https://github.com/AIRzZ90/study-materials-fork",
-     "stars": 743,
-     "language": "TypeScript",
-     "description": "A cross-platform Tauri 2 interface and interaction practice project",
-     "created_at": "2026-11-12T10:52:32Z"
-    },
-    {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 718,
+     "stars": 765,
      "language": "Python",
      "description": "Offline knowledge library for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
+    },
+    {
+     "full_name": "AIRzZ90/study-materials-fork",
+     "url": "https://github.com/AIRzZ90/study-materials-fork",
+     "stars": 744,
+     "language": "TypeScript",
+     "description": "A cross-platform Tauri 2 interface and interaction practice project",
+     "created_at": "2026-11-12T10:52:32Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T05:23:04.413143+00:00",
+   "fetched_at": "2026-11-17T05:53:09.911453+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 196,
+     "reactions": 197,
      "comments": 181,
      "published_at": "2026-11-12T08:14:36Z"
     },
@@ -274,7 +274,7 @@
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 105,
+     "reactions": 106,
      "comments": 46,
      "published_at": "2026-11-13T15:56:26Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T05:23:04.440771+00:00",
+   "fetched_at": "2026-11-17T05:53:10.137182+00:00",
    "stale": false,
    "items": [
     {
