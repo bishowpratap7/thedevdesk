@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T08:53:42.182654+00:00",
+ "generated_at": "2026-11-17T08:53:57.825008+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T08:53:38.336964+00:00",
+   "fetched_at": "2026-11-17T08:53:53.561520+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T08:53:39.896370+00:00",
+   "fetched_at": "2026-11-17T08:53:55.391534+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T08:53:41.140470+00:00",
+   "fetched_at": "2026-11-17T08:53:56.801245+00:00",
    "stale": false,
    "items": [
     {
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1283,
+     "stars": 1284,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T08:53:41.571140+00:00",
+   "fetched_at": "2026-11-17T08:53:57.298878+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T08:53:41.634395+00:00",
+   "fetched_at": "2026-11-17T08:53:57.384885+00:00",
    "stale": false,
    "items": [
     {
