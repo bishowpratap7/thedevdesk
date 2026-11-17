@@ -1,72 +1,81 @@
 {
- "generated_at": "2026-11-17T17:56:16.817008+00:00",
+ "generated_at": "2026-11-17T18:26:23.354491+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T17:56:11.392976+00:00",
+   "fetched_at": "2026-11-17T18:26:18.634560+00:00",
    "stale": false,
    "items": [
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 89,
+     "score": 321,
      "by": "jasondavies",
      "time": 1794937603,
-     "comments": 17
+     "comments": 141
     },
     {
      "id": 50532191,
      "title": "What is the best harness for each model?",
      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-     "score": 181,
+     "score": 205,
      "by": "Edward40",
      "time": 1794927223,
-     "comments": 74
+     "comments": 82
     },
     {
      "id": 50532385,
      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
      "url": "https://alloyhtml.com/example.html",
-     "score": 95,
+     "score": 109,
      "by": "prafandy",
      "time": 1794928029,
-     "comments": 13
-    },
-    {
-     "id": 50530163,
-     "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-     "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-     "score": 846,
-     "by": "donohoe",
-     "time": 1794915951,
-     "comments": 442
+     "comments": 14
     },
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 2119,
+     "score": 2153,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 284
+     "comments": 288
     },
     {
-     "id": 50518328,
-     "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-     "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-     "score": 75,
-     "by": "dustfinger",
-     "time": 1794841340,
-     "comments": 17
+     "id": 50530163,
+     "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+     "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+     "score": 897,
+     "by": "donohoe",
+     "time": 1794915951,
+     "comments": 461
     },
     {
      "id": 50533089,
      "title": "NSA Internal Network Down",
      "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-     "score": 148,
+     "score": 190,
      "by": "nodoodles",
      "time": 1794930648,
-     "comments": 89
+     "comments": 127
+    },
+    {
+     "id": 50518328,
+     "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+     "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+     "score": 82,
+     "by": "dustfinger",
+     "time": 1794841340,
+     "comments": 19
+    },
+    {
+     "id": 50534664,
+     "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+     "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+     "score": 61,
+     "by": "balderdash",
+     "time": 1794935637,
+     "comments": 8
     },
     {
      "id": 50534429,
@@ -78,45 +87,36 @@
      "comments": 0
     },
     {
+     "id": 50535238,
+     "title": "Apple Services Down",
+     "url": "https://downdetector.com/status/apple-support/",
+     "score": 64,
+     "by": "willy_k",
+     "time": 1794937634,
+     "comments": 18
+    },
+    {
+     "id": 50515291,
+     "title": "Elephant-Goldfish Model",
+     "url": "https://egm.dev/",
+     "score": 23,
+     "by": "_tk_",
+     "time": 1794817408,
+     "comments": 13
+    },
+    {
      "id": 50533270,
      "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
      "url": "https://github.com/RunanywhereAI/trnrt",
-     "score": 13,
+     "score": 17,
      "by": "sanchitmonga22",
      "time": 1794931264,
-     "comments": 1
-    },
-    {
-     "id": 50534664,
-     "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-     "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-     "score": 27,
-     "by": "balderdash",
-     "time": 1794935637,
-     "comments": 3
-    },
-    {
-     "id": 50517375,
-     "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
-     "url": "https://arxiv.org/abs/2611.18126",
-     "score": 13,
-     "by": "cwerling",
-     "time": 1794835517,
      "comments": 2
-    },
-    {
-     "id": 50511874,
-     "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-     "url": "https://visualbasic.world/",
-     "score": 175,
-     "by": "broast",
-     "time": 1794784110,
-     "comments": 65
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T17:56:13.264644+00:00",
+   "fetched_at": "2026-11-17T18:26:20.031451+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T17:56:15.279177+00:00",
+   "fetched_at": "2026-11-17T18:26:22.030852+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4497,
+     "stars": 4498,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -177,25 +177,25 @@
      "created_at": "2026-11-11T04:27:17Z"
     },
     {
-     "full_name": "Noniv/abyssal-garden",
-     "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2086,
-     "language": "JavaScript",
-     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
-     "created_at": "2026-11-12T13:57:34Z"
-    },
-    {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 2083,
+     "stars": 2149,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
     },
     {
+     "full_name": "Noniv/abyssal-garden",
+     "url": "https://github.com/Noniv/abyssal-garden",
+     "stars": 2091,
+     "language": "JavaScript",
+     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+     "created_at": "2026-11-12T13:57:34Z"
+    },
+    {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1570,
+     "stars": 1573,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1458,
+     "stars": 1459,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1432,
+     "stars": 1451,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1409,
+     "stars": 1410,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 1146,
+     "stars": 1197,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 942,
+     "stars": 948,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T17:56:15.938681+00:00",
+   "fetched_at": "2026-11-17T18:26:22.704581+00:00",
    "stale": false,
    "items": [
     {
@@ -274,7 +274,7 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 117,
+     "reactions": 118,
      "comments": 94,
      "published_at": "2026-11-16T14:55:10Z"
     },
@@ -282,7 +282,7 @@
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 111,
+     "reactions": 112,
      "comments": 46,
      "published_at": "2026-11-13T15:56:26Z"
     },
@@ -290,7 +290,7 @@
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
-     "reactions": 62,
+     "reactions": 63,
      "comments": 21,
      "published_at": "2026-11-15T04:00:28Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T17:56:16.058405+00:00",
+   "fetched_at": "2026-11-17T18:26:22.841277+00:00",
    "stale": false,
    "items": [
     {
