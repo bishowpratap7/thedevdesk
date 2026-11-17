@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T23:27:43.467889+00:00",
+ "generated_at": "2026-11-17T23:57:49.563902+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T23:27:38.783495+00:00",
+   "fetched_at": "2026-11-17T23:57:45.074461+00:00",
    "stale": false,
    "items": [
     {
      "id": 50538240,
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "url": "https://calif.io/java4shell/",
-     "score": 324,
+     "score": 390,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 81
+     "comments": 99
     },
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 1005,
+     "score": 1024,
      "by": "jasondavies",
      "time": 1794937603,
-     "comments": 619
+     "comments": 641
     },
     {
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 120,
+     "score": 165,
      "by": "subset",
      "time": 1794953614,
-     "comments": 9
+     "comments": 29
     },
     {
      "id": 50537156,
      "title": "jQuery 4.1.0",
      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-     "score": 214,
+     "score": 225,
      "by": "petecooper",
      "time": 1794945040,
-     "comments": 112
+     "comments": 121
     },
     {
      "id": 50534631,
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "score": 313,
+     "score": 339,
      "by": "louiereederson",
      "time": 1794935526,
-     "comments": 162
+     "comments": 173
     },
     {
      "id": 50535885,
      "title": "MAI Code 2 and Code 2 Flash",
      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-     "score": 246,
+     "score": 260,
      "by": "lemonish97",
      "time": 1794939913,
-     "comments": 115
-    },
-    {
-     "id": 50536813,
-     "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
-     "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-     "score": 211,
-     "by": "dxs",
-     "time": 1794943527,
-     "comments": 65
+     "comments": 123
     },
     {
      "id": 50535992,
      "title": "Phrack 73 Released",
      "url": "https://phrack.org/issues/73/introduction_md",
-     "score": 227,
+     "score": 242,
      "by": "notmine1337",
      "time": 1794940285,
-     "comments": 21
+     "comments": 24
+    },
+    {
+     "id": 50536813,
+     "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+     "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+     "score": 219,
+     "by": "dxs",
+     "time": 1794943527,
+     "comments": 67
     },
     {
      "id": 50532849,
      "title": "Highly classified US national security communications network goes down",
      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-     "score": 402,
+     "score": 425,
      "by": "monkeydust",
      "time": 1794929908,
-     "comments": 505
+     "comments": 517
     },
     {
      "id": 50532118,
      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-     "score": 121,
+     "score": 137,
      "by": "b33f",
      "time": 1794926883,
-     "comments": 16
+     "comments": 20
     },
     {
-     "id": 50536387,
-     "title": "Solid 2.0",
-     "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-     "score": 184,
-     "by": "pier25",
-     "time": 1794941777,
-     "comments": 50
+     "id": 50539747,
+     "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+     "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+     "score": 10,
+     "by": "digitaldragon",
+     "time": 1794958378,
+     "comments": 2
     },
     {
-     "id": 50537290,
-     "title": "Web Browser Engineering (2021)",
-     "url": "https://browser.engineering/",
-     "score": 106,
-     "by": "ibobev",
-     "time": 1794945695,
-     "comments": 17
+     "id": 50539610,
+     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+     "url": "https://github.com/microsoft/onnxruntime",
+     "score": 34,
+     "by": "nvader",
+     "time": 1794957529,
+     "comments": 4
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T23:27:40.297819+00:00",
+   "fetched_at": "2026-11-17T23:57:46.849657+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T23:27:42.063982+00:00",
+   "fetched_at": "2026-11-17T23:57:48.440785+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4514,
+     "stars": 4516,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 2598,
+     "stars": 2621,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2587,
+     "stars": 2590,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2144,
+     "stars": 2147,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1732,
+     "stars": 1749,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -203,31 +203,31 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1580,
+     "stars": 1583,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
     },
     {
-     "full_name": "Eynnzerr/TelemetryCleaner",
-     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1470,
-     "language": "Kotlin",
-     "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
-     "created_at": "2026-11-11T06:25:10Z"
-    },
-    {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 1455,
+     "stars": 1494,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
     },
     {
+     "full_name": "Eynnzerr/TelemetryCleaner",
+     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+     "stars": 1473,
+     "language": "Kotlin",
+     "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
+     "created_at": "2026-11-11T06:25:10Z"
+    },
+    {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1420,
+     "stars": 1422,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 1198,
+     "stars": 1241,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T23:27:42.634388+00:00",
+   "fetched_at": "2026-11-17T23:57:48.892050+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 126,
-     "comments": 116,
+     "comments": 117,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -290,7 +290,7 @@
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
-     "reactions": 65,
+     "reactions": 66,
      "comments": 21,
      "published_at": "2026-11-15T04:00:28Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T23:27:42.816322+00:00",
+   "fetched_at": "2026-11-17T23:57:49.057657+00:00",
    "stale": false,
    "items": [
     {
