@@ -1,81 +1,90 @@
 {
- "generated_at": "2026-11-17T18:26:23.354491+00:00",
+ "generated_at": "2026-11-17T18:56:30.104373+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T18:26:18.634560+00:00",
+   "fetched_at": "2026-11-17T18:56:25.034908+00:00",
    "stale": false,
    "items": [
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 321,
+     "score": 465,
      "by": "jasondavies",
      "time": 1794937603,
-     "comments": 141
+     "comments": 241
     },
     {
      "id": 50532191,
      "title": "What is the best harness for each model?",
      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-     "score": 205,
+     "score": 230,
      "by": "Edward40",
      "time": 1794927223,
-     "comments": 82
+     "comments": 89
+    },
+    {
+     "id": 50535885,
+     "title": "MAI Code 2 and Code 2 Flash",
+     "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+     "score": 27,
+     "by": "lemonish97",
+     "time": 1794939913,
+     "comments": 5
     },
     {
      "id": 50532385,
      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
      "url": "https://alloyhtml.com/example.html",
-     "score": 109,
+     "score": 123,
      "by": "prafandy",
      "time": 1794928029,
-     "comments": 14
+     "comments": 17
+    },
+    {
+     "id": 50535238,
+     "title": "Apple Services Down",
+     "url": "https://downdetector.com/status/apple-support/",
+     "score": 134,
+     "by": "willy_k",
+     "time": 1794937634,
+     "comments": 66
     },
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 2153,
+     "score": 2175,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 288
+     "comments": 291
     },
     {
      "id": 50530163,
      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-     "score": 897,
+     "score": 932,
      "by": "donohoe",
      "time": 1794915951,
-     "comments": 461
+     "comments": 472
     },
     {
      "id": 50533089,
      "title": "NSA Internal Network Down",
      "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-     "score": 190,
+     "score": 238,
      "by": "nodoodles",
      "time": 1794930648,
-     "comments": 127
+     "comments": 154
     },
     {
      "id": 50518328,
      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-     "score": 82,
+     "score": 88,
      "by": "dustfinger",
      "time": 1794841340,
      "comments": 19
-    },
-    {
-     "id": 50534664,
-     "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-     "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-     "score": 61,
-     "by": "balderdash",
-     "time": 1794935637,
-     "comments": 8
     },
     {
      "id": 50534429,
@@ -87,36 +96,27 @@
      "comments": 0
     },
     {
-     "id": 50535238,
-     "title": "Apple Services Down",
-     "url": "https://downdetector.com/status/apple-support/",
-     "score": 64,
-     "by": "willy_k",
-     "time": 1794937634,
-     "comments": 18
-    },
-    {
-     "id": 50515291,
-     "title": "Elephant-Goldfish Model",
-     "url": "https://egm.dev/",
-     "score": 23,
-     "by": "_tk_",
-     "time": 1794817408,
-     "comments": 13
-    },
-    {
-     "id": 50533270,
-     "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
-     "url": "https://github.com/RunanywhereAI/trnrt",
-     "score": 17,
-     "by": "sanchitmonga22",
-     "time": 1794931264,
+     "id": 50535208,
+     "title": "Who Builds the Machines That Build the Machines?",
+     "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+     "score": 13,
+     "by": "gmays",
+     "time": 1794937539,
      "comments": 2
+    },
+    {
+     "id": 50529612,
+     "title": "How the Claude Code team thinks about verification",
+     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+     "score": 188,
+     "by": "craigmart",
+     "time": 1794910840,
+     "comments": 155
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T18:26:20.031451+00:00",
+   "fetched_at": "2026-11-17T18:56:26.515191+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T18:26:22.030852+00:00",
+   "fetched_at": "2026-11-17T18:56:28.651849+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4498,
+     "stars": 4500,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 2149,
+     "stars": 2211,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2091,
+     "stars": 2095,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -201,20 +201,20 @@
      "created_at": "2026-11-14T01:24:58Z"
     },
     {
-     "full_name": "Eynnzerr/TelemetryCleaner",
-     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1459,
-     "language": "Kotlin",
-     "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
-     "created_at": "2026-11-11T06:25:10Z"
-    },
-    {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1451,
+     "stars": 1475,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
+    },
+    {
+     "full_name": "Eynnzerr/TelemetryCleaner",
+     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+     "stars": 1460,
+     "language": "Kotlin",
+     "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
+     "created_at": "2026-11-11T06:25:10Z"
     },
     {
      "full_name": "ZiChuanLan/freebie-radar",
@@ -227,7 +227,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 1197,
+     "stars": 1241,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 948,
+     "stars": 959,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T18:26:22.704581+00:00",
+   "fetched_at": "2026-11-17T18:56:29.235936+00:00",
    "stale": false,
    "items": [
     {
@@ -274,8 +274,8 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 118,
-     "comments": 94,
+     "reactions": 119,
+     "comments": 95,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -290,7 +290,7 @@
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
-     "reactions": 63,
+     "reactions": 65,
      "comments": 21,
      "published_at": "2026-11-15T04:00:28Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T18:26:22.841277+00:00",
+   "fetched_at": "2026-11-17T18:56:29.445634+00:00",
    "stale": false,
    "items": [
     {
