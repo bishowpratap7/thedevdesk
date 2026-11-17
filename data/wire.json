@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T22:57:37.085987+00:00",
+ "generated_at": "2026-11-17T23:27:43.467889+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T22:57:32.439851+00:00",
+   "fetched_at": "2026-11-17T23:27:38.783495+00:00",
    "stale": false,
    "items": [
     {
      "id": 50538240,
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "url": "https://calif.io/java4shell/",
-     "score": 252,
+     "score": 324,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 77
+     "comments": 81
     },
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 977,
+     "score": 1005,
      "by": "jasondavies",
      "time": 1794937603,
-     "comments": 603
+     "comments": 619
     },
     {
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 65,
+     "score": 120,
      "by": "subset",
      "time": 1794953614,
-     "comments": 2
+     "comments": 9
     },
     {
      "id": 50537156,
      "title": "jQuery 4.1.0",
      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-     "score": 201,
+     "score": 214,
      "by": "petecooper",
      "time": 1794945040,
-     "comments": 103
+     "comments": 112
     },
     {
      "id": 50534631,
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "score": 282,
+     "score": 313,
      "by": "louiereederson",
      "time": 1794935526,
-     "comments": 153
+     "comments": 162
     },
     {
      "id": 50535885,
      "title": "MAI Code 2 and Code 2 Flash",
      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-     "score": 238,
+     "score": 246,
      "by": "lemonish97",
      "time": 1794939913,
-     "comments": 111
-    },
-    {
-     "id": 50535992,
-     "title": "Phrack 73 Released",
-     "url": "https://phrack.org/issues/73/introduction_md",
-     "score": 209,
-     "by": "notmine1337",
-     "time": 1794940285,
-     "comments": 20
+     "comments": 115
     },
     {
      "id": 50536813,
      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-     "score": 189,
+     "score": 211,
      "by": "dxs",
      "time": 1794943527,
-     "comments": 61
+     "comments": 65
+    },
+    {
+     "id": 50535992,
+     "title": "Phrack 73 Released",
+     "url": "https://phrack.org/issues/73/introduction_md",
+     "score": 227,
+     "by": "notmine1337",
+     "time": 1794940285,
+     "comments": 21
     },
     {
      "id": 50532849,
      "title": "Highly classified US national security communications network goes down",
      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-     "score": 385,
+     "score": 402,
      "by": "monkeydust",
      "time": 1794929908,
-     "comments": 496
-    },
-    {
-     "id": 50537290,
-     "title": "Web Browser Engineering (2021)",
-     "url": "https://browser.engineering/",
-     "score": 98,
-     "by": "ibobev",
-     "time": 1794945695,
-     "comments": 17
-    },
-    {
-     "id": 50536387,
-     "title": "Solid 2.0",
-     "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-     "score": 175,
-     "by": "pier25",
-     "time": 1794941777,
-     "comments": 44
+     "comments": 505
     },
     {
      "id": 50532118,
      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-     "score": 109,
+     "score": 121,
      "by": "b33f",
      "time": 1794926883,
-     "comments": 14
+     "comments": 16
+    },
+    {
+     "id": 50536387,
+     "title": "Solid 2.0",
+     "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+     "score": 184,
+     "by": "pier25",
+     "time": 1794941777,
+     "comments": 50
+    },
+    {
+     "id": 50537290,
+     "title": "Web Browser Engineering (2021)",
+     "url": "https://browser.engineering/",
+     "score": 106,
+     "by": "ibobev",
+     "time": 1794945695,
+     "comments": 17
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T22:57:34.224060+00:00",
+   "fetched_at": "2026-11-17T23:27:40.297819+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T22:57:35.803795+00:00",
+   "fetched_at": "2026-11-17T23:27:42.063982+00:00",
    "stale": false,
    "items": [
     {
@@ -169,25 +169,25 @@
      "created_at": "2026-11-12T08:08:19Z"
     },
     {
-     "full_name": "apex-compute/ANR",
-     "url": "https://github.com/apex-compute/ANR",
-     "stars": 2585,
-     "language": "C++",
-     "description": "Apex Neural Rendering (ANR) by Apex Compute",
-     "created_at": "2026-11-11T04:27:17Z"
-    },
-    {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 2556,
+     "stars": 2598,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
     },
     {
+     "full_name": "apex-compute/ANR",
+     "url": "https://github.com/apex-compute/ANR",
+     "stars": 2587,
+     "language": "C++",
+     "description": "Apex Neural Rendering (ANR) by Apex Compute",
+     "created_at": "2026-11-11T04:27:17Z"
+    },
+    {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2138,
+     "stars": 2144,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1714,
+     "stars": 1732,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1578,
+     "stars": 1580,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 1421,
+     "stars": 1455,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 1160,
+     "stars": 1198,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T22:57:36.237019+00:00",
+   "fetched_at": "2026-11-17T23:27:42.634388+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 126,
-     "comments": 97,
+     "comments": 116,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T22:57:36.389544+00:00",
+   "fetched_at": "2026-11-17T23:27:42.816322+00:00",
    "stale": false,
    "items": [
     {
