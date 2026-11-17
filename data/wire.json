@@ -1,90 +1,108 @@
 {
- "generated_at": "2026-11-17T03:22:26.449477+00:00",
+ "generated_at": "2026-11-17T03:52:32.889036+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T03:22:22.011540+00:00",
+   "fetched_at": "2026-11-17T03:52:28.283913+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 858,
+     "score": 900,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 141
+     "comments": 144
     },
     {
      "id": 50524736,
      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "score": 310,
+     "score": 328,
      "by": "cwaffles",
      "time": 1794869900,
-     "comments": 176
+     "comments": 197
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 363,
+     "score": 380,
      "by": "lode",
      "time": 1794864737,
-     "comments": 179
+     "comments": 191
     },
     {
      "id": 50526152,
      "title": "Running coding agents without handing them my credentials",
      "url": "https://blog.antonio.cx/running-agents-with-lend",
-     "score": 41,
+     "score": 48,
      "by": "antoniomika",
      "time": 1794878336,
-     "comments": 12
+     "comments": 18
     },
     {
      "id": 50524767,
      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 142,
+     "score": 156,
      "by": "kristjansson",
      "time": 1794870034,
-     "comments": 77
+     "comments": 82
     },
     {
      "id": 50526560,
      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
      "url": "https://support.apple.com/en-us/149699",
-     "score": 13,
+     "score": 25,
      "by": "jshier",
      "time": 1794881824,
-     "comments": 5
+     "comments": 12
     },
     {
      "id": 50523459,
      "title": "OpenCode Browse",
      "url": "https://opencode.ai/product/browse",
-     "score": 148,
+     "score": 153,
      "by": "mfiguiere",
      "time": 1794864037,
-     "comments": 63
-    },
-    {
-     "id": 50526537,
-     "title": "Mem Is Shutting Down",
-     "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-     "score": 17,
-     "by": "qainsights",
-     "time": 1794881621,
-     "comments": 15
+     "comments": 69
     },
     {
      "id": 50522643,
      "title": "Chemistry is Actually Geometry",
      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 137,
+     "score": 142,
      "by": "sebg",
      "time": 1794860538,
-     "comments": 57
+     "comments": 68
+    },
+    {
+     "id": 50526537,
+     "title": "Mem Is Shutting Down",
+     "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+     "score": 21,
+     "by": "qainsights",
+     "time": 1794881621,
+     "comments": 20
+    },
+    {
+     "id": 50519354,
+     "title": "Frame \u2013 31.5\" color ePaper display",
+     "url": "https://trmnl.com/blog/introducing-frame",
+     "score": 332,
+     "by": "geerlingguy",
+     "time": 1794846202,
+     "comments": 236
+    },
+    {
+     "id": 50519744,
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "url": "https://burntsushi.net/jiff/",
+     "score": 332,
+     "by": "burntsushi",
+     "time": 1794848019,
+     "comments": 77
     },
     {
      "id": 50524225,
@@ -93,30 +111,12 @@
      "score": 88,
      "by": "ronfriedhaber",
      "time": 1794867563,
-     "comments": 20
-    },
-    {
-     "id": 50519354,
-     "title": "Frame \u2013 31.5\" color ePaper display",
-     "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 327,
-     "by": "geerlingguy",
-     "time": 1794846202,
-     "comments": 229
-    },
-    {
-     "id": 50497621,
-     "title": "Formal Verification Is Not Verifiable",
-     "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
-     "score": 78,
-     "by": "zdw",
-     "time": 1794668868,
-     "comments": 17
+     "comments": 21
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T03:22:23.276777+00:00",
+   "fetched_at": "2026-11-17T03:52:29.662342+00:00",
    "stale": false,
    "items": [
     {
@@ -135,10 +135,10 @@
     },
     {
      "repo": "nodejs/node",
-     "tag": "v27.0.0-alpha.0.1.0",
-     "name": "2026-11-12, Version 27.0.0-alpha.0.1.0 (Alpha), @aduh95",
-     "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0",
-     "published_at": "2026-11-12T13:35:13Z"
+     "tag": "v27.0.0-alpha.0.1.1",
+     "name": "2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95",
+     "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1",
+     "published_at": "2026-11-17T03:48:38Z"
     },
     {
      "repo": "microsoft/vscode",
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T03:22:25.170884+00:00",
+   "fetched_at": "2026-11-17T03:52:31.491773+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4171,
+     "stars": 4181,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2485,
+     "stars": 2487,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2249,
+     "stars": 2259,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1770,
+     "stars": 1782,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1471,
+     "stars": 1478,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1340,
+     "stars": 1349,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1182,
+     "stars": 1188,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "opencoredev/islandcn",
      "url": "https://github.com/opencoredev/islandcn",
-     "stars": 779,
+     "stars": 782,
      "language": "TypeScript",
      "description": "The open-source Dynamic Island for React, installed with shadcn.",
      "created_at": "2026-11-13T11:50:50Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "AIRzZ90/study-materials-fork",
      "url": "https://github.com/AIRzZ90/study-materials-fork",
-     "stars": 742,
+     "stars": 743,
      "language": "TypeScript",
      "description": "A cross-platform Tauri 2 interface and interaction practice project",
      "created_at": "2026-11-12T10:52:32Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T03:22:25.761387+00:00",
+   "fetched_at": "2026-11-17T03:52:32.092932+00:00",
    "stale": false,
    "items": [
     {
@@ -291,7 +291,7 @@
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
      "reactions": 58,
-     "comments": 16,
+     "comments": 20,
      "published_at": "2026-11-15T04:00:28Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T03:22:25.846617+00:00",
+   "fetched_at": "2026-11-17T03:52:32.239926+00:00",
    "stale": false,
    "items": [
     {
