@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T00:21:46.566111+00:00",
+ "generated_at": "2026-11-17T00:51:53.263631+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T00:21:41.615774+00:00",
+   "fetched_at": "2026-11-17T00:51:48.759662+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 511,
+     "score": 587,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 86
+     "comments": 94
     },
     {
      "id": 50524736,
      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "score": 78,
+     "score": 141,
      "by": "cwaffles",
      "time": 1794869900,
-     "comments": 36
+     "comments": 59
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 245,
+     "score": 272,
      "by": "lode",
      "time": 1794864737,
-     "comments": 131
+     "comments": 146
     },
     {
      "id": 50523300,
      "title": "World's Largest Brands Infected With Malware Via Optimizely",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 124,
+     "score": 162,
      "by": "martinald",
      "time": 1794863318,
-     "comments": 21
-    },
-    {
-     "id": 50524225,
-     "title": "How to Break into Security, Ptacek Edition (2012)",
-     "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-     "score": 58,
-     "by": "ronfriedhaber",
-     "time": 1794867563,
-     "comments": 15
+     "comments": 31
     },
     {
      "id": 50523459,
      "title": "OpenCode Browse",
      "url": "https://opencode.ai/product/browse",
-     "score": 81,
+     "score": 96,
      "by": "mfiguiere",
      "time": 1794864037,
-     "comments": 37
+     "comments": 42
     },
     {
-     "id": 50520182,
-     "title": "Grazing sheep in fields with solar arrays",
-     "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "score": 197,
-     "by": "PaulHoule",
-     "time": 1794850066,
-     "comments": 197
+     "id": 50524225,
+     "title": "How to Break into Security, Ptacek Edition (2012)",
+     "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+     "score": 65,
+     "by": "ronfriedhaber",
+     "time": 1794867563,
+     "comments": 16
     },
     {
-     "id": 50519744,
-     "title": "Jiff 1.0: A datetime library for Rust",
-     "url": "https://burntsushi.net/jiff/",
-     "score": 288,
-     "by": "burntsushi",
-     "time": 1794848019,
-     "comments": 69
+     "id": 50524767,
+     "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+     "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+     "score": 54,
+     "by": "kristjansson",
+     "time": 1794870034,
+     "comments": 17
     },
     {
      "id": 50522643,
      "title": "Chemistry is Actually Geometry",
      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 72,
+     "score": 85,
      "by": "sebg",
      "time": 1794860538,
-     "comments": 18
+     "comments": 21
+    },
+    {
+     "id": 50520182,
+     "title": "Grazing sheep in fields with solar arrays",
+     "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+     "score": 205,
+     "by": "PaulHoule",
+     "time": 1794850066,
+     "comments": 206
+    },
+    {
+     "id": 50519744,
+     "title": "Jiff 1.0: A datetime library for Rust",
+     "url": "https://burntsushi.net/jiff/",
+     "score": 297,
+     "by": "burntsushi",
+     "time": 1794848019,
+     "comments": 72
     },
     {
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 275,
+     "score": 281,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 194
+     "comments": 201
     },
     {
      "id": 50521045,
      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "score": 692,
+     "score": 701,
      "by": "samk3nny",
      "time": 1794853890,
-     "comments": 565
-    },
-    {
-     "id": 50497621,
-     "title": "Formal Verification Is Not Verifiable",
-     "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
-     "score": 28,
-     "by": "zdw",
-     "time": 1794668868,
-     "comments": 3
+     "comments": 579
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T00:21:42.947914+00:00",
+   "fetched_at": "2026-11-17T00:51:50.086497+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T00:21:44.988838+00:00",
+   "fetched_at": "2026-11-17T00:51:52.012608+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4057,
+     "stars": 4068,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2465,
+     "stars": 2467,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2188,
+     "stars": 2197,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1694,
+     "stars": 1700,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1438,
+     "stars": 1440,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1304,
+     "stars": 1312,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1142,
+     "stars": 1149,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T00:21:45.568827+00:00",
+   "fetched_at": "2026-11-17T00:51:52.588968+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 138,
+     "reactions": 139,
      "comments": 24,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -259,7 +259,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 195,
-     "comments": 178,
+     "comments": 179,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T00:21:45.765814+00:00",
+   "fetched_at": "2026-11-17T00:51:52.687028+00:00",
    "stale": false,
    "items": [
     {
