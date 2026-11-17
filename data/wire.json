@@ -1,78 +1,87 @@
 {
- "generated_at": "2026-11-17T02:22:12.545912+00:00",
+ "generated_at": "2026-11-17T02:52:20.095907+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T02:22:07.887391+00:00",
+   "fetched_at": "2026-11-17T02:52:14.336434+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 769,
+     "score": 811,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 130
+     "comments": 133
     },
     {
      "id": 50524736,
      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "score": 262,
+     "score": 288,
      "by": "cwaffles",
      "time": 1794869900,
-     "comments": 143
+     "comments": 160
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 332,
+     "score": 345,
      "by": "lode",
      "time": 1794864737,
-     "comments": 163
+     "comments": 174
     },
     {
      "id": 50524767,
      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 124,
+     "score": 134,
      "by": "kristjansson",
      "time": 1794870034,
-     "comments": 68
-    },
-    {
-     "id": 50523459,
-     "title": "OpenCode Browse",
-     "url": "https://opencode.ai/product/browse",
-     "score": 127,
-     "by": "mfiguiere",
-     "time": 1794864037,
-     "comments": 61
+     "comments": 74
     },
     {
      "id": 50526152,
      "title": "Running coding agents without handing them my credentials",
      "url": "https://blog.antonio.cx/running-agents-with-lend",
-     "score": 17,
+     "score": 30,
      "by": "antoniomika",
      "time": 1794878336,
-     "comments": 2
+     "comments": 4
+    },
+    {
+     "id": 50523459,
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 135,
+     "by": "mfiguiere",
+     "time": 1794864037,
+     "comments": 62
+    },
+    {
+     "id": 50526537,
+     "title": "Mem Is Shutting Down",
+     "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+     "score": 11,
+     "by": "qainsights",
+     "time": 1794881621,
+     "comments": 9
     },
     {
      "id": 50522643,
      "title": "Chemistry is Actually Geometry",
      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 116,
+     "score": 129,
      "by": "sebg",
      "time": 1794860538,
-     "comments": 41
+     "comments": 44
     },
     {
      "id": 50524225,
      "title": "How to Break into Security, Ptacek Edition (2012)",
      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-     "score": 77,
+     "score": 83,
      "by": "ronfriedhaber",
      "time": 1794867563,
      "comments": 20
@@ -81,42 +90,33 @@
      "id": 50519354,
      "title": "Frame \u2013 31.5\" color ePaper display",
      "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 307,
+     "score": 317,
      "by": "geerlingguy",
      "time": 1794846202,
-     "comments": 216
+     "comments": 222
     },
     {
      "id": 50519744,
      "title": "Jiff 1.0: A datetime library for Rust",
      "url": "https://burntsushi.net/jiff/",
-     "score": 315,
+     "score": 320,
      "by": "burntsushi",
      "time": 1794848019,
-     "comments": 74
+     "comments": 76
     },
     {
      "id": 50497621,
      "title": "Formal Verification Is Not Verifiable",
      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
-     "score": 71,
+     "score": 74,
      "by": "zdw",
      "time": 1794668868,
-     "comments": 13
-    },
-    {
-     "id": 50516689,
-     "title": "Do Repeat Yourself",
-     "url": "https://arcentry.com/blog/do-repeat-yourself/",
-     "score": 33,
-     "by": "max_sendfeld",
-     "time": 1794830806,
-     "comments": 12
+     "comments": 16
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T02:22:09.225872+00:00",
+   "fetched_at": "2026-11-17T02:52:15.723270+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T02:22:11.166554+00:00",
+   "fetched_at": "2026-11-17T02:52:18.732098+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4129,
+     "stars": 4148,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2476,
+     "stars": 2478,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2226,
+     "stars": 2237,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1750,
+     "stars": 1760,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1460,
+     "stars": 1467,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1330,
+     "stars": 1336,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1175,
+     "stars": 1180,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "opencoredev/islandcn",
      "url": "https://github.com/opencoredev/islandcn",
-     "stars": 778,
+     "stars": 779,
      "language": "TypeScript",
      "description": "The open-source Dynamic Island for React, installed with shadcn.",
      "created_at": "2026-11-13T11:50:50Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "AIRzZ90/study-materials-fork",
      "url": "https://github.com/AIRzZ90/study-materials-fork",
-     "stars": 738,
+     "stars": 739,
      "language": "TypeScript",
      "description": "A cross-platform Tauri 2 interface and interaction practice project",
      "created_at": "2026-11-12T10:52:32Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T02:22:11.751191+00:00",
+   "fetched_at": "2026-11-17T02:52:19.339027+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
      "reactions": 196,
-     "comments": 179,
+     "comments": 180,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -307,13 +307,13 @@
      "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
      "author": "xulingfeng",
      "reactions": 112,
-     "comments": 111,
+     "comments": 112,
      "published_at": "2026-11-11T08:35:15Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T02:22:11.922578+00:00",
+   "fetched_at": "2026-11-17T02:52:19.478771+00:00",
    "stale": false,
    "items": [
     {
