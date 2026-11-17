@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-17T18:56:30.104373+00:00",
+ "generated_at": "2026-11-17T18:56:46.329875+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T18:56:25.034908+00:00",
+   "fetched_at": "2026-11-17T18:56:42.024221+00:00",
    "stale": false,
    "items": [
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 465,
+     "score": 469,
      "by": "jasondavies",
      "time": 1794937603,
      "comments": 241
@@ -27,7 +27,7 @@
      "id": 50535885,
      "title": "MAI Code 2 and Code 2 Flash",
      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-     "score": 27,
+     "score": 28,
      "by": "lemonish97",
      "time": 1794939913,
      "comments": 5
@@ -45,7 +45,7 @@
      "id": 50535238,
      "title": "Apple Services Down",
      "url": "https://downdetector.com/status/apple-support/",
-     "score": 134,
+     "score": 136,
      "by": "willy_k",
      "time": 1794937634,
      "comments": 66
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T18:56:26.515191+00:00",
+   "fetched_at": "2026-11-17T18:56:43.661110+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T18:56:28.651849+00:00",
+   "fetched_at": "2026-11-17T18:56:45.126065+00:00",
    "stale": false,
    "items": [
     {
@@ -203,7 +203,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1475,
+     "stars": 1476,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T18:56:29.235936+00:00",
+   "fetched_at": "2026-11-17T18:56:45.610271+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T18:56:29.445634+00:00",
+   "fetched_at": "2026-11-17T18:56:45.720193+00:00",
    "stale": false,
    "items": [
     {
