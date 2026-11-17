@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T05:53:10.547528+00:00",
+ "generated_at": "2026-11-17T06:23:16.167005+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T05:53:06.390936+00:00",
+   "fetched_at": "2026-11-17T06:23:11.920520+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 1090,
+     "score": 1149,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 162
+     "comments": 169
     },
     {
      "id": 50524736,
      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "score": 422,
+     "score": 447,
      "by": "cwaffles",
      "time": 1794869900,
-     "comments": 268
+     "comments": 284
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 430,
+     "score": 443,
      "by": "lode",
      "time": 1794864737,
-     "comments": 208
+     "comments": 211
     },
     {
      "id": 50524767,
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 231,
+     "score": 244,
      "by": "kristjansson",
      "time": 1794870034,
-     "comments": 99
+     "comments": 102
     },
     {
-     "id": 50523459,
-     "title": "OpenCode Browse",
-     "url": "https://opencode.ai/product/browse",
-     "score": 192,
-     "by": "mfiguiere",
-     "time": 1794864037,
-     "comments": 83
-    },
-    {
-     "id": 50510969,
-     "title": "Why did modems have speakers? (2019)",
-     "url": "https://retrocomputing.stackexchange.com/questions/11765",
-     "score": 28,
-     "by": "Skyfall106",
-     "time": 1794778049,
-     "comments": 13
-    },
-    {
-     "id": 50526152,
-     "title": "Running coding agents without handing them my credentials",
-     "url": "https://blog.antonio.cx/running-agents-with-lend",
-     "score": 79,
-     "by": "antoniomika",
-     "time": 1794878336,
-     "comments": 37
-    },
-    {
-     "id": 50525575,
-     "title": "Why 3dfx 1 cards had such a washed out color output?",
-     "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-     "score": 62,
-     "by": "mfiguiere",
-     "time": 1794874584,
-     "comments": 6
-    },
-    {
-     "id": 50522643,
-     "title": "Chemistry is Actually Geometry",
-     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 180,
-     "by": "sebg",
-     "time": 1794860538,
-     "comments": 89
-    },
-    {
-     "id": 50519354,
-     "title": "Frame \u2013 31.5\" color ePaper display",
-     "url": "https://trmnl.com/blog/introducing-frame",
-     "score": 362,
-     "by": "geerlingguy",
-     "time": 1794846202,
-     "comments": 249
-    },
-    {
-     "id": 50519744,
-     "title": "Jiff 1.0: A datetime library for Rust",
-     "url": "https://burntsushi.net/jiff/",
-     "score": 351,
-     "by": "burntsushi",
-     "time": 1794848019,
-     "comments": 79
+     "id": 50526560,
+     "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+     "url": "https://support.apple.com/en-us/149699",
+     "score": 67,
+     "by": "jshier",
+     "time": 1794881824,
+     "comments": 45
     },
     {
      "id": 50515035,
      "title": "Test/verification technique effectiveness with Astra",
      "url": "https://danluu.com/astra-testing/",
-     "score": 7,
+     "score": 15,
      "by": "luu",
      "time": 1794814431,
-     "comments": 0
+     "comments": 1
+    },
+    {
+     "id": 50523459,
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 199,
+     "by": "mfiguiere",
+     "time": 1794864037,
+     "comments": 95
+    },
+    {
+     "id": 50526152,
+     "title": "Running coding agents without handing them my credentials",
+     "url": "https://blog.antonio.cx/running-agents-with-lend",
+     "score": 85,
+     "by": "antoniomika",
+     "time": 1794878336,
+     "comments": 40
+    },
+    {
+     "id": 50510969,
+     "title": "Why did modems have speakers? (2019)",
+     "url": "https://retrocomputing.stackexchange.com/questions/11765",
+     "score": 35,
+     "by": "Skyfall106",
+     "time": 1794778049,
+     "comments": 18
+    },
+    {
+     "id": 50525575,
+     "title": "Why 3dfx 1 cards had such a washed out color output?",
+     "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+     "score": 66,
+     "by": "mfiguiere",
+     "time": 1794874584,
+     "comments": 9
+    },
+    {
+     "id": 50522643,
+     "title": "Chemistry is Actually Geometry",
+     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+     "score": 183,
+     "by": "sebg",
+     "time": 1794860538,
+     "comments": 90
+    },
+    {
+     "id": 50519354,
+     "title": "Frame \u2013 31.5\" color ePaper display",
+     "url": "https://trmnl.com/blog/introducing-frame",
+     "score": 368,
+     "by": "geerlingguy",
+     "time": 1794846202,
+     "comments": 263
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T05:53:08.145847+00:00",
+   "fetched_at": "2026-11-17T06:23:13.914062+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T05:53:09.466631+00:00",
+   "fetched_at": "2026-11-17T06:23:15.134415+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4233,
+     "stars": 4256,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2497,
+     "stars": 2502,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2286,
+     "stars": 2291,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1821,
+     "stars": 1837,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1498,
+     "stars": 1499,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1373,
+     "stars": 1378,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,31 +211,31 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1219,
+     "stars": 1228,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
     },
     {
-     "full_name": "opencoredev/islandcn",
-     "url": "https://github.com/opencoredev/islandcn",
-     "stars": 786,
-     "language": "TypeScript",
-     "description": "The open-source Dynamic Island for React, installed with shadcn.",
-     "created_at": "2026-11-13T11:50:50Z"
-    },
-    {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 765,
+     "stars": 803,
      "language": "Python",
      "description": "Offline knowledge library for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
     },
     {
+     "full_name": "opencoredev/islandcn",
+     "url": "https://github.com/opencoredev/islandcn",
+     "stars": 787,
+     "language": "TypeScript",
+     "description": "The open-source Dynamic Island for React, installed with shadcn.",
+     "created_at": "2026-11-13T11:50:50Z"
+    },
+    {
      "full_name": "AIRzZ90/study-materials-fork",
      "url": "https://github.com/AIRzZ90/study-materials-fork",
-     "stars": 744,
+     "stars": 746,
      "language": "TypeScript",
      "description": "A cross-platform Tauri 2 interface and interaction practice project",
      "created_at": "2026-11-12T10:52:32Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T05:53:09.911453+00:00",
+   "fetched_at": "2026-11-17T06:23:15.618654+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T05:53:10.137182+00:00",
+   "fetched_at": "2026-11-17T06:23:15.720875+00:00",
    "stale": false,
    "items": [
     {
