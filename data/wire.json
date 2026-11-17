@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T14:55:35.139998+00:00",
+ "generated_at": "2026-11-17T15:25:41.673590+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T14:55:30.199655+00:00",
+   "fetched_at": "2026-11-17T15:25:36.850068+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50532086,
+     "title": "We don't need more apps. We need better open source",
+     "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+     "score": 77,
+     "by": "pandemicsoul",
+     "time": 1794926736,
+     "comments": 28
+    },
     {
      "id": 50530163,
      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-     "score": 438,
+     "score": 533,
      "by": "donohoe",
      "time": 1794915951,
-     "comments": 215
+     "comments": 267
     },
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 1912,
+     "score": 1955,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 262
+     "comments": 265
     },
     {
      "id": 50518328,
      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-     "score": 14,
+     "score": 29,
      "by": "dustfinger",
      "time": 1794841340,
-     "comments": 0
-    },
-    {
-     "id": 50511874,
-     "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-     "url": "https://visualbasic.world/",
-     "score": 140,
-     "by": "broast",
-     "time": 1794784110,
-     "comments": 47
-    },
-    {
-     "id": 50509456,
-     "title": "Turbo Pascal Compiler Written in Turbo Pascal",
-     "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
-     "score": 52,
-     "by": "andsoitis",
-     "time": 1794768057,
-     "comments": 18
-    },
-    {
-     "id": 50470523,
-     "title": "Rows vs. Columns: How different are they, really?",
-     "url": "https://spiraldb.com/blog/rows-vs-columns",
-     "score": 69,
-     "by": "eatonphil",
-     "time": 1794503081,
-     "comments": 24
+     "comments": 6
     },
     {
      "id": 50531751,
      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-     "score": 19,
+     "score": 67,
      "by": "larrysalibra",
      "time": 1794925199,
-     "comments": 2
+     "comments": 47
+    },
+    {
+     "id": 50532385,
+     "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+     "url": "https://alloyhtml.com/example.html",
+     "score": 5,
+     "by": "prafandy",
+     "time": 1794928029,
+     "comments": 1
+    },
+    {
+     "id": 50511874,
+     "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+     "url": "https://visualbasic.world/",
+     "score": 146,
+     "by": "broast",
+     "time": 1794784110,
+     "comments": 51
+    },
+    {
+     "id": 50470523,
+     "title": "Rows vs. Columns: How different are they, really?",
+     "url": "https://spiraldb.com/blog/rows-vs-columns",
+     "score": 77,
+     "by": "eatonphil",
+     "time": 1794503081,
+     "comments": 27
+    },
+    {
+     "id": 50509456,
+     "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+     "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
+     "score": 56,
+     "by": "andsoitis",
+     "time": 1794768057,
+     "comments": 21
     },
     {
      "id": 50531484,
      "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
      "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
-     "score": 25,
+     "score": 40,
      "by": "parksb",
      "time": 1794924047,
-     "comments": 22
+     "comments": 38
     },
     {
      "id": 50524767,
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 491,
+     "score": 514,
      "by": "kristjansson",
      "time": 1794870034,
-     "comments": 200
+     "comments": 205
     },
     {
-     "id": 50523601,
-     "title": "BugMeNot has closed",
-     "url": "https://www.bugmenot.com/",
-     "score": 644,
-     "by": "lode",
-     "time": 1794864737,
-     "comments": 286
-    },
-    {
-     "id": 50512779,
-     "title": "Nimony: A New Compiler for Nim",
-     "url": "https://nimony.org/",
-     "score": 122,
-     "by": "Fervicus",
-     "time": 1794791122,
-     "comments": 60
-    },
-    {
-     "id": 50515603,
-     "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
-     "url": "https://github.com/plabayo/venndb",
+     "id": 50531761,
+     "title": "Loopholes Are for Assholes",
+     "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
      "score": 8,
-     "by": "gdcbe",
-     "time": 1794820657,
-     "comments": 1
+     "by": "speckx",
+     "time": 1794925232,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T14:55:31.491172+00:00",
+   "fetched_at": "2026-11-17T15:25:38.298968+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T14:55:33.519999+00:00",
+   "fetched_at": "2026-11-17T15:25:40.267376+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4451,
+     "stars": 4464,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2026,
+     "stars": 2042,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 1578,
+     "stars": 1678,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1562,
+     "stars": 1564,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1435,
+     "stars": 1439,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1376,
+     "stars": 1381,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1259,
+     "stars": 1290,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 848,
+     "stars": 869,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T14:55:34.479587+00:00",
+   "fetched_at": "2026-11-17T15:25:40.891103+00:00",
    "stale": false,
    "items": [
     {
@@ -274,8 +274,8 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 114,
-     "comments": 74,
+     "reactions": 115,
+     "comments": 83,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T14:55:34.579164+00:00",
+   "fetched_at": "2026-11-17T15:25:41.040276+00:00",
    "stale": false,
    "items": [
     {
