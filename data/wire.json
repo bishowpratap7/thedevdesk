@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T11:54:36.227801+00:00",
+ "generated_at": "2026-11-17T12:24:42.125309+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T11:54:31.606523+00:00",
+   "fetched_at": "2026-11-17T12:24:37.844774+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50529612,
-     "title": "How the Claude Code team thinks about verification",
-     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-     "score": 37,
-     "by": "craigmart",
-     "time": 1794910840,
-     "comments": 36
-    },
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 1641,
+     "score": 1679,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 224
+     "comments": 226
     },
     {
      "id": 50511874,
      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
      "url": "https://visualbasic.world/",
-     "score": 52,
+     "score": 67,
      "by": "broast",
      "time": 1794784110,
-     "comments": 19
+     "comments": 24
     },
     {
      "id": 50508845,
      "title": "Japan's Hometown Tax (2018)",
      "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-     "score": 60,
+     "score": 66,
      "by": "waximabbax",
      "time": 1794764062,
-     "comments": 21
+     "comments": 32
     },
     {
      "id": 50523601,
      "title": "BugMeNot has closed",
      "url": "https://www.bugmenot.com/",
-     "score": 578,
+     "score": 586,
      "by": "lode",
      "time": 1794864737,
-     "comments": 263
-    },
-    {
-     "id": 50512779,
-     "title": "Nimony: A New Compiler for Nim",
-     "url": "https://nimony.org/",
-     "score": 81,
-     "by": "Fervicus",
-     "time": 1794791122,
-     "comments": 29
+     "comments": 268
     },
     {
      "id": 50524767,
      "title": "Optimizely compromised, served malware on Zoom, GitLab",
      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 392,
+     "score": 409,
      "by": "kristjansson",
      "time": 1794870034,
-     "comments": 163
+     "comments": 166
+    },
+    {
+     "id": 50512779,
+     "title": "Nimony: A New Compiler for Nim",
+     "url": "https://nimony.org/",
+     "score": 87,
+     "by": "Fervicus",
+     "time": 1794791122,
+     "comments": 31
+    },
+    {
+     "id": 50529612,
+     "title": "How the Claude Code team thinks about verification",
+     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+     "score": 51,
+     "by": "craigmart",
+     "time": 1794910840,
+     "comments": 62
     },
     {
      "id": 50526560,
      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
      "url": "https://support.apple.com/en-us/149699",
-     "score": 144,
+     "score": 148,
      "by": "jshier",
      "time": 1794881824,
-     "comments": 83
-    },
-    {
-     "id": 50525575,
-     "title": "Why 3dfx 1 cards had such a washed out color output?",
-     "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-     "score": 162,
-     "by": "mfiguiere",
-     "time": 1794874584,
-     "comments": 50
-    },
-    {
-     "id": 50522643,
-     "title": "Chemistry is Actually Geometry",
-     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "score": 248,
-     "by": "sebg",
-     "time": 1794860538,
-     "comments": 116
-    },
-    {
-     "id": 50523459,
-     "title": "OpenCode Browse",
-     "url": "https://opencode.ai/product/browse",
-     "score": 280,
-     "by": "mfiguiere",
-     "time": 1794864037,
-     "comments": 159
+     "comments": 84
     },
     {
      "id": 50470523,
      "title": "Rows vs. Columns: How different are they, really?",
      "url": "https://spiraldb.com/blog/rows-vs-columns",
-     "score": 7,
+     "score": 13,
      "by": "eatonphil",
      "time": 1794503081,
-     "comments": 1
+     "comments": 4
+    },
+    {
+     "id": 50525575,
+     "title": "Why 3dfx 1 cards had such a washed out color output?",
+     "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+     "score": 173,
+     "by": "mfiguiere",
+     "time": 1794874584,
+     "comments": 53
+    },
+    {
+     "id": 50522643,
+     "title": "Chemistry is Actually Geometry",
+     "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+     "score": 253,
+     "by": "sebg",
+     "time": 1794860538,
+     "comments": 117
+    },
+    {
+     "id": 50523459,
+     "title": "OpenCode Browse",
+     "url": "https://opencode.ai/product/browse",
+     "score": 289,
+     "by": "mfiguiere",
+     "time": 1794864037,
+     "comments": 165
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T11:54:33.563503+00:00",
+   "fetched_at": "2026-11-17T12:24:39.628631+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T11:54:35.060373+00:00",
+   "fetched_at": "2026-11-17T12:24:40.928607+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4384,
+     "stars": 4396,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2532,
+     "stars": 2534,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1957,
+     "stars": 1972,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1411,
+     "stars": 1414,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1336,
+     "stars": 1348,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1111,
+     "stars": 1138,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 1041,
+     "stars": 1107,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T11:54:35.543226+00:00",
+   "fetched_at": "2026-11-17T12:24:41.340709+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 205,
-     "comments": 192,
+     "reactions": 206,
+     "comments": 194,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -275,14 +275,14 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 111,
-     "comments": 61,
+     "comments": 62,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
      "author": "Jem",
-     "reactions": 109,
+     "reactions": 110,
      "comments": 46,
      "published_at": "2026-11-13T15:56:26Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T11:54:35.663736+00:00",
+   "fetched_at": "2026-11-17T12:24:41.461196+00:00",
    "stale": false,
    "items": [
     {
