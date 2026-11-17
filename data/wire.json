@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-17T12:54:49.695430+00:00",
+ "generated_at": "2026-11-17T13:24:55.682845+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-17T12:54:44.639276+00:00",
+   "fetched_at": "2026-11-17T13:24:51.409921+00:00",
    "stale": false,
    "items": [
     {
      "id": 50522980,
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
      "url": "https://www.cs.cmu.edu/learn/",
-     "score": 1727,
+     "score": 1769,
      "by": "pcompeau",
      "time": 1794861816,
-     "comments": 232
-    },
-    {
-     "id": 50511874,
-     "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-     "url": "https://visualbasic.world/",
-     "score": 84,
-     "by": "broast",
-     "time": 1794784110,
-     "comments": 31
+     "comments": 237
     },
     {
      "id": 50530163,
      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-     "score": 63,
+     "score": 135,
      "by": "donohoe",
      "time": 1794915951,
-     "comments": 21
+     "comments": 62
     },
     {
-     "id": 50523601,
-     "title": "BugMeNot has closed",
-     "url": "https://www.bugmenot.com/",
-     "score": 601,
-     "by": "lode",
-     "time": 1794864737,
-     "comments": 271
-    },
-    {
-     "id": 50524767,
-     "title": "Optimizely compromised, served malware on Zoom, GitLab",
-     "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-     "score": 431,
-     "by": "kristjansson",
-     "time": 1794870034,
-     "comments": 181
-    },
-    {
-     "id": 50512779,
-     "title": "Nimony: A New Compiler for Nim",
-     "url": "https://nimony.org/",
-     "score": 93,
-     "by": "Fervicus",
-     "time": 1794791122,
-     "comments": 34
+     "id": 50511874,
+     "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+     "url": "https://visualbasic.world/",
+     "score": 102,
+     "by": "broast",
+     "time": 1794784110,
+     "comments": 37
     },
     {
      "id": 50470523,
      "title": "Rows vs. Columns: How different are they, really?",
      "url": "https://spiraldb.com/blog/rows-vs-columns",
-     "score": 24,
+     "score": 35,
      "by": "eatonphil",
      "time": 1794503081,
-     "comments": 10
+     "comments": 15
+    },
+    {
+     "id": 50523601,
+     "title": "BugMeNot has closed",
+     "url": "https://www.bugmenot.com/",
+     "score": 608,
+     "by": "lode",
+     "time": 1794864737,
+     "comments": 274
+    },
+    {
+     "id": 50524767,
+     "title": "Optimizely compromised, served malware on Zoom, GitLab",
+     "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+     "score": 442,
+     "by": "kristjansson",
+     "time": 1794870034,
+     "comments": 189
     },
     {
      "id": 50509456,
      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
      "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
-     "score": 17,
+     "score": 26,
      "by": "andsoitis",
      "time": 1794768057,
-     "comments": 2
+     "comments": 3
+    },
+    {
+     "id": 50512779,
+     "title": "Nimony: A New Compiler for Nim",
+     "url": "https://nimony.org/",
+     "score": 100,
+     "by": "Fervicus",
+     "time": 1794791122,
+     "comments": 36
+    },
+    {
+     "id": 50530114,
+     "title": "My Empire of Dirt",
+     "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+     "score": 21,
+     "by": "throwaway384034",
+     "time": 1794915560,
+     "comments": 10
     },
     {
      "id": 50526560,
      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
      "url": "https://support.apple.com/en-us/149699",
-     "score": 155,
+     "score": 160,
      "by": "jshier",
      "time": 1794881824,
-     "comments": 86
-    },
-    {
-     "id": 50508845,
-     "title": "Japan's Hometown Tax (2018)",
-     "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-     "score": 77,
-     "by": "waximabbax",
-     "time": 1794764062,
-     "comments": 43
+     "comments": 87
     },
     {
      "id": 50525575,
      "title": "Why 3dfx 1 cards had such a washed out color output?",
      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-     "score": 184,
+     "score": 189,
      "by": "mfiguiere",
      "time": 1794874584,
-     "comments": 55
+     "comments": 58
     },
     {
-     "id": 50529612,
-     "title": "How the Claude Code team thinks about verification",
-     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-     "score": 62,
-     "by": "craigmart",
-     "time": 1794910840,
-     "comments": 74
+     "id": 50517558,
+     "title": "Why sending notifications is a nightmare for engineers",
+     "url": "https://notifkit.dev/articles/why-notification-systems-are-a-nightmare",
+     "score": 4,
+     "by": "coo1estguy",
+     "time": 1794836772,
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-17T12:54:46.789601+00:00",
+   "fetched_at": "2026-11-17T13:24:53.237885+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-17T12:54:48.290931+00:00",
+   "fetched_at": "2026-11-17T13:24:54.582837+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4403,
+     "stars": 4410,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "apex-compute/ANR",
      "url": "https://github.com/apex-compute/ANR",
-     "stars": 2539,
+     "stars": 2542,
      "language": "C++",
      "description": "Apex Neural Rendering (ANR) by Apex Compute",
      "created_at": "2026-11-11T04:27:17Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "hitkeeen/blender-ai-mcp-addon",
      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-     "stars": 2387,
+     "stars": 2389,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-12T14:32:15Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 1983,
+     "stars": 1992,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1551,
+     "stars": 1556,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Eynnzerr/TelemetryCleaner",
      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-     "stars": 1415,
+     "stars": 1419,
      "language": "Kotlin",
      "description": "\u57fa\u4e8e Shizuku \u514d Root \u6e05\u9664\u56fd\u4ea7\u5b89\u5353 SystemHelper\u3001RegService \u7b49\u7cfb\u7edf\u9884\u88c5\u9690\u79c1\u6570\u636e\u6536\u96c6\u6a21\u5757",
      "created_at": "2026-11-11T06:25:10Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1354,
+     "stars": 1359,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 1158,
+     "stars": 1252,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -227,23 +227,23 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1158,
+     "stars": 1182,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
     },
     {
-     "full_name": "opencoredev/islandcn",
-     "url": "https://github.com/opencoredev/islandcn",
-     "stars": 788,
-     "language": "TypeScript",
-     "description": "The open-source Dynamic Island for React, installed with shadcn.",
-     "created_at": "2026-11-13T11:50:50Z"
+     "full_name": "CzzzzzzJ/mdldm-maitian",
+     "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+     "stars": 790,
+     "language": "JavaScript",
+     "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
+     "created_at": "2026-11-14T03:59:22Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-17T12:54:48.797513+00:00",
+   "fetched_at": "2026-11-17T13:24:55.050105+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
      "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
      "author": "Hemapriya Kanagala",
-     "reactions": 108,
+     "reactions": 109,
      "comments": 9,
      "published_at": "2026-11-13T18:28:11Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-17T12:54:49.059776+00:00",
+   "fetched_at": "2026-11-17T13:24:55.189992+00:00",
    "stale": false,
    "items": [
     {
