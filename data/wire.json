@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-18T20:03:38.448014+00:00",
+ "generated_at": "2026-11-18T20:33:44.566789+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T20:03:35.490355+00:00",
+   "fetched_at": "2026-11-18T20:33:40.554188+00:00",
    "stale": false,
    "items": [
     {
      "id": 50547374,
      "title": "Unauthenticated remote code execution in Nginx",
      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-     "score": 676,
+     "score": 733,
      "by": "speedping",
      "time": 1795015195,
-     "comments": 266
-    },
-    {
-     "id": 50550062,
-     "title": "Scottish HTTP Codes",
-     "url": "https://underwood.network/http/scots.html",
-     "score": 128,
-     "by": "mooreds",
-     "time": 1795026379,
-     "comments": 21
+     "comments": 305
     },
     {
      "id": 50548021,
      "title": "Seven new models at scalable price-performance",
      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-     "score": 297,
+     "score": 315,
      "by": "gmays",
      "time": 1795018104,
-     "comments": 188
-    },
-    {
-     "id": 50550415,
-     "title": "Genie 4 is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-     "score": 70,
-     "by": "leumon",
-     "time": 1795027791,
-     "comments": 49
+     "comments": 202
     },
     {
      "id": 50547620,
      "title": "Inside Deutsche Bank",
      "url": "https://www.inside-db.com/",
-     "score": 352,
+     "score": 374,
      "by": "gyre007",
      "time": 1795016313,
-     "comments": 129
+     "comments": 138
     },
     {
      "id": 50545958,
      "title": "DNS resolvers are the wrong place to fight piracy",
      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-     "score": 450,
+     "score": 469,
      "by": "ritzaco",
      "time": 1795007882,
-     "comments": 147
+     "comments": 157
+    },
+    {
+     "id": 50550415,
+     "title": "Genie 4 is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+     "score": 98,
+     "by": "leumon",
+     "time": 1795027791,
+     "comments": 77
     },
     {
      "id": 50547777,
      "title": "AI agents ask better questions than KPMG accountants in audit trial",
      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-     "score": 160,
+     "score": 175,
      "by": "Betelbuddy",
      "time": 1795016974,
-     "comments": 84
+     "comments": 91
     },
     {
      "id": 50550096,
      "title": "The Magic of Partial Evaluation",
      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-     "score": 34,
+     "score": 45,
      "by": "aray07",
      "time": 1795026543,
-     "comments": 2
+     "comments": 5
     },
     {
      "id": 50549493,
      "title": "Advancing chip design with OpenAI models",
      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-     "score": 59,
+     "score": 72,
      "by": "vighneshiyer",
      "time": 1795023947,
-     "comments": 17
+     "comments": 25
     },
     {
      "id": 50548004,
      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-     "score": 141,
+     "score": 143,
      "by": "Kozmik1",
      "time": 1795017981,
-     "comments": 84
+     "comments": 87
+    },
+    {
+     "id": 50546914,
+     "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+     "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+     "score": 186,
+     "by": "DeepLogin",
+     "time": 1795013032,
+     "comments": 142
     },
     {
      "id": 50547980,
      "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
      "url": "https://exitpath-ruddy.vercel.app/",
-     "score": 85,
+     "score": 97,
      "by": "zerocool0101",
      "time": 1795017883,
-     "comments": 14
+     "comments": 15
     },
     {
-     "id": 50548161,
-     "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-     "url": "https://rshekhar.com/voyager/",
-     "score": 83,
-     "by": "raj-shekhar",
-     "time": 1795018731,
-     "comments": 20
+     "id": 50548660,
+     "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+     "url": null,
+     "score": 45,
+     "by": "codekarate",
+     "time": 1795020822,
+     "comments": 15
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T20:03:37.239836+00:00",
+   "fetched_at": "2026-11-18T20:33:42.208728+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T20:03:37.926998+00:00",
+   "fetched_at": "2026-11-18T20:33:43.556004+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4805,
+     "stars": 4806,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 3777,
+     "stars": 3789,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 3102,
+     "stars": 3133,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2365,
+     "stars": 2370,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 2125,
+     "stars": 2131,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1059,
+     "stars": 1062,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T20:03:38.005830+00:00",
+   "fetched_at": "2026-11-18T20:33:43.969729+00:00",
    "stale": false,
    "items": [
     {
@@ -282,8 +282,8 @@
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 107,
-     "comments": 72,
+     "reactions": 108,
+     "comments": 74,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T20:03:38.050504+00:00",
+   "fetched_at": "2026-11-18T20:33:44.113719+00:00",
    "stale": false,
    "items": [
     {
