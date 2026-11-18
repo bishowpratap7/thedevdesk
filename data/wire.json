@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-18T15:01:40.643013+00:00",
+ "generated_at": "2026-11-18T15:02:07.094439+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T15:01:30.828876+00:00",
+   "fetched_at": "2026-11-18T15:02:03.678936+00:00",
    "stale": false,
    "items": [
     {
      "id": 50545958,
      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-     "score": 170,
+     "score": 171,
      "by": "ritzaco",
      "time": 1795007882,
      "comments": 34
@@ -45,7 +45,7 @@
      "id": 50504373,
      "title": "A Perfect SimCity",
      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
-     "score": 127,
+     "score": 128,
      "by": "mariuz",
      "time": 1794722062,
      "comments": 38
@@ -57,13 +57,13 @@
      "score": 1071,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 283
+     "comments": 284
     },
     {
      "id": 50507918,
      "title": "When AI Knows More Than It Can Offer",
      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
-     "score": 35,
+     "score": 36,
      "by": "Aldus551",
      "time": 1794758363,
      "comments": 15
@@ -84,7 +84,7 @@
      "score": 584,
      "by": "slashdev",
      "time": 1794961078,
-     "comments": 443
+     "comments": 444
     },
     {
      "id": 50509141,
@@ -99,7 +99,7 @@
      "id": 50540437,
      "title": "ID.me terms required for IRS sign-in",
      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-     "score": 420,
+     "score": 421,
      "by": "DeepLogin",
      "time": 1794963105,
      "comments": 219
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T15:01:37.153906+00:00",
+   "fetched_at": "2026-11-18T15:02:05.310346+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T15:01:39.110575+00:00",
+   "fetched_at": "2026-11-18T15:02:06.048918+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4735,
+     "stars": 4736,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 2685,
+     "stars": 2687,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T15:01:39.866746+00:00",
+   "fetched_at": "2026-11-18T15:02:06.554733+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T15:01:40.046996+00:00",
+   "fetched_at": "2026-11-18T15:02:06.697411+00:00",
    "stale": false,
    "items": [
     {
