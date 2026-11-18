@@ -1,99 +1,108 @@
 {
- "generated_at": "2026-11-18T14:31:29.317201+00:00",
+ "generated_at": "2026-11-18T15:01:40.643013+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T14:31:24.164558+00:00",
+   "fetched_at": "2026-11-18T15:01:30.828876+00:00",
    "stale": false,
    "items": [
     {
      "id": 50545958,
      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-     "score": 126,
+     "score": 170,
      "by": "ritzaco",
      "time": 1795007882,
-     "comments": 16
+     "comments": 34
     },
     {
      "id": 50546312,
      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-     "score": 21,
+     "score": 41,
      "by": "torutofu",
      "time": 1795009863,
-     "comments": 13
+     "comments": 31
+    },
+    {
+     "id": 50546914,
+     "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+     "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+     "score": 20,
+     "by": "DeepLogin",
+     "time": 1795013032,
+     "comments": 3
     },
     {
      "id": 50543989,
      "title": "Energy-Based Reasoners: 385x more efficient inference",
      "url": "https://energy-based-reasoners.github.io/",
-     "score": 181,
+     "score": 197,
      "by": "frenchmajesty",
      "time": 1794994172,
-     "comments": 27
+     "comments": 29
     },
     {
      "id": 50504373,
      "title": "A Perfect SimCity",
      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
-     "score": 114,
+     "score": 127,
      "by": "mariuz",
      "time": 1794722062,
-     "comments": 28
+     "comments": 38
     },
     {
      "id": 50538240,
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "url": "https://calif.io/java4shell/",
-     "score": 1058,
+     "score": 1071,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 280
+     "comments": 283
     },
     {
      "id": 50507918,
      "title": "When AI Knows More Than It Can Offer",
      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
-     "score": 25,
+     "score": 35,
      "by": "Aldus551",
      "time": 1794758363,
-     "comments": 9
-    },
-    {
-     "id": 50540178,
-     "title": "Google's AI answers reducing search traffic by 40%",
-     "url": "https://revscope.co/blog/search-seo-geo-2026/",
-     "score": 569,
-     "by": "slashdev",
-     "time": 1794961078,
-     "comments": 428
+     "comments": 15
     },
     {
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 786,
+     "score": 811,
      "by": "subset",
      "time": 1794953614,
-     "comments": 352
+     "comments": 365
     },
     {
-     "id": 50540437,
-     "title": "ID.me terms required for IRS sign-in",
-     "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-     "score": 414,
-     "by": "DeepLogin",
-     "time": 1794963105,
-     "comments": 208
+     "id": 50540178,
+     "title": "Google's AI answers reducing search traffic by 40%",
+     "url": "https://revscope.co/blog/search-seo-geo-2026/",
+     "score": 584,
+     "by": "slashdev",
+     "time": 1794961078,
+     "comments": 443
     },
     {
      "id": 50509141,
      "title": "IPv6 delegation, an unusually subtle failure mode",
      "url": "https://savyasacheejha.com/posts/why-odhcpd/",
-     "score": 32,
+     "score": 40,
      "by": "genghizkhan",
      "time": 1794765973,
-     "comments": 12
+     "comments": 23
+    },
+    {
+     "id": 50540437,
+     "title": "ID.me terms required for IRS sign-in",
+     "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+     "score": 420,
+     "by": "DeepLogin",
+     "time": 1794963105,
+     "comments": 219
     },
     {
      "id": 50545238,
@@ -103,20 +112,11 @@
      "by": "amcaskill",
      "time": 1795003216,
      "comments": 0
-    },
-    {
-     "id": 50541790,
-     "title": "Why is Gemini 4 Carbon taking so long?",
-     "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-     "score": 191,
-     "by": "deenadz",
-     "time": 1794975244,
-     "comments": 94
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T14:31:25.747397+00:00",
+   "fetched_at": "2026-11-18T15:01:37.153906+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T14:31:27.707844+00:00",
+   "fetched_at": "2026-11-18T15:01:39.110575+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4727,
+     "stars": 4735,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 3587,
+     "stars": 3618,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 2627,
+     "stars": 2685,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2322,
+     "stars": 2325,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 2015,
+     "stars": 2030,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1620,
+     "stars": 1621,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1575,
+     "stars": 1578,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1243,
+     "stars": 1253,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1033,
+     "stars": 1034,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 989,
+     "stars": 994,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T14:31:28.433883+00:00",
+   "fetched_at": "2026-11-18T15:01:39.866746+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 150,
-     "comments": 136,
+     "comments": 137,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -285,6 +285,14 @@
      "reactions": 116,
      "comments": 50,
      "published_at": "2026-11-13T15:56:26Z"
+    },
+    {
+     "title": "Is Coding with AI Actually Faster and Cheaper?",
+     "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+     "author": "Sylwia Laskowska",
+     "reactions": 82,
+     "comments": 45,
+     "published_at": "2026-11-18T08:32:45Z"
     },
     {
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
@@ -301,19 +309,11 @@
      "reactions": 97,
      "comments": 50,
      "published_at": "2026-11-12T11:18:53Z"
-    },
-    {
-     "title": "AI is getting better. Here is my plan to stay ahead.",
-     "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
-     "author": "Julien Avezou",
-     "reactions": 57,
-     "comments": 37,
-     "published_at": "2026-11-12T15:35:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T14:31:28.585589+00:00",
+   "fetched_at": "2026-11-18T15:01:40.046996+00:00",
    "stale": false,
    "items": [
     {
