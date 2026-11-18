@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-18T08:59:49.596850+00:00",
+ "generated_at": "2026-11-18T09:29:55.634075+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T08:59:45.307235+00:00",
+   "fetched_at": "2026-11-18T09:29:51.282228+00:00",
    "stale": false,
    "items": [
     {
      "id": 50538240,
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "url": "https://calif.io/java4shell/",
-     "score": 908,
+     "score": 921,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 232
+     "comments": 236
     },
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 1260,
+     "score": 1269,
      "by": "jasondavies",
      "time": 1794937603,
-     "comments": 778
+     "comments": 785
     },
     {
      "id": 50540437,
      "title": "ID.me terms required for IRS sign-in",
      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-     "score": 345,
+     "score": 350,
      "by": "DeepLogin",
      "time": 1794963105,
-     "comments": 148
+     "comments": 152
     },
     {
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 560,
+     "score": 575,
      "by": "subset",
      "time": 1794953614,
-     "comments": 175
+     "comments": 184
     },
     {
      "id": 50540178,
      "title": "Google's AI answers reducing search traffic by 40%",
      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-     "score": 353,
+     "score": 365,
      "by": "slashdev",
      "time": 1794961078,
-     "comments": 271
+     "comments": 282
     },
     {
      "id": 50534631,
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "score": 526,
+     "score": 534,
      "by": "louiereederson",
      "time": 1794935526,
-     "comments": 238
-    },
-    {
-     "id": 50542135,
-     "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-     "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-     "score": 344,
-     "by": "throwawaysleep",
-     "time": 1794978690,
-     "comments": 82
-    },
-    {
-     "id": 50539610,
-     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-     "url": "https://github.com/microsoft/onnxruntime",
-     "score": 307,
-     "by": "nvader",
-     "time": 1794957529,
-     "comments": 66
-    },
-    {
-     "id": 50507474,
-     "title": "Alkaline batteries are obsolete \u2013 but not for the reason you'd think [video]",
-     "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA",
-     "score": 8,
-     "by": "surprisetalk",
-     "time": 1794755590,
-     "comments": 0
+     "comments": 240
     },
     {
      "id": 50543343,
      "title": "Talos Linux",
      "url": "https://www.siderolabs.com/talos-linux",
-     "score": 5,
+     "score": 18,
      "by": "SweetSoftPillow",
      "time": 1794989864,
-     "comments": 2
+     "comments": 12
+    },
+    {
+     "id": 50539610,
+     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+     "url": "https://github.com/microsoft/onnxruntime",
+     "score": 315,
+     "by": "nvader",
+     "time": 1794957529,
+     "comments": 68
+    },
+    {
+     "id": 50542135,
+     "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+     "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+     "score": 374,
+     "by": "throwawaysleep",
+     "time": 1794978690,
+     "comments": 93
+    },
+    {
+     "id": 50541790,
+     "title": "Why is Gemini 4 Carbon taking so long?",
+     "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+     "score": 83,
+     "by": "deenadz",
+     "time": 1794975244,
+     "comments": 45
     },
     {
      "id": 50539747,
      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-     "score": 185,
+     "score": 188,
      "by": "digitaldragon",
      "time": 1794958378,
-     "comments": 62
+     "comments": 65
     },
     {
      "id": 50532849,
      "title": "Highly classified US national security communications network goes down",
      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-     "score": 568,
+     "score": 573,
      "by": "monkeydust",
      "time": 1794929908,
-     "comments": 653
+     "comments": 660
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T08:59:46.789365+00:00",
+   "fetched_at": "2026-11-18T09:29:52.837366+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T08:59:48.209621+00:00",
+   "fetched_at": "2026-11-18T09:29:54.315409+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4657,
+     "stars": 4667,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 3289,
+     "stars": 3331,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2306,
+     "stars": 2325,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2265,
+     "stars": 2274,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 2097,
+     "stars": 2155,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1933,
+     "stars": 1946,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1608,
+     "stars": 1611,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1515,
+     "stars": 1520,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1182,
+     "stars": 1187,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 996,
+     "stars": 1000,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T08:59:48.772919+00:00",
+   "fetched_at": "2026-11-18T09:29:54.878099+00:00",
    "stale": false,
    "items": [
     {
@@ -274,8 +274,8 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 140,
-     "comments": 127,
+     "reactions": 141,
+     "comments": 128,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -290,7 +290,7 @@
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
-     "reactions": 67,
+     "reactions": 68,
      "comments": 23,
      "published_at": "2026-11-15T04:00:28Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T08:59:48.893899+00:00",
+   "fetched_at": "2026-11-18T09:29:55.026136+00:00",
    "stale": false,
    "items": [
     {
