@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-18T10:30:26.638981+00:00",
+ "generated_at": "2026-11-18T11:00:33.595855+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T10:30:21.807869+00:00",
+   "fetched_at": "2026-11-18T11:00:28.524797+00:00",
    "stale": false,
    "items": [
     {
      "id": 50544261,
      "title": "Codeberg.org Not Reachable",
      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
-     "score": 74,
+     "score": 133,
      "by": "hans_castorp",
      "time": 1794996137,
-     "comments": 24
+     "comments": 68
     },
     {
      "id": 50538240,
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "url": "https://calif.io/java4shell/",
-     "score": 955,
+     "score": 964,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 242
+     "comments": 246
     },
     {
      "id": 50540178,
      "title": "Google's AI answers reducing search traffic by 40%",
      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-     "score": 406,
+     "score": 425,
      "by": "slashdev",
      "time": 1794961078,
-     "comments": 302
+     "comments": 311
     },
     {
      "id": 50540437,
      "title": "ID.me terms required for IRS sign-in",
      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-     "score": 366,
+     "score": 371,
      "by": "DeepLogin",
      "time": 1794963105,
      "comments": 166
@@ -45,78 +45,78 @@
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 620,
+     "score": 634,
      "by": "subset",
      "time": 1794953614,
-     "comments": 207
-    },
-    {
-     "id": 50534631,
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-     "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "score": 552,
-     "by": "louiereederson",
-     "time": 1794935526,
-     "comments": 244
-    },
-    {
-     "id": 50541790,
-     "title": "Why is Gemini 4 Carbon taking so long?",
-     "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-     "score": 101,
-     "by": "deenadz",
-     "time": 1794975244,
-     "comments": 49
-    },
-    {
-     "id": 50539610,
-     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-     "url": "https://github.com/microsoft/onnxruntime",
-     "score": 332,
-     "by": "nvader",
-     "time": 1794957529,
-     "comments": 72
-    },
-    {
-     "id": 50543343,
-     "title": "Talos Linux",
-     "url": "https://www.siderolabs.com/talos-linux",
-     "score": 40,
-     "by": "SweetSoftPillow",
-     "time": 1794989864,
-     "comments": 21
-    },
-    {
-     "id": 50532849,
-     "title": "Highly classified US national security communications network goes down",
-     "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-     "score": 583,
-     "by": "monkeydust",
-     "time": 1794929908,
-     "comments": 673
-    },
-    {
-     "id": 50539747,
-     "title": "Archive Team is archiving the Apple Support Community",
-     "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-     "score": 198,
-     "by": "digitaldragon",
-     "time": 1794958378,
-     "comments": 70
+     "comments": 221
     },
     {
      "id": 50543989,
      "title": "Energy-Based Reasoners: 385x more efficient inference",
      "url": "https://energy-based-reasoners.github.io/",
-     "score": 8,
+     "score": 19,
      "by": "frenchmajesty",
      "time": 1794994172,
-     "comments": 1
+     "comments": 2
+    },
+    {
+     "id": 50534631,
+     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+     "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+     "score": 558,
+     "by": "louiereederson",
+     "time": 1794935526,
+     "comments": 249
+    },
+    {
+     "id": 50541790,
+     "title": "Why is Gemini 4 Carbon taking so long?",
+     "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+     "score": 110,
+     "by": "deenadz",
+     "time": 1794975244,
+     "comments": 54
+    },
+    {
+     "id": 50543343,
+     "title": "Talos Linux",
+     "url": "https://www.siderolabs.com/talos-linux",
+     "score": 48,
+     "by": "SweetSoftPillow",
+     "time": 1794989864,
+     "comments": 22
+    },
+    {
+     "id": 50539610,
+     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+     "url": "https://github.com/microsoft/onnxruntime",
+     "score": 340,
+     "by": "nvader",
+     "time": 1794957529,
+     "comments": 73
+    },
+    {
+     "id": 50532849,
+     "title": "Highly classified US national security communications network goes down",
+     "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+     "score": 593,
+     "by": "monkeydust",
+     "time": 1794929908,
+     "comments": 679
+    },
+    {
+     "id": 50539747,
+     "title": "Archive Team is archiving the Apple Support Community",
+     "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+     "score": 201,
+     "by": "digitaldragon",
+     "time": 1794958378,
+     "comments": 72
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T10:30:23.365644+00:00",
+   "fetched_at": "2026-11-18T11:00:30.074784+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T10:30:25.350432+00:00",
+   "fetched_at": "2026-11-18T11:00:32.072832+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4675,
+     "stars": 4679,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,31 +171,31 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 3388,
+     "stars": 3412,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
     },
     {
-     "full_name": "Noniv/abyssal-garden",
-     "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2285,
-     "language": "JavaScript",
-     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
-     "created_at": "2026-11-12T13:57:34Z"
-    },
-    {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 2260,
+     "stars": 2299,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
     },
     {
+     "full_name": "Noniv/abyssal-garden",
+     "url": "https://github.com/Noniv/abyssal-garden",
+     "stars": 2288,
+     "language": "JavaScript",
+     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+     "created_at": "2026-11-12T13:57:34Z"
+    },
+    {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1955,
+     "stars": 1963,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1527,
+     "stars": 1532,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1205,
+     "stars": 1210,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1008,
+     "stars": 1011,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 964,
+     "stars": 968,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T10:30:26.003900+00:00",
+   "fetched_at": "2026-11-18T11:00:32.672420+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "MCP Is Dead Simple. And That's Exactly the Problem",
      "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
      "author": "Sylwia Laskowska",
-     "reactions": 211,
-     "comments": 194,
+     "reactions": 212,
+     "comments": 195,
      "published_at": "2026-11-12T08:14:36Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 141,
-     "comments": 129,
+     "comments": 131,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T10:30:26.179914+00:00",
+   "fetched_at": "2026-11-18T11:00:32.822627+00:00",
    "stale": false,
    "items": [
     {
