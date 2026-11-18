@@ -1,81 +1,90 @@
 {
- "generated_at": "2026-11-18T13:31:07.843635+00:00",
+ "generated_at": "2026-11-18T14:01:20.832737+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T13:31:02.450361+00:00",
+   "fetched_at": "2026-11-18T14:01:09.846160+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50545958,
+     "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+     "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+     "score": 72,
+     "by": "ritzaco",
+     "time": 1795007882,
+     "comments": 8
+    },
     {
      "id": 50543989,
      "title": "Energy-Based Reasoners: 385x more efficient inference",
      "url": "https://energy-based-reasoners.github.io/",
-     "score": 142,
+     "score": 170,
      "by": "frenchmajesty",
      "time": 1794994172,
-     "comments": 20
+     "comments": 25
     },
     {
      "id": 50504373,
      "title": "A Perfect SimCity",
      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
-     "score": 78,
+     "score": 98,
      "by": "mariuz",
      "time": 1794722062,
-     "comments": 12
+     "comments": 21
     },
     {
      "id": 50538240,
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "url": "https://calif.io/java4shell/",
-     "score": 1030,
+     "score": 1045,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 273
+     "comments": 277
+    },
+    {
+     "id": 50546312,
+     "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+     "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+     "score": 5,
+     "by": "torutofu",
+     "time": 1795009863,
+     "comments": 0
+    },
+    {
+     "id": 50507918,
+     "title": "When AI Knows More Than It Can Offer",
+     "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+     "score": 11,
+     "by": "Aldus551",
+     "time": 1794758363,
+     "comments": 1
     },
     {
      "id": 50540178,
      "title": "Google's AI answers reducing search traffic by 40%",
      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-     "score": 528,
+     "score": 552,
      "by": "slashdev",
      "time": 1794961078,
-     "comments": 395
+     "comments": 415
     },
     {
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 731,
+     "score": 765,
      "by": "subset",
      "time": 1794953614,
-     "comments": 304
+     "comments": 337
     },
     {
      "id": 50540437,
      "title": "ID.me terms required for IRS sign-in",
      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-     "score": 394,
+     "score": 405,
      "by": "DeepLogin",
      "time": 1794963105,
-     "comments": 189
-    },
-    {
-     "id": 50541790,
-     "title": "Why is Gemini 4 Carbon taking so long?",
-     "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-     "score": 169,
-     "by": "deenadz",
-     "time": 1794975244,
-     "comments": 85
-    },
-    {
-     "id": 50509141,
-     "title": "IPv6 delegation, an unusually subtle failure mode",
-     "url": "https://savyasacheejha.com/posts/why-odhcpd/",
-     "score": 18,
-     "by": "genghizkhan",
-     "time": 1794765973,
-     "comments": 1
+     "comments": 203
     },
     {
      "id": 50545238,
@@ -87,36 +96,27 @@
      "comments": 0
     },
     {
-     "id": 50534631,
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-     "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "score": 609,
-     "by": "louiereederson",
-     "time": 1794935526,
-     "comments": 270
+     "id": 50509141,
+     "title": "IPv6 delegation, an unusually subtle failure mode",
+     "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+     "score": 26,
+     "by": "genghizkhan",
+     "time": 1794765973,
+     "comments": 10
     },
     {
-     "id": 50517929,
-     "title": "My Emacs 31 contributions",
-     "url": "https://xenodium.com/my-emacs-31-contributions",
-     "score": 60,
-     "by": "xenodium",
-     "time": 1794839170,
-     "comments": 6
-    },
-    {
-     "id": 50539610,
-     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-     "url": "https://github.com/microsoft/onnxruntime",
-     "score": 371,
-     "by": "nvader",
-     "time": 1794957529,
-     "comments": 78
+     "id": 50541790,
+     "title": "Why is Gemini 4 Carbon taking so long?",
+     "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+     "score": 179,
+     "by": "deenadz",
+     "time": 1794975244,
+     "comments": 91
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T13:31:04.352802+00:00",
+   "fetched_at": "2026-11-18T14:01:17.433838+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T13:31:06.565818+00:00",
+   "fetched_at": "2026-11-18T14:01:19.310990+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4710,
+     "stars": 4718,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 3542,
+     "stars": 3563,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 2545,
+     "stars": 2589,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2316,
+     "stars": 2318,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 2004,
+     "stars": 2009,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1556,
+     "stars": 1562,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1233,
+     "stars": 1235,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -227,30 +227,30 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1029,
+     "stars": 1030,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
     },
     {
-     "full_name": "haziqahmedqasmi/PeakCut",
-     "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 983,
+     "full_name": "joshpuckett/allo",
+     "url": "https://github.com/joshpuckett/allo",
+     "stars": 987,
      "language": "Python",
-     "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-     "created_at": "2026-11-14T07:38:20Z"
+     "description": "Allo is your friendly neighborhood typeface, free and open source",
+     "created_at": "2026-11-15T17:33:42Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T13:31:07.163209+00:00",
+   "fetched_at": "2026-11-18T14:01:20.061615+00:00",
    "stale": false,
    "items": [
     {
      "title": "Long Live Rails",
      "url": "https://dev.to/ben/long-live-rails-3p21",
      "author": "Ben Halpern",
-     "reactions": 140,
+     "reactions": 141,
      "comments": 24,
      "published_at": "2026-11-12T15:30:50Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 145,
-     "comments": 135,
+     "comments": 136,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T13:31:07.330445+00:00",
+   "fetched_at": "2026-11-18T14:01:20.217784+00:00",
    "stale": false,
    "items": [
     {
