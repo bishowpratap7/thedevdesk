@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T20:03:13.883383+00:00",
+ "generated_at": "2026-11-18T20:03:38.448014+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T20:03:10.713080+00:00",
+   "fetched_at": "2026-11-18T20:03:35.490355+00:00",
    "stale": false,
    "items": [
     {
@@ -18,16 +18,16 @@
      "id": 50550062,
      "title": "Scottish HTTP Codes",
      "url": "https://underwood.network/http/scots.html",
-     "score": 126,
+     "score": 128,
      "by": "mooreds",
      "time": 1795026379,
-     "comments": 20
+     "comments": 21
     },
     {
      "id": 50548021,
      "title": "Seven new models at scalable price-performance",
      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-     "score": 296,
+     "score": 297,
      "by": "gmays",
      "time": 1795018104,
      "comments": 188
@@ -39,7 +39,7 @@
      "score": 70,
      "by": "leumon",
      "time": 1795027791,
-     "comments": 48
+     "comments": 49
     },
     {
      "id": 50547620,
@@ -57,13 +57,13 @@
      "score": 450,
      "by": "ritzaco",
      "time": 1795007882,
-     "comments": 146
+     "comments": 147
     },
     {
      "id": 50547777,
      "title": "AI agents ask better questions than KPMG accountants in audit trial",
      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-     "score": 159,
+     "score": 160,
      "by": "Betelbuddy",
      "time": 1795016974,
      "comments": 84
@@ -81,7 +81,7 @@
      "id": 50549493,
      "title": "Advancing chip design with OpenAI models",
      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-     "score": 58,
+     "score": 59,
      "by": "vighneshiyer",
      "time": 1795023947,
      "comments": 17
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T20:03:12.313389+00:00",
+   "fetched_at": "2026-11-18T20:03:37.239836+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T20:03:12.916473+00:00",
+   "fetched_at": "2026-11-18T20:03:37.926998+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T20:03:13.371930+00:00",
+   "fetched_at": "2026-11-18T20:03:38.005830+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T20:03:13.532098+00:00",
+   "fetched_at": "2026-11-18T20:03:38.050504+00:00",
    "stale": false,
    "items": [
     {
