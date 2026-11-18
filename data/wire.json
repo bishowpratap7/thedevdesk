@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-18T07:59:35.478393+00:00",
+ "generated_at": "2026-11-18T08:29:43.513793+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T07:59:31.140924+00:00",
+   "fetched_at": "2026-11-18T08:29:37.056161+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50542705,
-     "title": "AI is killing All About Berlin",
-     "url": "https://nicolasbouliane.com/blog/death-by-ai",
-     "score": 81,
-     "by": "grey-area",
-     "time": 1794984446,
-     "comments": 41
-    },
     {
      "id": 50538240,
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "url": "https://calif.io/java4shell/",
-     "score": 839,
+     "score": 868,
      "by": "werrett",
      "time": 1794949888,
-     "comments": 218
+     "comments": 223
     },
     {
      "id": 50535230,
      "title": "GPT\u20116.2 Astra and Sol",
      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "score": 1236,
+     "score": 1248,
      "by": "jasondavies",
      "time": 1794937603,
-     "comments": 769
+     "comments": 773
     },
     {
      "id": 50540437,
      "title": "ID.me terms required for IRS sign-in",
      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-     "score": 322,
+     "score": 335,
      "by": "DeepLogin",
      "time": 1794963105,
-     "comments": 144
+     "comments": 146
     },
     {
      "id": 50538994,
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-     "score": 514,
+     "score": 530,
      "by": "subset",
      "time": 1794953614,
-     "comments": 160
+     "comments": 166
+    },
+    {
+     "id": 50542705,
+     "title": "AI is killing All About Berlin",
+     "url": "https://nicolasbouliane.com/blog/death-by-ai",
+     "score": 199,
+     "by": "grey-area",
+     "time": 1794984446,
+     "comments": 140
     },
     {
      "id": 50540178,
      "title": "Google's AI answers reducing search traffic by 40%",
      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-     "score": 315,
+     "score": 339,
      "by": "slashdev",
      "time": 1794961078,
-     "comments": 249
+     "comments": 258
     },
     {
      "id": 50542135,
      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-     "score": 285,
+     "score": 313,
      "by": "throwawaysleep",
      "time": 1794978690,
-     "comments": 50
+     "comments": 64
     },
     {
      "id": 50534631,
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "score": 508,
+     "score": 517,
      "by": "louiereederson",
      "time": 1794935526,
-     "comments": 231
+     "comments": 234
     },
     {
      "id": 50539610,
      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
      "url": "https://github.com/microsoft/onnxruntime",
-     "score": 283,
+     "score": 297,
      "by": "nvader",
      "time": 1794957529,
-     "comments": 64
+     "comments": 66
     },
     {
      "id": 50541790,
      "title": "Why is Gemini 4 Carbon taking so long?",
      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-     "score": 59,
+     "score": 69,
      "by": "deenadz",
      "time": 1794975244,
-     "comments": 31
+     "comments": 40
     },
     {
      "id": 50539747,
      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-     "score": 173,
+     "score": 179,
      "by": "digitaldragon",
      "time": 1794958378,
-     "comments": 56
+     "comments": 59
     },
     {
-     "id": 50542264,
-     "title": "Why Fibonacci?",
-     "url": "https://www.evilgeniuslabs.org/why-fibonacci",
-     "score": 23,
-     "by": "_Microft",
-     "time": 1794980102,
-     "comments": 2
+     "id": 50542863,
+     "title": "Australia's full national topographic library at your fingertips",
+     "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+     "score": 10,
+     "by": "bryanrasmussen",
+     "time": 1794985846,
+     "comments": 5
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T07:59:32.680806+00:00",
+   "fetched_at": "2026-11-18T08:29:40.804493+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T07:59:34.131956+00:00",
+   "fetched_at": "2026-11-18T08:29:42.270265+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4643,
+     "stars": 4652,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,31 +171,31 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 3214,
+     "stars": 3248,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
     },
     {
-     "full_name": "Noniv/abyssal-garden",
-     "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2250,
-     "language": "JavaScript",
-     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
-     "created_at": "2026-11-12T13:57:34Z"
-    },
-    {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2239,
+     "stars": 2279,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
     },
     {
+     "full_name": "Noniv/abyssal-garden",
+     "url": "https://github.com/Noniv/abyssal-garden",
+     "stars": 2257,
+     "language": "JavaScript",
+     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+     "created_at": "2026-11-12T13:57:34Z"
+    },
+    {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 1978,
+     "stars": 2035,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 1919,
+     "stars": 1925,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1607,
+     "stars": 1608,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1505,
+     "stars": 1511,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1163,
+     "stars": 1174,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 985,
+     "stars": 993,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T07:59:34.606353+00:00",
+   "fetched_at": "2026-11-18T08:29:42.788764+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T07:59:34.798653+00:00",
+   "fetched_at": "2026-11-18T08:29:42.867401+00:00",
    "stale": false,
    "items": [
     {
