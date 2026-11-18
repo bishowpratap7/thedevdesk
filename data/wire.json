@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-18T22:04:12.940001+00:00",
+ "generated_at": "2026-11-18T22:34:18.866535+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-18T22:04:07.895245+00:00",
+   "fetched_at": "2026-11-18T22:34:14.573236+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50552424,
-     "title": "Gemini 4 Neon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-     "score": 148,
-     "by": "yigitdemirag",
-     "time": 1795037647,
-     "comments": 109
-    },
     {
      "id": 50547374,
      "title": "Unauthenticated remote code execution in Nginx",
      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-     "score": 909,
+     "score": 944,
      "by": "speedping",
      "time": 1795015195,
-     "comments": 395
+     "comments": 415
+    },
+    {
+     "id": 50552424,
+     "title": "Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "score": 222,
+     "by": "yigitdemirag",
+     "time": 1795037647,
+     "comments": 208
     },
     {
      "id": 50548021,
      "title": "Seven new models at scalable price-performance",
      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-     "score": 367,
+     "score": 377,
      "by": "gmays",
      "time": 1795018104,
-     "comments": 249
-    },
-    {
-     "id": 50551046,
-     "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-     "url": "https://www.radixark.com/blog/daisyrose-27b",
-     "score": 75,
-     "by": "de_sty",
-     "time": 1795030756,
-     "comments": 18
+     "comments": 256
     },
     {
      "id": 50547620,
      "title": "Inside Deutsche Bank",
      "url": "https://www.inside-db.com/",
-     "score": 455,
+     "score": 471,
      "by": "gyre007",
      "time": 1795016313,
-     "comments": 155
+     "comments": 168
+    },
+    {
+     "id": 50551046,
+     "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+     "url": "https://www.radixark.com/blog/daisyrose-27b",
+     "score": 88,
+     "by": "de_sty",
+     "time": 1795030756,
+     "comments": 20
     },
     {
      "id": 50547777,
      "title": "AI agents ask better questions than KPMG accountants in audit trial",
      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-     "score": 252,
+     "score": 271,
      "by": "Betelbuddy",
      "time": 1795016974,
-     "comments": 121
+     "comments": 129
     },
     {
      "id": 50545958,
      "title": "DNS resolvers are the wrong place to fight piracy",
      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-     "score": 520,
+     "score": 528,
      "by": "ritzaco",
      "time": 1795007882,
-     "comments": 181
+     "comments": 191
     },
     {
      "id": 50549493,
      "title": "Advancing chip design with OpenAI models",
      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-     "score": 112,
+     "score": 123,
      "by": "vighneshiyer",
      "time": 1795023947,
-     "comments": 59
+     "comments": 65
     },
     {
-     "id": 50550415,
-     "title": "Genie 4 is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-     "score": 144,
-     "by": "leumon",
-     "time": 1795027791,
-     "comments": 118
-    },
-    {
-     "id": 50551398,
-     "title": "Search Browser \u2013 Minimalist WebKit browser with Chrome extension support",
-     "url": "https://searchbrowser.app/",
-     "score": 30,
-     "by": "rsaz",
-     "time": 1795032271,
-     "comments": 21
-    },
-    {
-     "id": 50551601,
-     "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-     "score": 33,
-     "by": "hackeratrandom",
-     "time": 1795033217,
-     "comments": 23
+     "id": 50510385,
+     "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+     "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+     "score": 14,
+     "by": "acossta",
+     "time": 1794774642,
+     "comments": 0
     },
     {
      "id": 50547980,
      "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
      "url": "https://exitpath-ruddy.vercel.app/",
-     "score": 117,
+     "score": 125,
      "by": "zerocool0101",
      "time": 1795017883,
-     "comments": 27
+     "comments": 33
+    },
+    {
+     "id": 50546914,
+     "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+     "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+     "score": 211,
+     "by": "DeepLogin",
+     "time": 1795013032,
+     "comments": 163
+    },
+    {
+     "id": 50548161,
+     "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+     "url": "https://rshekhar.com/voyager/",
+     "score": 121,
+     "by": "raj-shekhar",
+     "time": 1795018731,
+     "comments": 25
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-18T22:04:11.299602+00:00",
+   "fetched_at": "2026-11-18T22:34:16.485296+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-18T22:04:11.903774+00:00",
+   "fetched_at": "2026-11-18T22:34:17.844236+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "deepseek-ai/chat-demo",
      "url": "https://github.com/deepseek-ai/chat-demo",
-     "stars": 4810,
+     "stars": 4812,
      "language": "TypeScript",
      "description": "Chat Demo",
      "created_at": "2026-11-12T08:08:19Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 3856,
+     "stars": 3885,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 3224,
+     "stars": 3257,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Noniv/abyssal-garden",
      "url": "https://github.com/Noniv/abyssal-garden",
-     "stars": 2384,
+     "stars": 2387,
      "language": "JavaScript",
      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
      "created_at": "2026-11-12T13:57:34Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Immortal-Protocols/lastbook",
      "url": "https://github.com/Immortal-Protocols/lastbook",
-     "stars": 2140,
+     "stars": 2144,
      "language": "Python",
      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
      "created_at": "2026-11-12T23:49:03Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1626,
+     "stars": 1627,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ZiChuanLan/freebie-radar",
      "url": "https://github.com/ZiChuanLan/freebie-radar",
-     "stars": 1612,
+     "stars": 1613,
      "language": "TypeScript",
      "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
      "created_at": "2026-11-12T09:08:11Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1295,
+     "stars": 1297,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1119,
+     "stars": 1125,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1077,
+     "stars": 1084,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-18T22:04:12.317712+00:00",
+   "fetched_at": "2026-11-18T22:34:18.406251+00:00",
    "stale": false,
    "items": [
     {
@@ -279,11 +279,19 @@
      "published_at": "2026-11-13T18:28:11Z"
     },
     {
+     "title": "The CodeNewbie Podcast is Back for Season 28!",
+     "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
+     "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
+     "reactions": 48,
+     "comments": 1,
+     "published_at": "2026-11-18T18:32:36Z"
+    },
+    {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 110,
-     "comments": 80,
+     "reactions": 111,
+     "comments": 81,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -301,19 +309,11 @@
      "reactions": 72,
      "comments": 24,
      "published_at": "2026-11-15T04:00:28Z"
-    },
-    {
-     "title": "A 10 years old developer who has become a DEV.to Trusted Member! \ud83d\ude31",
-     "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
-     "author": "S\u1d1b\u1d00\u0280\u2b50",
-     "reactions": 97,
-     "comments": 50,
-     "published_at": "2026-11-12T11:18:53Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-18T22:04:12.509057+00:00",
+   "fetched_at": "2026-11-18T22:34:18.551176+00:00",
    "stale": false,
    "items": [
     {
