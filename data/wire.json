@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-19T15:08:11.492229+00:00",
+ "generated_at": "2026-11-19T15:38:17.630817+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-19T15:08:07.003026+00:00",
+   "fetched_at": "2026-11-19T15:38:13.407170+00:00",
    "stale": false,
    "items": [
     {
      "id": 50558533,
      "title": "How the European Commission rolled out Matrix to more than 40k staff",
      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-     "score": 378,
+     "score": 409,
      "by": "liotier",
      "time": 1795085909,
-     "comments": 176
-    },
-    {
-     "id": 50560334,
-     "title": "PHP 8.5.13",
-     "url": "https://www.php.net/ChangeLog-8.php",
-     "score": 49,
-     "by": "petecooper",
-     "time": 1795097390,
-     "comments": 16
+     "comments": 208
     },
     {
      "id": 50519231,
      "title": "Garage Door Spam",
      "url": "https://blog.harrison.page/garage-door-spam/",
-     "score": 272,
+     "score": 333,
      "by": "harrisonpage",
      "time": 1794845616,
-     "comments": 104
+     "comments": 130
+    },
+    {
+     "id": 50560461,
+     "title": "OpenAI still has a WebRTC Problem",
+     "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+     "score": 34,
+     "by": "surprisetalk",
+     "time": 1795098008,
+     "comments": 5
     },
     {
      "id": 50559719,
      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-     "score": 61,
+     "score": 75,
      "by": "krthr",
      "time": 1795094291,
-     "comments": 17
-    },
-    {
-     "id": 50547048,
-     "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-     "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-     "score": 116,
-     "by": "cowlevel",
-     "time": 1795013764,
-     "comments": 25
+     "comments": 21
     },
     {
      "id": 50559749,
      "title": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
      "url": "https://foolscap.works/",
-     "score": 50,
+     "score": 63,
      "by": "atugard",
      "time": 1795094480,
-     "comments": 23
+     "comments": 29
     },
     {
-     "id": 50556287,
-     "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-     "url": "https://verialabs.com/ruby2shell/",
-     "score": 264,
-     "by": "jdns",
-     "time": 1795064951,
-     "comments": 103
+     "id": 50547048,
+     "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+     "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+     "score": 129,
+     "by": "cowlevel",
+     "time": 1795013764,
+     "comments": 32
     },
     {
-     "id": 50548808,
-     "title": "We taught robots to carve marble sculptures",
-     "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-     "score": 63,
-     "by": "ewiesler",
-     "time": 1795021433,
-     "comments": 41
-    },
-    {
-     "id": 50557870,
-     "title": "What's New in PHP 8.6",
-     "url": "https://www.php.net/releases/8.6/en.php",
-     "score": 170,
-     "by": "netol",
-     "time": 1795080435,
-     "comments": 87
-    },
-    {
-     "id": 50557537,
-     "title": "Distributed, high-performance blob storage on SQLite",
-     "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-     "score": 150,
-     "by": "ghostfoxgod",
-     "time": 1795077585,
-     "comments": 34
+     "id": 50560822,
+     "title": "Everything you need to survive and rebuild society",
+     "url": "https://lastbook.org/",
+     "score": 10,
+     "by": "tejohnso",
+     "time": 1795099638,
+     "comments": 0
     },
     {
      "id": 50558906,
      "title": "Someone reported java4shell bug in September 2026",
      "url": "https://github.com/openjdk/jdk/pull/32781",
-     "score": 64,
+     "score": 92,
      "by": "notmine1337",
      "time": 1795088823,
-     "comments": 7
+     "comments": 20
     },
     {
-     "id": 50552424,
-     "title": "Gemini 4 Neon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-     "score": 925,
-     "by": "yigitdemirag",
-     "time": 1795037647,
-     "comments": 722
+     "id": 50556287,
+     "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+     "url": "https://verialabs.com/ruby2shell/",
+     "score": 275,
+     "by": "jdns",
+     "time": 1795064951,
+     "comments": 108
+    },
+    {
+     "id": 50557870,
+     "title": "What's New in PHP 8.6",
+     "url": "https://www.php.net/releases/8.6/en.php",
+     "score": 178,
+     "by": "netol",
+     "time": 1795080435,
+     "comments": 91
+    },
+    {
+     "id": 50548808,
+     "title": "We taught robots to carve marble sculptures",
+     "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+     "score": 80,
+     "by": "ewiesler",
+     "time": 1795021433,
+     "comments": 57
+    },
+    {
+     "id": 50557537,
+     "title": "Distributed, high-performance blob storage on SQLite",
+     "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+     "score": 160,
+     "by": "ghostfoxgod",
+     "time": 1795077585,
+     "comments": 38
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-19T15:08:08.188633+00:00",
+   "fetched_at": "2026-11-19T15:38:14.543251+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-19T15:08:10.063241+00:00",
+   "fetched_at": "2026-11-19T15:38:16.163744+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 4563,
+     "stars": 4614,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 4426,
+     "stars": 4443,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2408,
+     "stars": 2414,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1673,
+     "stars": 1686,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1556,
+     "stars": 1562,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1227,
+     "stars": 1238,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1203,
+     "stars": 1208,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1122,
+     "stars": 1125,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,17 +243,9 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-19T15:08:10.659629+00:00",
+   "fetched_at": "2026-11-19T15:38:16.815729+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Long Live Rails",
-     "url": "https://dev.to/ben/long-live-rails-3p21",
-     "author": "Ben Halpern",
-     "reactions": 141,
-     "comments": 24,
-     "published_at": "2026-11-12T15:30:50Z"
-    },
     {
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
@@ -266,8 +258,8 @@
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 150,
-     "comments": 121,
+     "reactions": 151,
+     "comments": 123,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -290,7 +282,7 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 122,
+     "reactions": 123,
      "comments": 39,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -309,11 +301,19 @@
      "reactions": 80,
      "comments": 40,
      "published_at": "2026-11-15T04:00:28Z"
+    },
+    {
+     "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
+     "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
+     "author": "Dhruv Jani",
+     "reactions": 71,
+     "comments": 26,
+     "published_at": "2026-11-17T14:18:20Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-19T15:08:10.820567+00:00",
+   "fetched_at": "2026-11-19T15:38:16.991968+00:00",
    "stale": false,
    "items": [
     {
