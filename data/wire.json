@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T11:07:06.330734+00:00",
+ "generated_at": "2026-11-19T11:07:22.453225+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-19T11:07:01.999314+00:00",
+   "fetched_at": "2026-11-19T11:07:17.965112+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-19T11:07:03.792226+00:00",
+   "fetched_at": "2026-11-19T11:07:19.126474+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-19T11:07:05.218571+00:00",
+   "fetched_at": "2026-11-19T11:07:20.886594+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 4147,
+     "stars": 4150,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-19T11:07:05.700307+00:00",
+   "fetched_at": "2026-11-19T11:07:21.471470+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-19T11:07:05.838779+00:00",
+   "fetched_at": "2026-11-19T11:07:21.625310+00:00",
    "stale": false,
    "items": [
     {
