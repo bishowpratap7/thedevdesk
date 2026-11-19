@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-19T18:39:10.396820+00:00",
+ "generated_at": "2026-11-19T19:09:16.895432+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-19T18:39:05.235802+00:00",
+   "fetched_at": "2026-11-19T19:09:12.492709+00:00",
    "stale": false,
    "items": [
     {
      "id": 50562754,
      "title": "Anthropic hits $2T in Nasdaq debut",
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-     "score": 221,
+     "score": 322,
      "by": "wslh",
      "time": 1795107760,
-     "comments": 301
+     "comments": 455
     },
     {
      "id": 50563148,
-     "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+     "title": "Claude solves two open problems in the physics of black holes",
      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-     "score": 100,
+     "score": 142,
      "by": "cybermango",
      "time": 1795109444,
-     "comments": 17
-    },
-    {
-     "id": 50561508,
-     "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-     "url": "https://thedataexchange.media/pete-warden-moonshine/",
-     "score": 144,
-     "by": "datascientist",
-     "time": 1795102692,
-     "comments": 119
+     "comments": 33
     },
     {
      "id": 50519231,
      "title": "Garage Door Spam",
      "url": "https://blog.harrison.page/garage-door-spam/",
-     "score": 541,
+     "score": 562,
      "by": "harrisonpage",
      "time": 1794845616,
-     "comments": 228
+     "comments": 234
+    },
+    {
+     "id": 50561515,
+     "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
+     "url": "https://cornholenews.news",
+     "score": 98,
+     "by": "cornholemedia",
+     "time": 1795102712,
+     "comments": 45
+    },
+    {
+     "id": 50561508,
+     "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+     "url": "https://thedataexchange.media/pete-warden-moonshine/",
+     "score": 152,
+     "by": "datascientist",
+     "time": 1795102692,
+     "comments": 136
     },
     {
      "id": 50562320,
      "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
      "url": "https://github.com/onlook-dev/onlook/",
-     "score": 33,
+     "score": 40,
      "by": "D_R_Farrell",
      "time": 1795106044,
-     "comments": 24
-    },
-    {
-     "id": 50561515,
-     "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
-     "url": "https://cornholenews.news",
-     "score": 80,
-     "by": "cornholemedia",
-     "time": 1795102712,
-     "comments": 40
+     "comments": 35
     },
     {
      "id": 50562113,
-     "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+     "title": "UK government forced to admit it issued Apple a secret encryption order",
      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-     "score": 163,
+     "score": 207,
      "by": "Terretta",
      "time": 1795105263,
-     "comments": 84
+     "comments": 97
     },
     {
      "id": 50558906,
      "title": "Someone reported java4shell bug in September 2026",
      "url": "https://github.com/openjdk/jdk/pull/32781",
-     "score": 208,
+     "score": 225,
      "by": "notmine1337",
      "time": 1795088823,
-     "comments": 51
+     "comments": 55
     },
     {
      "id": 50559719,
      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-     "score": 143,
+     "score": 150,
      "by": "krthr",
      "time": 1795094291,
-     "comments": 37
+     "comments": 39
     },
     {
      "id": 50558533,
      "title": "How the European Commission rolled out Matrix to more than 40k staff",
      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-     "score": 571,
+     "score": 580,
      "by": "liotier",
      "time": 1795085909,
-     "comments": 274
+     "comments": 277
     },
     {
      "id": 50547048,
      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-     "score": 187,
+     "score": 196,
      "by": "cowlevel",
      "time": 1795013764,
-     "comments": 65
+     "comments": 67
     },
     {
-     "id": 50556287,
-     "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-     "url": "https://verialabs.com/ruby2shell/",
-     "score": 325,
-     "by": "jdns",
-     "time": 1795064951,
-     "comments": 133
+     "id": 50564366,
+     "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+     "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+     "score": 6,
+     "by": "sandslash",
+     "time": 1795114036,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-19T18:39:07.646877+00:00",
+   "fetched_at": "2026-11-19T19:09:14.078626+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-19T18:39:09.171369+00:00",
+   "fetched_at": "2026-11-19T19:09:15.651567+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 4875,
+     "stars": 4911,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 4540,
+     "stars": 4549,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2432,
+     "stars": 2438,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1715,
+     "stars": 1718,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1589,
+     "stars": 1590,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1298,
+     "stars": 1306,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1235,
+     "stars": 1236,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1130,
+     "stars": 1135,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-19T18:39:09.710129+00:00",
+   "fetched_at": "2026-11-19T19:09:16.257688+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 68,
+     "reactions": 69,
      "comments": 10,
      "published_at": "2026-11-18T18:32:36Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-19T18:39:09.876949+00:00",
+   "fetched_at": "2026-11-19T19:09:16.405160+00:00",
    "stale": false,
    "items": [
     {
