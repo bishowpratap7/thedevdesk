@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-19T17:08:52.163350+00:00",
+ "generated_at": "2026-11-19T17:38:57.699668+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-19T17:08:48.083674+00:00",
+   "fetched_at": "2026-11-19T17:38:53.614827+00:00",
    "stale": false,
    "items": [
     {
      "id": 50561508,
      "title": "Why AI Wants to Be Local \u2013 With Pete Warden (Creator of Moonshine Voice)",
      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-     "score": 78,
+     "score": 113,
      "by": "datascientist",
      "time": 1795102692,
-     "comments": 53
-    },
-    {
-     "id": 50558533,
-     "title": "How the European Commission rolled out Matrix to more than 40k staff",
-     "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-     "score": 506,
-     "by": "liotier",
-     "time": 1795085909,
-     "comments": 263
+     "comments": 90
     },
     {
      "id": 50560822,
      "title": "Everything you need to survive and rebuild society",
      "url": "https://lastbook.org/",
-     "score": 146,
+     "score": 188,
      "by": "tejohnso",
      "time": 1795099638,
-     "comments": 71
+     "comments": 98
+    },
+    {
+     "id": 50558533,
+     "title": "How the European Commission rolled out Matrix to more than 40k staff",
+     "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+     "score": 536,
+     "by": "liotier",
+     "time": 1795085909,
+     "comments": 267
+    },
+    {
+     "id": 50562636,
+     "title": "Chrome AI Features Wasting Much Bandwidth",
+     "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+     "score": 32,
+     "by": "speckx",
+     "time": 1795107265,
+     "comments": 5
     },
     {
      "id": 50560955,
      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
      "url": "https://maccus.fr/en/cooling-overtaking-heating/",
-     "score": 66,
+     "score": 80,
      "by": "robtherobber",
      "time": 1795100234,
-     "comments": 49
+     "comments": 58
     },
     {
      "id": 50519231,
      "title": "Garage Door Spam",
      "url": "https://blog.harrison.page/garage-door-spam/",
-     "score": 440,
+     "score": 473,
      "by": "harrisonpage",
      "time": 1794845616,
-     "comments": 197
+     "comments": 206
     },
     {
      "id": 50562320,
      "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
      "url": "https://github.com/onlook-dev/onlook/",
-     "score": 13,
+     "score": 16,
      "by": "D_R_Farrell",
      "time": 1795106044,
-     "comments": 2
+     "comments": 10
     },
     {
      "id": 50559719,
      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-     "score": 113,
+     "score": 119,
      "by": "krthr",
      "time": 1795094291,
-     "comments": 30
-    },
-    {
-     "id": 50547048,
-     "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-     "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-     "score": 162,
-     "by": "cowlevel",
-     "time": 1795013764,
-     "comments": 57
+     "comments": 33
     },
     {
      "id": 50558906,
      "title": "Someone reported java4shell bug in September 2026",
      "url": "https://github.com/openjdk/jdk/pull/32781",
-     "score": 142,
+     "score": 163,
      "by": "notmine1337",
      "time": 1795088823,
      "comments": 41
     },
     {
-     "id": 50561170,
-     "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-     "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-     "score": 23,
-     "by": "ohjeez",
-     "time": 1795101203,
-     "comments": 5
-    },
-    {
-     "id": 50556287,
-     "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-     "url": "https://verialabs.com/ruby2shell/",
-     "score": 300,
-     "by": "jdns",
-     "time": 1795064951,
-     "comments": 124
-    },
-    {
      "id": 50561515,
      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
      "url": "https://cornholenews.news",
-     "score": 31,
+     "score": 49,
      "by": "cornholemedia",
      "time": 1795102712,
-     "comments": 25
+     "comments": 31
+    },
+    {
+     "id": 50562113,
+     "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+     "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+     "score": 78,
+     "by": "Terretta",
+     "time": 1795105263,
+     "comments": 41
+    },
+    {
+     "id": 50547048,
+     "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+     "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+     "score": 174,
+     "by": "cowlevel",
+     "time": 1795013764,
+     "comments": 58
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-19T17:08:49.559825+00:00",
+   "fetched_at": "2026-11-19T17:38:54.905289+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-19T17:08:50.986335+00:00",
+   "fetched_at": "2026-11-19T17:38:56.417960+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 4764,
+     "stars": 4806,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 4498,
+     "stars": 4515,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2427,
+     "stars": 2430,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1703,
+     "stars": 1708,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1580,
+     "stars": 1587,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1269,
+     "stars": 1278,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1221,
+     "stars": 1226,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1127,
+     "stars": 1128,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-19T17:08:51.458290+00:00",
+   "fetched_at": "2026-11-19T17:38:56.948377+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 155,
-     "comments": 124,
+     "reactions": 156,
+     "comments": 125,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 169,
-     "comments": 161,
+     "comments": 162,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-19T17:08:51.607207+00:00",
+   "fetched_at": "2026-11-19T17:38:57.109146+00:00",
    "stale": false,
    "items": [
     {
