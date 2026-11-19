@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-19T21:09:40.704398+00:00",
+ "generated_at": "2026-11-19T21:39:57.239539+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-19T21:09:36.778179+00:00",
+   "fetched_at": "2026-11-19T21:39:53.943755+00:00",
    "stale": false,
    "items": [
     {
      "id": 50562754,
      "title": "Anthropic hits $2T in Nasdaq debut",
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-     "score": 600,
+     "score": 649,
      "by": "wslh",
      "time": 1795107760,
-     "comments": 963
+     "comments": 1130
     },
     {
      "id": 50563066,
      "title": "Pancreatic cancer halted by virus injection in three patients",
      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-     "score": 238,
+     "score": 284,
      "by": "cybermango",
      "time": 1795109133,
-     "comments": 21
+     "comments": 29
     },
     {
      "id": 50563148,
      "title": "Claude solves two open problems in the physics of black holes",
      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-     "score": 264,
+     "score": 286,
      "by": "cybermango",
      "time": 1795109444,
-     "comments": 103
+     "comments": 114
     },
     {
      "id": 50564159,
      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-     "score": 87,
+     "score": 103,
      "by": "dev1one1",
      "time": 1795113317,
-     "comments": 40
+     "comments": 51
     },
     {
      "id": 50519231,
      "title": "Garage Door Spam",
      "url": "https://blog.harrison.page/garage-door-spam/",
-     "score": 637,
+     "score": 658,
      "by": "harrisonpage",
      "time": 1794845616,
-     "comments": 266
+     "comments": 272
     },
     {
      "id": 50561515,
      "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
      "url": "https://cornholenews.news",
-     "score": 142,
+     "score": 151,
      "by": "cornholemedia",
      "time": 1795102712,
-     "comments": 64
+     "comments": 67
     },
     {
      "id": 50562113,
      "title": "UK government forced to admit it issued Apple a secret encryption order",
      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-     "score": 340,
+     "score": 372,
      "by": "Terretta",
      "time": 1795105263,
-     "comments": 157
-    },
-    {
-     "id": 50558906,
-     "title": "Someone reported java4shell bug in September 2026",
-     "url": "https://github.com/openjdk/jdk/pull/32781",
-     "score": 288,
-     "by": "notmine1337",
-     "time": 1795088823,
-     "comments": 79
-    },
-    {
-     "id": 50562320,
-     "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
-     "url": "https://github.com/onlook-dev/onlook/",
-     "score": 60,
-     "by": "D_R_Farrell",
-     "time": 1795106044,
-     "comments": 58
+     "comments": 165
     },
     {
      "id": 50564366,
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-     "score": 29,
+     "score": 35,
      "by": "sandslash",
      "time": 1795114036,
-     "comments": 41
+     "comments": 56
     },
     {
-     "id": 50517657,
-     "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-     "url": "https://www.tisonkun.io/posts/ai-repair-program/",
-     "score": 11,
-     "by": "tison",
-     "time": 1794837536,
-     "comments": 0
+     "id": 50558906,
+     "title": "Someone reported java4shell bug in September 2026",
+     "url": "https://github.com/openjdk/jdk/pull/32781",
+     "score": 299,
+     "by": "notmine1337",
+     "time": 1795088823,
+     "comments": 81
+    },
+    {
+     "id": 50562320,
+     "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+     "url": "https://github.com/onlook-dev/onlook/",
+     "score": 64,
+     "by": "D_R_Farrell",
+     "time": 1795106044,
+     "comments": 59
     },
     {
      "id": 50559719,
      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-     "score": 181,
+     "score": 195,
      "by": "krthr",
      "time": 1795094291,
-     "comments": 43
+     "comments": 45
+    },
+    {
+     "id": 50517657,
+     "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+     "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+     "score": 13,
+     "by": "tison",
+     "time": 1794837536,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-19T21:09:38.222199+00:00",
+   "fetched_at": "2026-11-19T21:39:54.911147+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-19T21:09:39.585422+00:00",
+   "fetched_at": "2026-11-19T21:39:56.213236+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 5021,
+     "stars": 5036,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 4603,
+     "stars": 4612,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2438,
+     "stars": 2440,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "duwqijlk/muse-protocol",
      "url": "https://github.com/duwqijlk/muse-protocol",
-     "stars": 1654,
+     "stars": 1655,
      "language": "Python",
      "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
      "created_at": "2026-11-14T01:24:58Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1321,
+     "stars": 1327,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1249,
+     "stars": 1251,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1140,
+     "stars": 1141,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-19T21:09:40.121535+00:00",
+   "fetched_at": "2026-11-19T21:39:56.705469+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 157,
-     "comments": 136,
+     "reactions": 158,
+     "comments": 139,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -298,7 +298,7 @@
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
-     "reactions": 82,
+     "reactions": 83,
      "comments": 40,
      "published_at": "2026-11-15T04:00:28Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-19T21:09:40.211263+00:00",
+   "fetched_at": "2026-11-19T21:39:56.802530+00:00",
    "stale": false,
    "items": [
     {
