@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-20T22:14:58.311771+00:00",
+ "generated_at": "2026-11-20T22:45:16.667651+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-20T22:14:55.482399+00:00",
+   "fetched_at": "2026-11-20T22:45:11.797006+00:00",
    "stale": false,
    "items": [
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 1119,
+     "score": 1204,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 529
+     "comments": 561
     },
     {
      "id": 50581260,
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 363,
+     "score": 440,
      "by": "jasondavies",
      "time": 1795205539,
-     "comments": 55
+     "comments": 67
     },
     {
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2161,
+     "score": 2196,
      "by": "iamronaldo",
      "time": 1795184181,
-     "comments": 1472
+     "comments": 1504
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 190,
+     "score": 215,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 116
+     "comments": 128
     },
     {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 245,
+     "score": 265,
      "by": "archon1410",
      "time": 1795195296,
-     "comments": 74
+     "comments": 82
     },
     {
      "id": 50577265,
      "title": "Language Models Can Rewrite Their Own Weights",
      "url": "https://arxiv.org/abs/2611.21885",
-     "score": 295,
+     "score": 307,
      "by": "lwhsiao",
      "time": 1795192146,
-     "comments": 99
+     "comments": 101
     },
     {
      "id": 50581084,
      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
      "url": "https://scottaaronson.blog/?p=10344",
-     "score": 117,
+     "score": 144,
      "by": "stratos123",
      "time": 1795204987,
-     "comments": 77
+     "comments": 101
+    },
+    {
+     "id": 50582629,
+     "title": "A few hours ago Google DeepMind created a math horizon repo",
+     "url": "https://github.com/google-deepmind/math-horizon",
+     "score": 24,
+     "by": "RubenLtke",
+     "time": 1795210941,
+     "comments": 4
     },
     {
      "id": 50579297,
      "title": "Vibecoding an inference chip",
      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-     "score": 81,
+     "score": 90,
      "by": "ankitvgupta",
      "time": 1795198516,
-     "comments": 26
+     "comments": 28
     },
     {
      "id": 50576232,
      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-     "score": 225,
+     "score": 235,
      "by": "trotro",
      "time": 1795188871,
-     "comments": 75
-    },
-    {
-     "id": 50581110,
-     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-     "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-     "score": 36,
-     "by": "facundo_olano",
-     "time": 1795205039,
-     "comments": 3
-    },
-    {
-     "id": 50572355,
-     "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-     "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-     "score": 580,
-     "by": "sammatilda",
-     "time": 1795167799,
-     "comments": 277
+     "comments": 76
     },
     {
      "id": 50581177,
      "title": "And Yet, It Moves",
      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-     "score": 34,
+     "score": 44,
      "by": "notfried",
      "time": 1795205275,
-     "comments": 16
+     "comments": 21
+    },
+    {
+     "id": 50581110,
+     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+     "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+     "score": 45,
+     "by": "facundo_olano",
+     "time": 1795205039,
+     "comments": 5
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-20T22:14:56.393646+00:00",
+   "fetched_at": "2026-11-20T22:45:13.290205+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-20T22:14:57.400438+00:00",
+   "fetched_at": "2026-11-20T22:45:15.322817+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6558,
+     "stars": 6575,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5247,
+     "stars": 5255,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -193,6 +193,14 @@
      "created_at": "2026-11-15T11:16:46Z"
     },
     {
+     "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+     "stars": 1733,
+     "language": null,
+     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+     "created_at": "2026-11-19T14:43:10Z"
+    },
+    {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
      "stars": 1710,
@@ -209,17 +217,9 @@
      "created_at": "2026-11-14T01:24:58Z"
     },
     {
-     "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
-     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1679,
-     "language": null,
-     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-     "created_at": "2026-11-19T14:43:10Z"
-    },
-    {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1536,
+     "stars": 1537,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-20T22:14:57.932563+00:00",
+   "fetched_at": "2026-11-20T22:45:15.890153+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-20T22:14:57.983571+00:00",
+   "fetched_at": "2026-11-20T22:45:16.003242+00:00",
    "stale": false,
    "items": [
     {
