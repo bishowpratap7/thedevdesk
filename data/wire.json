@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-20T21:44:53.709555+00:00",
+ "generated_at": "2026-11-20T22:14:58.311771+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-20T21:44:50.725293+00:00",
+   "fetched_at": "2026-11-20T22:14:55.482399+00:00",
    "stale": false,
    "items": [
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 1020,
+     "score": 1119,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 478
+     "comments": 529
     },
     {
      "id": 50581260,
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 298,
+     "score": 363,
      "by": "jasondavies",
      "time": 1795205539,
-     "comments": 36
+     "comments": 55
     },
     {
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2116,
+     "score": 2161,
      "by": "iamronaldo",
      "time": 1795184181,
-     "comments": 1438
+     "comments": 1472
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 168,
+     "score": 190,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 99
+     "comments": 116
     },
     {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 233,
+     "score": 245,
      "by": "archon1410",
      "time": 1795195296,
-     "comments": 66
+     "comments": 74
     },
     {
      "id": 50577265,
      "title": "Language Models Can Rewrite Their Own Weights",
      "url": "https://arxiv.org/abs/2611.21885",
-     "score": 285,
+     "score": 295,
      "by": "lwhsiao",
      "time": 1795192146,
-     "comments": 97
+     "comments": 99
     },
     {
      "id": 50581084,
      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
      "url": "https://scottaaronson.blog/?p=10344",
-     "score": 94,
+     "score": 117,
      "by": "stratos123",
      "time": 1795204987,
-     "comments": 56
+     "comments": 77
     },
     {
      "id": 50579297,
      "title": "Vibecoding an inference chip",
      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-     "score": 74,
+     "score": 81,
      "by": "ankitvgupta",
      "time": 1795198516,
-     "comments": 23
-    },
-    {
-     "id": 50550430,
-     "title": "Microsoft announces Windows Server 2028 with hardened security",
-     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-     "score": 36,
-     "by": "N19PEDL2",
-     "time": 1795027835,
-     "comments": 29
+     "comments": 26
     },
     {
      "id": 50576232,
      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-     "score": 215,
+     "score": 225,
      "by": "trotro",
      "time": 1795188871,
-     "comments": 71
+     "comments": 75
     },
     {
-     "id": 50580536,
-     "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
-     "url": "https://winedroid.soham.sh/demo/",
-     "score": 50,
-     "by": "sohzm",
-     "time": 1795203016,
-     "comments": 23
+     "id": 50581110,
+     "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+     "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+     "score": 36,
+     "by": "facundo_olano",
+     "time": 1795205039,
+     "comments": 3
     },
     {
      "id": 50572355,
      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-     "score": 566,
+     "score": 580,
      "by": "sammatilda",
      "time": 1795167799,
-     "comments": 276
+     "comments": 277
+    },
+    {
+     "id": 50581177,
+     "title": "And Yet, It Moves",
+     "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+     "score": 34,
+     "by": "notfried",
+     "time": 1795205275,
+     "comments": 16
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-20T21:44:51.698332+00:00",
+   "fetched_at": "2026-11-20T22:14:56.393646+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-20T21:44:52.666683+00:00",
+   "fetched_at": "2026-11-20T22:14:57.400438+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6546,
+     "stars": 6558,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5236,
+     "stars": 5247,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1630,
+     "stars": 1679,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1535,
+     "stars": 1536,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1247,
+     "stars": 1248,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-20T21:44:53.037885+00:00",
+   "fetched_at": "2026-11-20T22:14:57.932563+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 195,
-     "comments": 175,
+     "reactions": 196,
+     "comments": 176,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 196,
-     "comments": 173,
+     "comments": 175,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-20T21:44:53.095830+00:00",
+   "fetched_at": "2026-11-20T22:14:57.983571+00:00",
    "stale": false,
    "items": [
     {
