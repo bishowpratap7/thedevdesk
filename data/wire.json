@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-20T19:14:32.219366+00:00",
+ "generated_at": "2026-11-20T19:44:36.652415+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-20T19:14:29.537270+00:00",
+   "fetched_at": "2026-11-20T19:44:33.894456+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50574968,
-     "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-     "url": "https://alpo.ge/remark.pdf",
-     "score": 1814,
-     "by": "iamronaldo",
-     "time": 1795184181,
-     "comments": 1232
-    },
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 164,
+     "score": 444,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 28
+     "comments": 144
+    },
+    {
+     "id": 50574968,
+     "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+     "url": "https://alpo.ge/remark.pdf",
+     "score": 1906,
+     "by": "iamronaldo",
+     "time": 1795184181,
+     "comments": 1282
     },
     {
      "id": 50577265,
      "title": "Language Models Can Rewrite Their Own Weights",
      "url": "https://arxiv.org/abs/2611.21885",
-     "score": 206,
+     "score": 227,
      "by": "lwhsiao",
      "time": 1795192146,
-     "comments": 86
-    },
-    {
-     "id": 50576855,
-     "title": "I'll never buy Framework hardware again",
-     "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-     "score": 651,
-     "by": "unchar1",
-     "time": 1795190790,
-     "comments": 422
+     "comments": 89
     },
     {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 79,
+     "score": 117,
      "by": "archon1410",
      "time": 1795195296,
-     "comments": 12
+     "comments": 20
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 41,
+     "score": 65,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 11
+     "comments": 25
+    },
+    {
+     "id": 50576855,
+     "title": "I'll never buy Framework hardware again",
+     "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+     "score": 698,
+     "by": "unchar1",
+     "time": 1795190790,
+     "comments": 448
     },
     {
      "id": 50576232,
      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-     "score": 160,
+     "score": 172,
      "by": "trotro",
      "time": 1795188871,
-     "comments": 46
+     "comments": 53
     },
     {
      "id": 50579297,
      "title": "Vibecoding an Inference Chip",
      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-     "score": 19,
+     "score": 29,
      "by": "ankitvgupta",
      "time": 1795198516,
-     "comments": 3
+     "comments": 7
     },
     {
      "id": 50572355,
      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-     "score": 504,
+     "score": 522,
      "by": "sammatilda",
      "time": 1795167799,
-     "comments": 258
+     "comments": 263
     },
     {
      "id": 50572503,
      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
      "url": "https://architectlabs.com/blog/frostbite",
-     "score": 524,
+     "score": 536,
      "by": "shioyama",
      "time": 1795168901,
-     "comments": 284
-    },
-    {
-     "id": 50577613,
-     "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-     "url": null,
-     "score": 53,
-     "by": "proberts",
-     "time": 1795193125,
-     "comments": 75
+     "comments": 288
     },
     {
      "id": 50578233,
      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
-     "score": 28,
+     "score": 33,
      "by": "khalidkhair",
      "time": 1795194843,
      "comments": 0
+    },
+    {
+     "id": 50572348,
+     "title": "Signal Is Serious About Protecting Your Privacy",
+     "url": "https://signal.org/blog/protecting-your-privacy/",
+     "score": 353,
+     "by": "dotcoma",
+     "time": 1795167736,
+     "comments": 217
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-20T19:14:30.528883+00:00",
+   "fetched_at": "2026-11-20T19:44:34.911082+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-20T19:14:31.466113+00:00",
+   "fetched_at": "2026-11-20T19:44:35.897412+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6441,
+     "stars": 6470,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5181,
+     "stars": 5190,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1988,
+     "stars": 1989,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1707,
+     "stars": 1709,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1523,
+     "stars": 1525,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1385,
+     "stars": 1435,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1316,
+     "stars": 1318,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1237,
+     "stars": 1240,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-20T19:14:31.855236+00:00",
+   "fetched_at": "2026-11-20T19:44:36.271758+00:00",
    "stale": false,
    "items": [
     {
@@ -251,14 +251,14 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 194,
-     "comments": 170,
+     "comments": 173,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 76,
+     "reactions": 77,
      "comments": 10,
      "published_at": "2026-11-18T18:32:36Z"
     },
@@ -266,7 +266,7 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 195,
+     "reactions": 196,
      "comments": 173,
      "published_at": "2026-11-16T14:55:10Z"
     },
@@ -298,7 +298,7 @@
      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
      "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
      "author": "Dhruv Jani",
-     "reactions": 78,
+     "reactions": 79,
      "comments": 28,
      "published_at": "2026-11-17T14:18:20Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-20T19:14:31.982940+00:00",
+   "fetched_at": "2026-11-20T19:44:36.336401+00:00",
    "stale": false,
    "items": [
     {
