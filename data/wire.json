@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-20T00:10:23.264354+00:00",
+ "generated_at": "2026-11-20T00:40:27.525273+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-20T00:10:20.467052+00:00",
+   "fetched_at": "2026-11-20T00:40:24.634651+00:00",
    "stale": false,
    "items": [
     {
      "id": 50562754,
      "title": "Anthropic\u2019s Nasdaq debut",
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-     "score": 834,
+     "score": 863,
      "by": "wslh",
      "time": 1795107760,
-     "comments": 1598
+     "comments": 1677
     },
     {
      "id": 50563066,
      "title": "Pancreatic cancer halted by virus injection in three patients",
      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-     "score": 481,
+     "score": 516,
      "by": "cybermango",
      "time": 1795109133,
-     "comments": 69
+     "comments": 74
     },
     {
      "id": 50567209,
      "title": "Synology Security Advisory",
      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-     "score": 72,
+     "score": 84,
      "by": "choult",
      "time": 1795126420,
-     "comments": 36
+     "comments": 49
     },
     {
      "id": 50563148,
      "title": "Claude solves two open problems in the physics of black holes",
      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-     "score": 346,
+     "score": 361,
      "by": "cybermango",
      "time": 1795109444,
-     "comments": 155
-    },
-    {
-     "id": 50567374,
-     "title": "RegExr: Temporarily Offline",
-     "url": "https://regexr.com/",
-     "score": 25,
-     "by": "somebudyelse",
-     "time": 1795127227,
-     "comments": 16
+     "comments": 163
     },
     {
      "id": 50528119,
      "title": "How to CAD Almost Anything",
      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-     "score": 74,
+     "score": 97,
      "by": "o4c",
      "time": 1794896997,
-     "comments": 13
+     "comments": 17
     },
     {
-     "id": 50564159,
-     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-     "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-     "score": 176,
-     "by": "dev1one1",
-     "time": 1795113317,
-     "comments": 90
+     "id": 50567374,
+     "title": "RegExr: Temporarily Offline",
+     "url": "https://regexr.com/",
+     "score": 34,
+     "by": "somebudyelse",
+     "time": 1795127227,
+     "comments": 17
     },
     {
      "id": 50519231,
      "title": "Garage Door Spam",
      "url": "https://blog.harrison.page/garage-door-spam/",
-     "score": 722,
+     "score": 735,
      "by": "harrisonpage",
      "time": 1794845616,
-     "comments": 307
+     "comments": 311
+    },
+    {
+     "id": 50564159,
+     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+     "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+     "score": 181,
+     "by": "dev1one1",
+     "time": 1795113317,
+     "comments": 95
+    },
+    {
+     "id": 50568130,
+     "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+     "url": "https://git-aarvin.github.io/mei/",
+     "score": 26,
+     "by": "hn-aarvin",
+     "time": 1795131335,
+     "comments": 10
     },
     {
      "id": 50564366,
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-     "score": 63,
+     "score": 66,
      "by": "sandslash",
      "time": 1795114036,
-     "comments": 119
+     "comments": 127
     },
     {
      "id": 50561515,
      "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
      "url": "https://cornholenews.news",
-     "score": 178,
+     "score": 183,
      "by": "cornholemedia",
      "time": 1795102712,
-     "comments": 88
+     "comments": 89
     },
     {
      "id": 50558906,
      "title": "Someone reported java4shell bug in September 2026",
      "url": "https://github.com/openjdk/jdk/pull/32781",
-     "score": 346,
+     "score": 354,
      "by": "notmine1337",
      "time": 1795088823,
-     "comments": 90
-    },
-    {
-     "id": 50562113,
-     "title": "UK government forced to admit it issued Apple a secret encryption order",
-     "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-     "score": 464,
-     "by": "Terretta",
-     "time": 1795105263,
-     "comments": 201
+     "comments": 91
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-20T00:10:21.331232+00:00",
+   "fetched_at": "2026-11-20T00:40:25.550322+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-20T00:10:22.466420+00:00",
+   "fetched_at": "2026-11-20T00:40:26.718257+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 5155,
+     "stars": 5180,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 4657,
+     "stars": 4664,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2448,
+     "stars": 2449,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1744,
+     "stars": 1747,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1332,
+     "stars": 1336,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1259,
+     "stars": 1260,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1147,
+     "stars": 1149,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "stars": 943,
+     "stars": 945,
      "language": "HTML",
      "description": "Steer your ideas in realtime",
      "created_at": "2026-11-16T14:43:45Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-20T00:10:22.885466+00:00",
+   "fetched_at": "2026-11-20T00:40:27.127391+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 172,
+     "reactions": 171,
      "comments": 166,
      "published_at": "2026-11-16T14:55:10Z"
     },
@@ -298,8 +298,8 @@
      "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
-     "reactions": 83,
-     "comments": 40,
+     "reactions": 84,
+     "comments": 41,
      "published_at": "2026-11-15T04:00:28Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-20T00:10:22.953422+00:00",
+   "fetched_at": "2026-11-20T00:40:27.222865+00:00",
    "stale": false,
    "items": [
     {
