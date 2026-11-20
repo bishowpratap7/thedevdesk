@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-20T14:13:26.806765+00:00",
+ "generated_at": "2026-11-20T14:43:32.833475+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-20T14:13:23.543410+00:00",
+   "fetched_at": "2026-11-20T14:43:28.654526+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50572503,
-     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-     "url": "https://architectlabs.com/blog/frostbite",
-     "score": 296,
-     "by": "shioyama",
-     "time": 1795168901,
-     "comments": 201
-    },
     {
      "id": 50572355,
      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-     "score": 190,
+     "score": 257,
      "by": "sammatilda",
      "time": 1795167799,
-     "comments": 126
+     "comments": 150
+    },
+    {
+     "id": 50572503,
+     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "url": "https://architectlabs.com/blog/frostbite",
+     "score": 343,
+     "by": "shioyama",
+     "time": 1795168901,
+     "comments": 222
+    },
+    {
+     "id": 50574968,
+     "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+     "url": "https://alpo.ge/remark.pdf",
+     "score": 35,
+     "by": "iamronaldo",
+     "time": 1795184181,
+     "comments": 5
     },
     {
      "id": 50526023,
      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
      "url": "https://kobi.music/research/dettato",
-     "score": 18,
+     "score": 40,
      "by": "hidude562",
      "time": 1794877385,
-     "comments": 6
+     "comments": 10
     },
     {
-     "id": 50572822,
-     "title": "The Making of Oxygene",
-     "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-     "score": 78,
-     "by": "hggh",
-     "time": 1795171270,
-     "comments": 29
+     "id": 50574772,
+     "title": "Llms.txt and MCP didn't move the needle",
+     "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+     "score": 18,
+     "by": "moebrowne",
+     "time": 1795183223,
+     "comments": 5
     },
     {
      "id": 50560595,
      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
      "url": "https://github.com/bigcrimping/floppy3.5",
-     "score": 21,
+     "score": 44,
      "by": "fortran77",
      "time": 1795098589,
-     "comments": 2
+     "comments": 8
     },
     {
-     "id": 50572448,
-     "title": "What people are building, discovered through new domains",
-     "url": "https://startups.novumsignals.com/",
-     "score": 73,
-     "by": "walterschnitzel",
-     "time": 1795168473,
-     "comments": 32
+     "id": 50572822,
+     "title": "The Making of Oxygene",
+     "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+     "score": 95,
+     "by": "hggh",
+     "time": 1795171270,
+     "comments": 33
     },
     {
      "id": 50561199,
      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-     "score": 42,
+     "score": 58,
      "by": "vihren",
      "time": 1795101362,
-     "comments": 19
+     "comments": 23
     },
     {
-     "id": 50569226,
-     "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-     "url": "https://github.com/openssl/openssl/pull/33652",
-     "score": 313,
-     "by": "JacobHenner",
-     "time": 1795140069,
-     "comments": 255
-    },
-    {
-     "id": 50572116,
-     "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-     "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-     "score": 269,
-     "by": "sammatilda",
-     "time": 1795165989,
-     "comments": 153
-    },
-    {
-     "id": 50521550,
-     "title": "I can\u2019t believe it\u2019s 1!",
-     "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
-     "score": 19,
-     "by": "ColinWright",
-     "time": 1794856033,
-     "comments": 13
+     "id": 50572448,
+     "title": "What people are building, discovered through new domains",
+     "url": "https://startups.novumsignals.com/",
+     "score": 89,
+     "by": "walterschnitzel",
+     "time": 1795168473,
+     "comments": 40
     },
     {
      "id": 50495392,
      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-     "score": 37,
+     "score": 46,
      "by": "edward",
      "time": 1794647604,
-     "comments": 15
+     "comments": 26
     },
     {
      "id": 50572348,
      "title": "Signal Is Serious About Protecting Your Privacy",
      "url": "https://signal.org/blog/protecting-your-privacy/",
-     "score": 32,
+     "score": 68,
      "by": "dotcoma",
      "time": 1795167736,
-     "comments": 8
+     "comments": 18
+    },
+    {
+     "id": 50569226,
+     "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+     "url": "https://github.com/openssl/openssl/pull/33652",
+     "score": 320,
+     "by": "JacobHenner",
+     "time": 1795140069,
+     "comments": 262
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-20T14:13:24.685273+00:00",
+   "fetched_at": "2026-11-20T14:43:29.943700+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-20T14:13:25.771793+00:00",
+   "fetched_at": "2026-11-20T14:43:31.607665+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6107,
+     "stars": 6159,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5037,
+     "stars": 5054,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2513,
+     "stars": 2514,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1943,
+     "stars": 1949,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1692,
+     "stars": 1695,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1488,
+     "stars": 1493,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1296,
+     "stars": 1302,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -227,23 +227,23 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1217,
+     "stars": 1220,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
     },
     {
-     "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
-     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1015,
-     "language": null,
-     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-     "created_at": "2026-11-19T14:43:10Z"
+     "full_name": "iamajmeena/neonclipping",
+     "url": "https://github.com/iamajmeena/neonclipping",
+     "stars": 1020,
+     "language": "Python",
+     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+     "created_at": "2026-11-19T10:00:43Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-20T14:13:26.161222+00:00",
+   "fetched_at": "2026-11-20T14:43:32.079403+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 75,
+     "reactions": 76,
      "comments": 10,
      "published_at": "2026-11-18T18:32:36Z"
     },
@@ -282,8 +282,8 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 132,
-     "comments": 46,
+     "reactions": 137,
+     "comments": 47,
      "published_at": "2026-11-18T15:52:31Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-20T14:13:26.262344+00:00",
+   "fetched_at": "2026-11-20T14:43:32.182579+00:00",
    "stale": false,
    "items": [
     {
