@@ -3,7 +3,7 @@
 <title>The Dev Desk — Developer News Wire</title>
 <subtitle>Tech news, code pushes, GitHub trending and the developer conversation — with Bishow Pandey</subtitle>
 <link href="https://bishowpratap7.github.io/thedevdesk/feed.xml" rel="self"/><link href="https://bishowpratap7.github.io/thedevdesk/"/>
-<id>https://bishowpratap7.github.io/thedevdesk/</id><updated>2026-11-20T07:11:40.998498+00:00</updated>
+<id>https://bishowpratap7.github.io/thedevdesk/</id><updated>2026-11-20T07:11:56.319650+00:00</updated>
 <author><name>Bishow Pandey</name></author>
 <entry><title>OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)</title><link href="https://github.com/openssl/openssl/pull/33652"/><id>urn:hn:50569226</id><updated>2026-11-20T02:01:09+00:00</updated><summary>Top story on Hacker News — 163 points, 88 comments. Tracked by The Dev Desk.</summary></entry>
 <entry><title>Google is pushing OEMs against GrapheneOS and bootloader unlocking</title><link href="https://grapheneos.social/@GrapheneOS/117645038299496084"/><id>urn:hn:50570479</id><updated>2026-11-20T05:21:02+00:00</updated><summary>Top story on Hacker News — 211 points, 42 comments. Tracked by The Dev Desk.</summary></entry>
