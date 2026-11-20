@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-20T21:14:49.213695+00:00",
+ "generated_at": "2026-11-20T21:44:53.709555+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-20T21:14:46.735589+00:00",
+   "fetched_at": "2026-11-20T21:44:50.725293+00:00",
    "stale": false,
    "items": [
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 906,
+     "score": 1020,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 427
+     "comments": 478
     },
     {
      "id": 50581260,
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 212,
+     "score": 298,
      "by": "jasondavies",
      "time": 1795205539,
-     "comments": 21
+     "comments": 36
     },
     {
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2066,
+     "score": 2116,
      "by": "iamronaldo",
      "time": 1795184181,
-     "comments": 1402
-    },
-    {
-     "id": 50581084,
-     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-     "url": "https://scottaaronson.blog/?p=10344",
-     "score": 60,
-     "by": "stratos123",
-     "time": 1795204987,
-     "comments": 18
+     "comments": 1438
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 140,
+     "score": 168,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 81
+     "comments": 99
     },
     {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 202,
+     "score": 233,
      "by": "archon1410",
      "time": 1795195296,
-     "comments": 58
+     "comments": 66
     },
     {
      "id": 50577265,
      "title": "Language Models Can Rewrite Their Own Weights",
      "url": "https://arxiv.org/abs/2611.21885",
-     "score": 272,
+     "score": 285,
      "by": "lwhsiao",
      "time": 1795192146,
-     "comments": 91
+     "comments": 97
+    },
+    {
+     "id": 50581084,
+     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+     "url": "https://scottaaronson.blog/?p=10344",
+     "score": 94,
+     "by": "stratos123",
+     "time": 1795204987,
+     "comments": 56
     },
     {
      "id": 50579297,
      "title": "Vibecoding an inference chip",
      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-     "score": 64,
+     "score": 74,
      "by": "ankitvgupta",
      "time": 1795198516,
-     "comments": 21
-    },
-    {
-     "id": 50576232,
-     "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
-     "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-     "score": 203,
-     "by": "trotro",
-     "time": 1795188871,
-     "comments": 68
-    },
-    {
-     "id": 50580536,
-     "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
-     "url": "https://winedroid.soham.sh/demo/",
-     "score": 39,
-     "by": "sohzm",
-     "time": 1795203016,
-     "comments": 18
+     "comments": 23
     },
     {
      "id": 50550430,
      "title": "Microsoft announces Windows Server 2028 with hardened security",
      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-     "score": 17,
+     "score": 36,
      "by": "N19PEDL2",
      "time": 1795027835,
-     "comments": 6
+     "comments": 29
+    },
+    {
+     "id": 50576232,
+     "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
+     "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+     "score": 215,
+     "by": "trotro",
+     "time": 1795188871,
+     "comments": 71
+    },
+    {
+     "id": 50580536,
+     "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
+     "url": "https://winedroid.soham.sh/demo/",
+     "score": 50,
+     "by": "sohzm",
+     "time": 1795203016,
+     "comments": 23
     },
     {
      "id": 50572355,
      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-     "score": 557,
+     "score": 566,
      "by": "sammatilda",
      "time": 1795167799,
-     "comments": 273
+     "comments": 276
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-20T21:14:47.629776+00:00",
+   "fetched_at": "2026-11-20T21:44:51.698332+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-20T21:14:48.605664+00:00",
+   "fetched_at": "2026-11-20T21:44:52.666683+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6532,
+     "stars": 6546,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5230,
+     "stars": 5236,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2525,
+     "stars": 2526,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1709,
+     "stars": 1710,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1572,
+     "stars": 1630,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1532,
+     "stars": 1535,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-20T21:14:48.929704+00:00",
+   "fetched_at": "2026-11-20T21:44:53.037885+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 194,
-     "comments": 174,
+     "reactions": 195,
+     "comments": 175,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 26,
+     "reactions": 27,
      "comments": 4,
      "published_at": "2026-11-20T16:28:49Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-20T21:14:48.961008+00:00",
+   "fetched_at": "2026-11-20T21:44:53.095830+00:00",
    "stale": false,
    "items": [
     {
