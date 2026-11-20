@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-20T03:11:02.868428+00:00",
+ "generated_at": "2026-11-20T03:41:09.121670+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-20T03:10:59.905992+00:00",
+   "fetched_at": "2026-11-20T03:41:04.570290+00:00",
    "stale": false,
    "items": [
     {
      "id": 50562754,
      "title": "Anthropic\u2019s Nasdaq debut",
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-     "score": 959,
+     "score": 984,
      "by": "wslh",
      "time": 1795107760,
-     "comments": 1889
+     "comments": 1910
     },
     {
      "id": 50568130,
      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
      "url": "https://git-aarvin.github.io/mei/",
-     "score": 185,
+     "score": 216,
      "by": "hn-aarvin",
      "time": 1795131335,
-     "comments": 108
+     "comments": 129
     },
     {
      "id": 50563066,
      "title": "Pancreatic cancer halted by virus injection in three patients",
      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-     "score": 624,
+     "score": 649,
      "by": "cybermango",
      "time": 1795109133,
-     "comments": 99
+     "comments": 101
     },
     {
      "id": 50569226,
      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
      "url": "https://github.com/openssl/openssl/pull/33652",
-     "score": 35,
+     "score": 45,
      "by": "JacobHenner",
      "time": 1795140069,
-     "comments": 7
-    },
-    {
-     "id": 50563148,
-     "title": "Claude solves two open problems in the physics of black holes",
-     "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-     "score": 412,
-     "by": "cybermango",
-     "time": 1795109444,
-     "comments": 188
-    },
-    {
-     "id": 50528119,
-     "title": "How to CAD Almost Anything",
-     "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-     "score": 155,
-     "by": "o4c",
-     "time": 1794896997,
-     "comments": 39
+     "comments": 14
     },
     {
      "id": 50568861,
      "title": "Vint Cerf on why TCP/IP was never patented",
      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-     "score": 22,
+     "score": 33,
      "by": "emot",
      "time": 1795136772,
-     "comments": 4
+     "comments": 6
+    },
+    {
+     "id": 50563148,
+     "title": "Claude solves two open problems in the physics of black holes",
+     "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+     "score": 425,
+     "by": "cybermango",
+     "time": 1795109444,
+     "comments": 189
+    },
+    {
+     "id": 50528119,
+     "title": "How to CAD Almost Anything",
+     "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+     "score": 161,
+     "by": "o4c",
+     "time": 1794896997,
+     "comments": 42
     },
     {
      "id": 50519231,
      "title": "Garage Door Spam",
      "url": "https://blog.harrison.page/garage-door-spam/",
-     "score": 772,
+     "score": 783,
      "by": "harrisonpage",
      "time": 1794845616,
-     "comments": 322
+     "comments": 323
     },
     {
      "id": 50568643,
      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
-     "score": 14,
+     "score": 22,
      "by": "sp_from_db",
      "time": 1795135051,
-     "comments": 3
+     "comments": 5
     },
     {
      "id": 50564159,
      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-     "score": 221,
+     "score": 226,
      "by": "dev1one1",
      "time": 1795113317,
-     "comments": 117
+     "comments": 121
     },
     {
      "id": 50567374,
      "title": "RegExr: Temporarily Offline",
      "url": "https://regexr.com/",
-     "score": 57,
+     "score": 59,
      "by": "somebudyelse",
      "time": 1795127227,
      "comments": 28
     },
     {
-     "id": 50567209,
-     "title": "Synology Security Advisory",
-     "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-     "score": 113,
-     "by": "choult",
-     "time": 1795126420,
-     "comments": 81
+     "id": 50562320,
+     "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+     "url": "https://github.com/onlook-dev/onlook/",
+     "score": 92,
+     "by": "D_R_Farrell",
+     "time": 1795106044,
+     "comments": 69
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-20T03:11:00.992404+00:00",
+   "fetched_at": "2026-11-20T03:41:07.291413+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-20T03:11:01.940172+00:00",
+   "fetched_at": "2026-11-20T03:41:08.271820+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 5332,
+     "stars": 5363,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 4706,
+     "stars": 4715,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2461,
+     "stars": 2465,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 1781,
+     "stars": 1790,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "CzzzzzzJ/mdldm-maitian",
      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-     "stars": 1621,
+     "stars": 1624,
      "language": "JavaScript",
      "description": "\u9ea6\u7530\uff1a\u81ea\u5a92\u4f53\u591a\u5e73\u53f0\u53d1\u5e03\u4e2d\u63a7\u4e0e\u6570\u636e\u76d1\u63a7\uff08B\u7ad9/\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7/YouTube/X\uff09\uff0c\u98de\u4e66\u5361\u7247\u901a\u77e5 + \u6570\u636e\u5927\u5c4f",
      "created_at": "2026-11-14T03:59:22Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "haziqahmedqasmi/PeakCut",
      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-     "stars": 1352,
+     "stars": 1356,
      "language": "Python",
      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
      "created_at": "2026-11-14T07:38:20Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1269,
+     "stars": 1270,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1158,
+     "stars": 1161,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "sourmitocand1987/VividFrame-GPU",
      "url": "https://github.com/sourmitocand1987/VividFrame-GPU",
-     "stars": 986,
+     "stars": 1017,
      "language": null,
      "description": "Any source. One real-time GPU enhancement pipeline. \u00b7 video enhancer \u00b7 gpu video \u00b7 real-time video enhancement \u00b7 hdr \u00b7 super-resolution \u00b7 game-streaming \u00b7 moonlight \u00b7 dolby-vision \u00b7 frame-interpolation \u00b7 video-player \u00b7 media-player \u00b7 video-super-resolution \u00b7 video-processing \u00b7 upscaling \u00b7 rife \u00b7 vulkan \u00b7 nvidia \u00b7 windows \u00b7 video-enhancement \u00b7 ncnn",
      "created_at": "2026-11-18T15:51:00Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-20T03:11:02.311870+00:00",
+   "fetched_at": "2026-11-20T03:41:08.645859+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 70,
+     "reactions": 71,
      "comments": 10,
      "published_at": "2026-11-18T18:32:36Z"
     },
@@ -299,7 +299,7 @@
      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
      "author": "Earl Grey",
      "reactions": 84,
-     "comments": 41,
+     "comments": 43,
      "published_at": "2026-11-15T04:00:28Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-20T03:11:02.401326+00:00",
+   "fetched_at": "2026-11-20T03:41:08.730730+00:00",
    "stale": false,
    "items": [
     {
