@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-21T13:18:18.091169+00:00",
+ "generated_at": "2026-11-21T13:18:34.189154+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T13:18:15.565946+00:00",
+   "fetched_at": "2026-11-21T13:18:27.924741+00:00",
    "stale": false,
    "items": [
     {
      "id": 50532613,
      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-     "score": 139,
+     "score": 140,
      "by": "dvaplima",
      "time": 1794928977,
      "comments": 36
@@ -21,7 +21,7 @@
      "score": 2210,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 1037
+     "comments": 1038
     },
     {
      "id": 50574968,
@@ -36,7 +36,7 @@
      "id": 50587875,
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 37,
+     "score": 38,
      "by": "soheilpro",
      "time": 1795257392,
      "comments": 10
@@ -105,18 +105,18 @@
      "comments": 49
     },
     {
-     "id": 50588436,
-     "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
-     "score": 19,
-     "by": "helsinkiandrew",
-     "time": 1795263341,
-     "comments": 13
+     "id": 50583761,
+     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+     "url": null,
+     "score": 285,
+     "by": "LetThingsBeDiff",
+     "time": 1795216712,
+     "comments": 262
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T13:18:16.507840+00:00",
+   "fetched_at": "2026-11-21T13:18:30.797268+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T13:18:17.394528+00:00",
+   "fetched_at": "2026-11-21T13:18:32.582999+00:00",
    "stale": false,
    "items": [
     {
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1545,
+     "stars": 1546,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T13:18:17.719226+00:00",
+   "fetched_at": "2026-11-21T13:18:33.190669+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T13:18:17.785092+00:00",
+   "fetched_at": "2026-11-21T13:18:33.469163+00:00",
    "stale": false,
    "items": [
     {
