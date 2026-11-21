@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T18:19:43.186791+00:00",
+ "generated_at": "2026-11-21T18:19:57.929486+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T18:19:38.039724+00:00",
+   "fetched_at": "2026-11-21T18:19:54.229845+00:00",
    "stale": false,
    "items": [
     {
@@ -18,10 +18,10 @@
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 447,
+     "score": 448,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 351
+     "comments": 352
     },
     {
      "id": 50532613,
@@ -36,7 +36,7 @@
      "id": 50591260,
      "title": "PostgreSQL Extensions in Go",
      "url": "https://jespino.github.io/gopgext/",
-     "score": 32,
+     "score": 33,
      "by": "valyala",
      "time": 1795280884,
      "comments": 0
@@ -72,7 +72,7 @@
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2818,
+     "score": 2819,
      "by": "iamronaldo",
      "time": 1795184181,
      "comments": 1983
@@ -99,10 +99,10 @@
      "id": 50587208,
      "title": "RCE in Gnupg",
      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-     "score": 173,
+     "score": 174,
      "by": "gdgghhhhh",
      "time": 1795249978,
-     "comments": 53
+     "comments": 54
     },
     {
      "id": 50591835,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T18:19:39.687100+00:00",
+   "fetched_at": "2026-11-21T18:19:55.913822+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T18:19:41.562872+00:00",
+   "fetched_at": "2026-11-21T18:19:56.866894+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T18:19:42.206457+00:00",
+   "fetched_at": "2026-11-21T18:19:57.153212+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T18:19:42.286068+00:00",
+   "fetched_at": "2026-11-21T18:19:57.284477+00:00",
    "stale": false,
    "items": [
     {
