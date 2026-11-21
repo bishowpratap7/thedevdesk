@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-21T10:17:53.399407+00:00",
+ "generated_at": "2026-11-21T10:47:57.731676+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T10:17:50.651395+00:00",
+   "fetched_at": "2026-11-21T10:47:55.029507+00:00",
    "stale": false,
    "items": [
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 2076,
+     "score": 2094,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 965
+     "comments": 973
     },
     {
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2645,
+     "score": 2654,
      "by": "iamronaldo",
      "time": 1795184181,
-     "comments": 1824
+     "comments": 1839
     },
     {
      "id": 50581260,
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 999,
+     "score": 1019,
      "by": "jasondavies",
      "time": 1795205539,
-     "comments": 186
+     "comments": 193
     },
     {
      "id": 50586292,
      "title": "ClawDOS \u2013 An AI coding agent for DOS",
      "url": "http://ricapar.net/ClawDOS/",
-     "score": 63,
+     "score": 69,
      "by": "Ricapar",
      "time": 1795239481,
-     "comments": 20
+     "comments": 21
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 434,
+     "score": 441,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 238
-    },
-    {
-     "id": 50585376,
-     "title": "Clojure will affect the way you think about programming (2017)",
-     "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-     "score": 97,
-     "by": "sammatilda",
-     "time": 1795228839,
-     "comments": 30
+     "comments": 240
     },
     {
      "id": 50583274,
      "title": "NINLIVE: The Nine Inch Nails live archive",
      "url": "https://ninlive.com/",
-     "score": 260,
+     "score": 266,
      "by": "CharlesW",
      "time": 1795213847,
-     "comments": 66
-    },
-    {
-     "id": 50578358,
-     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-     "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 446,
-     "by": "archon1410",
-     "time": 1795195296,
-     "comments": 181
+     "comments": 68
     },
     {
      "id": 50586648,
      "title": "Surprisingly Adorable Insect Portraits",
      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-     "score": 39,
+     "score": 49,
      "by": "NordStreamYacht",
      "time": 1795243454,
-     "comments": 9
+     "comments": 11
     },
     {
-     "id": 50584082,
-     "title": "Catching Crumbs from the Table [pdf]",
-     "url": "https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf",
-     "score": 12,
-     "by": "gchamonlive",
-     "time": 1795218774,
-     "comments": 1
+     "id": 50585376,
+     "title": "Clojure will affect the way you think about programming (2017)",
+     "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+     "score": 103,
+     "by": "sammatilda",
+     "time": 1795228839,
+     "comments": 31
     },
     {
-     "id": 50577265,
-     "title": "Language Models Can Rewrite Their Own Weights",
-     "url": "https://arxiv.org/abs/2611.21885",
-     "score": 411,
-     "by": "lwhsiao",
-     "time": 1795192146,
-     "comments": 120
+     "id": 50578358,
+     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+     "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+     "score": 452,
+     "by": "archon1410",
+     "time": 1795195296,
+     "comments": 183
     },
     {
      "id": 50583761,
      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
      "url": null,
-     "score": 187,
+     "score": 210,
      "by": "LetThingsBeDiff",
      "time": 1795216712,
-     "comments": 144
+     "comments": 160
+    },
+    {
+     "id": 50577265,
+     "title": "Language Models Can Rewrite Their Own Weights",
+     "url": "https://arxiv.org/abs/2611.21885",
+     "score": 415,
+     "by": "lwhsiao",
+     "time": 1795192146,
+     "comments": 122
+    },
+    {
+     "id": 50583768,
+     "title": "Sir Brian May adds new dimension to Hera asteroid",
+     "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+     "score": 112,
+     "by": "mooreds",
+     "time": 1795216784,
+     "comments": 25
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T10:17:51.572639+00:00",
+   "fetched_at": "2026-11-21T10:47:56.015732+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T10:17:52.430716+00:00",
+   "fetched_at": "2026-11-21T10:47:56.892266+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6956,
+     "stars": 6971,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5531,
+     "stars": 5548,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 2129,
+     "stars": 2138,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1903,
+     "stars": 1908,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1457,
+     "stars": 1469,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1402,
+     "stars": 1404,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1271,
+     "stars": 1276,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T10:17:52.794002+00:00",
+   "fetched_at": "2026-11-21T10:47:57.234745+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 208,
-     "comments": 185,
+     "reactions": 209,
+     "comments": 186,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -266,7 +266,7 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 199,
+     "reactions": 198,
      "comments": 179,
      "published_at": "2026-11-16T14:55:10Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
      "reactions": 139,
-     "comments": 50,
+     "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
     {
@@ -307,13 +307,13 @@
      "url": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
      "author": "Hemapriya Kanagala",
      "reactions": 82,
-     "comments": 14,
+     "comments": 15,
      "published_at": "2026-11-20T18:28:13Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T10:17:52.999975+00:00",
+   "fetched_at": "2026-11-21T10:47:57.295351+00:00",
    "stale": false,
    "items": [
     {
