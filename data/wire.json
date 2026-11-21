@@ -1,51 +1,60 @@
 {
- "generated_at": "2026-11-21T19:50:17.821038+00:00",
+ "generated_at": "2026-11-21T20:20:26.663624+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T19:50:13.691294+00:00",
+   "fetched_at": "2026-11-21T20:20:19.763744+00:00",
    "stale": false,
    "items": [
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 132,
+     "score": 183,
      "by": "k__",
      "time": 1795284139,
-     "comments": 14
-    },
-    {
-     "id": 50532613,
-     "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-     "score": 557,
-     "by": "dvaplima",
-     "time": 1794928977,
-     "comments": 181
+     "comments": 31
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 552,
+     "score": 585,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 423
+     "comments": 449
     },
     {
      "id": 50588982,
      "title": "Detonating a pile of lead azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 397,
+     "score": 411,
      "by": "beginning_end",
      "time": 1795267394,
-     "comments": 265
+     "comments": 277
+    },
+    {
+     "id": 50582069,
+     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+     "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+     "score": 28,
+     "by": "rafaelc",
+     "time": 1795208592,
+     "comments": 3
+    },
+    {
+     "id": 50532613,
+     "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+     "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+     "score": 577,
+     "by": "dvaplima",
+     "time": 1794928977,
+     "comments": 194
     },
     {
      "id": 50591260,
      "title": "PostgreSQL Extensions in Go",
      "url": "https://jespino.github.io/gopgext/",
-     "score": 65,
+     "score": 71,
      "by": "valyala",
      "time": 1795280884,
      "comments": 5
@@ -54,69 +63,60 @@
      "id": 50587875,
      "title": "My monitor was cutting my download speed by 75%",
      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 342,
+     "score": 367,
      "by": "soheilpro",
      "time": 1795257392,
-     "comments": 179
+     "comments": 191
     },
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 2338,
+     "score": 2341,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 1118
+     "comments": 1125
+    },
+    {
+     "id": 50532417,
+     "title": "Tropical Rainforests Species may be surprisingly young",
+     "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+     "score": 16,
+     "by": "PaulHoule",
+     "time": 1794928134,
+     "comments": 8
+    },
+    {
+     "id": 50590279,
+     "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
+     "url": "https://onurgumus.github.io/zero-csharp/index.html",
+     "score": 77,
+     "by": "reverseblade2",
+     "time": 1795275549,
+     "comments": 56
     },
     {
      "id": 50590441,
      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
      "url": "https://math.mit.edu/~drew/grh/",
-     "score": 43,
+     "score": 51,
      "by": "Bluestein",
      "time": 1795276474,
-     "comments": 13
-    },
-    {
-     "id": 50581260,
-     "title": "Inkling 2 Mini",
-     "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 1291,
-     "by": "jasondavies",
-     "time": 1795205539,
-     "comments": 265
-    },
-    {
-     "id": 50577991,
-     "title": "I'm quite pleased by the tech architecture of my art website",
-     "url": "https://klauria.tech/klauria-art/",
-     "score": 96,
-     "by": "evakhoury",
-     "time": 1795194219,
      "comments": 18
     },
     {
-     "id": 50587208,
-     "title": "RCE in Gnupg",
-     "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-     "score": 191,
-     "by": "gdgghhhhh",
-     "time": 1795249978,
-     "comments": 67
-    },
-    {
-     "id": 50550015,
-     "title": "How I made a custom game engine for Satelital",
-     "url": "https://spectralorbit.com/blog/satelital_game_engine",
-     "score": 11,
-     "by": "todsacerdoti",
-     "time": 1795026183,
-     "comments": 1
+     "id": 50592097,
+     "title": "Upload2Shell \u00b7 CVE-2026-125396",
+     "url": "https://pwn.ai/upload2shell",
+     "score": 18,
+     "by": "f311a",
+     "time": 1795285769,
+     "comments": 6
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T19:50:15.371732+00:00",
+   "fetched_at": "2026-11-21T20:20:23.376775+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T19:50:16.732899+00:00",
+   "fetched_at": "2026-11-21T20:20:25.393261+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7296,
+     "stars": 7311,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5758,
+     "stars": 5763,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,10 +179,18 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2590,
+     "stars": 2591,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
+    },
+    {
+     "full_name": "ItsNotRexed/Leonida",
+     "url": "https://github.com/ItsNotRexed/Leonida",
+     "stars": 2444,
+     "language": "Python",
+     "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+     "created_at": "2026-11-20T20:07:13Z"
     },
     {
      "full_name": "Hut-hzf/ung220z-tool",
@@ -195,23 +203,15 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2172,
+     "stars": 2191,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
     },
     {
-     "full_name": "ItsNotRexed/Leonida",
-     "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 1996,
-     "language": "Python",
-     "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-     "created_at": "2026-11-20T20:07:13Z"
-    },
-    {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1705,
+     "stars": 1710,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1316,
+     "stars": 1319,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "stars": 1015,
+     "stars": 1017,
      "language": "HTML",
      "description": "Steer ideas like a space pilot!",
      "created_at": "2026-11-16T14:43:45Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T19:50:17.032049+00:00",
+   "fetched_at": "2026-11-21T20:20:25.733035+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T19:50:17.175473+00:00",
+   "fetched_at": "2026-11-21T20:20:25.767176+00:00",
    "stale": false,
    "items": [
     {
