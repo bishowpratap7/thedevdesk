@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-21T14:18:48.676988+00:00",
+ "generated_at": "2026-11-21T14:48:54.955345+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T14:18:42.474070+00:00",
+   "fetched_at": "2026-11-21T14:48:50.307015+00:00",
    "stale": false,
    "items": [
     {
      "id": 50588982,
      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 47,
+     "score": 92,
      "by": "beginning_end",
      "time": 1795267394,
-     "comments": 13
+     "comments": 51
     },
     {
      "id": 50532613,
      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-     "score": 240,
+     "score": 273,
      "by": "dvaplima",
      "time": 1794928977,
-     "comments": 69
+     "comments": 87
     },
     {
      "id": 50587875,
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 95,
+     "score": 123,
      "by": "soheilpro",
      "time": 1795257392,
-     "comments": 26
+     "comments": 41
     },
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 2237,
+     "score": 2254,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 1054
+     "comments": 1064
+    },
+    {
+     "id": 50588916,
+     "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+     "url": "https://simple-bench.com/",
+     "score": 23,
+     "by": "algoth1",
+     "time": 1795266972,
+     "comments": 3
     },
     {
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2745,
+     "score": 2753,
      "by": "iamronaldo",
      "time": 1795184181,
-     "comments": 1921
+     "comments": 1928
     },
     {
      "id": 50587208,
      "title": "RCE in Gnupg",
      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-     "score": 106,
+     "score": 118,
      "by": "gdgghhhhh",
      "time": 1795249978,
-     "comments": 31
+     "comments": 39
     },
     {
      "id": 50581260,
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 1132,
+     "score": 1143,
      "by": "jasondavies",
      "time": 1795205539,
-     "comments": 213
-    },
-    {
-     "id": 50586292,
-     "title": "ClawDOS \u2013 An AI coding agent for DOS",
-     "url": "http://ricapar.net/ClawDOS/",
-     "score": 117,
-     "by": "Ricapar",
-     "time": 1795239481,
-     "comments": 33
-    },
-    {
-     "id": 50579331,
-     "title": "We promoted developers into architects without informing them",
-     "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 496,
-     "by": "QueensGambit",
-     "time": 1795198671,
-     "comments": 275
+     "comments": 215
     },
     {
      "id": 50546587,
      "title": "LLMs can read and write executables byte by byte from a hex dump",
      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-     "score": 15,
+     "score": 29,
      "by": "fortran77",
      "time": 1795011358,
-     "comments": 3
+     "comments": 13
+    },
+    {
+     "id": 50579331,
+     "title": "We promoted developers into architects without informing them",
+     "url": "https://manidoraisamy.com/developer-to-architect.html",
+     "score": 503,
+     "by": "QueensGambit",
+     "time": 1795198671,
+     "comments": 281
+    },
+    {
+     "id": 50586292,
+     "title": "ClawDOS \u2013 An AI coding agent for DOS",
+     "url": "http://ricapar.net/ClawDOS/",
+     "score": 118,
+     "by": "Ricapar",
+     "time": 1795239481,
+     "comments": 35
     },
     {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 481,
+     "score": 487,
      "by": "archon1410",
      "time": 1795195296,
-     "comments": 208
-    },
-    {
-     "id": 50585376,
-     "title": "Clojure will affect the way you think about programming (2017)",
-     "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-     "score": 137,
-     "by": "sammatilda",
-     "time": 1795228839,
-     "comments": 54
+     "comments": 210
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T14:18:45.462001+00:00",
+   "fetched_at": "2026-11-21T14:48:51.845875+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T14:18:47.265597+00:00",
+   "fetched_at": "2026-11-21T14:48:53.577219+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7117,
+     "stars": 7131,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5643,
+     "stars": 5657,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 2177,
+     "stars": 2181,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1943,
+     "stars": 1950,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1574,
+     "stars": 1590,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1425,
+     "stars": 1426,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1288,
+     "stars": 1290,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "siliconjungle/shapeshift-labs-ink-studio",
      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "stars": 913,
+     "stars": 920,
      "language": "JavaScript",
      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
      "created_at": "2026-11-16T07:44:00Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T14:18:47.805689+00:00",
+   "fetched_at": "2026-11-21T14:48:54.146513+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 84,
+     "reactions": 85,
      "comments": 12,
      "published_at": "2026-11-18T18:32:36Z"
     },
@@ -266,8 +266,8 @@
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 202,
-     "comments": 180,
+     "reactions": 203,
+     "comments": 182,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 30,
+     "reactions": 31,
      "comments": 4,
      "published_at": "2026-11-20T16:28:49Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T14:18:47.945275+00:00",
+   "fetched_at": "2026-11-21T14:48:54.338840+00:00",
    "stale": false,
    "items": [
     {
