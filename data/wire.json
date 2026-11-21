@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-21T13:18:34.189154+00:00",
+ "generated_at": "2026-11-21T13:48:40.943791+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T13:18:27.924741+00:00",
+   "fetched_at": "2026-11-21T13:48:35.898143+00:00",
    "stale": false,
    "items": [
     {
      "id": 50532613,
      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-     "score": 140,
+     "score": 190,
      "by": "dvaplima",
      "time": 1794928977,
-     "comments": 36
+     "comments": 52
     },
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 2210,
+     "score": 2225,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 1038
-    },
-    {
-     "id": 50574968,
-     "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-     "url": "https://alpo.ge/remark.pdf",
-     "score": 2719,
-     "by": "iamronaldo",
-     "time": 1795184181,
-     "comments": 1897
+     "comments": 1046
     },
     {
      "id": 50587875,
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 38,
+     "score": 64,
      "by": "soheilpro",
      "time": 1795257392,
-     "comments": 10
+     "comments": 15
     },
     {
-     "id": 50581260,
-     "title": "Inkling 2 Mini",
-     "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 1108,
-     "by": "jasondavies",
-     "time": 1795205539,
-     "comments": 206
+     "id": 50588982,
+     "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+     "score": 8,
+     "by": "beginning_end",
+     "time": 1795267394,
+     "comments": 0
+    },
+    {
+     "id": 50574968,
+     "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+     "url": "https://alpo.ge/remark.pdf",
+     "score": 2733,
+     "by": "iamronaldo",
+     "time": 1795184181,
+     "comments": 1910
     },
     {
      "id": 50587208,
      "title": "RCE in Gnupg",
      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-     "score": 72,
+     "score": 91,
      "by": "gdgghhhhh",
      "time": 1795249978,
-     "comments": 21
+     "comments": 27
+    },
+    {
+     "id": 50581260,
+     "title": "Inkling 2 Mini",
+     "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+     "score": 1119,
+     "by": "jasondavies",
+     "time": 1795205539,
+     "comments": 211
     },
     {
      "id": 50586292,
      "title": "ClawDOS \u2013 An AI coding agent for DOS",
      "url": "http://ricapar.net/ClawDOS/",
-     "score": 105,
+     "score": 110,
      "by": "Ricapar",
      "time": 1795239481,
-     "comments": 28
+     "comments": 30
+    },
+    {
+     "id": 50588436,
+     "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+     "score": 35,
+     "by": "helsinkiandrew",
+     "time": 1795263341,
+     "comments": 24
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 481,
+     "score": 488,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 267
+     "comments": 270
     },
     {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 474,
+     "score": 478,
      "by": "archon1410",
      "time": 1795195296,
-     "comments": 200
-    },
-    {
-     "id": 50583274,
-     "title": "NINLIVE: The Nine Inch Nails live archive",
-     "url": "https://ninlive.com/",
-     "score": 294,
-     "by": "CharlesW",
-     "time": 1795213847,
-     "comments": 76
+     "comments": 205
     },
     {
      "id": 50585376,
      "title": "Clojure will affect the way you think about programming (2017)",
      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-     "score": 124,
+     "score": 130,
      "by": "sammatilda",
      "time": 1795228839,
-     "comments": 49
-    },
-    {
-     "id": 50583761,
-     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-     "url": null,
-     "score": 285,
-     "by": "LetThingsBeDiff",
-     "time": 1795216712,
-     "comments": 262
+     "comments": 50
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T13:18:30.797268+00:00",
+   "fetched_at": "2026-11-21T13:48:37.772565+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T13:18:32.582999+00:00",
+   "fetched_at": "2026-11-21T13:48:39.594469+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7068,
+     "stars": 7091,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5609,
+     "stars": 5626,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2565,
+     "stars": 2569,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 2169,
+     "stars": 2173,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1929,
+     "stars": 1938,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1546,
+     "stars": 1556,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1420,
+     "stars": 1421,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "siliconjungle/shapeshift-labs-ink-studio",
      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "stars": 908,
+     "stars": 909,
      "language": "JavaScript",
      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
      "created_at": "2026-11-16T07:44:00Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T13:18:33.190669+00:00",
+   "fetched_at": "2026-11-21T13:48:40.162768+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 217,
-     "comments": 187,
+     "comments": 188,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 202,
-     "comments": 179,
+     "comments": 180,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
@@ -295,25 +295,25 @@
      "published_at": "2026-11-15T04:00:28Z"
     },
     {
+     "title": "Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z FDE Fellowship, and Reddit's $35K Game Hackathon",
+     "url": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
+     "author": "Hemapriya Kanagala",
+     "reactions": 95,
+     "comments": 17,
+     "published_at": "2026-11-20T18:28:13Z"
+    },
+    {
      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
      "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
      "author": "Dhruv Jani",
      "reactions": 87,
      "comments": 28,
      "published_at": "2026-11-17T14:18:20Z"
-    },
-    {
-     "title": "Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z FDE Fellowship, and Reddit's $35K Game Hackathon",
-     "url": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
-     "author": "Hemapriya Kanagala",
-     "reactions": 90,
-     "comments": 17,
-     "published_at": "2026-11-20T18:28:13Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T13:18:33.469163+00:00",
+   "fetched_at": "2026-11-21T13:48:40.306720+00:00",
    "stale": false,
    "items": [
     {
