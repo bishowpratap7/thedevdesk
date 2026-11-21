@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-21T08:47:40.583418+00:00",
+ "generated_at": "2026-11-21T09:17:45.063752+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T08:47:38.086100+00:00",
+   "fetched_at": "2026-11-21T09:17:42.366630+00:00",
    "stale": false,
    "items": [
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 1973,
+     "score": 2004,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 911
+     "comments": 926
     },
     {
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2578,
+     "score": 2603,
      "by": "iamronaldo",
      "time": 1795184181,
-     "comments": 1783
+     "comments": 1789
     },
     {
      "id": 50581260,
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 933,
+     "score": 957,
      "by": "jasondavies",
      "time": 1795205539,
-     "comments": 173
+     "comments": 177
     },
     {
      "id": 50586292,
      "title": "ClawDOS \u2013 An AI coding agent for DOS",
      "url": "http://ricapar.net/ClawDOS/",
-     "score": 46,
+     "score": 55,
      "by": "Ricapar",
      "time": 1795239481,
-     "comments": 13
+     "comments": 15
     },
     {
      "id": 50583274,
      "title": "NINLIVE: The Nine Inch Nails live archive",
      "url": "https://ninlive.com/",
-     "score": 236,
+     "score": 250,
      "by": "CharlesW",
      "time": 1795213847,
-     "comments": 60
+     "comments": 64
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 410,
+     "score": 419,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 231
+     "comments": 233
     },
     {
      "id": 50585376,
      "title": "Clojure will affect the way you think about programming (2017)",
      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-     "score": 71,
+     "score": 78,
      "by": "sammatilda",
      "time": 1795228839,
-     "comments": 27
+     "comments": 29
     },
     {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 429,
+     "score": 436,
      "by": "archon1410",
      "time": 1795195296,
-     "comments": 175
+     "comments": 178
     },
     {
      "id": 50586648,
      "title": "Surprisingly Adorable Insect Portraits",
      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-     "score": 20,
+     "score": 26,
      "by": "NordStreamYacht",
      "time": 1795243454,
-     "comments": 1
+     "comments": 6
     },
     {
      "id": 50534387,
      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-     "score": 120,
+     "score": 124,
      "by": "reconditerose",
      "time": 1794934710,
-     "comments": 44
+     "comments": 46
     },
     {
      "id": 50583768,
      "title": "Sir Brian May adds new dimension to Hera asteroid",
      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-     "score": 96,
+     "score": 98,
      "by": "mooreds",
      "time": 1795216784,
-     "comments": 19
+     "comments": 21
     },
     {
      "id": 50577265,
      "title": "Language Models Can Rewrite Their Own Weights",
      "url": "https://arxiv.org/abs/2611.21885",
-     "score": 400,
+     "score": 402,
      "by": "lwhsiao",
      "time": 1795192146,
-     "comments": 117
+     "comments": 118
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T08:47:38.988306+00:00",
+   "fetched_at": "2026-11-21T09:17:43.507059+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T08:47:39.865407+00:00",
+   "fetched_at": "2026-11-21T09:17:44.431975+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6918,
+     "stars": 6930,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5487,
+     "stars": 5506,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2557,
+     "stars": 2556,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 2112,
+     "stars": 2118,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1883,
+     "stars": 1890,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1415,
+     "stars": 1430,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1389,
+     "stars": 1394,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1268,
+     "stars": 1269,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "stars": 999,
+     "stars": 1002,
      "language": "HTML",
      "description": "Steer ideas like a space pilot!",
      "created_at": "2026-11-16T14:43:45Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "siliconjungle/shapeshift-labs-ink-studio",
      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "stars": 897,
+     "stars": 898,
      "language": "JavaScript",
      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
      "created_at": "2026-11-16T07:44:00Z"
@@ -243,23 +243,23 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T08:47:40.187973+00:00",
+   "fetched_at": "2026-11-21T09:17:44.752324+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 206,
-     "comments": 183,
+     "reactions": 208,
+     "comments": 184,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 77,
-     "comments": 10,
+     "reactions": 79,
+     "comments": 11,
      "published_at": "2026-11-18T18:32:36Z"
     },
     {
@@ -298,7 +298,7 @@
      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
      "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
      "author": "Dhruv Jani",
-     "reactions": 81,
+     "reactions": 82,
      "comments": 28,
      "published_at": "2026-11-17T14:18:20Z"
     },
@@ -307,13 +307,13 @@
      "url": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
      "author": "Hemapriya Kanagala",
      "reactions": 82,
-     "comments": 11,
+     "comments": 12,
      "published_at": "2026-11-20T18:28:13Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T08:47:40.251575+00:00",
+   "fetched_at": "2026-11-21T09:17:44.833843+00:00",
    "stale": false,
    "items": [
     {
