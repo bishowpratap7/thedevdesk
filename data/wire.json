@@ -1,78 +1,78 @@
 {
- "generated_at": "2026-11-21T09:47:49.102630+00:00",
+ "generated_at": "2026-11-21T10:17:53.399407+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-21T09:47:46.646240+00:00",
+   "fetched_at": "2026-11-21T10:17:50.651395+00:00",
    "stale": false,
    "items": [
     {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 2047,
+     "score": 2076,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 949
+     "comments": 965
     },
     {
      "id": 50574968,
      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
      "url": "https://alpo.ge/remark.pdf",
-     "score": 2630,
+     "score": 2645,
      "by": "iamronaldo",
      "time": 1795184181,
-     "comments": 1804
+     "comments": 1824
     },
     {
      "id": 50581260,
      "title": "Inkling 2 Mini",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "score": 983,
+     "score": 999,
      "by": "jasondavies",
      "time": 1795205539,
-     "comments": 184
+     "comments": 186
     },
     {
      "id": 50586292,
      "title": "ClawDOS \u2013 An AI coding agent for DOS",
      "url": "http://ricapar.net/ClawDOS/",
-     "score": 58,
+     "score": 63,
      "by": "Ricapar",
      "time": 1795239481,
-     "comments": 17
+     "comments": 20
     },
     {
      "id": 50579331,
      "title": "We promoted developers into architects without informing them",
      "url": "https://manidoraisamy.com/developer-to-architect.html",
-     "score": 425,
+     "score": 434,
      "by": "QueensGambit",
      "time": 1795198671,
-     "comments": 235
-    },
-    {
-     "id": 50583274,
-     "title": "NINLIVE: The Nine Inch Nails live archive",
-     "url": "https://ninlive.com/",
-     "score": 256,
-     "by": "CharlesW",
-     "time": 1795213847,
-     "comments": 64
+     "comments": 238
     },
     {
      "id": 50585376,
      "title": "Clojure will affect the way you think about programming (2017)",
      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-     "score": 88,
+     "score": 97,
      "by": "sammatilda",
      "time": 1795228839,
      "comments": 30
     },
     {
+     "id": 50583274,
+     "title": "NINLIVE: The Nine Inch Nails live archive",
+     "url": "https://ninlive.com/",
+     "score": 260,
+     "by": "CharlesW",
+     "time": 1795213847,
+     "comments": 66
+    },
+    {
      "id": 50578358,
      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-     "score": 444,
+     "score": 446,
      "by": "archon1410",
      "time": 1795195296,
      "comments": 181
@@ -81,42 +81,42 @@
      "id": 50586648,
      "title": "Surprisingly Adorable Insect Portraits",
      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-     "score": 31,
+     "score": 39,
      "by": "NordStreamYacht",
      "time": 1795243454,
-     "comments": 7
+     "comments": 9
     },
     {
-     "id": 50583768,
-     "title": "Sir Brian May adds new dimension to Hera asteroid",
-     "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-     "score": 103,
-     "by": "mooreds",
-     "time": 1795216784,
-     "comments": 21
+     "id": 50584082,
+     "title": "Catching Crumbs from the Table [pdf]",
+     "url": "https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf",
+     "score": 12,
+     "by": "gchamonlive",
+     "time": 1795218774,
+     "comments": 1
     },
     {
      "id": 50577265,
      "title": "Language Models Can Rewrite Their Own Weights",
      "url": "https://arxiv.org/abs/2611.21885",
-     "score": 408,
+     "score": 411,
      "by": "lwhsiao",
      "time": 1795192146,
-     "comments": 118
+     "comments": 120
     },
     {
      "id": 50583761,
      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
      "url": null,
-     "score": 173,
+     "score": 187,
      "by": "LetThingsBeDiff",
      "time": 1795216712,
-     "comments": 140
+     "comments": 144
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-21T09:47:47.572667+00:00",
+   "fetched_at": "2026-11-21T10:17:51.572639+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-21T09:47:48.383858+00:00",
+   "fetched_at": "2026-11-21T10:17:52.430716+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 6943,
+     "stars": 6956,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5515,
+     "stars": 5531,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2557,
+     "stars": 2560,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Hut-hzf/ung220z-tool",
      "url": "https://github.com/Hut-hzf/ung220z-tool",
-     "stars": 2124,
+     "stars": 2129,
      "language": "Python",
      "description": "ung220z-tool \u662f\u4e00\u4e2a\u9488\u5bf9 UNG220Z\uff08\u4e5d\u8054/Unionman \u4e2d\u56fd\u79fb\u52a8\u5149\u732b\uff09\u7684\u4e00\u952e\u51ed\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u4ec5\u9650\u5728\u4f60\u81ea\u5df1\u7684\u8bbe\u5907\u4e0a\u7528\u4e8e\u627e\u56de\u5fd8\u8bb0\u7684\u7ba1\u7406\u5bc6\u7801\u3001\u8fc1\u79fb\u5bbd\u5e26\u914d\u7f6e\u6216\u5b89\u5168\u81ea\u67e5\u3002",
      "created_at": "2026-11-15T11:16:46Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 1898,
+     "stars": 1903,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1442,
+     "stars": 1457,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1397,
+     "stars": 1402,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "joshpuckett/allo",
      "url": "https://github.com/joshpuckett/allo",
-     "stars": 1269,
+     "stars": 1271,
      "language": "Python",
      "description": "Allo is your friendly neighborhood typeface, free and open source",
      "created_at": "2026-11-15T17:33:42Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "stars": 1002,
+     "stars": 1003,
      "language": "HTML",
      "description": "Steer ideas like a space pilot!",
      "created_at": "2026-11-16T14:43:45Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "siliconjungle/shapeshift-labs-ink-studio",
      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "stars": 899,
+     "stars": 901,
      "language": "JavaScript",
      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
      "created_at": "2026-11-16T07:44:00Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-21T09:47:48.725540+00:00",
+   "fetched_at": "2026-11-21T10:17:52.794002+00:00",
    "stale": false,
    "items": [
     {
@@ -307,13 +307,13 @@
      "url": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
      "author": "Hemapriya Kanagala",
      "reactions": 82,
-     "comments": 13,
+     "comments": 14,
      "published_at": "2026-11-20T18:28:13Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-21T09:47:48.798595+00:00",
+   "fetched_at": "2026-11-21T10:17:52.999975+00:00",
    "stale": false,
    "items": [
     {
