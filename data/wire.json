@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T00:21:23.035514+00:00",
+ "generated_at": "2026-11-22T00:51:27.693713+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T00:21:20.247238+00:00",
+   "fetched_at": "2026-11-22T00:51:24.494061+00:00",
    "stale": false,
    "items": [
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 516,
+     "score": 552,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 125
+     "comments": 133
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 788,
+     "score": 805,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 626
+     "comments": 644
     },
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 331,
+     "score": 341,
      "by": "k__",
      "time": 1795284139,
-     "comments": 88
-    },
-    {
-     "id": 50588982,
-     "title": "Detonating a pile of lead azide",
-     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 500,
-     "by": "beginning_end",
-     "time": 1795267394,
-     "comments": 331
+     "comments": 91
     },
     {
      "id": 50532613,
      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-     "score": 716,
+     "score": 731,
      "by": "dvaplima",
      "time": 1794928977,
-     "comments": 228
+     "comments": 234
     },
     {
-     "id": 50583028,
-     "title": "Getting the mind to steer the body to steer you",
-     "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 130,
-     "by": "jger15",
-     "time": 1795212665,
-     "comments": 49
+     "id": 50588982,
+     "title": "Detonating a pile of lead azide",
+     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+     "score": 507,
+     "by": "beginning_end",
+     "time": 1795267394,
+     "comments": 340
     },
     {
      "id": 50594132,
      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-     "score": 33,
+     "score": 43,
      "by": "sebaandrada",
      "time": 1795298998,
      "comments": 3
     },
     {
+     "id": 50583028,
+     "title": "Getting the mind to steer the body to steer you",
+     "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+     "score": 139,
+     "by": "jger15",
+     "time": 1795212665,
+     "comments": 49
+    },
+    {
      "id": 50579568,
      "title": "Hurried Announcement: Alessandro Masullo GRH",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-     "score": 2383,
+     "score": 2388,
      "by": "jasondavies",
      "time": 1795199594,
-     "comments": 1151
+     "comments": 1158
     },
     {
      "id": 50587875,
      "title": "My monitor was cutting my download speed by 75%",
      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 455,
+     "score": 471,
      "by": "soheilpro",
      "time": 1795257392,
-     "comments": 223
+     "comments": 226
     },
     {
      "id": 50591260,
      "title": "PostgreSQL Extensions in Go",
      "url": "https://jespino.github.io/gopgext/",
-     "score": 114,
+     "score": 117,
      "by": "valyala",
      "time": 1795280884,
      "comments": 20
     },
     {
+     "id": 50593737,
+     "title": "Advice for the next 100 Rust GUIs",
+     "url": "https://linebender.org/blog/next-100-guis/",
+     "score": 69,
+     "by": "raphlinus",
+     "time": 1795295873,
+     "comments": 6
+    },
+    {
      "id": 50593637,
      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-     "score": 17,
+     "score": 22,
      "by": "marojejian",
      "time": 1795295174,
-     "comments": 10
-    },
-    {
-     "id": 50593679,
-     "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-     "url": "https://tasklet.ai/careers",
-     "score": 1,
-     "by": "mayop100",
-     "time": 1795295468,
-     "comments": 0
+     "comments": 11
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T00:21:21.273427+00:00",
+   "fetched_at": "2026-11-22T00:51:25.656972+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T00:21:22.248227+00:00",
+   "fetched_at": "2026-11-22T00:51:26.615594+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7411,
+     "stars": 7427,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5809,
+     "stars": 5810,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 5255,
+     "stars": 5509,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2384,
+     "stars": 2411,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1734,
+     "stars": 1736,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1637,
+     "stars": 1653,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1029,
+     "stars": 1042,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -233,17 +233,17 @@
      "created_at": "2026-11-16T14:43:45Z"
     },
     {
-     "full_name": "siliconjungle/shapeshift-labs-ink-studio",
-     "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
-     "stars": 958,
-     "language": "JavaScript",
-     "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
-     "created_at": "2026-11-16T07:44:00Z"
+     "full_name": "Lemxy/WinRust",
+     "url": "https://github.com/Lemxy/WinRust",
+     "stars": 961,
+     "language": "Rust",
+     "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+     "created_at": "2026-11-17T14:27:06Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T00:21:22.582178+00:00",
+   "fetched_at": "2026-11-22T00:51:27.003862+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T00:21:22.645706+00:00",
+   "fetched_at": "2026-11-22T00:51:27.047340+00:00",
    "stale": false,
    "items": [
     {
