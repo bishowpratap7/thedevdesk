@@ -1,69 +1,69 @@
 {
- "generated_at": "2026-11-22T13:23:56.081501+00:00",
+ "generated_at": "2026-11-22T13:54:01.855758+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T13:23:51.741635+00:00",
+   "fetched_at": "2026-11-22T13:53:57.685174+00:00",
    "stale": false,
    "items": [
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 682,
+     "score": 719,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 415
+     "comments": 440
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 1122,
+     "score": 1138,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 239
+     "comments": 241
     },
     {
      "id": 50533945,
      "title": "A real Linux kernel, compiled to WebAssembly",
      "url": "https://github.com/pithings/unkernel",
-     "score": 103,
+     "score": 117,
      "by": "DonAtimator",
      "time": 1794933346,
-     "comments": 35
+     "comments": 43
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 1090,
+     "score": 1099,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 910
-    },
-    {
-     "id": 50594911,
-     "title": "Sandwich Simulator",
-     "url": "https://stulle.app/",
-     "score": 336,
-     "by": "subdomain",
-     "time": 1795306079,
-     "comments": 120
+     "comments": 917
     },
     {
      "id": 50566495,
      "title": "Self-hosted library branch over public web OPDS",
      "url": "https://joinmayberry.com/",
-     "score": 29,
+     "score": 40,
      "by": "philips",
      "time": 1795122947,
-     "comments": 4
+     "comments": 7
+    },
+    {
+     "id": 50594911,
+     "title": "Sandwich Simulator",
+     "url": "https://stulle.app/",
+     "score": 350,
+     "by": "subdomain",
+     "time": 1795306079,
+     "comments": 123
     },
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 492,
+     "score": 496,
      "by": "k__",
      "time": 1795284139,
      "comments": 124
@@ -72,51 +72,51 @@
      "id": 50595554,
      "title": "Data Processing Incidents on Inference Providers",
      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 189,
+     "score": 203,
      "by": "sdko",
      "time": 1795313654,
-     "comments": 68
+     "comments": 72
     },
     {
      "id": 50588982,
      "title": "Detonating a pile of lead azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 635,
+     "score": 639,
      "by": "beginning_end",
      "time": 1795267394,
-     "comments": 400
-    },
-    {
-     "id": 50596664,
-     "title": "Show HN: The Riemann Proof Handbook",
-     "url": "https://github.com/tamnd/riemann-handbook",
-     "score": 67,
-     "by": "tamnd",
-     "time": 1795326390,
-     "comments": 39
-    },
-    {
-     "id": 50596155,
-     "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-     "url": "https://github.com/EL4CTEO/fast-anything",
-     "score": 68,
-     "by": "BaselAshraf81",
-     "time": 1795320609,
-     "comments": 46
+     "comments": 401
     },
     {
      "id": 50596960,
      "title": "Notes on the discrete Fourier transform (DFT)",
      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-     "score": 41,
+     "score": 47,
      "by": "kouosi",
      "time": 1795330345,
      "comments": 5
+    },
+    {
+     "id": 50583028,
+     "title": "Getting the mind to steer the body to steer you",
+     "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+     "score": 325,
+     "by": "jger15",
+     "time": 1795212665,
+     "comments": 112
+    },
+    {
+     "id": 50596664,
+     "title": "Show HN: The Riemann Proof Handbook",
+     "url": "https://github.com/tamnd/riemann-handbook",
+     "score": 71,
+     "by": "tamnd",
+     "time": 1795326390,
+     "comments": 42
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T13:23:53.074096+00:00",
+   "fetched_at": "2026-11-22T13:53:58.990984+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T13:23:54.897855+00:00",
+   "fetched_at": "2026-11-22T13:54:00.727381+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 10217,
+     "stars": 10468,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7745,
+     "stars": 7761,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 6002,
+     "stars": 6014,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2661,
+     "stars": 2662,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1966,
+     "stars": 1978,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1853,
+     "stars": 1858,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1210,
+     "stars": 1213,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1160,
+     "stars": 1169,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1067,
+     "stars": 1074,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T13:23:55.477363+00:00",
+   "fetched_at": "2026-11-22T13:54:01.260446+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T13:23:55.526191+00:00",
+   "fetched_at": "2026-11-22T13:54:01.300753+00:00",
    "stale": false,
    "items": [
     {
