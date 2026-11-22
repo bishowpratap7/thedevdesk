@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T21:25:35.167020+00:00",
+ "generated_at": "2026-11-22T21:55:39.398185+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T21:25:32.632745+00:00",
+   "fetched_at": "2026-11-22T21:55:36.807576+00:00",
    "stale": false,
    "items": [
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 141,
+     "score": 184,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 35
+     "comments": 54
     },
     {
      "id": 50601525,
      "title": "Perplexity and Intelligence",
      "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 366,
+     "score": 393,
      "by": "acossta",
      "time": 1795367187,
-     "comments": 239
+     "comments": 258
     },
     {
      "id": 50603465,
      "title": "Nyx, the Oldest Internet Service Provider",
      "url": "https://nyx.net/",
-     "score": 19,
+     "score": 38,
      "by": "o_-_o",
      "time": 1795378559,
-     "comments": 2
+     "comments": 4
     },
     {
-     "id": 50596133,
-     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 1111,
-     "by": "zdw",
-     "time": 1795320296,
-     "comments": 644
+     "id": 50603845,
+     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+     "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+     "score": 14,
+     "by": "Retell15",
+     "time": 1795381276,
+     "comments": 0
     },
     {
      "id": 50602947,
      "title": "What Happened to Silicon Valley?",
      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-     "score": 163,
+     "score": 220,
      "by": "greenyouse",
      "time": 1795375215,
-     "comments": 56
+     "comments": 81
     },
     {
-     "id": 50599762,
-     "title": "Show HN: I built a game where you are an LLM's subagent",
-     "url": "https://github.com/gulivan/worker755",
-     "score": 229,
-     "by": "ivantgam",
-     "time": 1795355818,
-     "comments": 56
+     "id": 50596133,
+     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+     "score": 1125,
+     "by": "zdw",
+     "time": 1795320296,
+     "comments": 653
     },
     {
      "id": 50603589,
      "title": "A miniature San Francisco with live buses, planes and boats",
      "url": "https://smallsf.com/",
-     "score": 14,
+     "score": 35,
      "by": "dutilh",
      "time": 1795379603,
-     "comments": 2
+     "comments": 10
+    },
+    {
+     "id": 50599762,
+     "title": "Show HN: I built a game where you are an LLM's subagent",
+     "url": "https://github.com/gulivan/worker755",
+     "score": 241,
+     "by": "ivantgam",
+     "time": 1795355818,
+     "comments": 57
     },
     {
      "id": 50600622,
      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-     "score": 95,
+     "score": 100,
      "by": "fortran77",
      "time": 1795361724,
-     "comments": 25
-    },
-    {
-     "id": 50572389,
-     "title": "Show HN: Deflate X-Ray, See inside a compressed file",
-     "url": "https://hrih.si/projects/deflate-xray/",
-     "score": 11,
-     "by": "DonAtimator",
-     "time": 1795168035,
-     "comments": 1
+     "comments": 26
     },
     {
      "id": 50600511,
      "title": "Open Social Web Alliance",
      "url": "https://osw-alliance.net/en/",
-     "score": 183,
+     "score": 189,
      "by": "doener",
      "time": 1795361072,
-     "comments": 184
-    },
-    {
-     "id": 50603232,
-     "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-     "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-     "score": 42,
-     "by": "1659447091",
-     "time": 1795377106,
-     "comments": 14
+     "comments": 186
     },
     {
      "id": 50601823,
      "title": "Was software just always too complex for humans?",
      "url": "https://anil.recoil.org/notes/software-too-complex-for-humans",
-     "score": 22,
+     "score": 35,
      "by": "nathcd",
      "time": 1795368761,
-     "comments": 15
+     "comments": 30
+    },
+    {
+     "id": 50603906,
+     "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+     "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+     "score": 23,
+     "by": "rbanffy",
+     "time": 1795381631,
+     "comments": 11
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T21:25:33.548769+00:00",
+   "fetched_at": "2026-11-22T21:55:37.721907+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T21:25:34.359369+00:00",
+   "fetched_at": "2026-11-22T21:55:38.590007+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 13986,
+     "stars": 14149,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7923,
+     "stars": 7940,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2744,
+     "stars": 2745,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2079,
+     "stars": 2082,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1936,
+     "stars": 1941,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 1750,
+     "stars": 1769,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1273,
+     "stars": 1279,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1245,
+     "stars": 1252,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1198,
+     "stars": 1205,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T21:25:34.669460+00:00",
+   "fetched_at": "2026-11-22T21:55:38.905127+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T21:25:34.794207+00:00",
+   "fetched_at": "2026-11-22T21:55:38.924488+00:00",
    "stale": false,
    "items": [
     {
