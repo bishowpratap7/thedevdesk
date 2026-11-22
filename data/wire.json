@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T19:25:04.109740+00:00",
+ "generated_at": "2026-11-22T19:25:16.524749+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T19:25:01.499186+00:00",
+   "fetched_at": "2026-11-22T19:25:13.241077+00:00",
    "stale": false,
    "items": [
     {
@@ -36,7 +36,7 @@
      "id": 50602847,
      "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-     "score": 6,
+     "score": 7,
      "by": "DeepLogin",
      "time": 1795374638,
      "comments": 0
@@ -90,7 +90,7 @@
      "id": 50559441,
      "title": "The Transvoxel Algorithm",
      "url": "https://transvoxel.org/",
-     "score": 18,
+     "score": 19,
      "by": "klaussilveira",
      "time": 1795092625,
      "comments": 1
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T19:25:02.450539+00:00",
+   "fetched_at": "2026-11-22T19:25:14.948775+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T19:25:03.286057+00:00",
+   "fetched_at": "2026-11-22T19:25:15.829057+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T19:25:03.667358+00:00",
+   "fetched_at": "2026-11-22T19:25:16.152400+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T19:25:03.754557+00:00",
+   "fetched_at": "2026-11-22T19:25:16.185054+00:00",
    "stale": false,
    "items": [
     {
