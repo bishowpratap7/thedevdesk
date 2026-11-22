@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T03:51:54.271843+00:00",
+ "generated_at": "2026-11-22T04:21:58.726200+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T03:51:51.427755+00:00",
+   "fetched_at": "2026-11-22T04:21:55.924537+00:00",
    "stale": false,
    "items": [
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 751,
+     "score": 781,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 176
+     "comments": 181
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 894,
+     "score": 902,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 743
+     "comments": 762
     },
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 384,
+     "score": 394,
      "by": "k__",
      "time": 1795284139,
      "comments": 99
     },
     {
-     "id": 50595554,
-     "title": "Data Processing Incidents on Inference Providers",
-     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 38,
-     "by": "sdko",
-     "time": 1795313654,
-     "comments": 11
-    },
-    {
      "id": 50594911,
      "title": "Sandwich Simulator",
      "url": "https://stulle.app/",
-     "score": 68,
+     "score": 86,
      "by": "subdomain",
      "time": 1795306079,
-     "comments": 37
+     "comments": 40
     },
     {
      "id": 50595168,
      "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "score": 67,
+     "score": 79,
      "by": "ebrahimh",
      "time": 1795309046,
-     "comments": 38
+     "comments": 43
+    },
+    {
+     "id": 50595554,
+     "title": "Data Processing Incidents on Inference Providers",
+     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "score": 51,
+     "by": "sdko",
+     "time": 1795313654,
+     "comments": 17
     },
     {
      "id": 50588982,
      "title": "Detonating a pile of lead azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 555,
+     "score": 564,
      "by": "beginning_end",
      "time": 1795267394,
-     "comments": 363
-    },
-    {
-     "id": 50594132,
-     "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-     "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-     "score": 83,
-     "by": "sebaandrada",
-     "time": 1795298998,
-     "comments": 9
+     "comments": 367
     },
     {
      "id": 50583028,
      "title": "Getting the mind to steer the body to steer you",
      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 186,
+     "score": 195,
      "by": "jger15",
      "time": 1795212665,
-     "comments": 64
+     "comments": 65
     },
     {
-     "id": 50595725,
-     "title": "The Most Popular Car Colors in America",
-     "url": "https://www.iseecars.com/most-popular-car-colors-study",
-     "score": 7,
-     "by": "cisc",
-     "time": 1795315638,
-     "comments": 0
-    },
-    {
-     "id": 50587875,
-     "title": "My monitor was cutting my download speed by 75%",
-     "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 521,
-     "by": "soheilpro",
-     "time": 1795257392,
-     "comments": 255
+     "id": 50594132,
+     "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+     "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+     "score": 84,
+     "by": "sebaandrada",
+     "time": 1795298998,
+     "comments": 9
     },
     {
      "id": 50595537,
      "title": "The Mythology of Conscious AI",
      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-     "score": 9,
+     "score": 14,
      "by": "Anon84",
      "time": 1795313402,
-     "comments": 6
+     "comments": 19
+    },
+    {
+     "id": 50587875,
+     "title": "My monitor was cutting my download speed by 75%",
+     "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+     "score": 529,
+     "by": "soheilpro",
+     "time": 1795257392,
+     "comments": 256
+    },
+    {
+     "id": 50595725,
+     "title": "The Most Popular Car Colors in America",
+     "url": "https://www.iseecars.com/most-popular-car-colors-study",
+     "score": 9,
+     "by": "cisc",
+     "time": 1795315638,
+     "comments": 8
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T03:51:52.606394+00:00",
+   "fetched_at": "2026-11-22T04:21:56.967650+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T03:51:53.454315+00:00",
+   "fetched_at": "2026-11-22T04:21:57.847848+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7497,
+     "stars": 7504,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 6696,
+     "stars": 6873,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5859,
+     "stars": 5864,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2605,
+     "stars": 2607,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2578,
+     "stars": 2595,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1756,
+     "stars": 1769,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1714,
+     "stars": 1719,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1101,
+     "stars": 1107,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 977,
+     "stars": 985,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T03:51:53.788655+00:00",
+   "fetched_at": "2026-11-22T04:21:58.169329+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 229,
-     "comments": 192,
+     "comments": 193,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -282,17 +282,9 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 146,
+     "reactions": 148,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
-    },
-    {
-     "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
-     "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
-     "author": "Earl Grey",
-     "reactions": 84,
-     "comments": 45,
-     "published_at": "2026-11-15T04:00:28Z"
     },
     {
      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
@@ -309,11 +301,19 @@
      "reactions": 31,
      "comments": 1,
      "published_at": "2026-11-20T08:55:01Z"
+    },
+    {
+     "title": "AI Avatar v28 (Security Support, Voxel Avatar)\ud83d\udee1\ufe0f",
+     "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
+     "author": "Web Developer Hyper",
+     "reactions": 84,
+     "comments": 29,
+     "published_at": "2026-11-16T04:34:39Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T03:51:53.846349+00:00",
+   "fetched_at": "2026-11-22T04:21:58.238291+00:00",
    "stale": false,
    "items": [
     {
