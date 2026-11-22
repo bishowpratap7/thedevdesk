@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T22:25:43.862493+00:00",
+ "generated_at": "2026-11-22T22:55:48.600053+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T22:25:41.159554+00:00",
+   "fetched_at": "2026-11-22T22:55:45.244864+00:00",
    "stale": false,
    "items": [
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 217,
+     "score": 249,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 73
+     "comments": 89
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 51,
+     "score": 80,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 7
+     "comments": 20
     },
     {
      "id": 50603465,
      "title": "Nyx, the Oldest Internet Service Provider",
      "url": "https://nyx.net/",
-     "score": 49,
+     "score": 62,
      "by": "o_-_o",
      "time": 1795378559,
-     "comments": 5
-    },
-    {
-     "id": 50601525,
-     "title": "Perplexity and Intelligence",
-     "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 407,
-     "by": "acossta",
-     "time": 1795367187,
-     "comments": 276
+     "comments": 6
     },
     {
      "id": 50603589,
      "title": "A miniature San Francisco with live buses, planes and boats",
      "url": "https://smallsf.com/",
-     "score": 55,
+     "score": 74,
      "by": "dutilh",
      "time": 1795379603,
-     "comments": 15
+     "comments": 30
     },
     {
-     "id": 50596133,
-     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 1142,
-     "by": "zdw",
-     "time": 1795320296,
-     "comments": 658
+     "id": 50601525,
+     "title": "Perplexity and Intelligence",
+     "url": "https://openai.com/index/perplexity-and-intelligence/",
+     "score": 423,
+     "by": "acossta",
+     "time": 1795367187,
+     "comments": 289
+    },
+    {
+     "id": 50604472,
+     "title": "The Usefulness of Useless Knowledge [pdf]",
+     "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+     "score": 10,
+     "by": "hectormauer",
+     "time": 1795385458,
+     "comments": 0
+    },
+    {
+     "id": 50604314,
+     "title": "Agent swarm trying to solve P vs. NP",
+     "url": "https://pequalnp.com/",
+     "score": 17,
+     "by": "bananaflag",
+     "time": 1795384425,
+     "comments": 6
     },
     {
      "id": 50602947,
      "title": "What Happened to Silicon Valley?",
      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-     "score": 256,
+     "score": 286,
      "by": "greenyouse",
      "time": 1795375215,
-     "comments": 107
+     "comments": 145
+    },
+    {
+     "id": 50547698,
+     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+     "score": 18,
+     "by": "graemep",
+     "time": 1795016609,
+     "comments": 0
     },
     {
      "id": 50599762,
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "url": "https://github.com/gulivan/worker755",
-     "score": 250,
+     "score": 253,
      "by": "ivantgam",
      "time": 1795355818,
      "comments": 58
     },
     {
+     "id": 50546124,
+     "title": "Advice for Young Researchers",
+     "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+     "score": 22,
+     "by": "tcumulus",
+     "time": 1795008805,
+     "comments": 6
+    },
+    {
      "id": 50600622,
      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-     "score": 106,
+     "score": 112,
      "by": "fortran77",
      "time": 1795361724,
-     "comments": 26
-    },
-    {
-     "id": 50600511,
-     "title": "Open Social Web Alliance",
-     "url": "https://osw-alliance.net/en/",
-     "score": 196,
-     "by": "doener",
-     "time": 1795361072,
-     "comments": 192
-    },
-    {
-     "id": 50603906,
-     "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-     "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
-     "score": 36,
-     "by": "rbanffy",
-     "time": 1795381631,
-     "comments": 37
-    },
-    {
-     "id": 50594182,
-     "title": "A Better Vocabulary for Testing",
-     "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-     "score": 97,
-     "by": "alpaylan",
-     "time": 1795299339,
-     "comments": 24
+     "comments": 29
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T22:25:42.135224+00:00",
+   "fetched_at": "2026-11-22T22:55:46.948838+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T22:25:42.932458+00:00",
+   "fetched_at": "2026-11-22T22:55:47.734041+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 14330,
+     "stars": 14495,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7953,
+     "stars": 7962,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2745,
+     "stars": 2746,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2084,
+     "stars": 2087,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1944,
+     "stars": 1949,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 1802,
+     "stars": 1817,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1286,
+     "stars": 1288,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1260,
+     "stars": 1270,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1208,
+     "stars": 1218,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "stars": 1045,
+     "stars": 1046,
      "language": "HTML",
      "description": "Steer ideas like a space pilot!",
      "created_at": "2026-11-16T14:43:45Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T22:25:43.342977+00:00",
+   "fetched_at": "2026-11-22T22:55:48.092441+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 239,
-     "comments": 214,
+     "reactions": 240,
+     "comments": 216,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 150,
+     "reactions": 151,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T22:25:43.378965+00:00",
+   "fetched_at": "2026-11-22T22:55:48.129776+00:00",
    "stale": false,
    "items": [
     {
