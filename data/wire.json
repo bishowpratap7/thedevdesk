@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T04:21:58.726200+00:00",
+ "generated_at": "2026-11-22T04:52:13.080985+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T04:21:55.924537+00:00",
+   "fetched_at": "2026-11-22T04:52:10.273634+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50596133,
+     "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+     "score": 45,
+     "by": "zdw",
+     "time": 1795320296,
+     "comments": 19
+    },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 781,
+     "score": 799,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 181
+     "comments": 187
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 902,
+     "score": 911,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 762
+     "comments": 774
     },
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 394,
+     "score": 401,
      "by": "k__",
      "time": 1795284139,
-     "comments": 99
+     "comments": 100
     },
     {
      "id": 50594911,
      "title": "Sandwich Simulator",
      "url": "https://stulle.app/",
-     "score": 86,
+     "score": 94,
      "by": "subdomain",
      "time": 1795306079,
-     "comments": 40
-    },
-    {
-     "id": 50595168,
-     "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
-     "url": "https://github.com/ItsNotRexed/Leonida",
-     "score": 79,
-     "by": "ebrahimh",
-     "time": 1795309046,
-     "comments": 43
-    },
-    {
-     "id": 50595554,
-     "title": "Data Processing Incidents on Inference Providers",
-     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 51,
-     "by": "sdko",
-     "time": 1795313654,
-     "comments": 17
+     "comments": 45
     },
     {
      "id": 50588982,
      "title": "Detonating a pile of lead azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 564,
+     "score": 572,
      "by": "beginning_end",
      "time": 1795267394,
-     "comments": 367
+     "comments": 371
+    },
+    {
+     "id": 50595554,
+     "title": "Data Processing Incidents on Inference Providers",
+     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "score": 58,
+     "by": "sdko",
+     "time": 1795313654,
+     "comments": 22
     },
     {
      "id": 50583028,
      "title": "Getting the mind to steer the body to steer you",
      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 195,
+     "score": 202,
      "by": "jger15",
      "time": 1795212665,
-     "comments": 65
+     "comments": 66
     },
     {
      "id": 50594132,
      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-     "score": 84,
+     "score": 87,
      "by": "sebaandrada",
      "time": 1795298998,
      "comments": 9
     },
     {
-     "id": 50595537,
-     "title": "The Mythology of Conscious AI",
-     "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-     "score": 14,
-     "by": "Anon84",
-     "time": 1795313402,
-     "comments": 19
+     "id": 50595168,
+     "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
+     "url": "https://github.com/ItsNotRexed/Leonida",
+     "score": 89,
+     "by": "ebrahimh",
+     "time": 1795309046,
+     "comments": 51
     },
     {
      "id": 50587875,
      "title": "My monitor was cutting my download speed by 75%",
      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 529,
+     "score": 533,
      "by": "soheilpro",
      "time": 1795257392,
-     "comments": 256
+     "comments": 257
     },
     {
-     "id": 50595725,
-     "title": "The Most Popular Car Colors in America",
-     "url": "https://www.iseecars.com/most-popular-car-colors-study",
-     "score": 9,
-     "by": "cisc",
-     "time": 1795315638,
+     "id": 50553223,
+     "title": "Shaping the Loops, Closing the Loops",
+     "url": "https://revyl.com/blog/pattern-engineering/",
+     "score": 18,
+     "by": "based0x10",
+     "time": 1795040944,
      "comments": 8
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T04:21:56.967650+00:00",
+   "fetched_at": "2026-11-22T04:52:11.334689+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T04:21:57.847848+00:00",
+   "fetched_at": "2026-11-22T04:52:12.268752+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7504,
+     "stars": 7513,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 6873,
+     "stars": 7049,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -179,31 +179,31 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5864,
+     "stars": 5869,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
     },
     {
-     "full_name": "gylive/google-ultra",
-     "url": "https://github.com/gylive/google-ultra",
-     "stars": 2607,
-     "language": "Python",
-     "description": null,
-     "created_at": "2026-11-17T10:21:54Z"
-    },
-    {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2595,
+     "stars": 2617,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
     },
     {
+     "full_name": "gylive/google-ultra",
+     "url": "https://github.com/gylive/google-ultra",
+     "stars": 2610,
+     "language": "Python",
+     "description": null,
+     "created_at": "2026-11-17T10:21:54Z"
+    },
+    {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1769,
+     "stars": 1778,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1719,
+     "stars": 1732,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1107,
+     "stars": 1111,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 985,
+     "stars": 993,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T04:21:58.169329+00:00",
+   "fetched_at": "2026-11-22T04:52:12.589940+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 229,
-     "comments": 193,
+     "comments": 194,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 38,
-     "comments": 5,
+     "comments": 6,
      "published_at": "2026-11-20T16:28:49Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T04:21:58.238291+00:00",
+   "fetched_at": "2026-11-22T04:52:12.630773+00:00",
    "stale": false,
    "items": [
     {
