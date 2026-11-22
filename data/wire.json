@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T11:23:30.542256+00:00",
+ "generated_at": "2026-11-22T11:53:36.666236+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T11:23:26.260319+00:00",
+   "fetched_at": "2026-11-22T11:53:32.174200+00:00",
    "stale": false,
    "items": [
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 545,
+     "score": 586,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 338
+     "comments": 356
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 1042,
+     "score": 1062,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 224
-    },
-    {
-     "id": 50589618,
-     "title": "Lean verification of the Riemann Hypothesis",
-     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 1050,
-     "by": "g-b-r",
-     "time": 1795271805,
-     "comments": 874
+     "comments": 225
     },
     {
      "id": 50533945,
      "title": "A real Linux kernel, compiled to WebAssembly",
      "url": "https://github.com/pithings/unkernel",
-     "score": 21,
+     "score": 43,
      "by": "DonAtimator",
      "time": 1794933346,
-     "comments": 4
+     "comments": 5
+    },
+    {
+     "id": 50589618,
+     "title": "Lean verification of the Riemann Hypothesis",
+     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+     "score": 1058,
+     "by": "g-b-r",
+     "time": 1795271805,
+     "comments": 883
+    },
+    {
+     "id": 50597743,
+     "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+     "url": "https://arxiv.org/abs/2606.14068",
+     "score": 29,
+     "by": "rzk",
+     "time": 1795339116,
+     "comments": 6
     },
     {
      "id": 50594911,
      "title": "Sandwich Simulator",
      "url": "https://stulle.app/",
-     "score": 286,
+     "score": 295,
      "by": "subdomain",
      "time": 1795306079,
-     "comments": 92
+     "comments": 100
     },
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 477,
+     "score": 479,
      "by": "k__",
      "time": 1795284139,
-     "comments": 118
+     "comments": 120
     },
     {
      "id": 50596664,
      "title": "Show HN: The Riemann Proof Handbook",
      "url": "https://github.com/tamnd/riemann-handbook",
-     "score": 55,
+     "score": 58,
      "by": "tamnd",
      "time": 1795326390,
-     "comments": 20
+     "comments": 26
     },
     {
      "id": 50595554,
      "title": "Data Processing Incidents on Inference Providers",
      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 166,
+     "score": 171,
      "by": "sdko",
      "time": 1795313654,
-     "comments": 65
+     "comments": 66
     },
     {
      "id": 50588982,
      "title": "Detonating a pile of lead azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 622,
+     "score": 624,
      "by": "beginning_end",
      "time": 1795267394,
      "comments": 391
     },
     {
+     "id": 50566495,
+     "title": "Self-hosted library branch over public web OPDS",
+     "url": "https://joinmayberry.com/",
+     "score": 11,
+     "by": "philips",
+     "time": 1795122947,
+     "comments": 0
+    },
+    {
      "id": 50583028,
      "title": "Getting the mind to steer the body to steer you",
      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 287,
+     "score": 294,
      "by": "jger15",
      "time": 1795212665,
-     "comments": 98
-    },
-    {
-     "id": 50596960,
-     "title": "Notes on the discrete Fourier transform (DFT)",
-     "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-     "score": 34,
-     "by": "kouosi",
-     "time": 1795330345,
-     "comments": 5
-    },
-    {
-     "id": 50569846,
-     "title": "If tiny 'primordial' black holes exist",
-     "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-     "score": 36,
-     "by": "wglb",
-     "time": 1795145861,
-     "comments": 16
+     "comments": 99
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T11:23:27.561395+00:00",
+   "fetched_at": "2026-11-22T11:53:33.493158+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T11:23:29.292661+00:00",
+   "fetched_at": "2026-11-22T11:53:35.264368+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 9259,
+     "stars": 9513,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7685,
+     "stars": 7695,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5963,
+     "stars": 5974,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2729,
+     "stars": 2736,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2656,
+     "stars": 2657,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1929,
+     "stars": 1934,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1827,
+     "stars": 1830,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1192,
+     "stars": 1193,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1106,
+     "stars": 1116,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T11:23:29.867148+00:00",
+   "fetched_at": "2026-11-22T11:53:35.841627+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T11:23:29.933218+00:00",
+   "fetched_at": "2026-11-22T11:53:35.945110+00:00",
    "stale": false,
    "items": [
     {
