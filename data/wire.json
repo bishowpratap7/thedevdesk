@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T16:24:37.958618+00:00",
+ "generated_at": "2026-11-22T16:54:42.196787+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T16:24:35.388885+00:00",
+   "fetched_at": "2026-11-22T16:54:39.605999+00:00",
    "stale": false,
    "items": [
     {
      "id": 50600511,
      "title": "Open Social Web Alliance",
      "url": "https://osw-alliance.net/en/",
-     "score": 29,
+     "score": 68,
      "by": "doener",
      "time": 1795361072,
-     "comments": 15
+     "comments": 53
     },
     {
      "id": 50599762,
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "url": "https://github.com/gulivan/worker755",
-     "score": 91,
+     "score": 108,
      "by": "ivantgam",
      "time": 1795355818,
-     "comments": 20
+     "comments": 25
     },
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 898,
+     "score": 927,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 519
+     "comments": 540
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 1220,
+     "score": 1233,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 266
+     "comments": 267
     },
     {
      "id": 50594182,
      "title": "A Better Vocabulary for Testing",
      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-     "score": 19,
+     "score": 31,
      "by": "alpaylan",
      "time": 1795299339,
-     "comments": 3
+     "comments": 6
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 1147,
+     "score": 1153,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 955
-    },
-    {
-     "id": 50600789,
-     "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
-     "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
-     "score": 22,
-     "by": "geox",
-     "time": 1795362864,
-     "comments": 6
-    },
-    {
-     "id": 50566495,
-     "title": "Self-hosted library branch over public web OPDS",
-     "url": "https://joinmayberry.com/",
-     "score": 77,
-     "by": "philips",
-     "time": 1795122947,
-     "comments": 22
-    },
-    {
-     "id": 50594911,
-     "title": "Sandwich Simulator",
-     "url": "https://stulle.app/",
-     "score": 432,
-     "by": "subdomain",
-     "time": 1795306079,
-     "comments": 145
-    },
-    {
-     "id": 50599583,
-     "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
-     "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-     "score": 62,
-     "by": "neom",
-     "time": 1795354630,
-     "comments": 43
-    },
-    {
-     "id": 50597959,
-     "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
-     "url": "https://simonwillison.net/2026/Nov/21/muru/",
-     "score": 43,
-     "by": "joshcsimmons",
-     "time": 1795341421,
-     "comments": 8
+     "comments": 957
     },
     {
      "id": 50600677,
      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-     "score": 27,
+     "score": 43,
      "by": "atmosx",
      "time": 1795362160,
-     "comments": 4
+     "comments": 9
+    },
+    {
+     "id": 50566495,
+     "title": "Self-hosted library branch over public web OPDS",
+     "url": "https://joinmayberry.com/",
+     "score": 82,
+     "by": "philips",
+     "time": 1795122947,
+     "comments": 23
+    },
+    {
+     "id": 50594911,
+     "title": "Sandwich Simulator",
+     "url": "https://stulle.app/",
+     "score": 441,
+     "by": "subdomain",
+     "time": 1795306079,
+     "comments": 153
+    },
+    {
+     "id": 50555002,
+     "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+     "url": null,
+     "score": 28,
+     "by": "llmblockchain",
+     "time": 1795052265,
+     "comments": 22
+    },
+    {
+     "id": 50566886,
+     "title": "What Makes UltraSMR Different?",
+     "url": "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
+     "score": 7,
+     "by": "bluedino",
+     "time": 1795124690,
+     "comments": 1
+    },
+    {
+     "id": 50597959,
+     "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
+     "url": "https://simonwillison.net/2026/Nov/21/muru/",
+     "score": 46,
+     "by": "joshcsimmons",
+     "time": 1795341421,
+     "comments": 8
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T16:24:36.324485+00:00",
+   "fetched_at": "2026-11-22T16:54:40.523083+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T16:24:37.154609+00:00",
+   "fetched_at": "2026-11-22T16:54:41.434272+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 11755,
+     "stars": 12017,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7833,
+     "stars": 7847,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 6056,
+     "stars": 6065,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2674,
+     "stars": 2676,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2019,
+     "stars": 2029,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1894,
+     "stars": 1898,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 1317,
+     "stars": 1396,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1234,
+     "stars": 1236,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1205,
+     "stars": 1212,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T16:24:37.433197+00:00",
+   "fetched_at": "2026-11-22T16:54:41.763847+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 238,
-     "comments": 208,
+     "comments": 211,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T16:24:37.506484+00:00",
+   "fetched_at": "2026-11-22T16:54:41.798994+00:00",
    "stale": false,
    "items": [
     {
