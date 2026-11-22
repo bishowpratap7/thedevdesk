@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T09:22:52.577328+00:00",
+ "generated_at": "2026-11-22T09:23:06.696354+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T09:22:49.585736+00:00",
+   "fetched_at": "2026-11-22T09:23:02.338191+00:00",
    "stale": false,
    "items": [
     {
@@ -12,13 +12,13 @@
      "score": 436,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 248
+     "comments": 249
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 959,
+     "score": 960,
      "by": "rafaelc",
      "time": 1795208592,
      "comments": 211
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T09:22:50.671205+00:00",
+   "fetched_at": "2026-11-22T09:23:03.648885+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T09:22:51.723663+00:00",
+   "fetched_at": "2026-11-22T09:23:05.463783+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 8408,
+     "stars": 8410,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2649,
+     "stars": 2650,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T09:22:52.021191+00:00",
+   "fetched_at": "2026-11-22T09:23:06.067012+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T09:22:52.103982+00:00",
+   "fetched_at": "2026-11-22T09:23:06.157519+00:00",
    "stale": false,
    "items": [
     {
