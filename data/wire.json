@@ -1,87 +1,87 @@
 {
- "generated_at": "2026-11-22T19:25:16.524749+00:00",
+ "generated_at": "2026-11-22T19:55:20.197266+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T19:25:13.241077+00:00",
+   "fetched_at": "2026-11-22T19:55:17.800544+00:00",
    "stale": false,
    "items": [
     {
      "id": 50601525,
      "title": "Perplexity and Intelligence",
      "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 212,
+     "score": 258,
      "by": "acossta",
      "time": 1795367187,
-     "comments": 146
+     "comments": 175
     },
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 1034,
+     "score": 1051,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 615
+     "comments": 622
     },
     {
      "id": 50599762,
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "url": "https://github.com/gulivan/worker755",
-     "score": 177,
+     "score": 187,
      "by": "ivantgam",
      "time": 1795355818,
-     "comments": 45
-    },
-    {
-     "id": 50602847,
-     "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
-     "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-     "score": 7,
-     "by": "DeepLogin",
-     "time": 1795374638,
-     "comments": 0
+     "comments": 46
     },
     {
      "id": 50600511,
      "title": "Open Social Web Alliance",
      "url": "https://osw-alliance.net/en/",
-     "score": 154,
+     "score": 158,
      "by": "doener",
      "time": 1795361072,
-     "comments": 156
+     "comments": 159
     },
     {
      "id": 50600622,
      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-     "score": 59,
+     "score": 71,
      "by": "fortran77",
      "time": 1795361724,
-     "comments": 16
+     "comments": 21
     },
     {
-     "id": 50582069,
-     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-     "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 1288,
-     "by": "rafaelc",
-     "time": 1795208592,
-     "comments": 274
+     "id": 50602843,
+     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+     "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+     "score": 5,
+     "by": "gaws",
+     "time": 1795374634,
+     "comments": 0
+    },
+    {
+     "id": 50600521,
+     "title": "Fascism and Monopoly",
+     "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
+     "score": 38,
+     "by": "doener",
+     "time": 1795361129,
+     "comments": 15
     },
     {
      "id": 50594182,
      "title": "A Better Vocabulary for Testing",
      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-     "score": 63,
+     "score": 68,
      "by": "alpaylan",
      "time": 1795299339,
-     "comments": 17
+     "comments": 19
     },
     {
      "id": 50562207,
      "title": "Inside PyPy: First Contact with RPython",
      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
-     "score": 25,
+     "score": 29,
      "by": "lumpa",
      "time": 1795105611,
      "comments": 4
@@ -90,33 +90,33 @@
      "id": 50559441,
      "title": "The Transvoxel Algorithm",
      "url": "https://transvoxel.org/",
-     "score": 19,
+     "score": 28,
      "by": "klaussilveira",
      "time": 1795092625,
      "comments": 1
     },
     {
-     "id": 50594911,
-     "title": "Sandwich Simulator",
-     "url": "https://stulle.app/",
-     "score": 490,
-     "by": "subdomain",
-     "time": 1795306079,
-     "comments": 170
+     "id": 50602847,
+     "title": "Canada recommits to federal funding for news",
+     "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+     "score": 76,
+     "by": "DeepLogin",
+     "time": 1795374638,
+     "comments": 54
     },
     {
-     "id": 50599309,
-     "title": "Testing Terraform with AWS Emulator",
-     "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-     "score": 26,
-     "by": "meysamazad",
-     "time": 1795352436,
-     "comments": 3
+     "id": 50602660,
+     "title": "Dirac's Theorem at a Dinner Party",
+     "url": "https://prideout.net/blog/dirac-dinner-party/",
+     "score": 5,
+     "by": "prideout",
+     "time": 1795373427,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T19:25:14.948775+00:00",
+   "fetched_at": "2026-11-22T19:55:18.727777+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T19:25:15.829057+00:00",
+   "fetched_at": "2026-11-22T19:55:19.526842+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 13227,
+     "stars": 13412,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7894,
+     "stars": 7903,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2061,
+     "stars": 2066,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1924,
+     "stars": 1926,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 1639,
+     "stars": 1666,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1253,
+     "stars": 1261,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1222,
+     "stars": 1225,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1165,
+     "stars": 1175,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T19:25:16.152400+00:00",
+   "fetched_at": "2026-11-22T19:55:19.844761+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 239,
-     "comments": 212,
+     "comments": 214,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -299,7 +299,7 @@
      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 32,
-     "comments": 1,
+     "comments": 2,
      "published_at": "2026-11-20T08:55:01Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T19:25:16.185054+00:00",
+   "fetched_at": "2026-11-22T19:55:19.908310+00:00",
    "stale": false,
    "items": [
     {
