@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T07:22:35.223640+00:00",
+ "generated_at": "2026-11-22T07:52:39.563240+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T07:22:32.415610+00:00",
+   "fetched_at": "2026-11-22T07:52:36.459304+00:00",
    "stale": false,
    "items": [
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 296,
+     "score": 339,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 147
+     "comments": 167
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 887,
+     "score": 903,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 203
-    },
-    {
-     "id": 50589618,
-     "title": "Lean verification of the Riemann Hypothesis",
-     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 959,
-     "by": "g-b-r",
-     "time": 1795271805,
-     "comments": 813
+     "comments": 205
     },
     {
      "id": 50596511,
      "title": "AI Supply Chain Security: What Canary Tokens Found",
      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-     "score": 20,
+     "score": 47,
      "by": "kristianp",
      "time": 1795324303,
-     "comments": 1
+     "comments": 4
     },
     {
-     "id": 50594911,
-     "title": "Sandwich Simulator",
-     "url": "https://stulle.app/",
-     "score": 156,
-     "by": "subdomain",
-     "time": 1795306079,
-     "comments": 57
-    },
-    {
-     "id": 50591853,
-     "title": "Inkling-2-Mini in 5.4 GB Memory",
-     "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 434,
-     "by": "k__",
-     "time": 1795284139,
-     "comments": 109
+     "id": 50589618,
+     "title": "Lean verification of the Riemann Hypothesis",
+     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+     "score": 974,
+     "by": "g-b-r",
+     "time": 1795271805,
+     "comments": 820
     },
     {
      "id": 50596664,
      "title": "Show HN: The Riemann Proof Handbook",
      "url": "https://github.com/tamnd/riemann-handbook",
-     "score": 11,
+     "score": 20,
      "by": "tamnd",
      "time": 1795326390,
      "comments": 3
     },
     {
+     "id": 50596960,
+     "title": "Notes on the discrete Fourier transform (DFT)",
+     "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+     "score": 10,
+     "by": "kouosi",
+     "time": 1795330345,
+     "comments": 1
+    },
+    {
+     "id": 50591853,
+     "title": "Inkling-2-Mini in 5.4 GB Memory",
+     "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+     "score": 438,
+     "by": "k__",
+     "time": 1795284139,
+     "comments": 109
+    },
+    {
      "id": 50595554,
      "title": "Data Processing Incidents on Inference Providers",
      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 102,
+     "score": 112,
      "by": "sdko",
      "time": 1795313654,
-     "comments": 36
+     "comments": 40
+    },
+    {
+     "id": 50594911,
+     "title": "Sandwich Simulator",
+     "url": "https://stulle.app/",
+     "score": 172,
+     "by": "subdomain",
+     "time": 1795306079,
+     "comments": 61
+    },
+    {
+     "id": 50597014,
+     "title": "The Engineering Manager's role is under attack (again)",
+     "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+     "score": 15,
+     "by": "fagnerbrack",
+     "time": 1795330860,
+     "comments": 3
     },
     {
      "id": 50588982,
      "title": "Detonating a pile of lead azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 591,
+     "score": 597,
      "by": "beginning_end",
      "time": 1795267394,
-     "comments": 379
-    },
-    {
-     "id": 50596960,
-     "title": "Notes on the discrete Fourier transform (DFT)",
-     "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-     "score": 5,
-     "by": "kouosi",
-     "time": 1795330345,
-     "comments": 0
+     "comments": 381
     },
     {
      "id": 50583028,
      "title": "Getting the mind to steer the body to steer you",
      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 238,
+     "score": 245,
      "by": "jger15",
      "time": 1795212665,
-     "comments": 77
-    },
-    {
-     "id": 50594132,
-     "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-     "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-     "score": 103,
-     "by": "sebaandrada",
-     "time": 1795298998,
-     "comments": 10
+     "comments": 80
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T07:22:33.496909+00:00",
+   "fetched_at": "2026-11-22T07:52:37.624119+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T07:22:34.370835+00:00",
+   "fetched_at": "2026-11-22T07:52:38.562386+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 7731,
+     "stars": 7889,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7576,
+     "stars": 7584,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5901,
+     "stars": 5910,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2691,
+     "stars": 2695,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2632,
+     "stars": 2636,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1833,
+     "stars": 1845,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1778,
+     "stars": 1786,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,10 +219,18 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1150,
+     "stars": 1156,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
+    },
+    {
+     "full_name": "R0Y00/Xbox2Windows",
+     "url": "https://github.com/R0Y00/Xbox2Windows",
+     "stars": 1041,
+     "language": "Python",
+     "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+     "created_at": "2026-11-20T17:43:52Z"
     },
     {
      "full_name": "chuanqisun/spaceship",
@@ -231,19 +239,11 @@
      "language": "HTML",
      "description": "Steer ideas like a space pilot!",
      "created_at": "2026-11-16T14:43:45Z"
-    },
-    {
-     "full_name": "R0Y00/Xbox2Windows",
-     "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1028,
-     "language": "Python",
-     "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
-     "created_at": "2026-11-20T17:43:52Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T07:22:34.673962+00:00",
+   "fetched_at": "2026-11-22T07:52:39.088459+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T07:22:34.740959+00:00",
+   "fetched_at": "2026-11-22T07:52:39.142858+00:00",
    "stale": false,
    "items": [
     {
