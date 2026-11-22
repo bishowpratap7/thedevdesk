@@ -1,87 +1,87 @@
 {
- "generated_at": "2026-11-22T05:52:21.467844+00:00",
+ "generated_at": "2026-11-22T06:22:26.370453+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T05:52:18.530919+00:00",
+   "fetched_at": "2026-11-22T06:22:23.315398+00:00",
    "stale": false,
    "items": [
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 162,
+     "score": 215,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 81
+     "comments": 105
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 834,
+     "score": 854,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 192
+     "comments": 196
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 931,
+     "score": 939,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 792
+     "comments": 801
     },
     {
      "id": 50594911,
      "title": "Sandwich Simulator",
      "url": "https://stulle.app/",
-     "score": 124,
+     "score": 131,
      "by": "subdomain",
      "time": 1795306079,
-     "comments": 50
+     "comments": 52
     },
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 414,
+     "score": 422,
      "by": "k__",
      "time": 1795284139,
-     "comments": 103
-    },
-    {
-     "id": 50588982,
-     "title": "Detonating a pile of lead azide",
-     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 578,
-     "by": "beginning_end",
-     "time": 1795267394,
-     "comments": 374
+     "comments": 106
     },
     {
      "id": 50595554,
      "title": "Data Processing Incidents on Inference Providers",
      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 72,
+     "score": 84,
      "by": "sdko",
      "time": 1795313654,
-     "comments": 29
+     "comments": 30
+    },
+    {
+     "id": 50588982,
+     "title": "Detonating a pile of lead azide",
+     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+     "score": 579,
+     "by": "beginning_end",
+     "time": 1795267394,
+     "comments": 377
     },
     {
      "id": 50583028,
      "title": "Getting the mind to steer the body to steer you",
      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 217,
+     "score": 226,
      "by": "jger15",
      "time": 1795212665,
-     "comments": 69
+     "comments": 70
     },
     {
      "id": 50594132,
      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-     "score": 94,
+     "score": 97,
      "by": "sebaandrada",
      "time": 1795298998,
      "comments": 9
@@ -90,33 +90,33 @@
      "id": 50587875,
      "title": "My monitor was cutting my download speed by 75%",
      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 540,
+     "score": 546,
      "by": "soheilpro",
      "time": 1795257392,
-     "comments": 261
+     "comments": 264
     },
     {
      "id": 50595725,
      "title": "The Most Popular Car Colors in America",
      "url": "https://www.iseecars.com/most-popular-car-colors-study",
-     "score": 15,
+     "score": 20,
      "by": "cisc",
      "time": 1795315638,
-     "comments": 21
+     "comments": 28
     },
     {
-     "id": 50595168,
-     "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
-     "url": "https://github.com/ItsNotRexed/Leonida",
-     "score": 105,
-     "by": "ebrahimh",
-     "time": 1795309046,
-     "comments": 68
+     "id": 50595537,
+     "title": "The Mythology of Conscious AI",
+     "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+     "score": 25,
+     "by": "Anon84",
+     "time": 1795313402,
+     "comments": 55
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T05:52:19.734271+00:00",
+   "fetched_at": "2026-11-22T06:22:24.628866+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T05:52:20.713928+00:00",
+   "fetched_at": "2026-11-22T06:22:25.511763+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7544,
+     "stars": 7552,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 7336,
+     "stars": 7471,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5878,
+     "stars": 5883,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2662,
+     "stars": 2685,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2618,
+     "stars": 2623,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1794,
+     "stars": 1804,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1748,
+     "stars": 1753,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1128,
+     "stars": 1136,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -235,15 +235,15 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1014,
+     "stars": 1016,
      "language": "Python",
-     "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+     "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T05:52:21.071560+00:00",
+   "fetched_at": "2026-11-22T06:22:25.818200+00:00",
    "stale": false,
    "items": [
     {
@@ -263,20 +263,20 @@
      "published_at": "2026-11-18T18:32:36Z"
     },
     {
+     "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
+     "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
+     "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
+     "reactions": 39,
+     "comments": 7,
+     "published_at": "2026-11-20T16:28:49Z"
+    },
+    {
      "title": "What does DEV stand for?",
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 203,
      "comments": 183,
      "published_at": "2026-11-16T14:55:10Z"
-    },
-    {
-     "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
-     "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
-     "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 38,
-     "comments": 6,
-     "published_at": "2026-11-20T16:28:49Z"
     },
     {
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T05:52:21.142622+00:00",
+   "fetched_at": "2026-11-22T06:22:25.914011+00:00",
    "stale": false,
    "items": [
     {
