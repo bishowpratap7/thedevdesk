@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T06:52:30.867889+00:00",
+ "generated_at": "2026-11-22T07:22:35.223640+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T06:52:27.833804+00:00",
+   "fetched_at": "2026-11-22T07:22:32.415610+00:00",
    "stale": false,
    "items": [
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 263,
+     "score": 296,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 122
+     "comments": 147
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 871,
+     "score": 887,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 202
+     "comments": 203
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 945,
+     "score": 959,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 809
+     "comments": 813
     },
     {
-     "id": 50591853,
-     "title": "Inkling-2-Mini in 5.4 GB Memory",
-     "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 429,
-     "by": "k__",
-     "time": 1795284139,
-     "comments": 108
+     "id": 50596511,
+     "title": "AI Supply Chain Security: What Canary Tokens Found",
+     "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+     "score": 20,
+     "by": "kristianp",
+     "time": 1795324303,
+     "comments": 1
     },
     {
      "id": 50594911,
      "title": "Sandwich Simulator",
      "url": "https://stulle.app/",
-     "score": 140,
+     "score": 156,
      "by": "subdomain",
      "time": 1795306079,
-     "comments": 53
+     "comments": 57
     },
     {
-     "id": 50595554,
-     "title": "Data Processing Incidents on Inference Providers",
-     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 97,
-     "by": "sdko",
-     "time": 1795313654,
-     "comments": 34
-    },
-    {
-     "id": 50588982,
-     "title": "Detonating a pile of lead azide",
-     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 583,
-     "by": "beginning_end",
-     "time": 1795267394,
-     "comments": 377
-    },
-    {
-     "id": 50583028,
-     "title": "Getting the mind to steer the body to steer you",
-     "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 230,
-     "by": "jger15",
-     "time": 1795212665,
-     "comments": 75
-    },
-    {
-     "id": 50594132,
-     "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-     "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-     "score": 101,
-     "by": "sebaandrada",
-     "time": 1795298998,
-     "comments": 10
-    },
-    {
-     "id": 50587875,
-     "title": "My monitor was cutting my download speed by 75%",
-     "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 551,
-     "by": "soheilpro",
-     "time": 1795257392,
-     "comments": 265
-    },
-    {
-     "id": 50595537,
-     "title": "The Mythology of Conscious AI",
-     "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-     "score": 30,
-     "by": "Anon84",
-     "time": 1795313402,
-     "comments": 64
+     "id": 50591853,
+     "title": "Inkling-2-Mini in 5.4 GB Memory",
+     "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+     "score": 434,
+     "by": "k__",
+     "time": 1795284139,
+     "comments": 109
     },
     {
      "id": 50596664,
      "title": "Show HN: The Riemann Proof Handbook",
      "url": "https://github.com/tamnd/riemann-handbook",
-     "score": 5,
+     "score": 11,
      "by": "tamnd",
      "time": 1795326390,
+     "comments": 3
+    },
+    {
+     "id": 50595554,
+     "title": "Data Processing Incidents on Inference Providers",
+     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "score": 102,
+     "by": "sdko",
+     "time": 1795313654,
+     "comments": 36
+    },
+    {
+     "id": 50588982,
+     "title": "Detonating a pile of lead azide",
+     "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+     "score": 591,
+     "by": "beginning_end",
+     "time": 1795267394,
+     "comments": 379
+    },
+    {
+     "id": 50596960,
+     "title": "Notes on the discrete Fourier transform (DFT)",
+     "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+     "score": 5,
+     "by": "kouosi",
+     "time": 1795330345,
      "comments": 0
+    },
+    {
+     "id": 50583028,
+     "title": "Getting the mind to steer the body to steer you",
+     "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+     "score": 238,
+     "by": "jger15",
+     "time": 1795212665,
+     "comments": 77
+    },
+    {
+     "id": 50594132,
+     "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+     "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+     "score": 103,
+     "by": "sebaandrada",
+     "time": 1795298998,
+     "comments": 10
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T06:52:29.068771+00:00",
+   "fetched_at": "2026-11-22T07:22:33.496909+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T06:52:30.006218+00:00",
+   "fetched_at": "2026-11-22T07:22:34.370835+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 7599,
+     "stars": 7731,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7561,
+     "stars": 7576,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5893,
+     "stars": 5901,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2687,
+     "stars": 2691,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2625,
+     "stars": 2632,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1816,
+     "stars": 1833,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1765,
+     "stars": 1778,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1143,
+     "stars": 1150,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1022,
+     "stars": 1028,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,15 +243,15 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T06:52:30.306196+00:00",
+   "fetched_at": "2026-11-22T07:22:34.673962+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 229,
-     "comments": 195,
+     "reactions": 231,
+     "comments": 196,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -266,7 +266,7 @@
      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 39,
+     "reactions": 41,
      "comments": 7,
      "published_at": "2026-11-20T16:28:49Z"
     },
@@ -282,7 +282,7 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 148,
+     "reactions": 149,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T06:52:30.362576+00:00",
+   "fetched_at": "2026-11-22T07:22:34.740959+00:00",
    "stale": false,
    "items": [
     {
