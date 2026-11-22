@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-22T10:23:18.973107+00:00",
+ "generated_at": "2026-11-22T10:53:24.760563+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T10:23:14.477462+00:00",
+   "fetched_at": "2026-11-22T10:53:20.394016+00:00",
    "stale": false,
    "items": [
     {
      "id": 50596133,
      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "score": 490,
+     "score": 525,
      "by": "zdw",
      "time": 1795320296,
-     "comments": 292
+     "comments": 309
     },
     {
      "id": 50582069,
      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-     "score": 1004,
+     "score": 1030,
      "by": "rafaelc",
      "time": 1795208592,
-     "comments": 217
+     "comments": 222
     },
     {
      "id": 50589618,
      "title": "Lean verification of the Riemann Hypothesis",
      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "score": 1035,
+     "score": 1043,
      "by": "g-b-r",
      "time": 1795271805,
-     "comments": 860
-    },
-    {
-     "id": 50596664,
-     "title": "Show HN: The Riemann Proof Handbook",
-     "url": "https://github.com/tamnd/riemann-handbook",
-     "score": 48,
-     "by": "tamnd",
-     "time": 1795326390,
-     "comments": 17
+     "comments": 870
     },
     {
      "id": 50594911,
      "title": "Sandwich Simulator",
      "url": "https://stulle.app/",
-     "score": 244,
+     "score": 262,
      "by": "subdomain",
      "time": 1795306079,
-     "comments": 83
+     "comments": 88
     },
     {
      "id": 50591853,
      "title": "Inkling-2-Mini in 5.4 GB Memory",
      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "score": 463,
+     "score": 473,
      "by": "k__",
      "time": 1795284139,
      "comments": 117
     },
     {
-     "id": 50595554,
-     "title": "Data Processing Incidents on Inference Providers",
-     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "score": 148,
-     "by": "sdko",
-     "time": 1795313654,
-     "comments": 57
+     "id": 50597612,
+     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+     "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+     "score": 133,
+     "by": "happosai",
+     "time": 1795337854,
+     "comments": 145
     },
     {
-     "id": 50596960,
-     "title": "Notes on the discrete Fourier transform (DFT)",
-     "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-     "score": 29,
-     "by": "kouosi",
-     "time": 1795330345,
-     "comments": 4
+     "id": 50596664,
+     "title": "Show HN: The Riemann Proof Handbook",
+     "url": "https://github.com/tamnd/riemann-handbook",
+     "score": 51,
+     "by": "tamnd",
+     "time": 1795326390,
+     "comments": 19
     },
     {
      "id": 50588982,
      "title": "Detonating a pile of lead azide",
      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "score": 612,
+     "score": 616,
      "by": "beginning_end",
      "time": 1795267394,
-     "comments": 387
+     "comments": 388
+    },
+    {
+     "id": 50596960,
+     "title": "Notes on the discrete Fourier transform (DFT)",
+     "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+     "score": 31,
+     "by": "kouosi",
+     "time": 1795330345,
+     "comments": 4
     },
     {
      "id": 50569846,
      "title": "If tiny 'primordial' black holes exist",
      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-     "score": 34,
+     "score": 35,
      "by": "wglb",
      "time": 1795145861,
-     "comments": 2
+     "comments": 9
     },
     {
      "id": 50583028,
      "title": "Getting the mind to steer the body to steer you",
      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-     "score": 277,
+     "score": 284,
      "by": "jger15",
      "time": 1795212665,
-     "comments": 92
+     "comments": 97
     },
     {
-     "id": 50587875,
-     "title": "My monitor was cutting my download speed by 75%",
-     "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "score": 589,
-     "by": "soheilpro",
-     "time": 1795257392,
-     "comments": 274
+     "id": 50595554,
+     "title": "Data Processing Incidents on Inference Providers",
+     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "score": 154,
+     "by": "sdko",
+     "time": 1795313654,
+     "comments": 61
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T10:23:15.847498+00:00",
+   "fetched_at": "2026-11-22T10:53:21.674082+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T10:23:17.554255+00:00",
+   "fetched_at": "2026-11-22T10:53:23.447920+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 8809,
+     "stars": 9046,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "erkamyaman/rust-anything",
      "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7649,
+     "stars": 7666,
      "language": "Rust",
      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
      "created_at": "2026-11-16T12:10:36Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-     "stars": 5947,
+     "stars": 5955,
      "language": "C++",
      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
      "created_at": "2026-11-16T19:28:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2717,
+     "stars": 2724,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "gylive/google-ultra",
      "url": "https://github.com/gylive/google-ultra",
-     "stars": 2653,
+     "stars": 2656,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-17T10:21:54Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 1902,
+     "stars": 1919,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "sybil-solutions/inference-optimisation-skill",
      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1819,
+     "stars": 1824,
      "language": "Python",
      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
      "created_at": "2026-11-16T18:40:04Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "hatsunemiku-ai/google-one-tools",
      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-     "stars": 1183,
+     "stars": 1188,
      "language": "Python",
      "description": null,
      "created_at": "2026-11-20T22:12:47Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1090,
+     "stars": 1097,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "chuanqisun/spaceship",
      "url": "https://github.com/chuanqisun/spaceship",
-     "stars": 1034,
+     "stars": 1035,
      "language": "HTML",
      "description": "Steer ideas like a space pilot!",
      "created_at": "2026-11-16T14:43:45Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T10:23:18.154103+00:00",
+   "fetched_at": "2026-11-22T10:53:23.965244+00:00",
    "stale": false,
    "items": [
     {
@@ -275,14 +275,14 @@
      "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 203,
-     "comments": 183,
+     "comments": 184,
      "published_at": "2026-11-16T14:55:10Z"
     },
     {
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 149,
+     "reactions": 150,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -290,7 +290,7 @@
      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
      "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
      "author": "Dhruv Jani",
-     "reactions": 95,
+     "reactions": 97,
      "comments": 28,
      "published_at": "2026-11-17T14:18:20Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T10:23:18.189136+00:00",
+   "fetched_at": "2026-11-22T10:53:24.093103+00:00",
    "stale": false,
    "items": [
     {
