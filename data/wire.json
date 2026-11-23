@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-23T12:59:04.896171+00:00",
+ "generated_at": "2026-11-23T13:29:08.977897+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T12:59:02.174735+00:00",
+   "fetched_at": "2026-11-23T13:29:06.262910+00:00",
    "stale": false,
    "items": [
     {
      "id": 50609685,
      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
      "url": "https://z.ai/blog/glm-5.4",
-     "score": 278,
+     "score": 334,
      "by": "foohis",
      "time": 1795428403,
-     "comments": 118
-    },
-    {
-     "id": 50606192,
-     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-     "url": "https://spelunkr.tv",
-     "score": 630,
-     "by": "SockThief",
-     "time": 1795396431,
-     "comments": 111
+     "comments": 146
     },
     {
      "id": 50607261,
      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "score": 407,
+     "score": 425,
      "by": "mmastrac",
      "time": 1795405764,
-     "comments": 189
+     "comments": 193
     },
     {
-     "id": 50610334,
-     "title": "The next circle of security hell",
-     "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-     "score": 21,
-     "by": "qtqtqt",
-     "time": 1795433656,
-     "comments": 7
+     "id": 50606192,
+     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+     "url": "https://spelunkr.tv",
+     "score": 649,
+     "by": "SockThief",
+     "time": 1795396431,
+     "comments": 118
     },
     {
      "id": 50587750,
      "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
      "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
-     "score": 16,
+     "score": 31,
      "by": "giuliomagnifico",
      "time": 1795256051,
+     "comments": 5
+    },
+    {
+     "id": 50610334,
+     "title": "The next circle of security hell",
+     "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+     "score": 40,
+     "by": "qtqtqt",
+     "time": 1795433656,
+     "comments": 24
+    },
+    {
+     "id": 50584526,
+     "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+     "url": "https://github.com/elixir-hls/elixir-hls",
+     "score": 56,
+     "by": "kristianpaul",
+     "time": 1795222077,
      "comments": 0
     },
     {
      "id": 50607668,
      "title": "Yes, 17M lines of Lean is a lot",
      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-     "score": 143,
+     "score": 152,
      "by": "seizethecheese",
      "time": 1795410049,
-     "comments": 167
+     "comments": 189
+    },
+    {
+     "id": 50610318,
+     "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
+     "url": "https://github.com/os6/nospeaker",
+     "score": 14,
+     "by": "yakkomajuri",
+     "time": 1795433514,
+     "comments": 2
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 578,
+     "score": 590,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 239
-    },
-    {
-     "id": 50584526,
-     "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-     "url": "https://github.com/elixir-hls/elixir-hls",
-     "score": 47,
-     "by": "kristianpaul",
-     "time": 1795222077,
-     "comments": 0
+     "comments": 245
     },
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 542,
+     "score": 552,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 291
+     "comments": 297
     },
     {
      "id": 50601525,
      "title": "Perplexity and Intelligence",
      "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 618,
+     "score": 626,
      "by": "acossta",
      "time": 1795367187,
-     "comments": 408
-    },
-    {
-     "id": 50598441,
-     "title": "Masullo on the Riemann Hypothesis",
-     "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-     "score": 254,
-     "by": "xiaoyu2006",
-     "time": 1795345196,
-     "comments": 233
+     "comments": 409
     },
     {
      "id": 50547698,
      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 277,
+     "score": 283,
      "by": "graemep",
      "time": 1795016609,
-     "comments": 91
+     "comments": 93
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T12:59:03.243330+00:00",
+   "fetched_at": "2026-11-23T13:29:07.255792+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T12:59:04.131427+00:00",
+   "fetched_at": "2026-11-23T13:29:08.324922+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 19535,
+     "stars": 19861,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 2709,
+     "stars": 2751,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2236,
+     "stars": 2239,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1494,
+     "stars": 1502,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 965,
+     "stars": 1016,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 915,
+     "stars": 942,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 732,
+     "stars": 739,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T12:59:04.521348+00:00",
+   "fetched_at": "2026-11-23T13:29:08.660366+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T12:59:04.553642+00:00",
+   "fetched_at": "2026-11-23T13:29:08.679191+00:00",
    "stale": false,
    "items": [
     {
