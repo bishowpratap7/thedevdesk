@@ -1,99 +1,108 @@
 {
- "generated_at": "2026-11-23T09:58:23.111801+00:00",
+ "generated_at": "2026-11-23T10:28:28.750722+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T09:58:19.383544+00:00",
+   "fetched_at": "2026-11-23T10:28:24.964208+00:00",
    "stale": false,
    "items": [
     {
      "id": 50607261,
      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "score": 299,
+     "score": 328,
      "by": "mmastrac",
      "time": 1795405764,
-     "comments": 138
+     "comments": 153
     },
     {
      "id": 50606192,
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "url": "https://spelunkr.tv",
-     "score": 518,
+     "score": 530,
      "by": "SockThief",
      "time": 1795396431,
-     "comments": 80
+     "comments": 84
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 505,
+     "score": 515,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 208
-    },
-    {
-     "id": 50607627,
-     "title": "A Partial Evaluator for C",
-     "url": "https://phoenix.labri.fr/software/tempo/",
-     "score": 64,
-     "by": "measurablefunc",
-     "time": 1795409508,
-     "comments": 12
-    },
-    {
-     "id": 50598441,
-     "title": "Masullo on the Riemann Hypothesis",
-     "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-     "score": 219,
-     "by": "xiaoyu2006",
-     "time": 1795345196,
-     "comments": 175
+     "comments": 217
     },
     {
      "id": 50607668,
      "title": "Yes, 17M lines of Lean is a lot",
      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-     "score": 62,
+     "score": 77,
      "by": "seizethecheese",
      "time": 1795410049,
-     "comments": 71
+     "comments": 84
     },
     {
-     "id": 50581961,
-     "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-     "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-     "score": 21,
-     "by": "DeepLogin",
-     "time": 1795208236,
+     "id": 50607627,
+     "title": "A Partial Evaluator for C",
+     "url": "https://phoenix.labri.fr/software/tempo/",
+     "score": 66,
+     "by": "measurablefunc",
+     "time": 1795409508,
      "comments": 14
+    },
+    {
+     "id": 50598441,
+     "title": "Masullo on the Riemann Hypothesis",
+     "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+     "score": 224,
+     "by": "xiaoyu2006",
+     "time": 1795345196,
+     "comments": 194
     },
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 499,
+     "score": 505,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 250
+     "comments": 255
     },
     {
      "id": 50601525,
      "title": "Perplexity and Intelligence",
      "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 587,
+     "score": 590,
      "by": "acossta",
      "time": 1795367187,
      "comments": 400
     },
     {
+     "id": 50581961,
+     "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+     "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+     "score": 23,
+     "by": "DeepLogin",
+     "time": 1795208236,
+     "comments": 16
+    },
+    {
      "id": 50547698,
      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 233,
+     "score": 240,
      "by": "graemep",
      "time": 1795016609,
-     "comments": 56
+     "comments": 60
+    },
+    {
+     "id": 50603143,
+     "title": "Assume People Are Not Interested in Your Blog Post",
+     "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+     "score": 204,
+     "by": "dshacker",
+     "time": 1795376490,
+     "comments": 103
     },
     {
      "id": 50608390,
@@ -103,20 +112,11 @@
      "by": "OBrien_1107",
      "time": 1795417268,
      "comments": 0
-    },
-    {
-     "id": 50603143,
-     "title": "Assume People Are Not Interested in Your Blog Post",
-     "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-     "score": 199,
-     "by": "dshacker",
-     "time": 1795376490,
-     "comments": 100
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T09:58:20.944168+00:00",
+   "fetched_at": "2026-11-23T10:28:26.542639+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T09:58:21.911890+00:00",
+   "fetched_at": "2026-11-23T10:28:27.548015+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 18105,
+     "stars": 18342,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 2503,
+     "stars": 2539,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2208,
+     "stars": 2210,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1445,
+     "stars": 1456,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1374,
+     "stars": 1379,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1306,
+     "stars": 1307,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 775,
+     "stars": 800,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -227,23 +227,23 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 715,
+     "stars": 717,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
     },
     {
-     "full_name": "MSNightmare/FastUnlock",
-     "url": "https://github.com/MSNightmare/FastUnlock",
-     "stars": 687,
-     "language": null,
-     "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-     "created_at": "2026-11-19T12:37:51Z"
+     "full_name": "AFK-surf/xnulinux",
+     "url": "https://github.com/AFK-surf/xnulinux",
+     "stars": 692,
+     "language": "Objective-C++",
+     "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+     "created_at": "2026-11-20T10:18:31Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T09:58:22.248968+00:00",
+   "fetched_at": "2026-11-23T10:28:27.920747+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 250,
-     "comments": 228,
+     "comments": 231,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 157,
+     "reactions": 158,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -306,14 +306,14 @@
      "title": "Why I Rewrote type-tune from TypeScript to Rust \ud83e\udd80",
      "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
      "author": "nyaomaru",
-     "reactions": 130,
-     "comments": 34,
+     "reactions": 132,
+     "comments": 36,
      "published_at": "2026-11-18T17:27:52Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T09:58:22.404098+00:00",
+   "fetched_at": "2026-11-23T10:28:28.056908+00:00",
    "stale": false,
    "items": [
     {
