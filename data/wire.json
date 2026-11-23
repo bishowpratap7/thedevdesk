@@ -1,42 +1,51 @@
 {
- "generated_at": "2026-11-22T23:55:56.591084+00:00",
+ "generated_at": "2026-11-23T00:26:00.726590+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-22T23:55:54.022988+00:00",
+   "fetched_at": "2026-11-23T00:25:58.215309+00:00",
    "stale": false,
    "items": [
     {
      "id": 50605045,
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-     "score": 68,
+     "score": 96,
      "by": "Qision",
      "time": 1795389130,
-     "comments": 17
+     "comments": 47
     },
     {
-     "id": 50602843,
-     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-     "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 298,
-     "by": "gaws",
-     "time": 1795374634,
-     "comments": 122
+     "id": 50605479,
+     "title": "Nespresso's project to reduce grams of coffee per capsule",
+     "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+     "score": 22,
+     "by": "bobbiechen",
+     "time": 1795391865,
+     "comments": 13
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 132,
+     "score": 156,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 45
+     "comments": 57
+    },
+    {
+     "id": 50602843,
+     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+     "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+     "score": 315,
+     "by": "gaws",
+     "time": 1795374634,
+     "comments": 131
     },
     {
      "id": 50547698,
      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 55,
+     "score": 68,
      "by": "graemep",
      "time": 1795016609,
      "comments": 1
@@ -45,34 +54,34 @@
      "id": 50604988,
      "title": "GL.iNet Security Notice 2026-11-20",
      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-     "score": 26,
+     "score": 43,
      "by": "gregsadetsky",
      "time": 1795388797,
-     "comments": 7
+     "comments": 17
     },
     {
      "id": 50604472,
      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-     "score": 32,
+     "score": 44,
      "by": "hectormauer",
      "time": 1795385458,
-     "comments": 2
+     "comments": 8
     },
     {
      "id": 50603589,
      "title": "A miniature San Francisco with live buses, planes and boats",
      "url": "https://smallsf.com/",
-     "score": 99,
+     "score": 109,
      "by": "dutilh",
      "time": 1795379603,
-     "comments": 38
+     "comments": 47
     },
     {
      "id": 50603465,
      "title": "Nyx, the Oldest Internet Service Provider",
      "url": "https://nyx.net/",
-     "score": 72,
+     "score": 81,
      "by": "o_-_o",
      "time": 1795378559,
      "comments": 8
@@ -81,42 +90,33 @@
      "id": 50601525,
      "title": "Perplexity and Intelligence",
      "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 446,
+     "score": 457,
      "by": "acossta",
      "time": 1795367187,
-     "comments": 302
+     "comments": 309
     },
     {
      "id": 50604123,
      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-     "score": 21,
+     "score": 28,
      "by": "joonehur",
      "time": 1795383192,
-     "comments": 7
+     "comments": 9
     },
     {
      "id": 50602947,
      "title": "What Happened to Silicon Valley?",
      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-     "score": 342,
+     "score": 366,
      "by": "greenyouse",
      "time": 1795375215,
-     "comments": 189
-    },
-    {
-     "id": 50599762,
-     "title": "Show HN: I built a game where you are an LLM's subagent",
-     "url": "https://github.com/gulivan/worker755",
-     "score": 261,
-     "by": "ivantgam",
-     "time": 1795355818,
-     "comments": 59
+     "comments": 207
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-22T23:55:54.979590+00:00",
+   "fetched_at": "2026-11-23T00:25:59.284248+00:00",
    "stale": false,
    "items": [
     {
@@ -157,24 +157,16 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-22T23:55:55.842874+00:00",
+   "fetched_at": "2026-11-23T00:26:00.096289+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 14810,
+     "stars": 14934,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
-    },
-    {
-     "full_name": "erkamyaman/rust-anything",
-     "url": "https://github.com/erkamyaman/rust-anything",
-     "stars": 7979,
-     "language": "Rust",
-     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-     "created_at": "2026-11-16T12:10:36Z"
     },
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
@@ -187,23 +179,15 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2092,
+     "stars": 2094,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
     },
     {
-     "full_name": "sybil-solutions/inference-optimisation-skill",
-     "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-     "stars": 1951,
-     "language": "Python",
-     "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-     "created_at": "2026-11-16T18:40:04Z"
-    },
-    {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 1865,
+     "stars": 1886,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -211,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1298,
+     "stars": 1311,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -219,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1298,
+     "stars": 1303,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -227,23 +211,39 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1227,
+     "stars": 1230,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
     },
     {
-     "full_name": "chuanqisun/spaceship",
-     "url": "https://github.com/chuanqisun/spaceship",
-     "stars": 1046,
+     "full_name": "MSNightmare/FastUnlock",
+     "url": "https://github.com/MSNightmare/FastUnlock",
+     "stars": 679,
+     "language": null,
+     "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+     "created_at": "2026-11-19T12:37:51Z"
+    },
+    {
+     "full_name": "0xkaka/homeport",
+     "url": "https://github.com/0xkaka/homeport",
+     "stars": 623,
      "language": "HTML",
-     "description": "Steer ideas like a space pilot!",
-     "created_at": "2026-11-16T14:43:45Z"
+     "description": null,
+     "created_at": "2026-11-17T05:39:46Z"
+    },
+    {
+     "full_name": "leanprover-community/riemann-hypothesis",
+     "url": "https://github.com/leanprover-community/riemann-hypothesis",
+     "stars": 619,
+     "language": "Lean",
+     "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
+     "created_at": "2026-11-20T14:47:49Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-22T23:55:56.170966+00:00",
+   "fetched_at": "2026-11-23T00:26:00.388064+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-22T23:55:56.218124+00:00",
+   "fetched_at": "2026-11-23T00:26:00.423061+00:00",
    "stale": false,
    "items": [
     {
