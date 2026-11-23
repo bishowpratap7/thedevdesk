@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T05:27:16.668148+00:00",
+ "generated_at": "2026-11-23T05:27:32.157565+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T05:27:12.246850+00:00",
+   "fetched_at": "2026-11-23T05:27:28.258970+00:00",
    "stale": false,
    "items": [
     {
@@ -36,7 +36,7 @@
      "id": 50598441,
      "title": "Masullo on the Riemann Hypothesis",
      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-     "score": 133,
+     "score": 134,
      "by": "xiaoyu2006",
      "time": 1795345196,
      "comments": 57
@@ -93,7 +93,7 @@
      "score": 138,
      "by": "gregsadetsky",
      "time": 1795388797,
-     "comments": 65
+     "comments": 66
     },
     {
      "id": 50604472,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T05:27:13.981139+00:00",
+   "fetched_at": "2026-11-23T05:27:30.055062+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T05:27:15.318769+00:00",
+   "fetched_at": "2026-11-23T05:27:31.014578+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 16530,
+     "stars": 16531,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T05:27:15.748256+00:00",
+   "fetched_at": "2026-11-23T05:27:31.378553+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T05:27:15.958871+00:00",
+   "fetched_at": "2026-11-23T05:27:31.504147+00:00",
    "stale": false,
    "items": [
     {
