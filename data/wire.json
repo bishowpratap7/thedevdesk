@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-23T00:26:16.230115+00:00",
+ "generated_at": "2026-11-23T00:56:22.177942+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T00:26:12.105481+00:00",
+   "fetched_at": "2026-11-23T00:56:18.190935+00:00",
    "stale": false,
    "items": [
     {
      "id": 50605045,
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-     "score": 96,
+     "score": 119,
      "by": "Qision",
      "time": 1795389130,
-     "comments": 47
-    },
-    {
-     "id": 50605479,
-     "title": "Nespresso's project to reduce grams of coffee per capsule",
-     "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-     "score": 22,
-     "by": "bobbiechen",
-     "time": 1795391865,
-     "comments": 13
+     "comments": 81
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 156,
+     "score": 172,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 57
+     "comments": 62
     },
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 315,
+     "score": 327,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 131
-    },
-    {
-     "id": 50547698,
-     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 68,
-     "by": "graemep",
-     "time": 1795016609,
-     "comments": 1
+     "comments": 148
     },
     {
      "id": 50604988,
      "title": "GL.iNet Security Notice 2026-11-20",
      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-     "score": 43,
+     "score": 56,
      "by": "gregsadetsky",
      "time": 1795388797,
-     "comments": 17
+     "comments": 24
     },
     {
-     "id": 50604472,
-     "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-     "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-     "score": 44,
-     "by": "hectormauer",
-     "time": 1795385458,
-     "comments": 8
+     "id": 50605483,
+     "title": "FBI is having a mass hire for IT specialists",
+     "url": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+     "score": 28,
+     "by": "illidan1000",
+     "time": 1795391902,
+     "comments": 34
+    },
+    {
+     "id": 50547698,
+     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+     "score": 81,
+     "by": "graemep",
+     "time": 1795016609,
+     "comments": 2
     },
     {
      "id": 50603589,
      "title": "A miniature San Francisco with live buses, planes and boats",
      "url": "https://smallsf.com/",
-     "score": 109,
+     "score": 125,
      "by": "dutilh",
      "time": 1795379603,
-     "comments": 47
+     "comments": 53
+    },
+    {
+     "id": 50604472,
+     "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+     "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+     "score": 51,
+     "by": "hectormauer",
+     "time": 1795385458,
+     "comments": 10
     },
     {
      "id": 50603465,
      "title": "Nyx, the Oldest Internet Service Provider",
      "url": "https://nyx.net/",
-     "score": 81,
+     "score": 88,
      "by": "o_-_o",
      "time": 1795378559,
      "comments": 8
     },
     {
-     "id": 50601525,
-     "title": "Perplexity and Intelligence",
-     "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 457,
-     "by": "acossta",
-     "time": 1795367187,
-     "comments": 309
+     "id": 50605445,
+     "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
+     "url": "https://0rwx.com/",
+     "score": 11,
+     "by": "misswaterfairy",
+     "time": 1795391580,
+     "comments": 3
     },
     {
      "id": 50604123,
      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-     "score": 28,
+     "score": 37,
      "by": "joonehur",
      "time": 1795383192,
      "comments": 9
     },
     {
-     "id": 50602947,
-     "title": "What Happened to Silicon Valley?",
-     "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-     "score": 366,
-     "by": "greenyouse",
-     "time": 1795375215,
-     "comments": 207
+     "id": 50601525,
+     "title": "Perplexity and Intelligence",
+     "url": "https://openai.com/index/perplexity-and-intelligence/",
+     "score": 466,
+     "by": "acossta",
+     "time": 1795367187,
+     "comments": 320
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T00:26:14.030700+00:00",
+   "fetched_at": "2026-11-23T00:56:19.925122+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T00:26:15.238375+00:00",
+   "fetched_at": "2026-11-23T00:56:21.211569+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 14935,
+     "stars": 15080,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2094,
+     "stars": 2095,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 1886,
+     "stars": 1904,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1312,
+     "stars": 1317,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1303,
+     "stars": 1307,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1230,
+     "stars": 1236,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -219,10 +219,18 @@
     {
      "full_name": "MSNightmare/FastUnlock",
      "url": "https://github.com/MSNightmare/FastUnlock",
-     "stars": 679,
+     "stars": 680,
      "language": null,
      "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
      "created_at": "2026-11-19T12:37:51Z"
+    },
+    {
+     "full_name": "leanprover-community/riemann-hypothesis",
+     "url": "https://github.com/leanprover-community/riemann-hypothesis",
+     "stars": 624,
+     "language": "Lean",
+     "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
+     "created_at": "2026-11-20T14:47:49Z"
     },
     {
      "full_name": "0xkaka/homeport",
@@ -231,27 +239,19 @@
      "language": "HTML",
      "description": null,
      "created_at": "2026-11-17T05:39:46Z"
-    },
-    {
-     "full_name": "leanprover-community/riemann-hypothesis",
-     "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 619,
-     "language": "Lean",
-     "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
-     "created_at": "2026-11-20T14:47:49Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T00:26:15.667959+00:00",
+   "fetched_at": "2026-11-23T00:56:21.688178+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 240,
-     "comments": 217,
+     "reactions": 242,
+     "comments": 218,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -282,7 +282,7 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 151,
+     "reactions": 152,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T00:26:15.759914+00:00",
+   "fetched_at": "2026-11-23T00:56:21.778568+00:00",
    "stale": false,
    "items": [
     {
