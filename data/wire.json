@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-23T05:57:37.787125+00:00",
+ "generated_at": "2026-11-23T06:27:43.217534+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T05:57:33.894830+00:00",
+   "fetched_at": "2026-11-23T06:27:39.598867+00:00",
    "stale": false,
    "items": [
     {
      "id": 50606192,
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "url": "https://spelunkr.tv",
-     "score": 321,
+     "score": 344,
      "by": "SockThief",
      "time": 1795396431,
-     "comments": 51
+     "comments": 53
     },
     {
      "id": 50607261,
      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "score": 95,
+     "score": 123,
      "by": "mmastrac",
      "time": 1795405764,
-     "comments": 32
+     "comments": 56
     },
     {
      "id": 50598441,
      "title": "Masullo on the Riemann Hypothesis",
      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-     "score": 151,
+     "score": 163,
      "by": "xiaoyu2006",
      "time": 1795345196,
-     "comments": 68
+     "comments": 76
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 372,
+     "score": 392,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 154
-    },
-    {
-     "id": 50602843,
-     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-     "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 430,
-     "by": "gaws",
-     "time": 1795374634,
-     "comments": 215
-    },
-    {
-     "id": 50547698,
-     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 170,
-     "by": "graemep",
-     "time": 1795016609,
-     "comments": 33
+     "comments": 157
     },
     {
      "id": 50607627,
      "title": "A Partial Evaluator for C",
      "url": "https://phoenix.labri.fr/software/tempo/",
-     "score": 7,
+     "score": 16,
      "by": "measurablefunc",
      "time": 1795409508,
      "comments": 0
     },
     {
+     "id": 50602843,
+     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+     "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+     "score": 440,
+     "by": "gaws",
+     "time": 1795374634,
+     "comments": 220
+    },
+    {
+     "id": 50547698,
+     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+     "score": 177,
+     "by": "graemep",
+     "time": 1795016609,
+     "comments": 36
+    },
+    {
      "id": 50569505,
-     "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+     "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
      "url": "https://arxiv.org/abs/2506.13771",
-     "score": 22,
+     "score": 27,
      "by": "kakadu",
      "time": 1795142448,
-     "comments": 2
+     "comments": 4
     },
     {
      "id": 50604988,
      "title": "GL.iNet Security Notice 2026-11-20",
      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-     "score": 143,
+     "score": 154,
      "by": "gregsadetsky",
      "time": 1795388797,
-     "comments": 69
+     "comments": 71
     },
     {
      "id": 50603589,
      "title": "A miniature San Francisco with live buses, planes and boats",
      "url": "https://smallsf.com/",
-     "score": 211,
+     "score": 223,
      "by": "dutilh",
      "time": 1795379603,
-     "comments": 82
+     "comments": 84
     },
     {
      "id": 50603143,
      "title": "Assume People Are Not Interested in Your Blog Post",
      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-     "score": 131,
+     "score": 141,
      "by": "dshacker",
      "time": 1795376490,
-     "comments": 62
+     "comments": 66
     },
     {
-     "id": 50604472,
-     "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-     "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-     "score": 98,
-     "by": "hectormauer",
-     "time": 1795385458,
-     "comments": 17
+     "id": 50606499,
+     "title": "Treemap of the Riemann Hypothesis Lean Proof",
+     "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+     "score": 35,
+     "by": "pengowray",
+     "time": 1795398623,
+     "comments": 5
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T05:57:35.503541+00:00",
+   "fetched_at": "2026-11-23T06:27:41.124279+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T05:57:36.587598+00:00",
+   "fetched_at": "2026-11-23T06:27:42.170302+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 16673,
+     "stars": 16840,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2756,
+     "stars": 2758,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 2204,
+     "stars": 2245,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2145,
+     "stars": 2156,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1387,
+     "stars": 1395,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1348,
+     "stars": 1350,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1265,
+     "stars": 1268,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 672,
+     "stars": 676,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-     "stars": 625,
+     "stars": 626,
      "language": "Python",
      "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
      "created_at": "2026-11-19T10:40:46Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T05:57:36.905698+00:00",
+   "fetched_at": "2026-11-23T06:27:42.508098+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T05:57:37.064080+00:00",
+   "fetched_at": "2026-11-23T06:27:42.555773+00:00",
    "stale": false,
    "items": [
     {
