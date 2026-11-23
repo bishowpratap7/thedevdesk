@@ -1,78 +1,78 @@
 {
- "generated_at": "2026-11-23T03:26:52.556889+00:00",
+ "generated_at": "2026-11-23T03:56:58.192126+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T03:26:48.661848+00:00",
+   "fetched_at": "2026-11-23T03:56:54.126446+00:00",
    "stale": false,
    "items": [
     {
      "id": 50606192,
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "url": "https://spelunkr.tv",
-     "score": 157,
+     "score": 193,
      "by": "SockThief",
      "time": 1795396431,
-     "comments": 21
+     "comments": 30
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 291,
+     "score": 315,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 124
+     "comments": 135
     },
     {
      "id": 50598441,
      "title": "Masullo on the Riemann Hypothesis",
      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-     "score": 80,
+     "score": 88,
      "by": "xiaoyu2006",
      "time": 1795345196,
-     "comments": 12
+     "comments": 21
     },
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 388,
+     "score": 394,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 189
+     "comments": 196
     },
     {
      "id": 50547698,
      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 135,
+     "score": 140,
      "by": "graemep",
      "time": 1795016609,
-     "comments": 14
+     "comments": 15
     },
     {
      "id": 50604988,
      "title": "GL.iNet Security Notice 2026-11-20",
      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-     "score": 118,
+     "score": 123,
      "by": "gregsadetsky",
      "time": 1795388797,
-     "comments": 50
+     "comments": 54
     },
     {
      "id": 50603589,
      "title": "A miniature San Francisco with live buses, planes and boats",
      "url": "https://smallsf.com/",
-     "score": 170,
+     "score": 178,
      "by": "dutilh",
      "time": 1795379603,
-     "comments": 76
+     "comments": 80
     },
     {
      "id": 50604472,
      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-     "score": 76,
+     "score": 81,
      "by": "hectormauer",
      "time": 1795385458,
      "comments": 14
@@ -81,42 +81,42 @@
      "id": 50604123,
      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-     "score": 61,
+     "score": 69,
      "by": "joonehur",
      "time": 1795383192,
-     "comments": 18
+     "comments": 20
     },
     {
      "id": 50603465,
      "title": "Nyx, the Oldest Internet Service Provider",
      "url": "https://nyx.net/",
-     "score": 107,
+     "score": 112,
      "by": "o_-_o",
      "time": 1795378559,
      "comments": 12
     },
     {
-     "id": 50601525,
-     "title": "Perplexity and Intelligence",
-     "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 512,
-     "by": "acossta",
-     "time": 1795367187,
-     "comments": 352
-    },
-    {
      "id": 50560563,
      "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
      "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
-     "score": 10,
+     "score": 20,
      "by": "speckx",
      "time": 1795098427,
-     "comments": 0
+     "comments": 3
+    },
+    {
+     "id": 50601525,
+     "title": "Perplexity and Intelligence",
+     "url": "https://openai.com/index/perplexity-and-intelligence/",
+     "score": 517,
+     "by": "acossta",
+     "time": 1795367187,
+     "comments": 357
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T03:26:50.385396+00:00",
+   "fetched_at": "2026-11-23T03:56:55.864644+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T03:26:51.612680+00:00",
+   "fetched_at": "2026-11-23T03:56:57.059457+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 15982,
+     "stars": 16147,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2752,
+     "stars": 2753,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2112,
+     "stars": 2118,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 2047,
+     "stars": 2074,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1354,
+     "stars": 1366,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1330,
+     "stars": 1335,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1253,
+     "stars": 1256,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 646,
+     "stars": 648,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -243,22 +243,22 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T03:26:52.086107+00:00",
+   "fetched_at": "2026-11-23T03:56:57.439242+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 242,
-     "comments": 218,
+     "reactions": 243,
+     "comments": 219,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
      "title": "The CodeNewbie Podcast is Back for Season 28!",
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 88,
+     "reactions": 89,
      "comments": 12,
      "published_at": "2026-11-18T18:32:36Z"
     },
@@ -282,7 +282,7 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 152,
+     "reactions": 157,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T03:26:52.115341+00:00",
+   "fetched_at": "2026-11-23T03:56:57.566915+00:00",
    "stale": false,
    "items": [
     {
