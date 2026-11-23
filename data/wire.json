@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T20:31:13.271522+00:00",
+ "generated_at": "2026-11-23T20:31:26.791666+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T20:31:10.358756+00:00",
+   "fetched_at": "2026-11-23T20:31:23.589256+00:00",
    "stale": false,
    "items": [
     {
@@ -18,16 +18,16 @@
      "id": 50611576,
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 1474,
+     "score": 1476,
      "by": "jaz",
      "time": 1795442418,
-     "comments": 2602
+     "comments": 2607
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 895,
+     "score": 898,
      "by": "janvdberg",
      "time": 1795450392,
      "comments": 250
@@ -54,16 +54,16 @@
      "id": 50615308,
      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-     "score": 401,
+     "score": 403,
      "by": "MrBuddyCasino",
      "time": 1795453646,
-     "comments": 196
+     "comments": 197
     },
     {
      "id": 50615481,
      "title": "Kagi Mail (public beta)",
      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-     "score": 210,
+     "score": 211,
      "by": "rdmuser",
      "time": 1795454221,
      "comments": 162
@@ -81,16 +81,16 @@
      "id": 50616933,
      "title": "Apple removed my open-source app from EU App Stores after 9 years",
      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
-     "score": 241,
+     "score": 242,
      "by": "fluder",
      "time": 1795459690,
-     "comments": 49
+     "comments": 50
     },
     {
      "id": 50594935,
      "title": "Derivative Flipping",
      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
-     "score": 14,
+     "score": 15,
      "by": "dmit",
      "time": 1795306397,
      "comments": 0
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T20:31:11.522852+00:00",
+   "fetched_at": "2026-11-23T20:31:24.889333+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T20:31:12.601648+00:00",
+   "fetched_at": "2026-11-23T20:31:25.874801+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T20:31:12.986493+00:00",
+   "fetched_at": "2026-11-23T20:31:26.132185+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T20:31:13.046252+00:00",
+   "fetched_at": "2026-11-23T20:31:26.260911+00:00",
    "stale": false,
    "items": [
     {
