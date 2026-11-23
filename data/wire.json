@@ -1,72 +1,81 @@
 {
- "generated_at": "2026-11-23T07:57:59.894071+00:00",
+ "generated_at": "2026-11-23T08:28:05.854918+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T07:57:55.974748+00:00",
+   "fetched_at": "2026-11-23T08:28:01.436612+00:00",
    "stale": false,
    "items": [
     {
      "id": 50606192,
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "url": "https://spelunkr.tv",
-     "score": 434,
+     "score": 463,
      "by": "SockThief",
      "time": 1795396431,
-     "comments": 62
+     "comments": 72
     },
     {
      "id": 50607261,
      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "score": 202,
+     "score": 226,
      "by": "mmastrac",
      "time": 1795405764,
-     "comments": 89
+     "comments": 98
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 448,
+     "score": 462,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 179
-    },
-    {
-     "id": 50607627,
-     "title": "A Partial Evaluator for C",
-     "url": "https://phoenix.labri.fr/software/tempo/",
-     "score": 36,
-     "by": "measurablefunc",
-     "time": 1795409508,
-     "comments": 1
+     "comments": 192
     },
     {
      "id": 50598441,
      "title": "Masullo on the Riemann Hypothesis",
      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-     "score": 189,
+     "score": 200,
      "by": "xiaoyu2006",
      "time": 1795345196,
-     "comments": 119
+     "comments": 134
+    },
+    {
+     "id": 50607627,
+     "title": "A Partial Evaluator for C",
+     "url": "https://phoenix.labri.fr/software/tempo/",
+     "score": 47,
+     "by": "measurablefunc",
+     "time": 1795409508,
+     "comments": 2
     },
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 463,
+     "score": 472,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 233
+     "comments": 232
     },
     {
      "id": 50601525,
      "title": "Perplexity and Intelligence",
      "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 561,
+     "score": 570,
      "by": "acossta",
      "time": 1795367187,
-     "comments": 383
+     "comments": 389
+    },
+    {
+     "id": 50547698,
+     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+     "score": 219,
+     "by": "graemep",
+     "time": 1795016609,
+     "comments": 52
     },
     {
      "id": 50608390,
@@ -78,45 +87,36 @@
      "comments": 0
     },
     {
-     "id": 50547698,
-     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 211,
-     "by": "graemep",
-     "time": 1795016609,
-     "comments": 52
-    },
-    {
-     "id": 50607668,
-     "title": "Yes, 17M lines of Lean is a lot",
-     "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-     "score": 30,
-     "by": "seizethecheese",
-     "time": 1795410049,
-     "comments": 30
-    },
-    {
      "id": 50604988,
      "title": "GL.iNet Security Notice 2026-11-20",
      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-     "score": 174,
+     "score": 184,
      "by": "gregsadetsky",
      "time": 1795388797,
-     "comments": 85
+     "comments": 89
+    },
+    {
+     "id": 50606499,
+     "title": "Treemap of the Riemann Hypothesis Lean Proof",
+     "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+     "score": 69,
+     "by": "pengowray",
+     "time": 1795398623,
+     "comments": 21
     },
     {
      "id": 50603589,
      "title": "A miniature San Francisco with live buses, planes and boats",
      "url": "https://smallsf.com/",
-     "score": 250,
+     "score": 255,
      "by": "dutilh",
      "time": 1795379603,
-     "comments": 88
+     "comments": 89
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T07:57:57.763114+00:00",
+   "fetched_at": "2026-11-23T08:28:03.399765+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T07:57:58.774891+00:00",
+   "fetched_at": "2026-11-23T08:28:04.472476+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 17343,
+     "stars": 17523,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 2359,
+     "stars": 2397,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2178,
+     "stars": 2187,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1411,
+     "stars": 1420,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1364,
+     "stars": 1365,
      "language": "Python",
      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,15 +211,23 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1282,
+     "stars": 1293,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
     },
     {
+     "full_name": "os6/nospeaker",
+     "url": "https://github.com/os6/nospeaker",
+     "stars": 692,
+     "language": "Swift",
+     "description": "make your macbook's trackpad talk using its haptic motor",
+     "created_at": "2026-11-22T12:05:54Z"
+    },
+    {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 688,
+     "stars": 692,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -227,31 +235,23 @@
     {
      "full_name": "MSNightmare/FastUnlock",
      "url": "https://github.com/MSNightmare/FastUnlock",
-     "stars": 686,
+     "stars": 687,
      "language": null,
      "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
      "created_at": "2026-11-19T12:37:51Z"
-    },
-    {
-     "full_name": "os6/nospeaker",
-     "url": "https://github.com/os6/nospeaker",
-     "stars": 673,
-     "language": "Swift",
-     "description": "make your macbook's trackpad talk using its haptic motor",
-     "created_at": "2026-11-22T12:05:54Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T07:57:59.187313+00:00",
+   "fetched_at": "2026-11-23T08:28:04.901089+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 247,
-     "comments": 225,
+     "reactions": 250,
+     "comments": 227,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -266,7 +266,7 @@
      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 41,
+     "reactions": 42,
      "comments": 7,
      "published_at": "2026-11-20T16:28:49Z"
     },
@@ -282,7 +282,7 @@
      "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
      "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
      "author": "Hemapriya Kanagala",
-     "reactions": 158,
+     "reactions": 157,
      "comments": 51,
      "published_at": "2026-11-18T15:52:31Z"
     },
@@ -306,14 +306,14 @@
      "title": "Why I Rewrote type-tune from TypeScript to Rust \ud83e\udd80",
      "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
      "author": "nyaomaru",
-     "reactions": 126,
+     "reactions": 127,
      "comments": 31,
      "published_at": "2026-11-18T17:27:52Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T07:57:59.249513+00:00",
+   "fetched_at": "2026-11-23T08:28:05.061674+00:00",
    "stale": false,
    "items": [
     {
