@@ -1,60 +1,78 @@
 {
- "generated_at": "2026-11-23T13:29:08.977897+00:00",
+ "generated_at": "2026-11-23T13:59:13.681506+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T13:29:06.262910+00:00",
+   "fetched_at": "2026-11-23T13:59:10.745820+00:00",
    "stale": false,
    "items": [
     {
      "id": 50609685,
      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
      "url": "https://z.ai/blog/glm-5.4",
-     "score": 334,
+     "score": 397,
      "by": "foohis",
      "time": 1795428403,
-     "comments": 146
-    },
-    {
-     "id": 50607261,
-     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-     "url": "https://github.com/AFK-surf/xnulinux",
-     "score": 425,
-     "by": "mmastrac",
-     "time": 1795405764,
-     "comments": 193
-    },
-    {
-     "id": 50606192,
-     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-     "url": "https://spelunkr.tv",
-     "score": 649,
-     "by": "SockThief",
-     "time": 1795396431,
-     "comments": 118
-    },
-    {
-     "id": 50587750,
-     "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-     "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
-     "score": 31,
-     "by": "giuliomagnifico",
-     "time": 1795256051,
-     "comments": 5
+     "comments": 168
     },
     {
      "id": 50610334,
      "title": "The next circle of security hell",
      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-     "score": 40,
+     "score": 67,
      "by": "qtqtqt",
      "time": 1795433656,
-     "comments": 24
+     "comments": 29
+    },
+    {
+     "id": 50610743,
+     "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
+     "url": "https://github.com/mikuta0407/win4wine",
+     "score": 22,
+     "by": "hard_times",
+     "time": 1795436891,
+     "comments": 9
+    },
+    {
+     "id": 50607261,
+     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+     "url": "https://github.com/AFK-surf/xnulinux",
+     "score": 446,
+     "by": "mmastrac",
+     "time": 1795405764,
+     "comments": 196
+    },
+    {
+     "id": 50606192,
+     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+     "url": "https://spelunkr.tv",
+     "score": 663,
+     "by": "SockThief",
+     "time": 1795396431,
+     "comments": 122
+    },
+    {
+     "id": 50587750,
+     "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+     "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+     "score": 34,
+     "by": "giuliomagnifico",
+     "time": 1795256051,
+     "comments": 8
+    },
+    {
+     "id": 50610318,
+     "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
+     "url": "https://github.com/os6/nospeaker",
+     "score": 44,
+     "by": "yakkomajuri",
+     "time": 1795433514,
+     "comments": 15
     },
     {
      "id": 50584526,
      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
      "url": "https://github.com/elixir-hls/elixir-hls",
-     "score": 56,
+     "score": 67,
      "by": "kristianpaul",
      "time": 1795222077,
      "comments": 0
@@ -63,60 +81,42 @@
      "id": 50607668,
      "title": "Yes, 17M lines of Lean is a lot",
      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-     "score": 152,
+     "score": 165,
      "by": "seizethecheese",
      "time": 1795410049,
-     "comments": 189
-    },
-    {
-     "id": 50610318,
-     "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
-     "url": "https://github.com/os6/nospeaker",
-     "score": 14,
-     "by": "yakkomajuri",
-     "time": 1795433514,
-     "comments": 2
+     "comments": 205
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 590,
+     "score": 602,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 245
+     "comments": 249
+    },
+    {
+     "id": 50611026,
+     "title": "Show HN: News Blocklist \u2013 a DNS blocklist of 14k news and current-affairs sites",
+     "url": "https://github.com/ruairidhflint/news-blocklist",
+     "score": 11,
+     "by": "mrroryflint",
+     "time": 1795438972,
+     "comments": 2
     },
     {
      "id": 50602843,
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "score": 552,
+     "score": 558,
      "by": "gaws",
      "time": 1795374634,
-     "comments": 297
-    },
-    {
-     "id": 50601525,
-     "title": "Perplexity and Intelligence",
-     "url": "https://openai.com/index/perplexity-and-intelligence/",
-     "score": 626,
-     "by": "acossta",
-     "time": 1795367187,
-     "comments": 409
-    },
-    {
-     "id": 50547698,
-     "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-     "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-     "score": 283,
-     "by": "graemep",
-     "time": 1795016609,
-     "comments": 93
+     "comments": 304
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T13:29:07.255792+00:00",
+   "fetched_at": "2026-11-23T13:59:11.709771+00:00",
    "stale": false,
    "items": [
     {
@@ -157,16 +157,24 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T13:29:08.324922+00:00",
+   "fetched_at": "2026-11-23T13:59:12.696959+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 19861,
+     "stars": 20211,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
+    },
+    {
+     "full_name": "EL4CTEO/fast-anything",
+     "url": "https://github.com/EL4CTEO/fast-anything",
+     "stars": 2786,
+     "language": "Rust",
+     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+     "created_at": "2026-11-21T14:40:27Z"
     },
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
@@ -177,17 +185,9 @@
      "created_at": "2026-11-19T14:43:10Z"
     },
     {
-     "full_name": "EL4CTEO/fast-anything",
-     "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 2751,
-     "language": "Rust",
-     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-     "created_at": "2026-11-21T14:40:27Z"
-    },
-    {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2239,
+     "stars": 2246,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1502,
+     "stars": 1508,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1394,
+     "stars": 1397,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1321,
+     "stars": 1324,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 1016,
+     "stars": 1087,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 942,
+     "stars": 972,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 739,
+     "stars": 752,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T13:29:08.660366+00:00",
+   "fetched_at": "2026-11-23T13:59:13.096250+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 250,
-     "comments": 241,
+     "comments": 242,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T13:29:08.679191+00:00",
+   "fetched_at": "2026-11-23T13:59:13.167811+00:00",
    "stale": false,
    "items": [
     {
