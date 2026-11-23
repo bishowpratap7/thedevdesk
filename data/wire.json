@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-23T20:01:08.985402+00:00",
+ "generated_at": "2026-11-23T20:31:13.271522+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T20:01:04.186763+00:00",
+   "fetched_at": "2026-11-23T20:31:10.358756+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50611576,
-     "title": "Nvidia Reinstates Jensen Huang as CEO",
-     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 1369,
-     "by": "jaz",
-     "time": 1795442418,
-     "comments": 2518
-    },
     {
      "id": 50617499,
      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
      "url": "https://arm.jonpalmisc.com/",
-     "score": 210,
+     "score": 367,
      "by": "tech234a",
      "time": 1795461475,
-     "comments": 33
+     "comments": 67
+    },
+    {
+     "id": 50611576,
+     "title": "Nvidia Reinstates Jensen Huang as CEO",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+     "score": 1474,
+     "by": "jaz",
+     "time": 1795442418,
+     "comments": 2602
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 848,
+     "score": 895,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 231
+     "comments": 250
     },
     {
      "id": 50609685,
      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
      "url": "https://z.ai/blog/glm-5.4",
-     "score": 905,
+     "score": 922,
      "by": "foohis",
      "time": 1795428403,
-     "comments": 308
+     "comments": 315
     },
     {
      "id": 50611402,
      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-     "score": 49,
+     "score": 62,
      "by": "toebee",
      "time": 1795441358,
-     "comments": 9
-    },
-    {
-     "id": 50615481,
-     "title": "Kagi Mail (public beta)",
-     "url": "https://blog.kagi.com/kagi-mail-public-beta",
-     "score": 186,
-     "by": "rdmuser",
-     "time": 1795454221,
-     "comments": 140
+     "comments": 10
     },
     {
      "id": 50615308,
      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-     "score": 248,
+     "score": 401,
      "by": "MrBuddyCasino",
      "time": 1795453646,
-     "comments": 129
+     "comments": 196
+    },
+    {
+     "id": 50615481,
+     "title": "Kagi Mail (public beta)",
+     "url": "https://blog.kagi.com/kagi-mail-public-beta",
+     "score": 210,
+     "by": "rdmuser",
+     "time": 1795454221,
+     "comments": 162
     },
     {
      "id": 50587439,
      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-     "score": 205,
+     "score": 219,
      "by": "geden",
      "time": 1795252442,
-     "comments": 68
-    },
-    {
-     "id": 50610318,
-     "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
-     "url": "https://github.com/os6/nospeaker",
-     "score": 220,
-     "by": "yakkomajuri",
-     "time": 1795433514,
-     "comments": 123
-    },
-    {
-     "id": 50610743,
-     "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
-     "url": "https://github.com/mikuta0407/win4wine",
-     "score": 168,
-     "by": "hard_times",
-     "time": 1795436891,
-     "comments": 90
+     "comments": 72
     },
     {
      "id": 50616933,
      "title": "Apple removed my open-source app from EU App Stores after 9 years",
      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
-     "score": 163,
+     "score": 241,
      "by": "fluder",
      "time": 1795459690,
-     "comments": 28
+     "comments": 49
     },
     {
-     "id": 50615161,
-     "title": "EasyPost (YC S13) Is Hiring",
-     "url": "https://www.easypost.com/careers/",
-     "score": 1,
-     "by": "jstreebin",
-     "time": 1795453205,
+     "id": 50594935,
+     "title": "Derivative Flipping",
+     "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+     "score": 14,
+     "by": "dmit",
+     "time": 1795306397,
      "comments": 0
+    },
+    {
+     "id": 50610743,
+     "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
+     "url": "https://github.com/mikuta0407/win4wine",
+     "score": 178,
+     "by": "hard_times",
+     "time": 1795436891,
+     "comments": 91
+    },
+    {
+     "id": 50615520,
+     "title": "How should an LLM see a computer?",
+     "url": "https://www.greptile.com/blog/trex-computer-use",
+     "score": 22,
+     "by": "dakshgupta",
+     "time": 1795454365,
+     "comments": 15
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T20:01:07.052608+00:00",
+   "fetched_at": "2026-11-23T20:31:11.522852+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T20:01:08.190466+00:00",
+   "fetched_at": "2026-11-23T20:31:12.601648+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 29365,
+     "stars": 30133,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3039,
+     "stars": 3046,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2292,
+     "stars": 2296,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 1723,
+     "stars": 1770,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1606,
+     "stars": 1620,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1472,
+     "stars": 1477,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1352,
+     "stars": 1354,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -227,30 +227,30 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1294,
+     "stars": 1321,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
     },
     {
-     "full_name": "leanprover-community/riemann-hypothesis",
-     "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 834,
-     "language": "Lean",
-     "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
-     "created_at": "2026-11-20T14:47:49Z"
+     "full_name": "ivall/xcl",
+     "url": "https://github.com/ivall/xcl",
+     "stars": 858,
+     "language": "Rust",
+     "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+     "created_at": "2026-11-20T20:03:21Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T20:01:08.556130+00:00",
+   "fetched_at": "2026-11-23T20:31:12.986493+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 253,
+     "reactions": 254,
      "comments": 246,
      "published_at": "2026-11-18T08:32:45Z"
     },
@@ -282,7 +282,7 @@
      "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
      "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
      "author": "Dhruv Jani",
-     "reactions": 98,
+     "reactions": 99,
      "comments": 28,
      "published_at": "2026-11-17T14:18:20Z"
     },
@@ -299,7 +299,7 @@
      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 32,
-     "comments": 3,
+     "comments": 4,
      "published_at": "2026-11-20T08:55:01Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T20:01:08.611635+00:00",
+   "fetched_at": "2026-11-23T20:31:13.046252+00:00",
    "stale": false,
    "items": [
     {
