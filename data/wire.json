@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-23T20:31:26.791666+00:00",
+ "generated_at": "2026-11-23T21:01:36.861092+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T20:31:23.589256+00:00",
+   "fetched_at": "2026-11-23T21:01:28.636960+00:00",
    "stale": false,
    "items": [
     {
      "id": 50617499,
      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
      "url": "https://arm.jonpalmisc.com/",
-     "score": 367,
+     "score": 493,
      "by": "tech234a",
      "time": 1795461475,
-     "comments": 67
+     "comments": 96
     },
     {
      "id": 50611576,
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 1476,
+     "score": 1554,
      "by": "jaz",
      "time": 1795442418,
-     "comments": 2607
+     "comments": 2680
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 898,
+     "score": 947,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 250
+     "comments": 254
     },
     {
      "id": 50609685,
      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
      "url": "https://z.ai/blog/glm-5.4",
-     "score": 922,
+     "score": 941,
      "by": "foohis",
      "time": 1795428403,
-     "comments": 315
-    },
-    {
-     "id": 50611402,
-     "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-     "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-     "score": 62,
-     "by": "toebee",
-     "time": 1795441358,
-     "comments": 10
+     "comments": 316
     },
     {
      "id": 50615308,
      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-     "score": 403,
+     "score": 514,
      "by": "MrBuddyCasino",
      "time": 1795453646,
-     "comments": 197
+     "comments": 261
+    },
+    {
+     "id": 50611402,
+     "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+     "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+     "score": 68,
+     "by": "toebee",
+     "time": 1795441358,
+     "comments": 12
     },
     {
      "id": 50615481,
      "title": "Kagi Mail (public beta)",
      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-     "score": 211,
+     "score": 231,
      "by": "rdmuser",
      "time": 1795454221,
-     "comments": 162
+     "comments": 178
     },
     {
      "id": 50587439,
      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-     "score": 219,
+     "score": 233,
      "by": "geden",
      "time": 1795252442,
-     "comments": 72
+     "comments": 74
     },
     {
      "id": 50616933,
      "title": "Apple removed my open-source app from EU App Stores after 9 years",
      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
-     "score": 242,
+     "score": 295,
      "by": "fluder",
      "time": 1795459690,
-     "comments": 50
+     "comments": 56
     },
     {
      "id": 50594935,
      "title": "Derivative Flipping",
      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
-     "score": 15,
+     "score": 21,
      "by": "dmit",
      "time": 1795306397,
+     "comments": 0
+    },
+    {
+     "id": 50619186,
+     "title": "The horse made the state",
+     "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+     "score": 3,
+     "by": "ersinesen",
+     "time": 1795467552,
      "comments": 0
     },
     {
      "id": 50610743,
      "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
      "url": "https://github.com/mikuta0407/win4wine",
-     "score": 178,
+     "score": 184,
      "by": "hard_times",
      "time": 1795436891,
-     "comments": 91
-    },
-    {
-     "id": 50615520,
-     "title": "How should an LLM see a computer?",
-     "url": "https://www.greptile.com/blog/trex-computer-use",
-     "score": 22,
-     "by": "dakshgupta",
-     "time": 1795454365,
-     "comments": 15
+     "comments": 93
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T20:31:24.889333+00:00",
+   "fetched_at": "2026-11-23T21:01:33.241192+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T20:31:25.874801+00:00",
+   "fetched_at": "2026-11-23T21:01:35.199644+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 30133,
+     "stars": 30937,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3046,
+     "stars": 3059,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2296,
+     "stars": 2298,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 1770,
+     "stars": 1798,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1620,
+     "stars": 1627,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1477,
+     "stars": 1481,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1354,
+     "stars": 1357,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1321,
+     "stars": 1336,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 858,
+     "stars": 896,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T20:31:26.132185+00:00",
+   "fetched_at": "2026-11-23T21:01:36.002679+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T20:31:26.260911+00:00",
+   "fetched_at": "2026-11-23T21:01:36.134892+00:00",
    "stale": false,
    "items": [
     {
