@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-23T14:29:18.751790+00:00",
+ "generated_at": "2026-11-23T14:59:24.085012+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-23T14:29:15.537876+00:00",
+   "fetched_at": "2026-11-23T14:59:20.881909+00:00",
    "stale": false,
    "items": [
     {
      "id": 50609685,
      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
      "url": "https://z.ai/blog/glm-5.4",
-     "score": 453,
+     "score": 521,
      "by": "foohis",
      "time": 1795428403,
-     "comments": 184
+     "comments": 202
     },
     {
      "id": 50611588,
      "title": "Jensen Huang Reinstated as Nvidia CEO",
      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-     "score": 548,
+     "score": 963,
      "by": "alanwong",
      "time": 1795442483,
-     "comments": 346
+     "comments": 735
     },
     {
      "id": 50610743,
      "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
      "url": "https://github.com/mikuta0407/win4wine",
-     "score": 36,
+     "score": 51,
      "by": "hard_times",
      "time": 1795436891,
-     "comments": 14
-    },
-    {
-     "id": 50606192,
-     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-     "url": "https://spelunkr.tv",
-     "score": 682,
-     "by": "SockThief",
-     "time": 1795396431,
-     "comments": 125
-    },
-    {
-     "id": 50607261,
-     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-     "url": "https://github.com/AFK-surf/xnulinux",
-     "score": 457,
-     "by": "mmastrac",
-     "time": 1795405764,
-     "comments": 197
+     "comments": 23
     },
     {
      "id": 50610334,
      "title": "The next circle of security hell",
      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-     "score": 79,
+     "score": 95,
      "by": "qtqtqt",
      "time": 1795433656,
-     "comments": 38
+     "comments": 41
     },
     {
-     "id": 50587750,
-     "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-     "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
-     "score": 39,
-     "by": "giuliomagnifico",
-     "time": 1795256051,
-     "comments": 13
+     "id": 50606192,
+     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+     "url": "https://spelunkr.tv",
+     "score": 704,
+     "by": "SockThief",
+     "time": 1795396431,
+     "comments": 133
+    },
+    {
+     "id": 50607261,
+     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+     "url": "https://github.com/AFK-surf/xnulinux",
+     "score": 466,
+     "by": "mmastrac",
+     "time": 1795405764,
+     "comments": 199
     },
     {
      "id": 50610318,
      "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
      "url": "https://github.com/os6/nospeaker",
-     "score": 51,
+     "score": 66,
      "by": "yakkomajuri",
      "time": 1795433514,
-     "comments": 18
+     "comments": 26
+    },
+    {
+     "id": 50587286,
+     "title": "What's the difference between an integer and a pointer?",
+     "url": "https://blog.regehr.org/archives/1621",
+     "score": 17,
+     "by": "germanrabbit",
+     "time": 1795250954,
+     "comments": 1
+    },
+    {
+     "id": 50587750,
+     "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+     "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+     "score": 40,
+     "by": "giuliomagnifico",
+     "time": 1795256051,
+     "comments": 13
     },
     {
      "id": 50584526,
      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
      "url": "https://github.com/elixir-hls/elixir-hls",
-     "score": 81,
+     "score": 93,
      "by": "kristianpaul",
      "time": 1795222077,
-     "comments": 0
+     "comments": 3
     },
     {
      "id": 50603845,
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "score": 617,
+     "score": 628,
      "by": "Retell15",
      "time": 1795381276,
-     "comments": 254
+     "comments": 260
     },
     {
      "id": 50607668,
      "title": "Yes, 17M lines of Lean is a lot",
      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-     "score": 175,
+     "score": 180,
      "by": "seizethecheese",
      "time": 1795410049,
-     "comments": 212
-    },
-    {
-     "id": 50611026,
-     "title": "Show HN: News Blocklist \u2013 a DNS blocklist of 14k news and current-affairs sites",
-     "url": "https://github.com/ruairidhflint/news-blocklist",
-     "score": 16,
-     "by": "mrroryflint",
-     "time": 1795438972,
-     "comments": 6
+     "comments": 221
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-23T14:29:16.797378+00:00",
+   "fetched_at": "2026-11-23T14:59:22.270949+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-23T14:29:17.778714+00:00",
+   "fetched_at": "2026-11-23T14:59:23.366748+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "ItsNotRexed/Leonida",
      "url": "https://github.com/ItsNotRexed/Leonida",
-     "stars": 20527,
+     "stars": 20918,
      "language": "Python",
      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
      "created_at": "2026-11-20T20:07:13Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 2818,
+     "stars": 2849,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-     "stars": 2761,
+     "stars": 2762,
      "language": null,
      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
      "created_at": "2026-11-19T14:43:10Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2253,
+     "stars": 2259,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1513,
+     "stars": 1518,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1399,
+     "stars": 1402,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Lemxy/WinRust",
      "url": "https://github.com/Lemxy/WinRust",
-     "stars": 1327,
+     "stars": 1330,
      "language": "Rust",
      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
      "created_at": "2026-11-17T14:27:06Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 1148,
+     "stars": 1193,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1014,
+     "stars": 1035,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 759,
+     "stars": 764,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -243,14 +243,14 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-23T14:29:18.339807+00:00",
+   "fetched_at": "2026-11-23T14:59:23.771017+00:00",
    "stale": false,
    "items": [
     {
      "title": "Is Coding with AI Actually Faster and Cheaper?",
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
-     "reactions": 250,
+     "reactions": 251,
      "comments": 242,
      "published_at": "2026-11-18T08:32:45Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-23T14:29:18.399317+00:00",
+   "fetched_at": "2026-11-23T14:59:23.791800+00:00",
    "stale": false,
    "items": [
     {
