@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T21:36:48.404581+00:00",
+ "generated_at": "2026-11-24T21:37:04.681437+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T21:36:45.875257+00:00",
+   "fetched_at": "2026-11-24T21:36:59.032064+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T21:36:46.799309+00:00",
+   "fetched_at": "2026-11-24T21:37:01.947911+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T21:36:47.711933+00:00",
+   "fetched_at": "2026-11-24T21:37:03.380179+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11018,
+     "stars": 11019,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2643,
+     "stars": 2644,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1788,
+     "stars": 1787,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T21:36:48.089963+00:00",
+   "fetched_at": "2026-11-24T21:37:03.888855+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T21:36:48.124185+00:00",
+   "fetched_at": "2026-11-24T21:37:04.013480+00:00",
    "stale": false,
    "items": [
     {
