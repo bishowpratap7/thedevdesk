@@ -1,81 +1,90 @@
 {
- "generated_at": "2026-11-24T18:36:19.339464+00:00",
+ "generated_at": "2026-11-24T19:06:23.832808+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T18:36:16.385160+00:00",
+   "fetched_at": "2026-11-24T19:06:20.815628+00:00",
    "stale": false,
    "items": [
     {
      "id": 50630594,
      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "score": 155,
+     "score": 172,
      "by": "louiereederson",
      "time": 1795537937,
-     "comments": 53
+     "comments": 57
     },
     {
      "id": 50630462,
      "title": "Jetty Pro",
      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-     "score": 127,
+     "score": 150,
      "by": "zdw",
      "time": 1795537382,
-     "comments": 47
+     "comments": 55
     },
     {
      "id": 50598555,
      "title": "Mechanical Pencil: Spray Bottle",
      "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "score": 133,
+     "score": 156,
      "by": "vinhnx",
      "time": 1795346190,
-     "comments": 28
-    },
-    {
-     "id": 50630423,
-     "title": "How to Make a Lovable City",
-     "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
-     "score": 65,
-     "by": "crescit_eundo",
-     "time": 1795537195,
-     "comments": 25
-    },
-    {
-     "id": 50624497,
-     "title": "2035 came early",
-     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 820,
-     "by": "setheron",
-     "time": 1795501833,
-     "comments": 304
+     "comments": 34
     },
     {
      "id": 50629231,
      "title": "A training engine for your local model, using your idle compute",
      "url": "https://github.com/sous-labs/songe",
-     "score": 78,
+     "score": 95,
      "by": "bluepeter",
      "time": 1795532620,
-     "comments": 15
+     "comments": 20
+    },
+    {
+     "id": 50624497,
+     "title": "2035 came early",
+     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+     "score": 841,
+     "by": "setheron",
+     "time": 1795501833,
+     "comments": 312
+    },
+    {
+     "id": 50632756,
+     "title": "OpenAI Reveals they solved VP \u2260 VNP before Anthropic",
+     "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+     "score": 7,
+     "by": "iamronaldo",
+     "time": 1795546512,
+     "comments": 0
     },
     {
      "id": 50629962,
      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
      "url": "https://arxiv.org/abs/2611.30835",
-     "score": 44,
+     "score": 52,
      "by": "Anon84",
      "time": 1795535422,
-     "comments": 12
+     "comments": 15
     },
     {
-     "id": 50631210,
-     "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
-     "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-     "score": 105,
-     "by": "mikhael",
-     "time": 1795540245,
-     "comments": 49
+     "id": 50630294,
+     "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
+     "url": "https://masondata.ai/",
+     "score": 33,
+     "by": "tagspace",
+     "time": 1795536712,
+     "comments": 3
+    },
+    {
+     "id": 50627340,
+     "title": "LLM agents work for their parent companies, not for you",
+     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+     "score": 722,
+     "by": "surprisetalk",
+     "time": 1795524015,
+     "comments": 308
     },
     {
      "id": 50631041,
@@ -87,36 +96,27 @@
      "comments": 0
     },
     {
-     "id": 50630294,
-     "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
-     "url": "https://masondata.ai/",
-     "score": 24,
-     "by": "tagspace",
-     "time": 1795536712,
-     "comments": 1
+     "id": 50630423,
+     "title": "Camillo Sitte made the blueprint for beautiful cities",
+     "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+     "score": 79,
+     "by": "crescit_eundo",
+     "time": 1795537195,
+     "comments": 52
     },
     {
-     "id": 50632214,
-     "title": "\"pervert glasses\" named word of the year by Australian national dictionary",
-     "url": "https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/",
-     "score": 8,
-     "by": "dvh",
-     "time": 1795544461,
-     "comments": 1
-    },
-    {
-     "id": 50627340,
-     "title": "LLM agents work for their parent companies, not for you",
-     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-     "score": 692,
-     "by": "surprisetalk",
-     "time": 1795524015,
-     "comments": 293
+     "id": 50626413,
+     "title": "Worshipping at the altar of Brendan Gregg",
+     "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+     "score": 189,
+     "by": "kqr",
+     "time": 1795517414,
+     "comments": 29
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T18:36:17.335594+00:00",
+   "fetched_at": "2026-11-24T19:06:21.873648+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T18:36:18.397132+00:00",
+   "fetched_at": "2026-11-24T19:06:22.989590+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 10406,
+     "stars": 10544,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7451,
+     "stars": 7514,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3545,
+     "stars": 3551,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3183,
+     "stars": 3197,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2451,
+     "stars": 2456,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2400,
+     "stars": 2434,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1872,
+     "stars": 1875,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1703,
+     "stars": 1708,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1615,
+     "stars": 1650,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T18:36:18.857553+00:00",
+   "fetched_at": "2026-11-24T19:06:23.499987+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T18:36:18.956766+00:00",
+   "fetched_at": "2026-11-24T19:06:23.520472+00:00",
    "stale": false,
    "items": [
     {
