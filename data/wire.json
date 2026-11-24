@@ -1,78 +1,87 @@
 {
- "generated_at": "2026-11-24T23:07:23.096877+00:00",
+ "generated_at": "2026-11-24T23:37:28.795829+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T23:07:18.889419+00:00",
+   "fetched_at": "2026-11-24T23:37:24.804463+00:00",
    "stale": false,
    "items": [
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 236,
+     "score": 266,
      "by": "b0m",
      "time": 1795550883,
-     "comments": 75
+     "comments": 86
     },
     {
      "id": 50634658,
      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "score": 86,
+     "score": 107,
      "by": "acossta",
      "time": 1795554142,
-     "comments": 14
+     "comments": 20
     },
     {
      "id": 50634426,
      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
      "url": null,
-     "score": 47,
+     "score": 50,
      "by": "harshithl1777",
      "time": 1795553055,
-     "comments": 26
+     "comments": 27
     },
     {
      "id": 50630594,
      "title": "Active intrusion campaign against Check Point security management servers",
      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "score": 242,
+     "score": 245,
      "by": "louiereederson",
      "time": 1795537937,
-     "comments": 102
+     "comments": 110
     },
     {
      "id": 50625265,
      "title": "G\u00f6del Enigma",
      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-     "score": 46,
+     "score": 58,
      "by": "benbreen",
      "time": 1795508162,
-     "comments": 14
+     "comments": 19
     },
     {
      "id": 50598555,
      "title": "The Spray Bottle",
      "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "score": 307,
+     "score": 317,
      "by": "vinhnx",
      "time": 1795346190,
-     "comments": 87
+     "comments": 92
+    },
+    {
+     "id": 50635698,
+     "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+     "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+     "score": 10,
+     "by": "atlun",
+     "time": 1795559201,
+     "comments": 7
     },
     {
      "id": 50609483,
      "title": "Calculate how many mesh radio nodes your city needs",
      "url": "https://meshcoveragecalculator.lalala.ing/",
-     "score": 54,
+     "score": 63,
      "by": "joshcsimmons",
      "time": 1795427217,
-     "comments": 7
+     "comments": 8
     },
     {
      "id": 50633424,
      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-     "score": 47,
+     "score": 55,
      "by": "Artgor",
      "time": 1795549243,
      "comments": 1
@@ -81,42 +90,33 @@
      "id": 50635271,
      "title": "Heart attack and stroke risk detectable decades in advance",
      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-     "score": 68,
+     "score": 83,
      "by": "gmays",
      "time": 1795557081,
-     "comments": 23
-    },
-    {
-     "id": 50635941,
-     "title": "Jensen Huang Spy Story Is a Hoax",
-     "url": "https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax",
-     "score": 18,
-     "by": "vinyl7",
-     "time": 1795560736,
-     "comments": 8
-    },
-    {
-     "id": 50624497,
-     "title": "2035 came early",
-     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 936,
-     "by": "setheron",
-     "time": 1795501833,
-     "comments": 356
+     "comments": 32
     },
     {
      "id": 50630462,
      "title": "Jetty Pro",
      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-     "score": 239,
+     "score": 244,
      "by": "zdw",
      "time": 1795537382,
-     "comments": 106
+     "comments": 111
+    },
+    {
+     "id": 50591024,
+     "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+     "url": "https://github.com/PQCrypta/pqcrypta-proxy",
+     "score": 14,
+     "by": "pqpdf",
+     "time": 1795279603,
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T23:07:20.358234+00:00",
+   "fetched_at": "2026-11-24T23:37:26.226177+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T23:07:21.844578+00:00",
+   "fetched_at": "2026-11-24T23:37:27.579498+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11187,
+     "stars": 11231,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7773,
+     "stars": 7796,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3582,
+     "stars": 3590,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3319,
+     "stars": 3332,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2760,
+     "stars": 2797,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1832,
+     "stars": 1847,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1815,
+     "stars": 1817,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1747,
+     "stars": 1750,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T23:07:22.357298+00:00",
+   "fetched_at": "2026-11-24T23:37:28.089010+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 133,
-     "comments": 60,
+     "comments": 66,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T23:07:22.451497+00:00",
+   "fetched_at": "2026-11-24T23:37:28.229902+00:00",
    "stale": false,
    "items": [
     {
