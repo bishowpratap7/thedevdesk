@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T07:33:55.618940+00:00",
+ "generated_at": "2026-11-24T08:04:00.476728+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T07:33:52.663428+00:00",
+   "fetched_at": "2026-11-24T08:03:57.037275+00:00",
    "stale": false,
    "items": [
     {
      "id": 50624487,
      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
      "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
-     "score": 113,
+     "score": 169,
      "by": "thisislife2",
      "time": 1795501684,
-     "comments": 31
+     "comments": 52
     },
     {
-     "id": 50611576,
-     "title": "Nvidia Reinstates Jensen Huang as CEO",
-     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 2467,
-     "by": "jaz",
-     "time": 1795442418,
-     "comments": 3403
-    },
-    {
-     "id": 50620349,
-     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 390,
-     "by": "shaunpud",
-     "time": 1795473149,
-     "comments": 196
+     "id": 50624929,
+     "title": "VP \u2260 VNP over Every Field [pdf]",
+     "url": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
+     "score": 13,
+     "by": "petrosagg",
+     "time": 1795505930,
+     "comments": 3
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 1739,
+     "score": 1773,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 404
+     "comments": 412
+    },
+    {
+     "id": 50620349,
+     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+     "score": 403,
+     "by": "shaunpud",
+     "time": 1795473149,
+     "comments": 209
     },
     {
      "id": 50623515,
      "title": "Drone Maps of Salvage Yards",
      "url": "https://salvageyarddrone.wordpress.com/",
-     "score": 55,
+     "score": 61,
      "by": "uptrails",
      "time": 1795492828,
-     "comments": 16
+     "comments": 24
     },
     {
-     "id": 50604710,
-     "title": "Modernizing iperf/iperf3 and introducing fireperf",
-     "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-     "score": 71,
-     "by": "edward",
-     "time": 1795387071,
-     "comments": 4
+     "id": 50611576,
+     "title": "Nvidia Reinstates Jensen Huang as CEO",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+     "score": 2487,
+     "by": "jaz",
+     "time": 1795442418,
+     "comments": 3419
     },
     {
      "id": 50624061,
      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-     "score": 23,
+     "score": 35,
      "by": "zdw",
      "time": 1795497322,
-     "comments": 4
+     "comments": 10
+    },
+    {
+     "id": 50604710,
+     "title": "Modernizing iperf/iperf3 and introducing fireperf",
+     "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+     "score": 75,
+     "by": "edward",
+     "time": 1795387071,
+     "comments": 5
     },
     {
      "id": 50607512,
      "title": "Lowering Perplexity Without Scaling",
      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
-     "score": 20,
+     "score": 32,
      "by": "qlte",
      "time": 1795408430,
-     "comments": 3
+     "comments": 5
+    },
+    {
+     "id": 50593006,
+     "title": "Ride the SQL curve from basics to mastery",
+     "url": "https://sqlride.com/",
+     "score": 8,
+     "by": "michaelsbradley",
+     "time": 1795290996,
+     "comments": 1
     },
     {
      "id": 50622774,
      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-     "score": 244,
+     "score": 272,
      "by": "DeepLogin",
      "time": 1795487222,
-     "comments": 68
+     "comments": 79
     },
     {
      "id": 50619103,
      "title": "GPUI is getting its own repository",
      "url": "https://github.com/zed-industries/gpui",
-     "score": 224,
+     "score": 235,
      "by": "EvilGoose",
      "time": 1795467174,
-     "comments": 83
-    },
-    {
-     "id": 50619207,
-     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-     "url": "https://www.bored.com/",
-     "score": 205,
-     "by": "susam",
-     "time": 1795467676,
-     "comments": 45
-    },
-    {
-     "id": 50622934,
-     "title": "Making a dumb TV just smart enough",
-     "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-     "score": 48,
-     "by": "andai",
-     "time": 1795488414,
-     "comments": 17
+     "comments": 89
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T07:33:53.720275+00:00",
+   "fetched_at": "2026-11-24T08:03:58.408336+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T07:33:54.764939+00:00",
+   "fetched_at": "2026-11-24T08:03:59.530427+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 5825,
+     "stars": 6111,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 4863,
+     "stars": 5042,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3311,
+     "stars": 3322,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2539,
+     "stars": 2576,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2341,
+     "stars": 2343,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1724,
+     "stars": 1725,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1681,
+     "stars": 1696,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1562,
+     "stars": 1569,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 1245,
+     "stars": 1282,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 919,
+     "stars": 924,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T07:33:55.155962+00:00",
+   "fetched_at": "2026-11-24T08:03:59.870122+00:00",
    "stale": false,
    "items": [
     {
@@ -282,7 +282,7 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 102,
+     "reactions": 103,
      "comments": 44,
      "published_at": "2026-11-23T14:42:00Z"
     },
@@ -298,8 +298,8 @@
      "title": "The Third Cup: Change Never Sleeps",
      "url": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
      "author": "xulingfeng",
-     "reactions": 109,
-     "comments": 43,
+     "reactions": 110,
+     "comments": 47,
      "published_at": "2026-11-23T07:09:21Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T07:33:55.229144+00:00",
+   "fetched_at": "2026-11-24T08:03:59.978386+00:00",
    "stale": false,
    "items": [
     {
