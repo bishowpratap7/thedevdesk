@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T16:35:56.550918+00:00",
+ "generated_at": "2026-11-24T17:06:01.683386+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T16:35:53.649239+00:00",
+   "fetched_at": "2026-11-24T17:05:57.983565+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50630594,
+     "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+     "score": 39,
+     "by": "louiereederson",
+     "time": 1795537937,
+     "comments": 13
+    },
+    {
+     "id": 50630462,
+     "title": "Jetty Pro",
+     "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+     "score": 35,
+     "by": "zdw",
+     "time": 1795537382,
+     "comments": 4
+    },
+    {
+     "id": 50630309,
+     "title": "Tidal bans AI-generated music",
+     "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+     "score": 145,
+     "by": "theanonymousone",
+     "time": 1795536758,
+     "comments": 100
+    },
     {
      "id": 50624497,
      "title": "2035 came early",
      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 697,
+     "score": 740,
      "by": "setheron",
      "time": 1795501833,
-     "comments": 259
+     "comments": 273
     },
     {
-     "id": 50627340,
-     "title": "LLM agents work for their parent companies, not for you",
-     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-     "score": 548,
-     "by": "surprisetalk",
-     "time": 1795524015,
-     "comments": 231
-    },
-    {
-     "id": 50626413,
-     "title": "Worshipping at the altar of Brendan Gregg",
-     "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-     "score": 151,
-     "by": "kqr",
-     "time": 1795517414,
-     "comments": 22
-    },
-    {
-     "id": 50630309,
-     "title": "Tidal Bans AI-Generated Music",
-     "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-     "score": 37,
-     "by": "theanonymousone",
-     "time": 1795536758,
-     "comments": 21
-    },
-    {
-     "id": 50599458,
-     "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
-     "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-     "score": 112,
-     "by": "martincmartin",
-     "time": 1795353685,
-     "comments": 31
-    },
-    {
-     "id": 50604355,
-     "title": "Tomato Fraud? When San Marzano Is \"San Marzano\" \u2013 Cinco Tomatos",
-     "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
-     "score": 30,
-     "by": "ncr100",
-     "time": 1795384749,
-     "comments": 31
-    },
-    {
-     "id": 50629231,
-     "title": "A training engine for your local model, using your idle compute",
-     "url": "https://github.com/sous-labs/songe",
-     "score": 24,
-     "by": "bluepeter",
-     "time": 1795532620,
-     "comments": 3
-    },
-    {
-     "id": 50625384,
-     "title": "Quad9 pulled their DNS service from France",
-     "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-     "score": 165,
-     "by": "farrokhi",
-     "time": 1795509194,
-     "comments": 57
-    },
-    {
-     "id": 50614249,
-     "title": "Ladybird is now in alpha",
-     "url": "https://ladybird.org/posts/alpha/",
-     "score": 2293,
-     "by": "janvdberg",
-     "time": 1795450392,
-     "comments": 561
-    },
-    {
-     "id": 50630594,
-     "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
-     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "score": 3,
-     "by": "louiereederson",
-     "time": 1795537937,
+     "id": 50631041,
+     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+     "url": "https://jobs.ashbyhq.com/weave-os",
+     "score": 1,
+     "by": "adchurch",
+     "time": 1795539655,
      "comments": 0
-    },
-    {
-     "id": 50620349,
-     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 622,
-     "by": "shaunpud",
-     "time": 1795473149,
-     "comments": 316
     },
     {
      "id": 50598555,
      "title": "Mechanical Pencil: Spray Bottle",
      "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "score": 7,
+     "score": 29,
      "by": "vinhnx",
      "time": 1795346190,
-     "comments": 0
+     "comments": 7
+    },
+    {
+     "id": 50629106,
+     "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+     "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+     "score": 12,
+     "by": "fcjr",
+     "time": 1795532050,
+     "comments": 1
+    },
+    {
+     "id": 50629231,
+     "title": "A training engine for your local model, using your idle compute",
+     "url": "https://github.com/sous-labs/songe",
+     "score": 39,
+     "by": "bluepeter",
+     "time": 1795532620,
+     "comments": 4
+    },
+    {
+     "id": 50627340,
+     "title": "LLM agents work for their parent companies, not for you",
+     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+     "score": 587,
+     "by": "surprisetalk",
+     "time": 1795524015,
+     "comments": 246
+    },
+    {
+     "id": 50626413,
+     "title": "Worshipping at the altar of Brendan Gregg",
+     "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+     "score": 163,
+     "by": "kqr",
+     "time": 1795517414,
+     "comments": 27
+    },
+    {
+     "id": 50599458,
+     "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+     "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+     "score": 129,
+     "by": "martincmartin",
+     "time": 1795353685,
+     "comments": 32
+    },
+    {
+     "id": 50625384,
+     "title": "Quad9 pulled their DNS service from France",
+     "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+     "score": 180,
+     "by": "farrokhi",
+     "time": 1795509194,
+     "comments": 81
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T16:35:54.620331+00:00",
+   "fetched_at": "2026-11-24T17:05:58.938377+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T16:35:55.792265+00:00",
+   "fetched_at": "2026-11-24T17:06:00.043885+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 9835,
+     "stars": 9984,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 7154,
+     "stars": 7220,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3521,
+     "stars": 3529,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3103,
+     "stars": 3125,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2423,
+     "stars": 2434,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2205,
+     "stars": 2259,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1847,
+     "stars": 1853,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1778,
+     "stars": 1781,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1683,
+     "stars": 1690,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1464,
+     "stars": 1518,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T16:35:56.258249+00:00",
+   "fetched_at": "2026-11-24T17:06:01.019245+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T16:35:56.299834+00:00",
+   "fetched_at": "2026-11-24T17:06:01.293042+00:00",
    "stale": false,
    "items": [
     {
