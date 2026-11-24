@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T05:33:26.126679+00:00",
+ "generated_at": "2026-11-24T06:03:30.473232+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T05:33:23.372689+00:00",
+   "fetched_at": "2026-11-24T06:03:27.504351+00:00",
    "stale": false,
    "items": [
     {
      "id": 50611576,
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 2361,
+     "score": 2386,
      "by": "jaz",
      "time": 1795442418,
-     "comments": 3336
+     "comments": 3352
     },
     {
      "id": 50620349,
      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 333,
+     "score": 349,
      "by": "shaunpud",
      "time": 1795473149,
-     "comments": 161
+     "comments": 168
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 1629,
+     "score": 1656,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 380
+     "comments": 384
     },
     {
      "id": 50623515,
      "title": "Drone Maps of Salvage Yards",
      "url": "https://salvageyarddrone.wordpress.com/",
-     "score": 25,
+     "score": 30,
      "by": "uptrails",
      "time": 1795492828,
-     "comments": 9
+     "comments": 11
     },
     {
      "id": 50604710,
      "title": "Modernizing iperf/iperf3 and introducing fireperf",
      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-     "score": 41,
+     "score": 44,
      "by": "edward",
      "time": 1795387071,
      "comments": 1
     },
     {
+     "id": 50619103,
+     "title": "GPUI is getting its own repository",
+     "url": "https://github.com/zed-industries/gpui",
+     "score": 207,
+     "by": "EvilGoose",
+     "time": 1795467174,
+     "comments": 73
+    },
+    {
      "id": 50622934,
      "title": "Making a dumb TV just smart enough",
      "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-     "score": 30,
+     "score": 32,
      "by": "andai",
      "time": 1795488414,
-     "comments": 10
+     "comments": 13
     },
     {
      "id": 50619207,
      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
      "url": "https://www.bored.com/",
-     "score": 180,
+     "score": 186,
      "by": "susam",
      "time": 1795467676,
-     "comments": 41
-    },
-    {
-     "id": 50619103,
-     "title": "GPUI is getting its own repository",
-     "url": "https://github.com/zed-industries/gpui",
-     "score": 199,
-     "by": "EvilGoose",
-     "time": 1795467174,
-     "comments": 70
-    },
-    {
-     "id": 50620831,
-     "title": "The search for a top dark matter candidate",
-     "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-     "score": 32,
-     "by": "apophatic",
-     "time": 1795475560,
-     "comments": 14
+     "comments": 43
     },
     {
      "id": 50615308,
      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-     "score": 1426,
+     "score": 1444,
      "by": "MrBuddyCasino",
      "time": 1795453646,
-     "comments": 795
+     "comments": 814
+    },
+    {
+     "id": 50622774,
+     "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+     "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+     "score": 150,
+     "by": "DeepLogin",
+     "time": 1795487222,
+     "comments": 51
+    },
+    {
+     "id": 50617499,
+     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+     "url": "https://arm.jonpalmisc.com/",
+     "score": 962,
+     "by": "tech234a",
+     "time": 1795461475,
+     "comments": 221
     },
     {
      "id": 50620721,
      "title": "Freeing the iPod Nano 5G",
      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-     "score": 77,
+     "score": 80,
      "by": "rpm_conservatio",
      "time": 1795474993,
-     "comments": 8
-    },
-    {
-     "id": 50610170,
-     "title": "New material gets stronger the more it bends",
-     "url": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
-     "score": 8,
-     "by": "giuliomagnifico",
-     "time": 1795432353,
-     "comments": 2
+     "comments": 9
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T05:33:24.483599+00:00",
+   "fetched_at": "2026-11-24T06:03:28.441456+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T05:33:25.407317+00:00",
+   "fetched_at": "2026-11-24T06:03:29.375162+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 4831,
+     "stars": 5070,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 4285,
+     "stars": 4417,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3258,
+     "stars": 3273,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2428,
+     "stars": 2459,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2326,
+     "stars": 2330,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1714,
+     "stars": 1717,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1636,
+     "stars": 1645,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1527,
+     "stars": 1538,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 1070,
+     "stars": 1116,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 901,
+     "stars": 907,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T05:33:25.756638+00:00",
+   "fetched_at": "2026-11-24T06:03:29.732978+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T05:33:25.815053+00:00",
+   "fetched_at": "2026-11-24T06:03:29.805459+00:00",
    "stale": false,
    "items": [
     {
