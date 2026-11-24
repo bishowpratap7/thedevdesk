@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T00:32:26.670738+00:00",
+ "generated_at": "2026-11-24T01:02:32.685760+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T00:32:21.987714+00:00",
+   "fetched_at": "2026-11-24T01:02:28.415314+00:00",
    "stale": false,
    "items": [
     {
      "id": 50611576,
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 1981,
+     "score": 2044,
      "by": "jaz",
      "time": 1795442418,
-     "comments": 3074
+     "comments": 3106
     },
     {
      "id": 50620349,
      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 141,
+     "score": 169,
      "by": "shaunpud",
      "time": 1795473149,
-     "comments": 83
+     "comments": 90
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 1341,
+     "score": 1384,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 320
+     "comments": 325
     },
     {
      "id": 50619103,
      "title": "GPUI is getting its own repository",
      "url": "https://github.com/zed-industries/gpui",
-     "score": 97,
+     "score": 111,
      "by": "EvilGoose",
      "time": 1795467174,
-     "comments": 19
-    },
-    {
-     "id": 50617499,
-     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-     "url": "https://arm.jonpalmisc.com/",
-     "score": 805,
-     "by": "tech234a",
-     "time": 1795461475,
-     "comments": 162
-    },
-    {
-     "id": 50609685,
-     "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-     "url": "https://z.ai/blog/glm-5.4",
-     "score": 1033,
-     "by": "foohis",
-     "time": 1795428403,
-     "comments": 338
+     "comments": 26
     },
     {
      "id": 50619207,
      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
      "url": "https://www.bored.com/",
-     "score": 77,
+     "score": 91,
      "by": "susam",
      "time": 1795467676,
-     "comments": 19
+     "comments": 21
+    },
+    {
+     "id": 50609685,
+     "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+     "url": "https://z.ai/blog/glm-5.4",
+     "score": 1043,
+     "by": "foohis",
+     "time": 1795428403,
+     "comments": 339
+    },
+    {
+     "id": 50617499,
+     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+     "url": "https://arm.jonpalmisc.com/",
+     "score": 823,
+     "by": "tech234a",
+     "time": 1795461475,
+     "comments": 164
     },
     {
      "id": 50615308,
      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-     "score": 1046,
+     "score": 1092,
      "by": "MrBuddyCasino",
      "time": 1795453646,
-     "comments": 604
+     "comments": 618
     },
     {
      "id": 50620721,
      "title": "Freeing the iPod Nano 5G",
      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-     "score": 20,
+     "score": 28,
      "by": "rpm_conservatio",
      "time": 1795474993,
-     "comments": 2
+     "comments": 3
     },
     {
      "id": 50620102,
      "title": "VP \u2260 VNP over Every Field",
      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
-     "score": 192,
+     "score": 210,
      "by": "mikeryan52",
      "time": 1795471750,
-     "comments": 153
+     "comments": 178
     },
     {
-     "id": 50618798,
-     "title": "Next gaming monitor should still be an OLED",
-     "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
-     "score": 21,
-     "by": "Tomte",
-     "time": 1795465846,
-     "comments": 32
+     "id": 50620328,
+     "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+     "url": "https://arxiv.org/abs/2602.20031",
+     "score": 16,
+     "by": "joecobb",
+     "time": 1795472988,
+     "comments": 0
     },
     {
-     "id": 50611402,
-     "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-     "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-     "score": 113,
-     "by": "toebee",
-     "time": 1795441358,
-     "comments": 21
+     "id": 50621466,
+     "title": "The Power of GraphQL, Without GraphQL",
+     "url": "https://cobalt27.dev/",
+     "score": 5,
+     "by": "Shoetp",
+     "time": 1795478639,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T00:32:23.250947+00:00",
+   "fetched_at": "2026-11-24T01:02:29.668881+00:00",
    "stale": false,
    "items": [
     {
@@ -157,53 +157,53 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T00:32:25.094307+00:00",
+   "fetched_at": "2026-11-24T01:02:31.494383+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3120,
+     "stars": 3126,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
     },
     {
-     "full_name": "iamajmeena/neonclipping",
-     "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2305,
-     "language": "Python",
-     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-     "created_at": "2026-11-19T10:00:43Z"
-    },
-    {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 2095,
+     "stars": 2537,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
     },
     {
-     "full_name": "AFK-surf/xnulinux",
-     "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2045,
-     "language": "Objective-C++",
-     "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-     "created_at": "2026-11-20T10:18:31Z"
+     "full_name": "iamajmeena/neonclipping",
+     "url": "https://github.com/iamajmeena/neonclipping",
+     "stars": 2309,
+     "language": "Python",
+     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+     "created_at": "2026-11-19T10:00:43Z"
     },
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 1715,
+     "stars": 2090,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
     },
     {
+     "full_name": "AFK-surf/xnulinux",
+     "url": "https://github.com/AFK-surf/xnulinux",
+     "stars": 2083,
+     "language": "Objective-C++",
+     "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+     "created_at": "2026-11-20T10:18:31Z"
+    },
+    {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1668,
+     "stars": 1673,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1518,
+     "stars": 1535,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1425,
+     "stars": 1439,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 865,
+     "stars": 867,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "INK-Q/agy-fast",
      "url": "https://github.com/INK-Q/agy-fast",
-     "stars": 783,
+     "stars": 786,
      "language": "TypeScript",
      "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
      "created_at": "2026-11-19T04:58:46Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T00:32:25.700827+00:00",
+   "fetched_at": "2026-11-24T01:02:32.027144+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T00:32:25.857980+00:00",
+   "fetched_at": "2026-11-24T01:02:32.119420+00:00",
    "stale": false,
    "items": [
     {
