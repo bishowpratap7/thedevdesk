@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T02:32:59.404228+00:00",
+ "generated_at": "2026-11-24T03:03:04.481250+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T02:32:56.607875+00:00",
+   "fetched_at": "2026-11-24T03:03:00.975976+00:00",
    "stale": false,
    "items": [
     {
      "id": 50611576,
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 2165,
+     "score": 2204,
      "by": "jaz",
      "time": 1795442418,
-     "comments": 3188
+     "comments": 3233
     },
     {
      "id": 50620349,
      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 226,
+     "score": 250,
      "by": "shaunpud",
      "time": 1795473149,
-     "comments": 122
+     "comments": 129
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 1479,
+     "score": 1510,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 339
-    },
-    {
-     "id": 50621977,
-     "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
-     "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
-     "score": 42,
-     "by": "gumby",
-     "time": 1795481626,
-     "comments": 16
-    },
-    {
-     "id": 50619103,
-     "title": "GPUI is getting its own repository",
-     "url": "https://github.com/zed-industries/gpui",
-     "score": 138,
-     "by": "EvilGoose",
-     "time": 1795467174,
-     "comments": 42
-    },
-    {
-     "id": 50609685,
-     "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-     "url": "https://z.ai/blog/glm-5.4",
-     "score": 1070,
-     "by": "foohis",
-     "time": 1795428403,
-     "comments": 347
-    },
-    {
-     "id": 50619207,
-     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-     "url": "https://www.bored.com/",
-     "score": 120,
-     "by": "susam",
-     "time": 1795467676,
-     "comments": 29
-    },
-    {
-     "id": 50617499,
-     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-     "url": "https://arm.jonpalmisc.com/",
-     "score": 863,
-     "by": "tech234a",
-     "time": 1795461475,
-     "comments": 201
-    },
-    {
-     "id": 50620721,
-     "title": "Freeing the iPod Nano 5G",
-     "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-     "score": 48,
-     "by": "rpm_conservatio",
-     "time": 1795474993,
-     "comments": 7
-    },
-    {
-     "id": 50615308,
-     "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-     "url": "https://twitter.com/ylecun/status/2124550037912920090",
-     "score": 1215,
-     "by": "MrBuddyCasino",
-     "time": 1795453646,
-     "comments": 678
+     "comments": 349
     },
     {
      "id": 50620831,
      "title": "The search for a top dark matter candidate",
      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-     "score": 8,
+     "score": 17,
      "by": "apophatic",
      "time": 1795475560,
-     "comments": 0
+     "comments": 1
+    },
+    {
+     "id": 50619103,
+     "title": "GPUI is getting its own repository",
+     "url": "https://github.com/zed-industries/gpui",
+     "score": 153,
+     "by": "EvilGoose",
+     "time": 1795467174,
+     "comments": 52
+    },
+    {
+     "id": 50619207,
+     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+     "url": "https://www.bored.com/",
+     "score": 130,
+     "by": "susam",
+     "time": 1795467676,
+     "comments": 32
+    },
+    {
+     "id": 50617499,
+     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+     "url": "https://arm.jonpalmisc.com/",
+     "score": 883,
+     "by": "tech234a",
+     "time": 1795461475,
+     "comments": 204
+    },
+    {
+     "id": 50615308,
+     "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+     "url": "https://twitter.com/ylecun/status/2124550037912920090",
+     "score": 1257,
+     "by": "MrBuddyCasino",
+     "time": 1795453646,
+     "comments": 695
+    },
+    {
+     "id": 50620721,
+     "title": "Freeing the iPod Nano 5G",
+     "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+     "score": 53,
+     "by": "rpm_conservatio",
+     "time": 1795474993,
+     "comments": 7
     },
     {
      "id": 50620328,
      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
      "url": "https://arxiv.org/abs/2602.20031",
-     "score": 27,
+     "score": 33,
      "by": "joecobb",
      "time": 1795472988,
      "comments": 1
+    },
+    {
+     "id": 50621977,
+     "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+     "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+     "score": 50,
+     "by": "gumby",
+     "time": 1795481626,
+     "comments": 24
+    },
+    {
+     "id": 50587439,
+     "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+     "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+     "score": 307,
+     "by": "geden",
+     "time": 1795252442,
+     "comments": 102
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T02:32:57.694011+00:00",
+   "fetched_at": "2026-11-24T03:03:02.543783+00:00",
    "stale": false,
    "items": [
     {
@@ -157,29 +157,29 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T02:32:58.570505+00:00",
+   "fetched_at": "2026-11-24T03:03:03.480086+00:00",
    "stale": false,
    "items": [
     {
-     "full_name": "ivall/xcl",
-     "url": "https://github.com/ivall/xcl",
-     "stars": 3390,
-     "language": "Rust",
-     "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-     "created_at": "2026-11-20T20:03:21Z"
-    },
-    {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 3278,
+     "stars": 3630,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
     },
     {
+     "full_name": "ivall/xcl",
+     "url": "https://github.com/ivall/xcl",
+     "stars": 3585,
+     "language": "Rust",
+     "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+     "created_at": "2026-11-20T20:03:21Z"
+    },
+    {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3179,
+     "stars": 3199,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2311,
+     "stars": 2313,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2195,
+     "stars": 2242,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1694,
+     "stars": 1697,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1583,
+     "stars": 1595,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1470,
+     "stars": 1486,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -227,23 +227,23 @@
     {
      "full_name": "leanprover-community/riemann-hypothesis",
      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-     "stars": 879,
+     "stars": 886,
      "language": "Lean",
      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alp\u00f6ge, 2026-11-20)",
      "created_at": "2026-11-20T14:47:49Z"
     },
     {
-     "full_name": "INK-Q/agy-fast",
-     "url": "https://github.com/INK-Q/agy-fast",
-     "stars": 795,
-     "language": "TypeScript",
-     "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-     "created_at": "2026-11-19T04:58:46Z"
+     "full_name": "4lwayz/portwatch-vi",
+     "url": "https://github.com/4lwayz/portwatch-vi",
+     "stars": 845,
+     "language": "JavaScript",
+     "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+     "created_at": "2026-11-21T23:16:41Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T02:32:58.939443+00:00",
+   "fetched_at": "2026-11-24T03:03:03.777942+00:00",
    "stale": false,
    "items": [
     {
@@ -299,7 +299,7 @@
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 97,
-     "comments": 37,
+     "comments": 38,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T02:32:59.011326+00:00",
+   "fetched_at": "2026-11-24T03:03:03.824403+00:00",
    "stale": false,
    "items": [
     {
