@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T14:35:20.329713+00:00",
+ "generated_at": "2026-11-24T15:05:25.130135+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T14:35:16.648880+00:00",
+   "fetched_at": "2026-11-24T15:05:21.831668+00:00",
    "stale": false,
    "items": [
     {
      "id": 50627340,
      "title": "LLM agents work for their parent companies, not for you",
      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-     "score": 278,
+     "score": 362,
      "by": "surprisetalk",
      "time": 1795524015,
-     "comments": 93
-    },
-    {
-     "id": 50626578,
-     "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-     "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-     "score": 425,
-     "by": "oska",
-     "time": 1795518835,
-     "comments": 243
+     "comments": 136
     },
     {
      "id": 50626861,
      "title": "Who in Washington owns and trades Nvidia stock",
      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-     "score": 140,
+     "score": 184,
      "by": "hubraumhugo",
      "time": 1795521065,
-     "comments": 55
+     "comments": 76
     },
     {
      "id": 50624497,
      "title": "2035 Came Early",
      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 481,
+     "score": 514,
      "by": "setheron",
      "time": 1795501833,
-     "comments": 188
+     "comments": 196
     },
     {
      "id": 50626413,
      "title": "Worshipping at the Altar of Brendan Gregg",
      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-     "score": 89,
+     "score": 109,
      "by": "kqr",
      "time": 1795517414,
-     "comments": 12
+     "comments": 13
     },
     {
      "id": 50605361,
      "title": "The new set of problems for engineers to solve",
      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
-     "score": 24,
+     "score": 39,
      "by": "ot",
      "time": 1795390973,
-     "comments": 6
+     "comments": 22
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 2183,
+     "score": 2209,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 526
-    },
-    {
-     "id": 50598094,
-     "title": "An anti-slavery sugar bowl (2024)",
-     "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
-     "score": 47,
-     "by": "leonry",
-     "time": 1795342342,
-     "comments": 24
-    },
-    {
-     "id": 50620349,
-     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 567,
-     "by": "shaunpud",
-     "time": 1795473149,
-     "comments": 301
+     "comments": 535
     },
     {
      "id": 50625384,
      "title": "Quad9 pulled their DNS service from France",
      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-     "score": 73,
+     "score": 95,
      "by": "farrokhi",
      "time": 1795509194,
-     "comments": 23
+     "comments": 32
     },
     {
      "id": 50599458,
      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-     "score": 49,
+     "score": 64,
      "by": "martincmartin",
      "time": 1795353685,
-     "comments": 15
+     "comments": 20
+    },
+    {
+     "id": 50620349,
+     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+     "score": 574,
+     "by": "shaunpud",
+     "time": 1795473149,
+     "comments": 302
+    },
+    {
+     "id": 50598094,
+     "title": "An anti-slavery sugar bowl (2024)",
+     "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+     "score": 56,
+     "by": "leonry",
+     "time": 1795342342,
+     "comments": 29
     },
     {
      "id": 50624061,
      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-     "score": 157,
+     "score": 163,
      "by": "zdw",
      "time": 1795497322,
-     "comments": 89
+     "comments": 90
+    },
+    {
+     "id": 50625953,
+     "title": "Just a Few Bugs",
+     "url": "https://www.justafewbugs.xyz/",
+     "score": 66,
+     "by": "jjjegly",
+     "time": 1795513679,
+     "comments": 22
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T14:35:17.866689+00:00",
+   "fetched_at": "2026-11-24T15:05:22.960631+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T14:35:19.425698+00:00",
+   "fetched_at": "2026-11-24T15:05:24.179457+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 9145,
+     "stars": 9322,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 6826,
+     "stars": 6915,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3486,
+     "stars": 3492,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2991,
+     "stars": 3021,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2403,
+     "stars": 2406,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 1981,
+     "stars": 2055,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1817,
+     "stars": 1825,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1766,
+     "stars": 1767,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1655,
+     "stars": 1664,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1291,
+     "stars": 1332,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T14:35:19.922834+00:00",
+   "fetched_at": "2026-11-24T15:05:24.603490+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 52,
-     "comments": 12,
+     "comments": 13,
      "published_at": "2026-11-20T16:28:49Z"
     },
     {
@@ -283,14 +283,14 @@
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 125,
-     "comments": 50,
+     "comments": 58,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
      "title": "The Third Cup: Change Never Sleeps",
      "url": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
      "author": "xulingfeng",
-     "reactions": 110,
+     "reactions": 111,
      "comments": 54,
      "published_at": "2026-11-23T07:09:21Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T14:35:19.979928+00:00",
+   "fetched_at": "2026-11-24T15:05:24.683904+00:00",
    "stale": false,
    "items": [
     {
