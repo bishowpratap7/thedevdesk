@@ -1,63 +1,72 @@
 {
- "generated_at": "2026-11-24T17:36:07.285397+00:00",
+ "generated_at": "2026-11-24T18:06:14.435591+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T17:36:03.604953+00:00",
+   "fetched_at": "2026-11-24T18:06:11.262660+00:00",
    "stale": false,
    "items": [
     {
      "id": 50630594,
      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "score": 87,
+     "score": 130,
      "by": "louiereederson",
      "time": 1795537937,
-     "comments": 34
+     "comments": 44
     },
     {
      "id": 50630462,
      "title": "Jetty Pro",
      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-     "score": 69,
+     "score": 92,
      "by": "zdw",
      "time": 1795537382,
-     "comments": 22
-    },
-    {
-     "id": 50624497,
-     "title": "2035 came early",
-     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 772,
-     "by": "setheron",
-     "time": 1795501833,
-     "comments": 289
+     "comments": 36
     },
     {
      "id": 50598555,
      "title": "Mechanical Pencil: Spray Bottle",
      "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "score": 56,
+     "score": 102,
      "by": "vinhnx",
      "time": 1795346190,
-     "comments": 14
+     "comments": 18
     },
     {
      "id": 50629106,
      "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-     "score": 32,
+     "score": 50,
      "by": "fcjr",
      "time": 1795532050,
-     "comments": 10
+     "comments": 27
+    },
+    {
+     "id": 50630423,
+     "title": "How to Make a Lovable City",
+     "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+     "score": 41,
+     "by": "crescit_eundo",
+     "time": 1795537195,
+     "comments": 7
+    },
+    {
+     "id": 50624497,
+     "title": "2035 came early",
+     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+     "score": 798,
+     "by": "setheron",
+     "time": 1795501833,
+     "comments": 297
     },
     {
      "id": 50629231,
      "title": "A training engine for your local model, using your idle compute",
      "url": "https://github.com/sous-labs/songe",
-     "score": 50,
+     "score": 69,
      "by": "bluepeter",
      "time": 1795532620,
-     "comments": 5
+     "comments": 7
     },
     {
      "id": 50631041,
@@ -72,51 +81,42 @@
      "id": 50629962,
      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
      "url": "https://arxiv.org/abs/2611.30835",
-     "score": 25,
+     "score": 35,
      "by": "Anon84",
      "time": 1795535422,
-     "comments": 4
+     "comments": 5
+    },
+    {
+     "id": 50630294,
+     "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
+     "url": "https://masondata.ai/",
+     "score": 16,
+     "by": "tagspace",
+     "time": 1795536712,
+     "comments": 0
     },
     {
      "id": 50627340,
      "title": "LLM agents work for their parent companies, not for you",
      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-     "score": 626,
+     "score": 661,
      "by": "surprisetalk",
      "time": 1795524015,
-     "comments": 256
+     "comments": 274
     },
     {
      "id": 50626413,
      "title": "Worshipping at the altar of Brendan Gregg",
      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-     "score": 170,
+     "score": 178,
      "by": "kqr",
      "time": 1795517414,
-     "comments": 27
-    },
-    {
-     "id": 50625384,
-     "title": "Quad9 pulled their DNS service from France",
-     "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-     "score": 193,
-     "by": "farrokhi",
-     "time": 1795509194,
-     "comments": 96
-    },
-    {
-     "id": 50630423,
-     "title": "How to Make a Lovable City",
-     "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
-     "score": 23,
-     "by": "crescit_eundo",
-     "time": 1795537195,
-     "comments": 2
+     "comments": 28
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T17:36:05.014177+00:00",
+   "fetched_at": "2026-11-24T18:06:12.203147+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T17:36:06.103086+00:00",
+   "fetched_at": "2026-11-24T18:06:13.385407+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 10140,
+     "stars": 10272,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7291,
+     "stars": 7368,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3533,
+     "stars": 3536,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3137,
+     "stars": 3157,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2439,
+     "stars": 2444,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2306,
+     "stars": 2359,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1864,
+     "stars": 1868,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1782,
+     "stars": 1787,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1697,
+     "stars": 1701,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1550,
+     "stars": 1590,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T17:36:06.606501+00:00",
+   "fetched_at": "2026-11-24T18:06:13.868651+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T17:36:06.830473+00:00",
+   "fetched_at": "2026-11-24T18:06:14.071942+00:00",
    "stale": false,
    "items": [
     {
