@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T06:33:34.684218+00:00",
+ "generated_at": "2026-11-24T06:33:46.524473+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T06:33:32.075400+00:00",
+   "fetched_at": "2026-11-24T06:33:43.152838+00:00",
    "stale": false,
    "items": [
     {
@@ -18,7 +18,7 @@
      "id": 50620349,
      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 362,
+     "score": 363,
      "by": "shaunpud",
      "time": 1795473149,
      "comments": 177
@@ -27,7 +27,7 @@
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 1679,
+     "score": 1680,
      "by": "janvdberg",
      "time": 1795450392,
      "comments": 386
@@ -45,7 +45,7 @@
      "id": 50604710,
      "title": "Modernizing iperf/iperf3 and introducing fireperf",
      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-     "score": 49,
+     "score": 51,
      "by": "edward",
      "time": 1795387071,
      "comments": 1
@@ -60,6 +60,15 @@
      "comments": 3
     },
     {
+     "id": 50622934,
+     "title": "Making a dumb TV just smart enough",
+     "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+     "score": 40,
+     "by": "andai",
+     "time": 1795488414,
+     "comments": 13
+    },
+    {
      "id": 50619103,
      "title": "GPUI is getting its own repository",
      "url": "https://github.com/zed-industries/gpui",
@@ -67,15 +76,6 @@
      "by": "EvilGoose",
      "time": 1795467174,
      "comments": 80
-    },
-    {
-     "id": 50622934,
-     "title": "Making a dumb TV just smart enough",
-     "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-     "score": 39,
-     "by": "andai",
-     "time": 1795488414,
-     "comments": 13
     },
     {
      "id": 50619207,
@@ -99,7 +99,7 @@
      "id": 50615308,
      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-     "score": 1482,
+     "score": 1483,
      "by": "MrBuddyCasino",
      "time": 1795453646,
      "comments": 834
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T06:33:32.988529+00:00",
+   "fetched_at": "2026-11-24T06:33:44.634941+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T06:33:33.908072+00:00",
+   "fetched_at": "2026-11-24T06:33:45.627306+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 5334,
+     "stars": 5335,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 4549,
+     "stars": 4550,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2482,
+     "stars": 2483,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T06:33:34.283401+00:00",
+   "fetched_at": "2026-11-24T06:33:46.091414+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T06:33:34.392504+00:00",
+   "fetched_at": "2026-11-24T06:33:46.148813+00:00",
    "stale": false,
    "items": [
     {
