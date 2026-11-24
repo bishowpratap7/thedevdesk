@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T11:34:48.081873+00:00",
+ "generated_at": "2026-11-24T12:04:53.399822+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T11:34:45.109073+00:00",
+   "fetched_at": "2026-11-24T12:04:49.672980+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50624497,
-     "title": "2035 Came Early",
-     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 324,
-     "by": "setheron",
-     "time": 1795501833,
-     "comments": 104
-    },
     {
      "id": 50626578,
      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-     "score": 19,
+     "score": 119,
      "by": "oska",
      "time": 1795518835,
-     "comments": 3
+     "comments": 46
     },
     {
-     "id": 50614249,
-     "title": "Ladybird is now in alpha",
-     "url": "https://ladybird.org/posts/alpha/",
-     "score": 2050,
-     "by": "janvdberg",
-     "time": 1795450392,
-     "comments": 482
-    },
-    {
-     "id": 50620349,
-     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 503,
-     "by": "shaunpud",
-     "time": 1795473149,
-     "comments": 265
-    },
-    {
-     "id": 50624061,
-     "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-     "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-     "score": 115,
-     "by": "zdw",
-     "time": 1795497322,
-     "comments": 51
-    },
-    {
-     "id": 50611576,
-     "title": "Nvidia Reinstates Jensen Huang as CEO",
-     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 2617,
-     "by": "jaz",
-     "time": 1795442418,
-     "comments": 3507
-    },
-    {
-     "id": 50623515,
-     "title": "Drone Maps of Salvage Yards",
-     "url": "https://salvageyarddrone.wordpress.com/",
-     "score": 101,
-     "by": "uptrails",
-     "time": 1795492828,
-     "comments": 38
-    },
-    {
-     "id": 50604710,
-     "title": "Modernizing iperf/iperf3 and introducing fireperf",
-     "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-     "score": 115,
-     "by": "edward",
-     "time": 1795387071,
-     "comments": 8
-    },
-    {
-     "id": 50592307,
-     "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-     "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
-     "score": 48,
-     "by": "grep_it",
-     "time": 1795286985,
-     "comments": 0
+     "id": 50624497,
+     "title": "2035 Came Early",
+     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+     "score": 350,
+     "by": "setheron",
+     "time": 1795501833,
+     "comments": 119
     },
     {
      "id": 50626413,
      "title": "Worshipping at the Altar of Brendan Gregg",
      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-     "score": 5,
+     "score": 24,
      "by": "kqr",
      "time": 1795517414,
      "comments": 0
     },
     {
+     "id": 50614249,
+     "title": "Ladybird is now in alpha",
+     "url": "https://ladybird.org/posts/alpha/",
+     "score": 2076,
+     "by": "janvdberg",
+     "time": 1795450392,
+     "comments": 492
+    },
+    {
+     "id": 50620349,
+     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+     "score": 513,
+     "by": "shaunpud",
+     "time": 1795473149,
+     "comments": 272
+    },
+    {
+     "id": 50624061,
+     "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+     "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+     "score": 122,
+     "by": "zdw",
+     "time": 1795497322,
+     "comments": 59
+    },
+    {
+     "id": 50611576,
+     "title": "Nvidia Reinstates Jensen Huang as CEO",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+     "score": 2633,
+     "by": "jaz",
+     "time": 1795442418,
+     "comments": 3512
+    },
+    {
+     "id": 50623515,
+     "title": "Drone Maps of Salvage Yards",
+     "url": "https://salvageyarddrone.wordpress.com/",
+     "score": 107,
+     "by": "uptrails",
+     "time": 1795492828,
+     "comments": 41
+    },
+    {
+     "id": 50592307,
+     "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+     "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+     "score": 55,
+     "by": "grep_it",
+     "time": 1795286985,
+     "comments": 0
+    },
+    {
+     "id": 50604710,
+     "title": "Modernizing iperf/iperf3 and introducing fireperf",
+     "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+     "score": 120,
+     "by": "edward",
+     "time": 1795387071,
+     "comments": 8
+    },
+    {
+     "id": 50625953,
+     "title": "Just a Few Bugs",
+     "url": "https://www.justafewbugs.xyz/",
+     "score": 10,
+     "by": "jjjegly",
+     "time": 1795513679,
+     "comments": 1
+    },
+    {
      "id": 50619103,
      "title": "GPUI is getting its own repository",
      "url": "https://github.com/zed-industries/gpui",
-     "score": 287,
+     "score": 298,
      "by": "EvilGoose",
      "time": 1795467174,
      "comments": 104
-    },
-    {
-     "id": 50607512,
-     "title": "Lowering Perplexity Without Scaling",
-     "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
-     "score": 60,
-     "by": "qlte",
-     "time": 1795408430,
-     "comments": 14
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T11:34:46.222220+00:00",
+   "fetched_at": "2026-11-24T12:04:51.162474+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T11:34:47.195641+00:00",
+   "fetched_at": "2026-11-24T12:04:52.369323+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 7984,
+     "stars": 8188,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 6232,
+     "stars": 6347,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3417,
+     "stars": 3425,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2811,
+     "stars": 2843,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2380,
+     "stars": 2384,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1768,
+     "stars": 1780,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -211,31 +211,31 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1741,
+     "stars": 1743,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
     },
     {
-     "full_name": "os6/nospeaker",
-     "url": "https://github.com/os6/nospeaker",
-     "stars": 1617,
-     "language": "Swift",
-     "description": "make your macbook's trackpad talk using its haptic motor",
-     "created_at": "2026-11-22T12:05:54Z"
-    },
-    {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 1570,
+     "stars": 1635,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
     },
     {
+     "full_name": "os6/nospeaker",
+     "url": "https://github.com/os6/nospeaker",
+     "stars": 1624,
+     "language": "Swift",
+     "description": "make your macbook's trackpad talk using its haptic motor",
+     "created_at": "2026-11-22T12:05:54Z"
+    },
+    {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1032,
+     "stars": 1086,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T11:34:47.625038+00:00",
+   "fetched_at": "2026-11-24T12:04:52.796793+00:00",
    "stale": false,
    "items": [
     {
@@ -251,7 +251,7 @@
      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
      "author": "Sylwia Laskowska",
      "reactions": 254,
-     "comments": 250,
+     "comments": 251,
      "published_at": "2026-11-18T08:32:45Z"
     },
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 123,
-     "comments": 47,
+     "comments": 48,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T11:34:47.675152+00:00",
+   "fetched_at": "2026-11-24T12:04:52.887686+00:00",
    "stale": false,
    "items": [
     {
