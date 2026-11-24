@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T14:05:14.284404+00:00",
+ "generated_at": "2026-11-24T14:35:20.329713+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T14:05:11.012146+00:00",
+   "fetched_at": "2026-11-24T14:35:16.648880+00:00",
    "stale": false,
    "items": [
     {
      "id": 50627340,
      "title": "LLM agents work for their parent companies, not for you",
      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-     "score": 168,
+     "score": 278,
      "by": "surprisetalk",
      "time": 1795524015,
-     "comments": 48
+     "comments": 93
     },
     {
      "id": 50626578,
      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-     "score": 375,
+     "score": 425,
      "by": "oska",
      "time": 1795518835,
-     "comments": 214
+     "comments": 243
     },
     {
      "id": 50626861,
      "title": "Who in Washington owns and trades Nvidia stock",
      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-     "score": 105,
+     "score": 140,
      "by": "hubraumhugo",
      "time": 1795521065,
-     "comments": 35
+     "comments": 55
     },
     {
      "id": 50624497,
      "title": "2035 Came Early",
      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 452,
+     "score": 481,
      "by": "setheron",
      "time": 1795501833,
-     "comments": 177
+     "comments": 188
     },
     {
      "id": 50626413,
      "title": "Worshipping at the Altar of Brendan Gregg",
      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-     "score": 83,
+     "score": 89,
      "by": "kqr",
      "time": 1795517414,
      "comments": 12
     },
     {
-     "id": 50627836,
-     "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-     "score": 73,
-     "by": "Betelbuddy",
-     "time": 1795526627,
-     "comments": 30
+     "id": 50605361,
+     "title": "The new set of problems for engineers to solve",
+     "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+     "score": 24,
+     "by": "ot",
+     "time": 1795390973,
+     "comments": 6
     },
     {
      "id": 50614249,
      "title": "Ladybird is now in alpha",
      "url": "https://ladybird.org/posts/alpha/",
-     "score": 2159,
+     "score": 2183,
      "by": "janvdberg",
      "time": 1795450392,
-     "comments": 524
+     "comments": 526
     },
     {
      "id": 50598094,
      "title": "An anti-slavery sugar bowl (2024)",
      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
-     "score": 40,
+     "score": 47,
      "by": "leonry",
      "time": 1795342342,
-     "comments": 20
+     "comments": 24
     },
     {
      "id": 50620349,
      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 554,
+     "score": 567,
      "by": "shaunpud",
      "time": 1795473149,
-     "comments": 300
-    },
-    {
-     "id": 50599458,
-     "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
-     "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-     "score": 30,
-     "by": "martincmartin",
-     "time": 1795353685,
-     "comments": 6
+     "comments": 301
     },
     {
      "id": 50625384,
      "title": "Quad9 pulled their DNS service from France",
      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-     "score": 49,
+     "score": 73,
      "by": "farrokhi",
      "time": 1795509194,
-     "comments": 17
+     "comments": 23
+    },
+    {
+     "id": 50599458,
+     "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+     "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+     "score": 49,
+     "by": "martincmartin",
+     "time": 1795353685,
+     "comments": 15
     },
     {
      "id": 50624061,
      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-     "score": 147,
+     "score": 157,
      "by": "zdw",
      "time": 1795497322,
-     "comments": 82
+     "comments": 89
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T14:05:12.053502+00:00",
+   "fetched_at": "2026-11-24T14:35:17.866689+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T14:05:13.257603+00:00",
+   "fetched_at": "2026-11-24T14:35:19.425698+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 8952,
+     "stars": 9145,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 6741,
+     "stars": 6826,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3472,
+     "stars": 3486,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2968,
+     "stars": 2991,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2401,
+     "stars": 2403,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 1908,
+     "stars": 1981,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1812,
+     "stars": 1817,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1762,
+     "stars": 1766,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1647,
+     "stars": 1655,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1253,
+     "stars": 1291,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T14:05:13.837205+00:00",
+   "fetched_at": "2026-11-24T14:35:19.922834+00:00",
    "stale": false,
    "items": [
     {
@@ -266,8 +266,8 @@
      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 51,
-     "comments": 7,
+     "reactions": 52,
+     "comments": 12,
      "published_at": "2026-11-20T16:28:49Z"
     },
     {
@@ -282,17 +282,9 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 123,
-     "comments": 48,
+     "reactions": 125,
+     "comments": 50,
      "published_at": "2026-11-23T14:42:00Z"
-    },
-    {
-     "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar \ud83d\ude80",
-     "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
-     "author": "Dhruv Jani",
-     "reactions": 99,
-     "comments": 28,
-     "published_at": "2026-11-17T14:18:20Z"
     },
     {
      "title": "The Third Cup: Change Never Sleeps",
@@ -309,11 +301,19 @@
      "reactions": 141,
      "comments": 41,
      "published_at": "2026-11-18T17:27:52Z"
+    },
+    {
+     "title": "I can't believe the podcast I learned to code with is back!",
+     "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
+     "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
+     "reactions": 41,
+     "comments": 8,
+     "published_at": "2026-11-20T08:55:01Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T14:05:13.922478+00:00",
+   "fetched_at": "2026-11-24T14:35:19.979928+00:00",
    "stale": false,
    "items": [
     {
