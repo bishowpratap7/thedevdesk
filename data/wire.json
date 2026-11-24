@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-24T12:34:58.519351+00:00",
+ "generated_at": "2026-11-24T13:05:03.890109+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T12:34:55.480296+00:00",
+   "fetched_at": "2026-11-24T13:05:00.226906+00:00",
    "stale": false,
    "items": [
     {
      "id": 50626578,
      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-     "score": 202,
+     "score": 259,
      "by": "oska",
      "time": 1795518835,
-     "comments": 100
+     "comments": 138
     },
     {
-     "id": 50624497,
-     "title": "2035 Came Early",
-     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-     "score": 382,
-     "by": "setheron",
-     "time": 1795501833,
-     "comments": 137
-    },
-    {
-     "id": 50626413,
-     "title": "Worshipping at the Altar of Brendan Gregg",
-     "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-     "score": 39,
-     "by": "kqr",
-     "time": 1795517414,
-     "comments": 2
-    },
-    {
-     "id": 50614249,
-     "title": "Ladybird is now in alpha",
-     "url": "https://ladybird.org/posts/alpha/",
-     "score": 2105,
-     "by": "janvdberg",
-     "time": 1795450392,
-     "comments": 502
-    },
-    {
-     "id": 50620349,
-     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-     "score": 525,
-     "by": "shaunpud",
-     "time": 1795473149,
-     "comments": 284
-    },
-    {
-     "id": 50598094,
-     "title": "An anti-slavery sugar bowl (2024)",
-     "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
-     "score": 16,
-     "by": "leonry",
-     "time": 1795342342,
-     "comments": 3
-    },
-    {
-     "id": 50624061,
-     "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-     "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-     "score": 127,
-     "by": "zdw",
-     "time": 1795497322,
-     "comments": 67
+     "id": 50627340,
+     "title": "LLM agents work for their parent companies, not for you",
+     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+     "score": 26,
+     "by": "surprisetalk",
+     "time": 1795524015,
+     "comments": 7
     },
     {
      "id": 50626861,
      "title": "Who in Washington owns and trades Nvidia stock",
      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-     "score": 5,
+     "score": 38,
      "by": "hubraumhugo",
      "time": 1795521065,
-     "comments": 1
+     "comments": 13
+    },
+    {
+     "id": 50624497,
+     "title": "2035 Came Early",
+     "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+     "score": 402,
+     "by": "setheron",
+     "time": 1795501833,
+     "comments": 149
+    },
+    {
+     "id": 50626413,
+     "title": "Worshipping at the Altar of Brendan Gregg",
+     "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+     "score": 54,
+     "by": "kqr",
+     "time": 1795517414,
+     "comments": 6
+    },
+    {
+     "id": 50614249,
+     "title": "Ladybird is now in alpha",
+     "url": "https://ladybird.org/posts/alpha/",
+     "score": 2125,
+     "by": "janvdberg",
+     "time": 1795450392,
+     "comments": 514
+    },
+    {
+     "id": 50620349,
+     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+     "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+     "score": 532,
+     "by": "shaunpud",
+     "time": 1795473149,
+     "comments": 294
+    },
+    {
+     "id": 50598094,
+     "title": "An anti-slavery sugar bowl (2024)",
+     "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+     "score": 27,
+     "by": "leonry",
+     "time": 1795342342,
+     "comments": 8
+    },
+    {
+     "id": 50624061,
+     "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+     "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+     "score": 134,
+     "by": "zdw",
+     "time": 1795497322,
+     "comments": 74
     },
     {
      "id": 50611576,
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "score": 2649,
+     "score": 2664,
      "by": "jaz",
      "time": 1795442418,
-     "comments": 3520
-    },
-    {
-     "id": 50623515,
-     "title": "Drone Maps of Salvage Yards",
-     "url": "https://salvageyarddrone.wordpress.com/",
-     "score": 110,
-     "by": "uptrails",
-     "time": 1795492828,
-     "comments": 41
+     "comments": 3535
     },
     {
      "id": 50625953,
      "title": "Just a Few Bugs",
      "url": "https://www.justafewbugs.xyz/",
-     "score": 20,
+     "score": 28,
      "by": "jjjegly",
      "time": 1795513679,
-     "comments": 9
+     "comments": 12
     },
     {
-     "id": 50592307,
-     "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-     "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
-     "score": 56,
-     "by": "grep_it",
-     "time": 1795286985,
-     "comments": 1
+     "id": 50623515,
+     "title": "Drone Maps of Salvage Yards",
+     "url": "https://salvageyarddrone.wordpress.com/",
+     "score": 115,
+     "by": "uptrails",
+     "time": 1795492828,
+     "comments": 43
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T12:34:56.576774+00:00",
+   "fetched_at": "2026-11-24T13:05:01.312444+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T12:34:57.631270+00:00",
+   "fetched_at": "2026-11-24T13:05:02.676399+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 8389,
+     "stars": 8605,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "ivall/xcl",
      "url": "https://github.com/ivall/xcl",
-     "stars": 6466,
+     "stars": 6561,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3430,
+     "stars": 3441,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 2873,
+     "stars": 2905,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2391,
+     "stars": 2393,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -203,31 +203,31 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1792,
+     "stars": 1798,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
     },
     {
-     "full_name": "omonkeyz/xbox-emulator",
-     "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1747,
-     "language": "Rust",
-     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-     "created_at": "2026-11-21T08:08:39Z"
-    },
-    {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 1699,
+     "stars": 1771,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
     },
     {
+     "full_name": "omonkeyz/xbox-emulator",
+     "url": "https://github.com/omonkeyz/xbox-emulator",
+     "stars": 1750,
+     "language": "Rust",
+     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+     "created_at": "2026-11-21T08:08:39Z"
+    },
+    {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1628,
+     "stars": 1636,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,15 +235,15 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1141,
+     "stars": 1179,
      "language": "Python",
-     "description": "A continuation of Leonida, the Xbox > PC port of GTA VI",
+     "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T12:34:58.062477+00:00",
+   "fetched_at": "2026-11-24T13:05:03.325618+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T12:34:58.134911+00:00",
+   "fetched_at": "2026-11-24T13:05:03.382024+00:00",
    "stale": false,
    "items": [
     {
