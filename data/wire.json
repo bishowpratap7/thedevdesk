@@ -1,87 +1,96 @@
 {
- "generated_at": "2026-11-24T23:37:28.795829+00:00",
+ "generated_at": "2026-11-25T00:07:34.619088+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-24T23:37:24.804463+00:00",
+   "fetched_at": "2026-11-25T00:07:30.312180+00:00",
    "stale": false,
    "items": [
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 266,
+     "score": 280,
      "by": "b0m",
      "time": 1795550883,
-     "comments": 86
+     "comments": 94
     },
     {
      "id": 50634658,
      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "score": 107,
+     "score": 124,
      "by": "acossta",
      "time": 1795554142,
-     "comments": 20
+     "comments": 25
     },
     {
      "id": 50634426,
      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
      "url": null,
-     "score": 50,
+     "score": 55,
      "by": "harshithl1777",
      "time": 1795553055,
-     "comments": 27
+     "comments": 34
     },
     {
      "id": 50630594,
      "title": "Active intrusion campaign against Check Point security management servers",
      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "score": 245,
+     "score": 251,
      "by": "louiereederson",
      "time": 1795537937,
-     "comments": 110
+     "comments": 117
     },
     {
      "id": 50625265,
      "title": "G\u00f6del Enigma",
      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-     "score": 58,
+     "score": 62,
      "by": "benbreen",
      "time": 1795508162,
-     "comments": 19
+     "comments": 22
+    },
+    {
+     "id": 50636286,
+     "title": "Get in, friends, the Atmosphere is happening",
+     "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+     "score": 9,
+     "by": "Kye",
+     "time": 1795562615,
+     "comments": 7
     },
     {
      "id": 50598555,
      "title": "The Spray Bottle",
      "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "score": 317,
+     "score": 328,
      "by": "vinhnx",
      "time": 1795346190,
-     "comments": 92
+     "comments": 93
     },
     {
      "id": 50635698,
      "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
-     "score": 10,
+     "score": 22,
      "by": "atlun",
      "time": 1795559201,
-     "comments": 7
+     "comments": 22
     },
     {
      "id": 50609483,
      "title": "Calculate how many mesh radio nodes your city needs",
      "url": "https://meshcoveragecalculator.lalala.ing/",
-     "score": 63,
+     "score": 68,
      "by": "joshcsimmons",
      "time": 1795427217,
-     "comments": 8
+     "comments": 9
     },
     {
      "id": 50633424,
      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-     "score": 55,
+     "score": 58,
      "by": "Artgor",
      "time": 1795549243,
      "comments": 1
@@ -90,33 +99,24 @@
      "id": 50635271,
      "title": "Heart attack and stroke risk detectable decades in advance",
      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-     "score": 83,
+     "score": 100,
      "by": "gmays",
      "time": 1795557081,
-     "comments": 32
-    },
-    {
-     "id": 50630462,
-     "title": "Jetty Pro",
-     "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-     "score": 244,
-     "by": "zdw",
-     "time": 1795537382,
-     "comments": 111
+     "comments": 40
     },
     {
      "id": 50591024,
      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
      "url": "https://github.com/PQCrypta/pqcrypta-proxy",
-     "score": 14,
+     "score": 19,
      "by": "pqpdf",
      "time": 1795279603,
-     "comments": 1
+     "comments": 5
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-24T23:37:26.226177+00:00",
+   "fetched_at": "2026-11-25T00:07:31.833228+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-24T23:37:27.579498+00:00",
+   "fetched_at": "2026-11-25T00:07:33.308661+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11231,
+     "stars": 11279,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7796,
+     "stars": 7815,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3590,
+     "stars": 3597,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3332,
+     "stars": 3346,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2797,
+     "stars": 2825,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2480,
+     "stars": 2482,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1896,
+     "stars": 1900,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -219,31 +219,31 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1847,
+     "stars": 1865,
      "language": "Python",
-     "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+     "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
     },
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1817,
+     "stars": 1821,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
     },
     {
-     "full_name": "os6/nospeaker",
-     "url": "https://github.com/os6/nospeaker",
-     "stars": 1750,
-     "language": "Swift",
-     "description": "make your macbook's trackpad talk using its haptic motor",
-     "created_at": "2026-11-22T12:05:54Z"
+     "full_name": "fxceless/victory-fork",
+     "url": "https://github.com/fxceless/victory-fork",
+     "stars": 1754,
+     "language": "Rust",
+     "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+     "created_at": "2026-11-24T18:02:37Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-24T23:37:28.089010+00:00",
+   "fetched_at": "2026-11-25T00:07:33.877477+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-24T23:37:28.229902+00:00",
+   "fetched_at": "2026-11-25T00:07:33.964816+00:00",
    "stale": false,
    "items": [
     {
