@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T09:11:05.115975+00:00",
+ "generated_at": "2026-11-25T09:41:09.948550+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T09:11:02.317893+00:00",
+   "fetched_at": "2026-11-25T09:41:07.028321+00:00",
    "stale": false,
    "items": [
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 593,
+     "score": 616,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 292
+     "comments": 318
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 336,
+     "score": 362,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 36
+     "comments": 44
     },
     {
      "id": 50637686,
      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 212,
+     "score": 222,
      "by": "gmays",
      "time": 1795574061,
-     "comments": 80
+     "comments": 81
     },
     {
      "id": 50638503,
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 98,
+     "score": 112,
      "by": "arkits",
      "time": 1795581108,
-     "comments": 22
+     "comments": 25
     },
     {
      "id": 50637890,
      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 160,
+     "score": 176,
      "by": "vinhnx",
      "time": 1795575877,
-     "comments": 60
+     "comments": 67
     },
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 439,
+     "score": 443,
      "by": "b0m",
      "time": 1795550883,
-     "comments": 137
+     "comments": 138
     },
     {
      "id": 50637056,
      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "score": 234,
+     "score": 246,
      "by": "smusamashah",
      "time": 1795568089,
-     "comments": 41
+     "comments": 43
     },
     {
      "id": 50638478,
      "title": "Taking over US Treasury subdomains for $3 each",
      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-     "score": 71,
+     "score": 78,
      "by": "negura",
      "time": 1795580875,
-     "comments": 15
+     "comments": 17
     },
     {
      "id": 50623866,
      "title": "The algebra of dependent types (2025)",
      "url": "https://dotat.at/@/2025-05-28-types.html",
-     "score": 23,
+     "score": 26,
      "by": "todsacerdoti",
      "time": 1795495798,
-     "comments": 1
+     "comments": 2
+    },
+    {
+     "id": 50627726,
+     "title": "Getting old Java phones online again",
+     "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+     "score": 15,
+     "by": "waximabbax",
+     "time": 1795526077,
+     "comments": 2
     },
     {
      "id": 50638220,
      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-     "score": 99,
+     "score": 106,
      "by": "Curiositry",
      "time": 1795578462,
-     "comments": 40
+     "comments": 47
     },
     {
      "id": 50634658,
      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "score": 256,
+     "score": 262,
      "by": "acossta",
      "time": 1795554142,
-     "comments": 77
-    },
-    {
-     "id": 50627079,
-     "title": "The Shapes of Rivers",
-     "url": "https://dominicroye.github.io/shapes-of-rivers/",
-     "score": 55,
-     "by": "joexov",
-     "time": 1795522465,
-     "comments": 6
+     "comments": 80
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T09:11:03.328386+00:00",
+   "fetched_at": "2026-11-25T09:41:07.902543+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T09:11:04.404247+00:00",
+   "fetched_at": "2026-11-25T09:41:08.900486+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11835,
+     "stars": 11860,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8044,
+     "stars": 8053,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3759,
+     "stars": 3766,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3648,
+     "stars": 3666,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3174,
+     "stars": 3193,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2545,
+     "stars": 2547,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2480,
+     "stars": 2524,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2057,
+     "stars": 2062,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1832,
+     "stars": 1833,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T09:11:04.762121+00:00",
+   "fetched_at": "2026-11-25T09:41:09.336065+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch",
      "author": "nyaomaru",
      "reactions": 109,
-     "comments": 29,
+     "comments": 30,
      "published_at": "2026-11-20T16:21:37Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T09:11:04.823884+00:00",
+   "fetched_at": "2026-11-25T09:41:09.477914+00:00",
    "stale": false,
    "items": [
     {
@@ -325,8 +325,8 @@
     {
      "name": "Cloudflare",
      "home": "https://www.cloudflarestatus.com",
-     "indicator": "major",
-     "description": "Partial System Outage"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "npm",
