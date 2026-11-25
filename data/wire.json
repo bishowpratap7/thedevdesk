@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T04:40:05.774485+00:00",
+ "generated_at": "2026-11-25T05:10:11.232310+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T04:40:00.368826+00:00",
+   "fetched_at": "2026-11-25T05:10:07.357494+00:00",
    "stale": false,
    "items": [
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 292,
+     "score": 334,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 132
+     "comments": 154
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 59,
+     "score": 90,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 3
-    },
-    {
-     "id": 50637686,
-     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 63,
-     "by": "gmays",
-     "time": 1795574061,
-     "comments": 22
+     "comments": 6
     },
     {
      "id": 50637874,
      "title": "I've been drinking wine in my kitchen",
      "url": "https://scottaaronson.blog/?p=10362",
-     "score": 46,
+     "score": 79,
      "by": "nill0",
      "time": 1795575730,
-     "comments": 17
+     "comments": 36
     },
     {
-     "id": 50637056,
-     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-     "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "score": 132,
-     "by": "smusamashah",
-     "time": 1795568089,
-     "comments": 20
+     "id": 50637686,
+     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+     "score": 81,
+     "by": "gmays",
+     "time": 1795574061,
+     "comments": 33
+    },
+    {
+     "id": 50638320,
+     "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+     "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+     "score": 25,
+     "by": "hoodied",
+     "time": 1795579413,
+     "comments": 15
     },
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 377,
+     "score": 387,
      "by": "b0m",
      "time": 1795550883,
-     "comments": 128
+     "comments": 129
+    },
+    {
+     "id": 50637056,
+     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+     "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+     "score": 139,
+     "by": "smusamashah",
+     "time": 1795568089,
+     "comments": 24
+    },
+    {
+     "id": 50638523,
+     "title": "Show HN: U.S. Interstate Weather",
+     "url": "https://www.interstateweather.com/",
+     "score": 9,
+     "by": "projproj",
+     "time": 1795581332,
+     "comments": 2
     },
     {
      "id": 50638220,
      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-     "score": 20,
+     "score": 30,
      "by": "Curiositry",
      "time": 1795578462,
-     "comments": 2
-    },
-    {
-     "id": 50634658,
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "score": 213,
-     "by": "acossta",
-     "time": 1795554142,
-     "comments": 65
+     "comments": 6
     },
     {
      "id": 50637890,
      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 26,
+     "score": 41,
      "by": "vinhnx",
      "time": 1795575877,
-     "comments": 7
-    },
-    {
-     "id": 50637888,
-     "title": "Lua for Data Representation",
-     "url": "https://citrons.xyz/journal/2025-07-23",
-     "score": 13,
-     "by": "vinhnx",
-     "time": 1795575852,
-     "comments": 0
+     "comments": 11
     },
     {
      "id": 50638070,
      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-     "score": 14,
+     "score": 22,
      "by": "octember",
      "time": 1795577286,
      "comments": 5
     },
     {
-     "id": 50637891,
-     "title": "Macrohistory in Six Facts",
-     "url": "https://basilhalperin.com/essays/macrohistory.html",
-     "score": 16,
-     "by": "tptacek",
-     "time": 1795575886,
-     "comments": 0
+     "id": 50634658,
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+     "score": 220,
+     "by": "acossta",
+     "time": 1795554142,
+     "comments": 67
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T04:40:02.605494+00:00",
+   "fetched_at": "2026-11-25T05:10:08.427058+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T04:40:04.258480+00:00",
+   "fetched_at": "2026-11-25T05:10:09.917915+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11584,
+     "stars": 11606,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7937,
+     "stars": 7947,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3675,
+     "stars": 3682,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3486,
+     "stars": 3496,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3031,
+     "stars": 3051,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2508,
+     "stars": 2514,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2183,
+     "stars": 2212,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1975,
+     "stars": 1981,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1923,
+     "stars": 1924,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1829,
+     "stars": 1828,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T04:40:05.063535+00:00",
+   "fetched_at": "2026-11-25T05:10:10.423941+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 91,
-     "comments": 15,
+     "comments": 16,
      "published_at": "2026-11-18T18:32:36Z"
     },
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 52,
-     "comments": 15,
+     "comments": 16,
      "published_at": "2026-11-20T16:28:49Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T04:40:05.206139+00:00",
+   "fetched_at": "2026-11-25T05:10:10.560884+00:00",
    "stale": false,
    "items": [
     {
