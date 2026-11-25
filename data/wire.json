@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-25T12:41:37.645355+00:00",
+ "generated_at": "2026-11-25T12:41:55.062523+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T12:41:34.720234+00:00",
+   "fetched_at": "2026-11-25T12:41:53.079402+00:00",
    "stale": false,
    "items": [
     {
      "id": 50641171,
      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "score": 54,
+     "score": 56,
      "by": "ThrowNotAway",
      "time": 1795606465,
      "comments": 16
@@ -18,10 +18,10 @@
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 736,
+     "score": 737,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 408
+     "comments": 409
     },
     {
      "id": 50638032,
@@ -54,7 +54,7 @@
      "id": 50638503,
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 179,
+     "score": 180,
      "by": "arkits",
      "time": 1795581108,
      "comments": 41
@@ -93,13 +93,13 @@
      "score": 36,
      "by": "synapsomorphy",
      "time": 1795412014,
-     "comments": 5
+     "comments": 6
     },
     {
      "id": 50638478,
      "title": "Taking over US Treasury subdomains for $3 each",
      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-     "score": 119,
+     "score": 121,
      "by": "negura",
      "time": 1795580875,
      "comments": 23
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T12:41:35.652712+00:00",
+   "fetched_at": "2026-11-25T12:41:54.090800+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T12:41:36.672835+00:00",
+   "fetched_at": "2026-11-25T12:41:54.307867+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12030,
+     "stars": 12032,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T12:41:37.193772+00:00",
+   "fetched_at": "2026-11-25T12:41:54.685224+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T12:41:37.266490+00:00",
+   "fetched_at": "2026-11-25T12:41:54.959520+00:00",
    "stale": false,
    "items": [
     {
