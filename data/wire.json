@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T17:42:47.242499+00:00",
+ "generated_at": "2026-11-25T18:12:51.495071+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T17:42:43.966673+00:00",
+   "fetched_at": "2026-11-25T18:12:48.686392+00:00",
    "stale": false,
    "items": [
     {
      "id": 50643129,
      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "score": 245,
+     "score": 280,
      "by": "gumby",
      "time": 1795619672,
-     "comments": 68
+     "comments": 77
     },
     {
      "id": 50643720,
      "title": "Investigating degraded experiences across GitHub products",
      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-     "score": 116,
+     "score": 139,
      "by": "pinjasaur",
      "time": 1795622363,
-     "comments": 60
+     "comments": 71
     },
     {
      "id": 50642086,
-     "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-     "score": 276,
+     "score": 304,
      "by": "rgwohlbold",
      "time": 1795613587,
-     "comments": 225
+     "comments": 242
     },
     {
      "id": 50641171,
      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "score": 242,
+     "score": 247,
      "by": "ThrowNotAway",
      "time": 1795606465,
-     "comments": 137
-    },
-    {
-     "id": 50635783,
-     "title": "Predicting LoRA size for any dataset",
-     "url": "https://engram.com/blog/lora-size",
-     "score": 39,
-     "by": "jxmorris12",
-     "time": 1795559669,
-     "comments": 1
-    },
-    {
-     "id": 50642939,
-     "title": "I checked Clojure's core with Lean and found unreported bugs",
-     "url": "https://s.conao3.com/blog/2026/e4f733",
-     "score": 45,
-     "by": "encyclopedism",
-     "time": 1795618612,
-     "comments": 12
-    },
-    {
-     "id": 50638032,
-     "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
-     "url": "https://buttons.joshwcomeau.com/",
-     "score": 715,
-     "by": "gaurang_tandon",
-     "time": 1795576987,
-     "comments": 116
-    },
-    {
-     "id": 50624446,
-     "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-     "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-     "score": 71,
-     "by": "jaydenmilne",
-     "time": 1795501356,
-     "comments": 33
-    },
-    {
-     "id": 50637220,
-     "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-     "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 894,
-     "by": "E-Reverance",
-     "time": 1795569566,
-     "comments": 505
+     "comments": 141
     },
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 56,
+     "score": 152,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 24
+     "comments": 72
     },
     {
-     "id": 50625654,
-     "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
-     "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
-     "score": 44,
-     "by": "simonebrunozzi",
-     "time": 1795511207,
-     "comments": 3
+     "id": 50635783,
+     "title": "Predicting LoRA size for any dataset",
+     "url": "https://engram.com/blog/lora-size",
+     "score": 47,
+     "by": "jxmorris12",
+     "time": 1795559669,
+     "comments": 4
     },
     {
-     "id": 50637686,
-     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 390,
-     "by": "gmays",
-     "time": 1795574061,
-     "comments": 165
+     "id": 50642939,
+     "title": "I checked Clojure's core with Lean and found unreported bugs",
+     "url": "https://s.conao3.com/blog/2026/e4f733",
+     "score": 60,
+     "by": "encyclopedism",
+     "time": 1795618612,
+     "comments": 21
+    },
+    {
+     "id": 50638032,
+     "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+     "url": "https://buttons.joshwcomeau.com/",
+     "score": 729,
+     "by": "gaurang_tandon",
+     "time": 1795576987,
+     "comments": 116
+    },
+    {
+     "id": 50637220,
+     "title": "The matrix multiplication exponent is nine fourths [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+     "score": 907,
+     "by": "E-Reverance",
+     "time": 1795569566,
+     "comments": 511
+    },
+    {
+     "id": 50624446,
+     "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+     "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+     "score": 86,
+     "by": "jaydenmilne",
+     "time": 1795501356,
+     "comments": 50
+    },
+    {
+     "id": 50643065,
+     "title": "Rumors swirling that labs might have cracked Factoring in P",
+     "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+     "score": 225,
+     "by": "lilytweed",
+     "time": 1795619324,
+     "comments": 161
+    },
+    {
+     "id": 50639929,
+     "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+     "url": "https://arxiv.org/abs/2611.31286",
+     "score": 38,
+     "by": "pseudohadamard",
+     "time": 1795595014,
+     "comments": 60
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T17:42:45.015346+00:00",
+   "fetched_at": "2026-11-25T18:12:49.664853+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T17:42:45.945408+00:00",
+   "fetched_at": "2026-11-25T18:12:50.642470+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12345,
+     "stars": 12366,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8209,
+     "stars": 8223,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3889,
+     "stars": 3896,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3831,
+     "stars": 3842,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3651,
+     "stars": 3680,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2875,
+     "stars": 2895,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2603,
+     "stars": 2605,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2242,
+     "stars": 2252,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1947,
+     "stars": 1949,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1859,
+     "stars": 1862,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T17:42:46.859538+00:00",
+   "fetched_at": "2026-11-25T18:12:50.984315+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 56,
-     "comments": 35,
+     "comments": 36,
      "published_at": "2026-11-20T16:28:49Z"
     },
     {
@@ -279,20 +279,20 @@
      "published_at": "2026-11-20T16:21:37Z"
     },
     {
+     "title": "The Price You Pay for Passion",
+     "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
+     "author": "Sylwia Laskowska",
+     "reactions": 82,
+     "comments": 44,
+     "published_at": "2026-11-25T08:29:06Z"
+    },
+    {
      "title": "The Third Cup: Change Never Sleeps",
      "url": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
      "author": "xulingfeng",
      "reactions": 113,
      "comments": 56,
      "published_at": "2026-11-23T07:09:21Z"
-    },
-    {
-     "title": "The Price You Pay for Passion",
-     "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
-     "author": "Sylwia Laskowska",
-     "reactions": 77,
-     "comments": 44,
-     "published_at": "2026-11-25T08:29:06Z"
     },
     {
      "title": "I can't believe the podcast I learned to code with is back!",
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T17:42:46.893524+00:00",
+   "fetched_at": "2026-11-25T18:12:51.152046+00:00",
    "stale": false,
    "items": [
     {
