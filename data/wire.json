@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T03:09:47.372345+00:00",
+ "generated_at": "2026-11-25T03:39:53.111796+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T03:09:43.302637+00:00",
+   "fetched_at": "2026-11-25T03:39:49.022822+00:00",
    "stale": false,
    "items": [
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 168,
+     "score": 218,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 46
+     "comments": 72
     },
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 362,
+     "score": 369,
      "by": "b0m",
      "time": 1795550883,
-     "comments": 122
+     "comments": 126
     },
     {
      "id": 50637056,
      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "score": 77,
+     "score": 97,
      "by": "smusamashah",
      "time": 1795568089,
-     "comments": 10
+     "comments": 16
+    },
+    {
+     "id": 50637686,
+     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+     "score": 25,
+     "by": "gmays",
+     "time": 1795574061,
+     "comments": 3
     },
     {
      "id": 50634658,
      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "score": 183,
+     "score": 198,
      "by": "acossta",
      "time": 1795554142,
-     "comments": 54
+     "comments": 59
     },
     {
      "id": 50634426,
      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
      "url": null,
-     "score": 73,
+     "score": 75,
      "by": "harshithl1777",
      "time": 1795553055,
-     "comments": 57
-    },
-    {
-     "id": 50630594,
-     "title": "Active intrusion campaign against Check Point security management servers",
-     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "score": 269,
-     "by": "louiereederson",
-     "time": 1795537937,
-     "comments": 137
-    },
-    {
-     "id": 50636925,
-     "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
-     "url": "https://literaryreview.co.uk/here-in-the-world",
-     "score": 27,
-     "by": "lermontov",
-     "time": 1795567003,
-     "comments": 2
+     "comments": 59
     },
     {
      "id": 50598555,
      "title": "The Spray Bottle",
      "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "score": 377,
+     "score": 389,
      "by": "vinhnx",
      "time": 1795346190,
-     "comments": 98
+     "comments": 102
+    },
+    {
+     "id": 50630594,
+     "title": "Active intrusion campaign against Check Point security management servers",
+     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+     "score": 271,
+     "by": "louiereederson",
+     "time": 1795537937,
+     "comments": 139
     },
     {
      "id": 50625265,
      "title": "G\u00f6del Enigma",
      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-     "score": 97,
+     "score": 102,
      "by": "benbreen",
      "time": 1795508162,
-     "comments": 33
+     "comments": 34
+    },
+    {
+     "id": 50636925,
+     "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
+     "url": "https://literaryreview.co.uk/here-in-the-world",
+     "score": 30,
+     "by": "lermontov",
+     "time": 1795567003,
+     "comments": 2
     },
     {
      "id": 50609483,
      "title": "Calculate how many mesh radio nodes your city needs",
      "url": "https://meshcoveragecalculator.lalala.ing/",
-     "score": 87,
+     "score": 89,
      "by": "joshcsimmons",
      "time": 1795427217,
-     "comments": 15
+     "comments": 16
     },
     {
-     "id": 50610820,
-     "title": "An Italian folding bicycle design that fits into a suitcase",
-     "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-     "score": 137,
-     "by": "surprisetalk",
-     "time": 1795437608,
-     "comments": 92
-    },
-    {
-     "id": 50633424,
-     "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-     "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-     "score": 72,
-     "by": "Artgor",
-     "time": 1795549243,
+     "id": 50626430,
+     "title": "New Rewritable Antimony Elenide Display Shows an Image for Months Without Power",
+     "url": "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/",
+     "score": 5,
+     "by": "giuliomagnifico",
+     "time": 1795517532,
      "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T03:09:44.675172+00:00",
+   "fetched_at": "2026-11-25T03:39:50.360610+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T03:09:46.163855+00:00",
+   "fetched_at": "2026-11-25T03:39:51.750358+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11500,
+     "stars": 11525,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7899,
+     "stars": 7912,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3639,
+     "stars": 3654,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3447,
+     "stars": 3459,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2985,
+     "stars": 3007,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2497,
+     "stars": 2500,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2106,
+     "stars": 2129,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1937,
+     "stars": 1949,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1916,
+     "stars": 1919,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1828,
+     "stars": 1827,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T03:09:46.658216+00:00",
+   "fetched_at": "2026-11-25T03:39:52.355587+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T03:09:46.756427+00:00",
+   "fetched_at": "2026-11-25T03:39:52.455146+00:00",
    "stale": false,
    "items": [
     {
