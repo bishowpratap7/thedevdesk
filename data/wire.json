@@ -1,87 +1,96 @@
 {
- "generated_at": "2026-11-25T09:41:09.948550+00:00",
+ "generated_at": "2026-11-25T10:11:14.995550+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T09:41:07.028321+00:00",
+   "fetched_at": "2026-11-25T10:11:11.814586+00:00",
    "stale": false,
    "items": [
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 616,
+     "score": 637,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 318
+     "comments": 338
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 362,
+     "score": 376,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 44
+     "comments": 51
+    },
+    {
+     "id": 50639929,
+     "title": "Why Automated Proof-Solving Is the Same Old Dead End",
+     "url": "https://arxiv.org/abs/2611.31286",
+     "score": 24,
+     "by": "pseudohadamard",
+     "time": 1795595014,
+     "comments": 24
     },
     {
      "id": 50637686,
      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 222,
+     "score": 235,
      "by": "gmays",
      "time": 1795574061,
-     "comments": 81
+     "comments": 92
     },
     {
      "id": 50638503,
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 112,
+     "score": 125,
      "by": "arkits",
      "time": 1795581108,
-     "comments": 25
+     "comments": 27
     },
     {
      "id": 50637890,
      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 176,
+     "score": 187,
      "by": "vinhnx",
      "time": 1795575877,
-     "comments": 67
+     "comments": 73
     },
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 443,
+     "score": 448,
      "by": "b0m",
      "time": 1795550883,
-     "comments": 138
+     "comments": 141
     },
     {
      "id": 50637056,
      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "score": 246,
+     "score": 253,
      "by": "smusamashah",
      "time": 1795568089,
-     "comments": 43
+     "comments": 44
     },
     {
      "id": 50638478,
      "title": "Taking over US Treasury subdomains for $3 each",
      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-     "score": 78,
+     "score": 84,
      "by": "negura",
      "time": 1795580875,
-     "comments": 17
+     "comments": 18
     },
     {
      "id": 50623866,
      "title": "The algebra of dependent types (2025)",
      "url": "https://dotat.at/@/2025-05-28-types.html",
-     "score": 26,
+     "score": 30,
      "by": "todsacerdoti",
      "time": 1795495798,
      "comments": 2
@@ -90,33 +99,24 @@
      "id": 50627726,
      "title": "Getting old Java phones online again",
      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-     "score": 15,
+     "score": 25,
      "by": "waximabbax",
      "time": 1795526077,
-     "comments": 2
+     "comments": 6
     },
     {
      "id": 50638220,
      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-     "score": 106,
+     "score": 117,
      "by": "Curiositry",
      "time": 1795578462,
-     "comments": 47
-    },
-    {
-     "id": 50634658,
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "score": 262,
-     "by": "acossta",
-     "time": 1795554142,
-     "comments": 80
+     "comments": 51
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T09:41:07.902543+00:00",
+   "fetched_at": "2026-11-25T10:11:13.127769+00:00",
    "stale": false,
    "items": [
     {
@@ -142,10 +142,10 @@
     },
     {
      "repo": "microsoft/vscode",
-     "tag": "1.147.0",
-     "name": "1.147.0",
-     "url": "https://github.com/microsoft/vscode/releases/tag/1.147.0",
-     "published_at": "2026-11-18T09:45:23Z"
+     "tag": "1.148.0",
+     "name": "1.148.0",
+     "url": "https://github.com/microsoft/vscode/releases/tag/1.148.0",
+     "published_at": "2026-11-25T09:44:02Z"
     },
     {
      "repo": "rust-lang/rust",
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T09:41:08.900486+00:00",
+   "fetched_at": "2026-11-25T10:11:14.186430+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11860,
+     "stars": 11887,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8053,
+     "stars": 8064,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3766,
+     "stars": 3772,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3666,
+     "stars": 3676,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,31 +195,31 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3193,
+     "stars": 3207,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
     },
     {
-     "full_name": "iamajmeena/neonclipping",
-     "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2547,
-     "language": "Python",
-     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-     "created_at": "2026-11-19T10:00:43Z"
-    },
-    {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2524,
+     "stars": 2552,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
     },
     {
+     "full_name": "iamajmeena/neonclipping",
+     "url": "https://github.com/iamajmeena/neonclipping",
+     "stars": 2552,
+     "language": "Python",
+     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+     "created_at": "2026-11-19T10:00:43Z"
+    },
+    {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2062,
+     "stars": 2077,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1933,
+     "stars": 1932,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1833,
+     "stars": 1835,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T09:41:09.336065+00:00",
+   "fetched_at": "2026-11-25T10:11:14.721201+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T09:41:09.477914+00:00",
+   "fetched_at": "2026-11-25T10:11:14.753600+00:00",
    "stale": false,
    "items": [
     {
