@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T20:13:10.242812+00:00",
+ "generated_at": "2026-11-25T20:43:17.211067+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T20:13:06.377573+00:00",
+   "fetched_at": "2026-11-25T20:43:11.904555+00:00",
    "stale": false,
    "items": [
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 596,
+     "score": 688,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 260
+     "comments": 285
     },
     {
      "id": 50646108,
-     "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
-     "score": 197,
+     "score": 322,
      "by": "Kotlopou",
      "time": 1795633887,
-     "comments": 120
+     "comments": 207
     },
     {
      "id": 50643129,
      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "score": 347,
+     "score": 365,
      "by": "gumby",
      "time": 1795619672,
-     "comments": 88
+     "comments": 89
     },
     {
-     "id": 50645074,
-     "title": "Britain's ghost stations",
-     "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-     "score": 42,
-     "by": "translocator",
-     "time": 1795628626,
+     "id": 50589784,
+     "title": "SSH is a GUI framework",
+     "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+     "score": 30,
+     "by": "teledream",
+     "time": 1795272761,
      "comments": 9
     },
     {
      "id": 50644980,
      "title": "The polynomial Hirsch conjecture is false [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-     "score": 31,
+     "score": 55,
      "by": "acossta",
      "time": 1795628074,
-     "comments": 1
+     "comments": 5
     },
     {
-     "id": 50642086,
-     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-     "score": 373,
-     "by": "rgwohlbold",
-     "time": 1795613587,
-     "comments": 293
-    },
-    {
-     "id": 50641171,
-     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-     "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "score": 276,
-     "by": "ThrowNotAway",
-     "time": 1795606465,
-     "comments": 162
-    },
-    {
-     "id": 50642939,
-     "title": "I checked Clojure's core with Lean and found unreported bugs",
-     "url": "https://s.conao3.com/blog/2026/e4f733",
-     "score": 117,
-     "by": "encyclopedism",
-     "time": 1795618612,
-     "comments": 44
+     "id": 50645074,
+     "title": "Britain's ghost stations",
+     "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+     "score": 49,
+     "by": "translocator",
+     "time": 1795628626,
+     "comments": 9
     },
     {
      "id": 50608175,
      "title": "Can a TV be too large? An investigation",
      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-     "score": 15,
+     "score": 26,
      "by": "jomon003",
      "time": 1795415267,
-     "comments": 12
+     "comments": 23
     },
     {
-     "id": 50635783,
-     "title": "Predicting LoRA size for any dataset",
-     "url": "https://engram.com/blog/lora-size",
-     "score": 79,
-     "by": "jxmorris12",
-     "time": 1795559669,
-     "comments": 8
+     "id": 50646662,
+     "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+     "url": "https://danprice.ai/blog/opus-symphony",
+     "score": 16,
+     "by": "halfprice06",
+     "time": 1795636628,
+     "comments": 1
     },
     {
-     "id": 50644814,
-     "title": "Deriving Black-Scholes",
-     "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-     "score": 32,
-     "by": "meysamazad",
-     "time": 1795627095,
-     "comments": 18
+     "id": 50641171,
+     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+     "url": "https://github.com/xoxorwr/pw-loudness-eq",
+     "score": 285,
+     "by": "ThrowNotAway",
+     "time": 1795606465,
+     "comments": 163
+    },
+    {
+     "id": 50642939,
+     "title": "I checked Clojure's core with Lean and found unreported bugs",
+     "url": "https://s.conao3.com/blog/2026/e4f733",
+     "score": 129,
+     "by": "encyclopedism",
+     "time": 1795618612,
+     "comments": 48
+    },
+    {
+     "id": 50642086,
+     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+     "score": 382,
+     "by": "rgwohlbold",
+     "time": 1795613587,
+     "comments": 302
     },
     {
      "id": 50624446,
      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-     "score": 147,
+     "score": 158,
      "by": "jaydenmilne",
      "time": 1795501356,
-     "comments": 64
+     "comments": 69
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T20:13:07.355819+00:00",
+   "fetched_at": "2026-11-25T20:43:12.828327+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T20:13:09.297595+00:00",
+   "fetched_at": "2026-11-25T20:43:13.918524+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12468,
+     "stars": 12487,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8259,
+     "stars": 8266,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3912,
+     "stars": 3918,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3879,
+     "stars": 3884,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3815,
+     "stars": 3855,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2954,
+     "stars": 2968,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2615,
+     "stars": 2616,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2287,
+     "stars": 2297,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1949,
+     "stars": 1948,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1868,
+     "stars": 1871,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T20:13:09.809078+00:00",
+   "fetched_at": "2026-11-25T20:43:14.378285+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
      "reactions": 86,
-     "comments": 46,
+     "comments": 48,
      "published_at": "2026-11-25T08:29:06Z"
     },
     {
@@ -291,7 +291,7 @@
      "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
      "author": "Klaudia Grzondziel",
      "reactions": 48,
-     "comments": 13,
+     "comments": 14,
      "published_at": "2026-11-25T14:05:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T20:13:09.929729+00:00",
+   "fetched_at": "2026-11-25T20:43:14.494215+00:00",
    "stale": false,
    "items": [
     {
