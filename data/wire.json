@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T17:42:32.976631+00:00",
+ "generated_at": "2026-11-25T17:42:47.242499+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T17:42:31.415151+00:00",
+   "fetched_at": "2026-11-25T17:42:43.966673+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T17:42:32.336215+00:00",
+   "fetched_at": "2026-11-25T17:42:45.015346+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T17:42:32.522795+00:00",
+   "fetched_at": "2026-11-25T17:42:45.945408+00:00",
    "stale": false,
    "items": [
     {
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2874,
+     "stars": 2875,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T17:42:32.864436+00:00",
+   "fetched_at": "2026-11-25T17:42:46.859538+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T17:42:32.898159+00:00",
+   "fetched_at": "2026-11-25T17:42:46.893524+00:00",
    "stale": false,
    "items": [
     {
