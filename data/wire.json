@@ -1,128 +1,128 @@
 {
- "generated_at": "2026-11-25T07:10:33.435533+00:00",
+ "generated_at": "2026-11-25T07:40:39.114854+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T07:10:29.364765+00:00",
+   "fetched_at": "2026-11-25T07:40:34.862713+00:00",
    "stale": false,
    "items": [
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 475,
+     "score": 506,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 233
+     "comments": 247
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 202,
+     "score": 244,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 20
-    },
-    {
-     "id": 50638320,
-     "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-     "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-     "score": 132,
-     "by": "hoodied",
-     "time": 1795579413,
-     "comments": 82
+     "comments": 25
     },
     {
      "id": 50637686,
      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 163,
+     "score": 173,
      "by": "gmays",
      "time": 1795574061,
-     "comments": 61
-    },
-    {
-     "id": 50638503,
-     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-     "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 51,
-     "by": "arkits",
-     "time": 1795581108,
-     "comments": 9
+     "comments": 65
     },
     {
      "id": 50637874,
      "title": "I've been drinking wine in my kitchen",
      "url": "https://scottaaronson.blog/?p=10362",
-     "score": 131,
+     "score": 143,
      "by": "nill0",
      "time": 1795575730,
-     "comments": 103
+     "comments": 111
     },
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 421,
+     "score": 425,
      "by": "b0m",
      "time": 1795550883,
      "comments": 135
     },
     {
-     "id": 50637056,
-     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-     "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "score": 191,
-     "by": "smusamashah",
-     "time": 1795568089,
-     "comments": 32
-    },
-    {
-     "id": 50638220,
-     "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-     "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-     "score": 70,
-     "by": "Curiositry",
-     "time": 1795578462,
-     "comments": 20
+     "id": 50638503,
+     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+     "url": "https://gpu-demo-gallery.pages.dev/",
+     "score": 59,
+     "by": "arkits",
+     "time": 1795581108,
+     "comments": 13
     },
     {
      "id": 50637890,
      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 106,
+     "score": 120,
      "by": "vinhnx",
      "time": 1795575877,
-     "comments": 32
+     "comments": 38
+    },
+    {
+     "id": 50637056,
+     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+     "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+     "score": 200,
+     "by": "smusamashah",
+     "time": 1795568089,
+     "comments": 34
+    },
+    {
+     "id": 50638220,
+     "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+     "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+     "score": 74,
+     "by": "Curiositry",
+     "time": 1795578462,
+     "comments": 27
     },
     {
      "id": 50638478,
      "title": "Taking over US Treasury subdomains for $3 each",
      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-     "score": 35,
+     "score": 47,
      "by": "negura",
      "time": 1795580875,
-     "comments": 2
+     "comments": 3
     },
     {
      "id": 50637871,
      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
      "url": "https://www.proofatlas.ai/open-problems/",
-     "score": 38,
+     "score": 41,
      "by": "ijidak",
      "time": 1795575696,
-     "comments": 9
+     "comments": 10
+    },
+    {
+     "id": 50634658,
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+     "score": 245,
+     "by": "acossta",
+     "time": 1795554142,
+     "comments": 73
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T07:10:30.558875+00:00",
+   "fetched_at": "2026-11-25T07:40:36.035372+00:00",
    "stale": false,
    "items": [
     {
      "repo": "spring-projects/spring-boot",
      "tag": "v4.2.0",
-     "name": null,
+     "name": "",
      "url": "https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0",
      "published_at": "2026-11-19T22:00:24Z"
     },
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T07:10:32.135656+00:00",
+   "fetched_at": "2026-11-25T07:40:37.606371+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11722,
+     "stars": 11751,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8013,
+     "stars": 8021,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3709,
+     "stars": 3721,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3569,
+     "stars": 3586,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3110,
+     "stars": 3128,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2526,
+     "stars": 2530,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2335,
+     "stars": 2376,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2016,
+     "stars": 2025,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1927,
+     "stars": 1928,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1827,
+     "stars": 1828,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T07:10:32.633767+00:00",
+   "fetched_at": "2026-11-25T07:40:38.292754+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 54,
-     "comments": 16,
+     "comments": 17,
      "published_at": "2026-11-20T16:28:49Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T07:10:32.712075+00:00",
+   "fetched_at": "2026-11-25T07:40:38.468782+00:00",
    "stale": false,
    "items": [
     {
@@ -325,8 +325,8 @@
     {
      "name": "Cloudflare",
      "home": "https://www.cloudflarestatus.com",
-     "indicator": "minor",
-     "description": "Minor Service Outage"
+     "indicator": "major",
+     "description": "Partial System Outage"
     },
     {
      "name": "npm",
