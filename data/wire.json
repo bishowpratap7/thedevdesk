@@ -1,63 +1,54 @@
 {
- "generated_at": "2026-11-25T02:39:41.576208+00:00",
+ "generated_at": "2026-11-25T03:09:47.372345+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T02:38:13.751758+00:00",
+   "fetched_at": "2026-11-25T03:09:43.302637+00:00",
    "stale": false,
    "items": [
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 114,
+     "score": 168,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 24
+     "comments": 46
     },
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 353,
+     "score": 362,
      "by": "b0m",
      "time": 1795550883,
-     "comments": 121
+     "comments": 122
     },
     {
      "id": 50637056,
      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "score": 55,
+     "score": 77,
      "by": "smusamashah",
      "time": 1795568089,
-     "comments": 7
+     "comments": 10
     },
     {
      "id": 50634658,
      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "score": 181,
+     "score": 183,
      "by": "acossta",
      "time": 1795554142,
-     "comments": 52
+     "comments": 54
     },
     {
      "id": 50634426,
      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
      "url": null,
-     "score": 70,
+     "score": 73,
      "by": "harshithl1777",
      "time": 1795553055,
-     "comments": 56
-    },
-    {
-     "id": 50636925,
-     "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
-     "url": "https://literaryreview.co.uk/here-in-the-world",
-     "score": 24,
-     "by": "lermontov",
-     "time": 1795567003,
-     "comments": 0
+     "comments": 57
     },
     {
      "id": 50630594,
@@ -66,57 +57,66 @@
      "score": 269,
      "by": "louiereederson",
      "time": 1795537937,
-     "comments": 131
+     "comments": 137
+    },
+    {
+     "id": 50636925,
+     "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
+     "url": "https://literaryreview.co.uk/here-in-the-world",
+     "score": 27,
+     "by": "lermontov",
+     "time": 1795567003,
+     "comments": 2
     },
     {
      "id": 50598555,
      "title": "The Spray Bottle",
      "url": "https://mechanical-pencil.com/products/spray-bottle",
-     "score": 371,
+     "score": 377,
      "by": "vinhnx",
      "time": 1795346190,
-     "comments": 96
+     "comments": 98
     },
     {
      "id": 50625265,
      "title": "G\u00f6del Enigma",
      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-     "score": 94,
+     "score": 97,
      "by": "benbreen",
      "time": 1795508162,
-     "comments": 31
+     "comments": 33
     },
     {
      "id": 50609483,
      "title": "Calculate how many mesh radio nodes your city needs",
      "url": "https://meshcoveragecalculator.lalala.ing/",
-     "score": 82,
+     "score": 87,
      "by": "joshcsimmons",
      "time": 1795427217,
-     "comments": 12
+     "comments": 15
     },
     {
      "id": 50610820,
      "title": "An Italian folding bicycle design that fits into a suitcase",
      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-     "score": 135,
+     "score": 137,
      "by": "surprisetalk",
      "time": 1795437608,
-     "comments": 91
+     "comments": 92
     },
     {
-     "id": 50606655,
-     "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-     "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
-     "score": 22,
-     "by": "RA_Fisher",
-     "time": 1795399839,
-     "comments": 0
+     "id": 50633424,
+     "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+     "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+     "score": 72,
+     "by": "Artgor",
+     "time": 1795549243,
+     "comments": 1
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T02:38:15.471404+00:00",
+   "fetched_at": "2026-11-25T03:09:44.675172+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T02:39:40.196652+00:00",
+   "fetched_at": "2026-11-25T03:09:46.163855+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11480,
+     "stars": 11500,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7891,
+     "stars": 7899,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3636,
+     "stars": 3639,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3431,
+     "stars": 3447,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 2967,
+     "stars": 2985,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2492,
+     "stars": 2497,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2075,
+     "stars": 2106,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1924,
+     "stars": 1937,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1914,
+     "stars": 1916,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T02:39:40.720843+00:00",
+   "fetched_at": "2026-11-25T03:09:46.658216+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T02:39:40.861584+00:00",
+   "fetched_at": "2026-11-25T03:09:46.756427+00:00",
    "stale": false,
    "items": [
     {
