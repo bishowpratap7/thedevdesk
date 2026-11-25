@@ -1,81 +1,90 @@
 {
- "generated_at": "2026-11-25T13:42:03.871980+00:00",
+ "generated_at": "2026-11-25T14:12:07.088277+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T13:42:01.332863+00:00",
+   "fetched_at": "2026-11-25T14:12:05.538392+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50642086,
+     "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+     "score": 35,
+     "by": "rgwohlbold",
+     "time": 1795613587,
+     "comments": 7
+    },
     {
      "id": 50641171,
      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "score": 104,
+     "score": 129,
      "by": "ThrowNotAway",
      "time": 1795606465,
-     "comments": 51
+     "comments": 70
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 529,
+     "score": 563,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 80
+     "comments": 84
     },
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 762,
+     "score": 782,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 431
+     "comments": 444
     },
     {
      "id": 50607849,
      "title": "The short age of dragon riders",
      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-     "score": 73,
+     "score": 103,
      "by": "synapsomorphy",
      "time": 1795412014,
-     "comments": 34
+     "comments": 54
     },
     {
      "id": 50637686,
      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 305,
+     "score": 316,
      "by": "gmays",
      "time": 1795574061,
-     "comments": 131
+     "comments": 135
     },
     {
      "id": 50627726,
      "title": "Getting old Java phones online again",
      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-     "score": 88,
+     "score": 98,
      "by": "waximabbax",
      "time": 1795526077,
-     "comments": 43
-    },
-    {
-     "id": 50628517,
-     "title": "1,615 New TLDs Are Coming. Is Your DNS Ready for a Bigger Namespace?",
-     "url": "https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace",
-     "score": 38,
-     "by": "ksec",
-     "time": 1795529687,
-     "comments": 35
+     "comments": 44
     },
     {
      "id": 50638503,
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 198,
+     "score": 216,
      "by": "arkits",
      "time": 1795581108,
-     "comments": 46
+     "comments": 47
+    },
+    {
+     "id": 50637890,
+     "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+     "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+     "score": 298,
+     "by": "vinhnx",
+     "time": 1795575877,
+     "comments": 106
     },
     {
      "id": 50641323,
@@ -90,33 +99,24 @@
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 488,
+     "score": 490,
      "by": "b0m",
      "time": 1795550883,
      "comments": 150
     },
     {
-     "id": 50637890,
-     "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-     "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 281,
-     "by": "vinhnx",
-     "time": 1795575877,
-     "comments": 101
-    },
-    {
-     "id": 50638478,
-     "title": "Taking over US Treasury subdomains for $3 each",
-     "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-     "score": 135,
-     "by": "negura",
-     "time": 1795580875,
-     "comments": 27
+     "id": 50637056,
+     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+     "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+     "score": 313,
+     "by": "smusamashah",
+     "time": 1795568089,
+     "comments": 53
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T13:42:02.345392+00:00",
+   "fetched_at": "2026-11-25T14:12:06.449106+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T13:42:03.357719+00:00",
+   "fetched_at": "2026-11-25T14:12:06.614249+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12104,
+     "stars": 12154,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8133,
+     "stars": 8150,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3817,
+     "stars": 3829,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3755,
+     "stars": 3768,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3400,
+     "stars": 3439,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2747,
+     "stars": 2782,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2574,
+     "stars": 2581,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2161,
+     "stars": 2177,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1838,
+     "stars": 1839,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T13:42:03.753381+00:00",
+   "fetched_at": "2026-11-25T14:12:06.963573+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 54,
+     "reactions": 56,
      "comments": 20,
      "published_at": "2026-11-20T16:28:49Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 144,
-     "comments": 72,
+     "comments": 73,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch",
      "author": "nyaomaru",
      "reactions": 108,
-     "comments": 31,
+     "comments": 38,
      "published_at": "2026-11-20T16:21:37Z"
     },
     {
@@ -303,17 +303,17 @@
      "published_at": "2026-11-18T17:27:52Z"
     },
     {
-     "title": "I can't believe the podcast I learned to code with is back!",
-     "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
-     "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 42,
-     "comments": 9,
-     "published_at": "2026-11-20T08:55:01Z"
+     "title": "The Price You Pay for Passion",
+     "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
+     "author": "Sylwia Laskowska",
+     "reactions": 74,
+     "comments": 34,
+     "published_at": "2026-11-25T08:29:06Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T13:42:03.794096+00:00",
+   "fetched_at": "2026-11-25T14:12:07.007987+00:00",
    "stale": false,
    "items": [
     {
