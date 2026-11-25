@@ -1,51 +1,60 @@
 {
- "generated_at": "2026-11-25T12:11:32.703665+00:00",
+ "generated_at": "2026-11-25T12:41:37.645355+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T12:11:29.726280+00:00",
+   "fetched_at": "2026-11-25T12:41:34.720234+00:00",
    "stale": false,
    "items": [
     {
      "id": 50641171,
      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "score": 21,
+     "score": 54,
      "by": "ThrowNotAway",
      "time": 1795606465,
-     "comments": 0
+     "comments": 16
     },
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 717,
+     "score": 736,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 396
+     "comments": 408
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 469,
+     "score": 489,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 65
+     "comments": 73
     },
     {
      "id": 50637686,
      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 276,
+     "score": 286,
      "by": "gmays",
      "time": 1795574061,
-     "comments": 115
+     "comments": 124
+    },
+    {
+     "id": 50627726,
+     "title": "Getting old Java phones online again",
+     "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+     "score": 74,
+     "by": "waximabbax",
+     "time": 1795526077,
+     "comments": 35
     },
     {
      "id": 50638503,
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 168,
+     "score": 179,
      "by": "arkits",
      "time": 1795581108,
      "comments": 41
@@ -60,63 +69,54 @@
      "comments": 0
     },
     {
-     "id": 50627726,
-     "title": "Getting old Java phones online again",
-     "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-     "score": 63,
-     "by": "waximabbax",
-     "time": 1795526077,
-     "comments": 31
-    },
-    {
      "id": 50637890,
      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 244,
+     "score": 254,
      "by": "vinhnx",
      "time": 1795575877,
-     "comments": 85
+     "comments": 91
     },
     {
      "id": 50633922,
      "title": "Ternary Bonsai 2.5 27B",
      "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 473,
+     "score": 477,
      "by": "b0m",
      "time": 1795550883,
      "comments": 148
     },
     {
-     "id": 50638478,
-     "title": "Taking over US Treasury subdomains for $3 each",
-     "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-     "score": 112,
-     "by": "negura",
-     "time": 1795580875,
-     "comments": 21
-    },
-    {
      "id": 50607849,
      "title": "The short age of dragon riders",
      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-     "score": 20,
+     "score": 36,
      "by": "synapsomorphy",
      "time": 1795412014,
-     "comments": 1
+     "comments": 5
+    },
+    {
+     "id": 50638478,
+     "title": "Taking over US Treasury subdomains for $3 each",
+     "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+     "score": 119,
+     "by": "negura",
+     "time": 1795580875,
+     "comments": 23
     },
     {
      "id": 50637056,
      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "score": 282,
+     "score": 287,
      "by": "smusamashah",
      "time": 1795568089,
-     "comments": 49
+     "comments": 50
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T12:11:30.654689+00:00",
+   "fetched_at": "2026-11-25T12:41:35.652712+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T12:11:31.712451+00:00",
+   "fetched_at": "2026-11-25T12:41:36.672835+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11995,
+     "stars": 12030,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8100,
+     "stars": 8109,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3791,
+     "stars": 3801,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3721,
+     "stars": 3730,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3310,
+     "stars": 3338,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2667,
+     "stars": 2688,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2564,
+     "stars": 2568,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2124,
+     "stars": 2137,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1935,
+     "stars": 1936,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T12:11:32.199874+00:00",
+   "fetched_at": "2026-11-25T12:41:37.193772+00:00",
    "stale": false,
    "items": [
     {
@@ -259,7 +259,7 @@
      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
      "reactions": 54,
-     "comments": 18,
+     "comments": 19,
      "published_at": "2026-11-20T16:28:49Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 144,
-     "comments": 71,
+     "comments": 72,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T12:11:32.242673+00:00",
+   "fetched_at": "2026-11-25T12:41:37.266490+00:00",
    "stale": false,
    "items": [
     {
