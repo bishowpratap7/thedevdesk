@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T15:42:19.713710+00:00",
+ "generated_at": "2026-11-25T16:12:23.835865+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T15:42:18.072350+00:00",
+   "fetched_at": "2026-11-25T16:12:21.212327+00:00",
    "stale": false,
    "items": [
     {
      "id": 50643129,
      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "score": 38,
+     "score": 107,
      "by": "gumby",
      "time": 1795619672,
-     "comments": 2
+     "comments": 24
     },
     {
      "id": 50642086,
      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-     "score": 173,
+     "score": 207,
      "by": "rgwohlbold",
      "time": 1795613587,
-     "comments": 146
+     "comments": 174
     },
     {
      "id": 50641171,
      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "score": 179,
+     "score": 197,
      "by": "ThrowNotAway",
      "time": 1795606465,
-     "comments": 108
+     "comments": 119
     },
     {
      "id": 50643199,
      "title": "In C++, = default and {} are not the same constructor",
      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-     "score": 15,
+     "score": 31,
      "by": "surprisetalk",
      "time": 1795620015,
-     "comments": 2
+     "comments": 30
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 637,
+     "score": 661,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 101
+     "comments": 105
     },
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 841,
+     "score": 852,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 464
+     "comments": 469
     },
     {
      "id": 50642496,
      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-     "score": 73,
+     "score": 97,
      "by": "nephihaha",
      "time": 1795615949,
-     "comments": 50
+     "comments": 81
     },
     {
      "id": 50607849,
      "title": "The short age of dragon riders",
      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-     "score": 169,
+     "score": 188,
      "by": "synapsomorphy",
      "time": 1795412014,
-     "comments": 99
+     "comments": 113
     },
     {
      "id": 50637686,
      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 358,
+     "score": 366,
      "by": "gmays",
      "time": 1795574061,
-     "comments": 147
+     "comments": 150
     },
     {
-     "id": 50627726,
-     "title": "Getting old Java phones online again",
-     "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-     "score": 122,
-     "by": "waximabbax",
-     "time": 1795526077,
-     "comments": 51
+     "id": 50624446,
+     "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+     "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+     "score": 20,
+     "by": "jaydenmilne",
+     "time": 1795501356,
+     "comments": 2
     },
     {
      "id": 50638503,
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 249,
+     "score": 261,
      "by": "arkits",
      "time": 1795581108,
-     "comments": 52
+     "comments": 55
     },
     {
-     "id": 50637890,
-     "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-     "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 340,
-     "by": "vinhnx",
-     "time": 1795575877,
-     "comments": 118
+     "id": 50627726,
+     "title": "Getting old Java phones online again",
+     "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+     "score": 128,
+     "by": "waximabbax",
+     "time": 1795526077,
+     "comments": 58
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T15:42:19.003557+00:00",
+   "fetched_at": "2026-11-25T16:12:22.224924+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T15:42:19.176473+00:00",
+   "fetched_at": "2026-11-25T16:12:23.270635+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12255,
+     "stars": 12274,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8169,
+     "stars": 8173,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3853,
+     "stars": 3855,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3802,
+     "stars": 3806,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3546,
+     "stars": 3561,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2831,
+     "stars": 2836,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2594,
+     "stars": 2596,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2211,
+     "stars": 2217,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1850,
+     "stars": 1851,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T15:42:19.597953+00:00",
+   "fetched_at": "2026-11-25T16:12:23.706701+00:00",
    "stale": false,
    "items": [
     {
@@ -261,14 +261,6 @@
      "reactions": 56,
      "comments": 20,
      "published_at": "2026-11-20T16:28:49Z"
-    },
-    {
-     "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar \ud83d\udc99 + AMA",
-     "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
-     "author": "Hemapriya Kanagala",
-     "reactions": 163,
-     "comments": 51,
-     "published_at": "2026-11-18T15:52:31Z"
     },
     {
      "title": "What are you Grateful for this Thanksgiving?",
@@ -298,7 +290,7 @@
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 75,
+     "reactions": 76,
      "comments": 38,
      "published_at": "2026-11-25T08:29:06Z"
     },
@@ -309,18 +301,26 @@
      "reactions": 142,
      "comments": 42,
      "published_at": "2026-11-18T17:27:52Z"
+    },
+    {
+     "title": "I can't believe the podcast I learned to code with is back!",
+     "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
+     "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
+     "reactions": 42,
+     "comments": 9,
+     "published_at": "2026-11-20T08:55:01Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T15:42:19.636230+00:00",
+   "fetched_at": "2026-11-25T16:12:23.760654+00:00",
    "stale": false,
    "items": [
     {
      "name": "GitHub",
      "home": "https://www.githubstatus.com",
-     "indicator": "none",
-     "description": "All Systems Operational"
+     "indicator": "major",
+     "description": "Partial System Outage"
     },
     {
      "name": "Cloudflare",
