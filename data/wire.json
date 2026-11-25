@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T22:13:30.374237+00:00",
+ "generated_at": "2026-11-25T22:43:34.594534+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T22:13:27.350832+00:00",
+   "fetched_at": "2026-11-25T22:43:31.679652+00:00",
    "stale": false,
    "items": [
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 866,
+     "score": 932,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 368
-    },
-    {
-     "id": 50646108,
-     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-     "url": "https://scottaaronson.blog/?p=10379",
-     "score": 642,
-     "by": "Kotlopou",
-     "time": 1795633887,
-     "comments": 466
-    },
-    {
-     "id": 50601280,
-     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-     "score": 99,
-     "by": "bjin",
-     "time": 1795365888,
-     "comments": 20
-    },
-    {
-     "id": 50643129,
-     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "score": 393,
-     "by": "gumby",
-     "time": 1795619672,
-     "comments": 97
-    },
-    {
-     "id": 50589784,
-     "title": "SSH is a GUI framework",
-     "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-     "score": 89,
-     "by": "teledream",
-     "time": 1795272761,
-     "comments": 45
+     "comments": 395
     },
     {
      "id": 50648050,
      "title": "Much shorter version of GRH Lean verification from Anthropic",
      "url": "https://github.com/lsernau/grh-lean",
-     "score": 14,
+     "score": 85,
      "by": "nb-t",
      "time": 1795643290,
-     "comments": 6
+     "comments": 21
     },
     {
-     "id": 50648035,
-     "title": "Defang Security Incident",
-     "url": "https://defang.io/blog/post/security-incident-november-2026/",
-     "score": 17,
-     "by": "gregsadetsky",
-     "time": 1795643236,
-     "comments": 1
+     "id": 50601280,
+     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+     "score": 139,
+     "by": "bjin",
+     "time": 1795365888,
+     "comments": 27
+    },
+    {
+     "id": 50646108,
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "score": 696,
+     "by": "Kotlopou",
+     "time": 1795633887,
+     "comments": 527
+    },
+    {
+     "id": 50643129,
+     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+     "score": 414,
+     "by": "gumby",
+     "time": 1795619672,
+     "comments": 99
+    },
+    {
+     "id": 50647673,
+     "title": "The New York Times tells photographers not to use the latest Photoshop",
+     "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+     "score": 37,
+     "by": "rmason",
+     "time": 1795641482,
+     "comments": 21
     },
     {
      "id": 50647161,
      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-     "score": 25,
+     "score": 36,
      "by": "dm",
      "time": 1795638950,
-     "comments": 1
+     "comments": 11
     },
     {
-     "id": 50644980,
-     "title": "The polynomial Hirsch conjecture is false [pdf]",
-     "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-     "score": 87,
-     "by": "acossta",
-     "time": 1795628074,
-     "comments": 16
+     "id": 50648035,
+     "title": "Defang Security Incident",
+     "url": "https://defang.io/blog/post/security-incident-november-2026/",
+     "score": 28,
+     "by": "gregsadetsky",
+     "time": 1795643236,
+     "comments": 9
+    },
+    {
+     "id": 50589784,
+     "title": "SSH is a GUI framework",
+     "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+     "score": 98,
+     "by": "teledream",
+     "time": 1795272761,
+     "comments": 51
     },
     {
      "id": 50647181,
      "title": "Slow Ubuntu security response times",
      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-     "score": 22,
+     "score": 43,
      "by": "gslin",
      "time": 1795639080,
-     "comments": 3
+     "comments": 14
     },
     {
-     "id": 50642939,
-     "title": "I checked Clojure's core with Lean and found unreported bugs",
-     "url": "https://s.conao3.com/blog/2026/e4f733",
-     "score": 154,
-     "by": "encyclopedism",
-     "time": 1795618612,
-     "comments": 53
+     "id": 50647158,
+     "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+     "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+     "score": 31,
+     "by": "handfuloflight",
+     "time": 1795638939,
+     "comments": 7
     },
     {
-     "id": 50645074,
-     "title": "Britain's ghost stations",
-     "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-     "score": 67,
-     "by": "translocator",
-     "time": 1795628626,
-     "comments": 15
+     "id": 50644980,
+     "title": "The polynomial Hirsch conjecture is false [pdf]",
+     "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+     "score": 93,
+     "by": "acossta",
+     "time": 1795628074,
+     "comments": 20
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T22:13:28.326324+00:00",
+   "fetched_at": "2026-11-25T22:43:32.853639+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T22:13:29.509460+00:00",
+   "fetched_at": "2026-11-25T22:43:33.792272+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12547,
+     "stars": 12566,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8289,
+     "stars": 8292,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3950,
+     "stars": 3998,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3933,
+     "stars": 3936,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3908,
+     "stars": 3916,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3017,
+     "stars": 3028,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2621,
+     "stars": 2622,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2307,
+     "stars": 2316,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1877,
+     "stars": 1882,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T22:13:29.908531+00:00",
+   "fetched_at": "2026-11-25T22:43:34.122619+00:00",
    "stale": false,
    "items": [
     {
@@ -290,8 +290,8 @@
      "title": "The mental toll of working in tech",
      "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
      "author": "Klaudia Grzondziel",
-     "reactions": 48,
-     "comments": 15,
+     "reactions": 50,
+     "comments": 16,
      "published_at": "2026-11-25T14:05:36Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T22:13:30.028994+00:00",
+   "fetched_at": "2026-11-25T22:43:34.284188+00:00",
    "stale": false,
    "items": [
     {
