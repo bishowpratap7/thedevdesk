@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T15:12:15.797959+00:00",
+ "generated_at": "2026-11-25T15:42:19.713710+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T15:12:12.291671+00:00",
+   "fetched_at": "2026-11-25T15:42:18.072350+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50643129,
+     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+     "score": 38,
+     "by": "gumby",
+     "time": 1795619672,
+     "comments": 2
+    },
     {
      "id": 50642086,
      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-     "score": 138,
+     "score": 173,
      "by": "rgwohlbold",
      "time": 1795613587,
-     "comments": 83
+     "comments": 146
     },
     {
      "id": 50641171,
      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-     "score": 162,
+     "score": 179,
      "by": "ThrowNotAway",
      "time": 1795606465,
-     "comments": 93
+     "comments": 108
     },
     {
-     "id": 50607849,
-     "title": "The short age of dragon riders",
-     "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-     "score": 153,
-     "by": "synapsomorphy",
-     "time": 1795412014,
-     "comments": 73
+     "id": 50643199,
+     "title": "In C++, = default and {} are not the same constructor",
+     "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+     "score": 15,
+     "by": "surprisetalk",
+     "time": 1795620015,
+     "comments": 2
     },
     {
      "id": 50638032,
      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
      "url": "https://buttons.joshwcomeau.com/",
-     "score": 619,
+     "score": 637,
      "by": "gaurang_tandon",
      "time": 1795576987,
-     "comments": 98
+     "comments": 101
     },
     {
      "id": 50637220,
      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-     "score": 826,
+     "score": 841,
      "by": "E-Reverance",
      "time": 1795569566,
-     "comments": 453
-    },
-    {
-     "id": 50637686,
-     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "score": 344,
-     "by": "gmays",
-     "time": 1795574061,
-     "comments": 143
+     "comments": 464
     },
     {
      "id": 50642496,
      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-     "score": 49,
+     "score": 73,
      "by": "nephihaha",
      "time": 1795615949,
-     "comments": 26
+     "comments": 50
+    },
+    {
+     "id": 50607849,
+     "title": "The short age of dragon riders",
+     "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+     "score": 169,
+     "by": "synapsomorphy",
+     "time": 1795412014,
+     "comments": 99
+    },
+    {
+     "id": 50637686,
+     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+     "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+     "score": 358,
+     "by": "gmays",
+     "time": 1795574061,
+     "comments": 147
     },
     {
      "id": 50627726,
      "title": "Getting old Java phones online again",
      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-     "score": 110,
+     "score": 122,
      "by": "waximabbax",
      "time": 1795526077,
-     "comments": 50
+     "comments": 51
     },
     {
      "id": 50638503,
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "url": "https://gpu-demo-gallery.pages.dev/",
-     "score": 239,
+     "score": 249,
      "by": "arkits",
      "time": 1795581108,
-     "comments": 50
+     "comments": 52
     },
     {
      "id": 50637890,
      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "score": 328,
+     "score": 340,
      "by": "vinhnx",
      "time": 1795575877,
-     "comments": 116
-    },
-    {
-     "id": 50633922,
-     "title": "Ternary Bonsai 2.5 27B",
-     "url": "https://prismml.com/news/bonsai-2-5-27b",
-     "score": 500,
-     "by": "b0m",
-     "time": 1795550883,
-     "comments": 152
-    },
-    {
-     "id": 50641323,
-     "title": "Hazel (YC W24) Is Hiring a Product Designer",
-     "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-     "score": 1,
-     "by": "augustschen",
-     "time": 1795608034,
-     "comments": 0
+     "comments": 118
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T15:12:14.133097+00:00",
+   "fetched_at": "2026-11-25T15:42:19.003557+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T15:12:15.162300+00:00",
+   "fetched_at": "2026-11-25T15:42:19.176473+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12222,
+     "stars": 12255,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8163,
+     "stars": 8169,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3843,
+     "stars": 3853,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3788,
+     "stars": 3802,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 3505,
+     "stars": 3546,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2822,
+     "stars": 2831,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "iamajmeena/neonclipping",
      "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2591,
+     "stars": 2594,
      "language": "Python",
      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
      "created_at": "2026-11-19T10:00:43Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2202,
+     "stars": 2211,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1942,
+     "stars": 1944,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1844,
+     "stars": 1850,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T15:12:15.632948+00:00",
+   "fetched_at": "2026-11-25T15:42:19.597953+00:00",
    "stale": false,
    "items": [
     {
@@ -299,21 +299,21 @@
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
      "reactions": 75,
-     "comments": 37,
+     "comments": 38,
      "published_at": "2026-11-25T08:29:06Z"
     },
     {
      "title": "Why I Rewrote type-tune from TypeScript to Rust \ud83e\udd80",
      "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
      "author": "nyaomaru",
-     "reactions": 141,
-     "comments": 41,
+     "reactions": 142,
+     "comments": 42,
      "published_at": "2026-11-18T17:27:52Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T15:12:15.692408+00:00",
+   "fetched_at": "2026-11-25T15:42:19.636230+00:00",
    "stale": false,
    "items": [
     {
