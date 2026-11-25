@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T02:38:04.144641+00:00",
+ "generated_at": "2026-11-25T02:39:41.576208+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T02:37:59.947479+00:00",
+   "fetched_at": "2026-11-25T02:38:13.751758+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T02:38:01.505997+00:00",
+   "fetched_at": "2026-11-25T02:38:15.471404+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T02:38:02.969824+00:00",
+   "fetched_at": "2026-11-25T02:39:40.196652+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 11478,
+     "stars": 11480,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 7890,
+     "stars": 7891,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3430,
+     "stars": 3431,
      "language": "Objective-C++",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 2073,
+     "stars": 2075,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 1923,
+     "stars": 1924,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T02:38:03.416451+00:00",
+   "fetched_at": "2026-11-25T02:39:40.720843+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T02:38:03.543209+00:00",
+   "fetched_at": "2026-11-25T02:39:40.861584+00:00",
    "stale": false,
    "items": [
     {
