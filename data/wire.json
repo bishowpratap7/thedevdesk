@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-26T21:19:13.486817+00:00",
+ "generated_at": "2026-11-26T21:49:19.497737+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T21:19:09.463727+00:00",
+   "fetched_at": "2026-11-26T21:49:15.506000+00:00",
    "stale": false,
    "items": [
     {
      "id": 50657265,
-     "title": "AMD Specific Patches for Llama.cpp",
+     "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 194,
+     "score": 213,
      "by": "julianlam",
      "time": 1795713089,
-     "comments": 50
+     "comments": 54
     },
     {
-     "id": 50657645,
-     "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 137,
-     "by": "Bender",
-     "time": 1795715265,
-     "comments": 57
+     "id": 50659841,
+     "title": "The greatest architect you've never heard of is in Pakistan",
+     "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+     "score": 37,
+     "by": "dverlaeckt80",
+     "time": 1795727285,
+     "comments": 6
     },
     {
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 131,
+     "score": 158,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 191
+     "comments": 220
     },
     {
-     "id": 50658191,
-     "title": "Show HN: Fuck_data_brokers.py",
-     "url": "https://github.com/gary23w/f-ck_data_brokers",
-     "score": 100,
-     "by": "gary23w",
-     "time": 1795718241,
-     "comments": 14
-    },
-    {
-     "id": 50658997,
-     "title": "The USA as a Civilizations-esque map",
-     "url": "https://karpathy.ai/usaciv/",
-     "score": 59,
-     "by": "ComputerGuru",
-     "time": 1795722838,
-     "comments": 39
+     "id": 50657645,
+     "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "score": 149,
+     "by": "Bender",
+     "time": 1795715265,
+     "comments": 62
     },
     {
      "id": 50658632,
      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
      "url": "https://github.com/eisenzopf/rvoip",
-     "score": 18,
+     "score": 29,
      "by": "zerosegfaults",
      "time": 1795720689,
-     "comments": 4
+     "comments": 9
+    },
+    {
+     "id": 50659640,
+     "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+     "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+     "score": 10,
+     "by": "liamg",
+     "time": 1795726189,
+     "comments": 0
     },
     {
      "id": 50653667,
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 413,
+     "score": 423,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 228
-    },
-    {
-     "id": 50657936,
-     "title": "George Whitesides, 1939-2026",
-     "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-     "score": 24,
-     "by": "dverlaeckt80",
-     "time": 1795716787,
-     "comments": 4
-    },
-    {
-     "id": 50636931,
-     "title": "Curiosity Is No Solo Act",
-     "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-     "score": 104,
-     "by": "Petiver",
-     "time": 1795567027,
-     "comments": 22
+     "comments": 230
     },
     {
      "id": 50651099,
      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
      "url": "https://olumino.app",
-     "score": 23,
+     "score": 32,
      "by": "Wiyseful",
      "time": 1795663986,
-     "comments": 13
+     "comments": 23
+    },
+    {
+     "id": 50652527,
+     "title": "OpenAI may be in cost control mode",
+     "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+     "score": 141,
+     "by": "seizethecheese",
+     "time": 1795678392,
+     "comments": 128
+    },
+    {
+     "id": 50657936,
+     "title": "George Whitesides, 1939-2026",
+     "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+     "score": 28,
+     "by": "dverlaeckt80",
+     "time": 1795716787,
+     "comments": 4
     },
     {
      "id": 50656036,
      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
      "url": "https://michidk.github.io/sidebyside/",
-     "score": 87,
+     "score": 96,
      "by": "michidk",
      "time": 1795705206,
-     "comments": 23
+     "comments": 24
     },
     {
-     "id": 50657070,
-     "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
-     "url": "https://github.com/rxliuli/sim-drop",
-     "score": 24,
-     "by": "rxliuli",
-     "time": 1795711898,
-     "comments": 5
+     "id": 50636931,
+     "title": "Curiosity Is No Solo Act",
+     "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+     "score": 107,
+     "by": "Petiver",
+     "time": 1795567027,
+     "comments": 22
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T21:19:11.189227+00:00",
+   "fetched_at": "2026-11-26T21:49:17.268374+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T21:19:12.477376+00:00",
+   "fetched_at": "2026-11-26T21:49:18.603698+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13258,
+     "stars": 13279,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8579,
+     "stars": 8581,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 5574,
+     "stars": 5613,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4220,
+     "stars": 4225,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4205,
+     "stars": 4207,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -203,26 +203,26 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3263,
+     "stars": 3264,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
     },
     {
-     "full_name": "ubiquitarianism/leonida",
-     "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2513,
-     "language": "Python",
-     "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-     "created_at": "2026-11-23T23:54:39Z"
-    },
-    {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 2460,
+     "stars": 2523,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
+    },
+    {
+     "full_name": "ubiquitarianism/leonida",
+     "url": "https://github.com/ubiquitarianism/leonida",
+     "stars": 2520,
+     "language": "Python",
+     "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+     "created_at": "2026-11-23T23:54:39Z"
     },
     {
      "full_name": "R0Y00/Xbox2Windows",
@@ -235,7 +235,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1948,
+     "stars": 1949,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T21:19:12.882359+00:00",
+   "fetched_at": "2026-11-26T21:49:19.026716+00:00",
    "stale": false,
    "items": [
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
      "reactions": 124,
-     "comments": 77,
+     "comments": 80,
      "published_at": "2026-11-25T08:29:06Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T21:19:13.002715+00:00",
+   "fetched_at": "2026-11-26T21:49:19.140292+00:00",
    "stale": false,
    "items": [
     {
