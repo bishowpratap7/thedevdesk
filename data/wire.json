@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T13:47:04.949096+00:00",
+ "generated_at": "2026-11-26T13:47:22.808253+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T13:47:00.544287+00:00",
+   "fetched_at": "2026-11-26T13:47:15.992137+00:00",
    "stale": false,
    "items": [
     {
@@ -57,7 +57,7 @@
      "score": 12,
      "by": "PaulHoule",
      "time": 1795468729,
-     "comments": 6
+     "comments": 7
     },
     {
      "id": 50647673,
@@ -66,7 +66,7 @@
      "score": 467,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 389
+     "comments": 390
     },
     {
      "id": 50650892,
@@ -105,18 +105,18 @@
      "comments": 281
     },
     {
-     "id": 50647181,
-     "title": "Slow Ubuntu security response times",
-     "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-     "score": 341,
-     "by": "gslin",
-     "time": 1795639080,
-     "comments": 176
+     "id": 50649864,
+     "title": "Tell HN: Lots of Ask HNs again",
+     "url": null,
+     "score": 314,
+     "by": "dang",
+     "time": 1795653814,
+     "comments": 123
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T13:47:01.802482+00:00",
+   "fetched_at": "2026-11-26T13:47:20.549776+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T13:47:03.521702+00:00",
+   "fetched_at": "2026-11-26T13:47:21.639367+00:00",
    "stale": false,
    "items": [
     {
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T13:47:04.025843+00:00",
+   "fetched_at": "2026-11-26T13:47:21.972975+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T13:47:04.188261+00:00",
+   "fetched_at": "2026-11-26T13:47:22.078843+00:00",
    "stale": false,
    "items": [
     {
