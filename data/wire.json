@@ -1,63 +1,72 @@
 {
- "generated_at": "2026-11-26T12:16:46.529331+00:00",
+ "generated_at": "2026-11-26T12:46:52.371003+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T12:16:42.119140+00:00",
+   "fetched_at": "2026-11-26T12:46:48.352967+00:00",
    "stale": false,
    "items": [
     {
      "id": 50653667,
      "title": "Intel One Mono font",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 105,
+     "score": 136,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 60
+     "comments": 77
     },
     {
      "id": 50646108,
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
-     "score": 1640,
+     "score": 1661,
      "by": "Kotlopou",
      "time": 1795633887,
-     "comments": 1453
+     "comments": 1479
     },
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 1485,
+     "score": 1494,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 639
+     "comments": 643
+    },
+    {
+     "id": 50654289,
+     "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+     "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+     "score": 11,
+     "by": "e12e",
+     "time": 1795693849,
+     "comments": 1
     },
     {
      "id": 50651719,
      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-     "score": 121,
+     "score": 129,
      "by": "joonehur",
      "time": 1795669979,
-     "comments": 17
+     "comments": 20
     },
     {
      "id": 50647673,
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "score": 425,
+     "score": 440,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 354
+     "comments": 364
     },
     {
-     "id": 50648050,
-     "title": "Much shorter version of GRH Lean verification from Anthropic",
-     "url": "https://github.com/lsernau/grh-lean",
-     "score": 474,
-     "by": "nb-t",
-     "time": 1795643290,
-     "comments": 256
+     "id": 50652184,
+     "title": "Moat: Your OpenRouter Replacement",
+     "url": "https://commandcode.ai/moat",
+     "score": 111,
+     "by": "amanverasia",
+     "time": 1795674768,
+     "comments": 75
     },
     {
      "id": 50654353,
@@ -69,37 +78,28 @@
      "comments": 0
     },
     {
+     "id": 50648050,
+     "title": "Much shorter version of GRH Lean verification from Anthropic",
+     "url": "https://github.com/lsernau/grh-lean",
+     "score": 480,
+     "by": "nb-t",
+     "time": 1795643290,
+     "comments": 263
+    },
+    {
      "id": 50649834,
      "title": "Collection of preserved UI style guides",
      "url": "https://aresluna.org/ui-style-guides/",
-     "score": 245,
+     "score": 260,
      "by": "sohkamyung",
      "time": 1795653600,
-     "comments": 25
-    },
-    {
-     "id": 50653477,
-     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-     "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-     "score": 64,
-     "by": "ritzaco",
-     "time": 1795686263,
-     "comments": 52
-    },
-    {
-     "id": 50652184,
-     "title": "Moat: Your OpenRouter Replacement",
-     "url": "https://commandcode.ai/moat",
-     "score": 101,
-     "by": "amanverasia",
-     "time": 1795674768,
-     "comments": 75
+     "comments": 30
     },
     {
      "id": 50650892,
      "title": "Minipg: PostgreSQL as a Single Executable",
      "url": "https://progrium.github.io/minipg/",
-     "score": 159,
+     "score": 168,
      "by": "rguiscard",
      "time": 1795662048,
      "comments": 24
@@ -108,7 +108,7 @@
      "id": 50649864,
      "title": "Tell HN: Lots of Ask HNs again",
      "url": null,
-     "score": 288,
+     "score": 296,
      "by": "dang",
      "time": 1795653814,
      "comments": 113
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T12:16:43.542829+00:00",
+   "fetched_at": "2026-11-26T12:46:49.451922+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T12:16:45.228742+00:00",
+   "fetched_at": "2026-11-26T12:46:51.095837+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12931,
+     "stars": 12947,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8433,
+     "stars": 8442,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 4913,
+     "stars": 4945,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4117,
+     "stars": 4120,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4106,
+     "stars": 4111,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3194,
+     "stars": 3193,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2422,
+     "stars": 2423,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1920,
+     "stars": 1922,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1849,
+     "stars": 1850,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T12:16:45.783737+00:00",
+   "fetched_at": "2026-11-26T12:46:51.610250+00:00",
    "stale": false,
    "items": [
     {
@@ -259,15 +259,15 @@
      "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
      "author": "Klaudia Grzondziel",
      "reactions": 66,
-     "comments": 18,
+     "comments": 19,
      "published_at": "2026-11-25T14:05:36Z"
     },
     {
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 165,
-     "comments": 80,
+     "reactions": 166,
+     "comments": 82,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -275,7 +275,7 @@
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
      "reactions": 116,
-     "comments": 65,
+     "comments": 66,
      "published_at": "2026-11-25T08:29:06Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T12:16:45.932819+00:00",
+   "fetched_at": "2026-11-26T12:46:51.763345+00:00",
    "stale": false,
    "items": [
     {
