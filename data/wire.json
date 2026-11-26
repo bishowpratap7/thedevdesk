@@ -1,87 +1,87 @@
 {
- "generated_at": "2026-11-26T18:48:42.701646+00:00",
+ "generated_at": "2026-11-26T19:18:48.899628+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T18:48:38.627185+00:00",
+   "fetched_at": "2026-11-26T19:18:44.516724+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50657307,
-     "title": "Tracking Diseases Cured by AI",
-     "url": "https://diseasescuredbyai.com/",
-     "score": 184,
-     "by": "spoofyroot",
-     "time": 1795713401,
-     "comments": 89
-    },
     {
      "id": 50657265,
      "title": "AMD Specific Patches for Llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 81,
+     "score": 111,
      "by": "julianlam",
      "time": 1795713089,
-     "comments": 24
+     "comments": 31
     },
     {
      "id": 50657645,
      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 34,
+     "score": 61,
      "by": "Bender",
      "time": 1795715265,
-     "comments": 7
+     "comments": 18
+    },
+    {
+     "id": 50657355,
+     "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
+     "url": "https://github.com/deepseek-ai/deepseek-math",
+     "score": 19,
+     "by": "Bluestein",
+     "time": 1795713674,
+     "comments": 3
     },
     {
      "id": 50653667,
-     "title": "Intel One Mono font",
+     "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 377,
+     "score": 386,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 213
+     "comments": 216
     },
     {
      "id": 50657059,
      "title": "NP_R \u2260 PAR_R",
      "url": "https://github.com/samueleverett01/bss-permanent-separations",
-     "score": 89,
+     "score": 102,
      "by": "sameverett",
      "time": 1795711855,
-     "comments": 86
+     "comments": 97
     },
     {
      "id": 50656036,
      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
      "url": "https://michidk.github.io/sidebyside/",
-     "score": 59,
+     "score": 72,
      "by": "michidk",
      "time": 1795705206,
-     "comments": 19
+     "comments": 18
     },
     {
      "id": 50655664,
      "title": "Tell HN: Happy Thanksgiving",
      "url": null,
-     "score": 433,
+     "score": 463,
      "by": "ericmay",
      "time": 1795703214,
-     "comments": 114
+     "comments": 119
     },
     {
      "id": 50654289,
      "title": "Nextcloud Office Desktop app",
      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-     "score": 351,
+     "score": 357,
      "by": "e12e",
      "time": 1795693849,
-     "comments": 154
+     "comments": 159
     },
     {
      "id": 50636931,
      "title": "Curiosity Is No Solo Act",
      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-     "score": 78,
+     "score": 86,
      "by": "Petiver",
      "time": 1795567027,
      "comments": 20
@@ -90,33 +90,33 @@
      "id": 50647673,
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "score": 586,
+     "score": 599,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 477
+     "comments": 483
     },
     {
-     "id": 50651719,
-     "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-     "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-     "score": 227,
-     "by": "joonehur",
-     "time": 1795669979,
-     "comments": 50
+     "id": 50657070,
+     "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
+     "url": "https://github.com/rxliuli/sim-drop",
+     "score": 12,
+     "by": "rxliuli",
+     "time": 1795711898,
+     "comments": 1
     },
     {
-     "id": 50619466,
-     "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-     "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-     "score": 66,
-     "by": "PaulHoule",
-     "time": 1795468729,
-     "comments": 45
+     "id": 50657530,
+     "title": "YouTube Ad Punisher \u2013 Bypass anti-adblock",
+     "url": "https://github.com/antonpictures/youtube-punisher",
+     "score": 53,
+     "by": "iantongeorge",
+     "time": 1795714607,
+     "comments": 63
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T18:48:40.406604+00:00",
+   "fetched_at": "2026-11-26T19:18:46.293199+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T18:48:41.811842+00:00",
+   "fetched_at": "2026-11-26T19:18:47.645749+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13182,
+     "stars": 13193,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8554,
+     "stars": 8559,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 5387,
+     "stars": 5426,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4201,
+     "stars": 4204,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4196,
+     "stars": 4199,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3251,
+     "stars": 3255,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2496,
+     "stars": 2500,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 1970,
+     "stars": 2081,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1962,
+     "stars": 1963,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T18:48:42.211958+00:00",
+   "fetched_at": "2026-11-26T19:18:48.082586+00:00",
    "stale": false,
    "items": [
     {
@@ -258,16 +258,16 @@
      "title": "The mental toll of working in tech",
      "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
      "author": "Klaudia Grzondziel",
-     "reactions": 76,
-     "comments": 23,
+     "reactions": 78,
+     "comments": 24,
      "published_at": "2026-11-25T14:05:36Z"
     },
     {
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 174,
-     "comments": 86,
+     "reactions": 178,
+     "comments": 87,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T18:48:42.302345+00:00",
+   "fetched_at": "2026-11-26T19:18:48.227343+00:00",
    "stale": false,
    "items": [
     {
