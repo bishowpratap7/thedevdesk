@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-25T23:43:54.713357+00:00",
+ "generated_at": "2026-11-26T00:13:58.784007+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-25T23:43:51.922752+00:00",
+   "fetched_at": "2026-11-26T00:13:56.242642+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50648823,
+     "title": "Jev is (probably) Qwen3.5-35B-A3B",
+     "url": "https://modaic.dev/blog/latency-doesnt-lie",
+     "score": 137,
+     "by": "csoham",
+     "time": 1795647424,
+     "comments": 25
+    },
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 1019,
+     "score": 1055,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 429
+     "comments": 457
     },
     {
      "id": 50648050,
      "title": "Much shorter version of GRH Lean verification from Anthropic",
      "url": "https://github.com/lsernau/grh-lean",
-     "score": 175,
+     "score": 205,
      "by": "nb-t",
      "time": 1795643290,
-     "comments": 77
-    },
-    {
-     "id": 50648823,
-     "title": "Jev is (probably) Qwen3.5-35B-A3B",
-     "url": "https://modaic.dev/blog/latency-doesnt-lie",
-     "score": 61,
-     "by": "csoham",
-     "time": 1795647424,
-     "comments": 0
+     "comments": 91
     },
     {
      "id": 50647673,
      "title": "The New York Times tells photographers not to use the latest Photoshop",
      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
-     "score": 114,
+     "score": 144,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 58
+     "comments": 71
     },
     {
      "id": 50601280,
      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-     "score": 185,
+     "score": 203,
      "by": "bjin",
      "time": 1795365888,
-     "comments": 50
+     "comments": 59
     },
     {
      "id": 50647181,
      "title": "Slow Ubuntu security response times",
      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-     "score": 90,
+     "score": 101,
      "by": "gslin",
      "time": 1795639080,
-     "comments": 30
-    },
-    {
-     "id": 50647158,
-     "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
-     "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
-     "score": 83,
-     "by": "handfuloflight",
-     "time": 1795638939,
-     "comments": 38
+     "comments": 34
     },
     {
      "id": 50643129,
      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "score": 418,
+     "score": 425,
      "by": "gumby",
      "time": 1795619672,
      "comments": 100
     },
     {
+     "id": 50647158,
+     "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+     "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+     "score": 115,
+     "by": "handfuloflight",
+     "time": 1795638939,
+     "comments": 53
+    },
+    {
      "id": 50647161,
      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-     "score": 58,
+     "score": 68,
      "by": "dm",
      "time": 1795638950,
-     "comments": 18
-    },
-    {
-     "id": 50646108,
-     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-     "url": "https://scottaaronson.blog/?p=10379",
-     "score": 772,
-     "by": "Kotlopou",
-     "time": 1795633887,
-     "comments": 616
+     "comments": 21
     },
     {
      "id": 50589784,
      "title": "SSH is a GUI framework",
      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-     "score": 112,
+     "score": 119,
      "by": "teledream",
      "time": 1795272761,
-     "comments": 57
+     "comments": 61
     },
     {
-     "id": 50648035,
-     "title": "Defang Security Incident",
-     "url": "https://defang.io/blog/post/security-incident-november-2026/",
-     "score": 41,
-     "by": "gregsadetsky",
-     "time": 1795643236,
-     "comments": 14
+     "id": 50646108,
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "score": 792,
+     "by": "Kotlopou",
+     "time": 1795633887,
+     "comments": 653
+    },
+    {
+     "id": 50648365,
+     "title": "Bare Metal Qwen",
+     "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+     "score": 24,
+     "by": "miohtama",
+     "time": 1795644934,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-25T23:43:52.859178+00:00",
+   "fetched_at": "2026-11-26T00:13:57.139094+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-25T23:43:53.791331+00:00",
+   "fetched_at": "2026-11-26T00:13:58.110118+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12587,
+     "stars": 12606,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8305,
+     "stars": 8312,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 4081,
+     "stars": 4110,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3946,
+     "stars": 3955,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3926,
+     "stars": 3934,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,23 +203,15 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3056,
+     "stars": 3062,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
     },
     {
-     "full_name": "iamajmeena/neonclipping",
-     "url": "https://github.com/iamajmeena/neonclipping",
-     "stars": 2627,
-     "language": "Python",
-     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-     "created_at": "2026-11-19T10:00:43Z"
-    },
-    {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2324,
+     "stars": 2329,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +219,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1952,
+     "stars": 1953,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -239,11 +231,19 @@
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
+    },
+    {
+     "full_name": "omonkeyz/xbox-emulator",
+     "url": "https://github.com/omonkeyz/xbox-emulator",
+     "stars": 1849,
+     "language": "Rust",
+     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+     "created_at": "2026-11-21T08:08:39Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-25T23:43:54.208465+00:00",
+   "fetched_at": "2026-11-26T00:13:58.420872+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 151,
+     "reactions": 152,
      "comments": 76,
      "published_at": "2026-11-23T14:42:00Z"
     },
@@ -274,7 +274,7 @@
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 86,
+     "reactions": 87,
      "comments": 49,
      "published_at": "2026-11-25T08:29:06Z"
     },
@@ -298,7 +298,7 @@
      "title": "I can't believe the podcast I learned to code with is back!",
      "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
      "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 42,
+     "reactions": 43,
      "comments": 9,
      "published_at": "2026-11-20T08:55:01Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-25T23:43:54.366071+00:00",
+   "fetched_at": "2026-11-26T00:13:58.575607+00:00",
    "stale": false,
    "items": [
     {
