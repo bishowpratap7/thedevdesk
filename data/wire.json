@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-26T17:48:13.600067+00:00",
+ "generated_at": "2026-11-26T18:18:19.697263+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T17:48:09.634993+00:00",
+   "fetched_at": "2026-11-26T18:18:15.418882+00:00",
    "stale": false,
    "items": [
     {
-     "id": 50657059,
-     "title": "NP_R \u2260 PAR_R",
-     "url": "https://github.com/samueleverett01/bss-permanent-separations",
-     "score": 66,
-     "by": "sameverett",
-     "time": 1795711855,
+     "id": 50657307,
+     "title": "Tracking Diseases Cured by AI",
+     "url": "https://diseasescuredbyai.com/",
+     "score": 98,
+     "by": "spoofyroot",
+     "time": 1795713401,
      "comments": 41
     },
     {
      "id": 50657265,
      "title": "AMD Specific Patches for Llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 43,
+     "score": 65,
      "by": "julianlam",
      "time": 1795713089,
-     "comments": 6
-    },
-    {
-     "id": 50653667,
-     "title": "Intel One Mono font",
-     "url": "https://github.com/intel/intel-one-mono",
-     "score": 349,
-     "by": "saikatsg",
-     "time": 1795687861,
-     "comments": 198
-    },
-    {
-     "id": 50646108,
-     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-     "url": "https://scottaaronson.blog/?p=10379",
-     "score": 1879,
-     "by": "Kotlopou",
-     "time": 1795633887,
-     "comments": 1719
-    },
-    {
-     "id": 50655664,
-     "title": "Tell HN: Happy Thanksgiving",
-     "url": null,
-     "score": 374,
-     "by": "ericmay",
-     "time": 1795703214,
-     "comments": 106
-    },
-    {
-     "id": 50656036,
-     "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-     "url": "https://michidk.github.io/sidebyside/",
-     "score": 37,
-     "by": "michidk",
-     "time": 1795705206,
-     "comments": 12
-    },
-    {
-     "id": 50654289,
-     "title": "Nextcloud Office Desktop app",
-     "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-     "score": 342,
-     "by": "e12e",
-     "time": 1795693849,
-     "comments": 143
-    },
-    {
-     "id": 50636931,
-     "title": "Curiosity Is No Solo Act",
-     "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-     "score": 69,
-     "by": "Petiver",
-     "time": 1795567027,
-     "comments": 16
+     "comments": 17
     },
     {
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Bypass anti-adblock",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 4,
+     "score": 27,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 0
+     "comments": 23
     },
     {
-     "id": 50644839,
-     "title": "The Engineering of Smartphone Cameras",
-     "url": "https://www.pencilofrays.com/smartphone-lens/",
-     "score": 19,
-     "by": "nbernard",
-     "time": 1795627214,
-     "comments": 5
+     "id": 50657645,
+     "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "score": 14,
+     "by": "Bender",
+     "time": 1795715265,
+     "comments": 1
     },
     {
-     "id": 50619466,
-     "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-     "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-     "score": 63,
-     "by": "PaulHoule",
-     "time": 1795468729,
-     "comments": 41
+     "id": 50657059,
+     "title": "NP_R \u2260 PAR_R",
+     "url": "https://github.com/samueleverett01/bss-permanent-separations",
+     "score": 77,
+     "by": "sameverett",
+     "time": 1795711855,
+     "comments": 67
+    },
+    {
+     "id": 50653667,
+     "title": "Intel One Mono font",
+     "url": "https://github.com/intel/intel-one-mono",
+     "score": 364,
+     "by": "saikatsg",
+     "time": 1795687861,
+     "comments": 203
+    },
+    {
+     "id": 50656036,
+     "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+     "url": "https://michidk.github.io/sidebyside/",
+     "score": 50,
+     "by": "michidk",
+     "time": 1795705206,
+     "comments": 14
+    },
+    {
+     "id": 50654289,
+     "title": "Nextcloud Office Desktop app",
+     "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+     "score": 348,
+     "by": "e12e",
+     "time": 1795693849,
+     "comments": 147
+    },
+    {
+     "id": 50655664,
+     "title": "Tell HN: Happy Thanksgiving",
+     "url": null,
+     "score": 403,
+     "by": "ericmay",
+     "time": 1795703214,
+     "comments": 110
+    },
+    {
+     "id": 50636931,
+     "title": "Curiosity Is No Solo Act",
+     "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+     "score": 73,
+     "by": "Petiver",
+     "time": 1795567027,
+     "comments": 18
     },
     {
      "id": 50647673,
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "score": 562,
+     "score": 569,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 468
+     "comments": 474
+    },
+    {
+     "id": 50619466,
+     "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+     "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+     "score": 66,
+     "by": "PaulHoule",
+     "time": 1795468729,
+     "comments": 44
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T17:48:11.332320+00:00",
+   "fetched_at": "2026-11-26T18:18:17.360111+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T17:48:12.398752+00:00",
+   "fetched_at": "2026-11-26T18:18:18.376022+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13144,
+     "stars": 13167,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8539,
+     "stars": 8548,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 5321,
+     "stars": 5359,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4193,
+     "stars": 4195,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4188,
+     "stars": 4193,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3247,
+     "stars": 3249,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2485,
+     "stars": 2487,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1961,
+     "stars": 1960,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1942,
+     "stars": 1944,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T17:48:12.771603+00:00",
+   "fetched_at": "2026-11-26T18:18:18.769578+00:00",
    "stale": false,
    "items": [
     {
@@ -258,8 +258,8 @@
      "title": "The mental toll of working in tech",
      "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
      "author": "Klaudia Grzondziel",
-     "reactions": 75,
-     "comments": 22,
+     "reactions": 76,
+     "comments": 23,
      "published_at": "2026-11-25T14:05:36Z"
     },
     {
@@ -307,13 +307,13 @@
      "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
      "author": "Earl Grey",
      "reactions": 103,
-     "comments": 64,
+     "comments": 65,
      "published_at": "2026-11-21T18:23:38Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T17:48:12.907966+00:00",
+   "fetched_at": "2026-11-26T18:18:18.914119+00:00",
    "stale": false,
    "items": [
     {
