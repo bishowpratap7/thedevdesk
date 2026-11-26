@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T08:45:49.538723+00:00",
+ "generated_at": "2026-11-26T08:46:04.715844+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T08:45:44.547343+00:00",
+   "fetched_at": "2026-11-26T08:46:00.122454+00:00",
    "stale": false,
    "items": [
     {
@@ -12,7 +12,7 @@
      "score": 1445,
      "by": "Kotlopou",
      "time": 1795633887,
-     "comments": 1257
+     "comments": 1258
     },
     {
      "id": 50644817,
@@ -21,7 +21,7 @@
      "score": 1392,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 589
+     "comments": 591
     },
     {
      "id": 50651719,
@@ -111,12 +111,12 @@
      "score": 278,
      "by": "gslin",
      "time": 1795639080,
-     "comments": 124
+     "comments": 125
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T08:45:45.992814+00:00",
+   "fetched_at": "2026-11-26T08:46:01.546151+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T08:45:48.164239+00:00",
+   "fetched_at": "2026-11-26T08:46:03.372333+00:00",
    "stale": false,
    "items": [
     {
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 4651,
+     "stars": 4652,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4063,
+     "stars": 4064,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T08:45:48.829127+00:00",
+   "fetched_at": "2026-11-26T08:46:03.960252+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T08:45:49.004526+00:00",
+   "fetched_at": "2026-11-26T08:46:04.090028+00:00",
    "stale": false,
    "items": [
     {
