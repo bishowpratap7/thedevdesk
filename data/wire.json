@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-26T05:15:02.310982+00:00",
+ "generated_at": "2026-11-26T05:45:08.741880+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T05:14:57.899181+00:00",
+   "fetched_at": "2026-11-26T05:45:04.057107+00:00",
    "stale": false,
    "items": [
     {
      "id": 50646108,
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
-     "score": 1169,
+     "score": 1200,
      "by": "Kotlopou",
      "time": 1795633887,
-     "comments": 1007
+     "comments": 1051
     },
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 1284,
+     "score": 1294,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 542
+     "comments": 546
     },
     {
      "id": 50648050,
      "title": "Much shorter version of GRH Lean verification from Anthropic",
      "url": "https://github.com/lsernau/grh-lean",
-     "score": 362,
+     "score": 371,
      "by": "nb-t",
      "time": 1795643290,
-     "comments": 180
+     "comments": 186
     },
     {
      "id": 50598636,
      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-     "score": 31,
+     "score": 43,
      "by": "Michelangelo11",
      "time": 1795346984,
-     "comments": 2
-    },
-    {
-     "id": 50649864,
-     "title": "Tell HN: Lots of Ask HNs again",
-     "url": null,
-     "score": 172,
-     "by": "dang",
-     "time": 1795653814,
-     "comments": 71
+     "comments": 8
     },
     {
      "id": 50626466,
      "title": "What VP \u2260 VNP Means (In 3 Minutes)",
      "url": "https://www.friedgil.com/vpvnp",
-     "score": 46,
+     "score": 58,
      "by": "vinhnx",
      "time": 1795517816,
      "comments": 1
     },
     {
+     "id": 50649864,
+     "title": "Tell HN: Lots of Ask HNs again",
+     "url": null,
+     "score": 184,
+     "by": "dang",
+     "time": 1795653814,
+     "comments": 74
+    },
+    {
      "id": 50649834,
      "title": "Collection of preserved UI style guides",
      "url": "https://aresluna.org/ui-style-guides/",
-     "score": 62,
+     "score": 79,
      "by": "sohkamyung",
      "time": 1795653600,
-     "comments": 4
-    },
-    {
-     "id": 50601280,
-     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-     "score": 315,
-     "by": "bjin",
-     "time": 1795365888,
-     "comments": 88
+     "comments": 7
     },
     {
      "id": 50647181,
      "title": "Slow Ubuntu security response times",
      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-     "score": 202,
+     "score": 217,
      "by": "gslin",
      "time": 1795639080,
-     "comments": 98
+     "comments": 101
     },
     {
-     "id": 50643129,
-     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "score": 458,
-     "by": "gumby",
-     "time": 1795619672,
-     "comments": 112
-    },
-    {
-     "id": 50637448,
-     "title": "How did pinwheel calculators work?",
-     "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
-     "score": 47,
-     "by": "surprisetalk",
-     "time": 1795572008,
-     "comments": 4
+     "id": 50601280,
+     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+     "score": 321,
+     "by": "bjin",
+     "time": 1795365888,
+     "comments": 89
     },
     {
      "id": 50650892,
      "title": "Minipg: PostgreSQL as a Single Executable",
      "url": "https://progrium.github.io/minipg/",
-     "score": 21,
+     "score": 29,
      "by": "rguiscard",
      "time": 1795662048,
-     "comments": 2
+     "comments": 4
+    },
+    {
+     "id": 50643129,
+     "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+     "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+     "score": 459,
+     "by": "gumby",
+     "time": 1795619672,
+     "comments": 113
+    },
+    {
+     "id": 50637448,
+     "title": "How did pinwheel calculators work?",
+     "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+     "score": 50,
+     "by": "surprisetalk",
+     "time": 1795572008,
+     "comments": 4
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T05:14:59.249810+00:00",
+   "fetched_at": "2026-11-26T05:45:05.324348+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T05:15:01.075284+00:00",
+   "fetched_at": "2026-11-26T05:45:07.271924+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12720,
+     "stars": 12735,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8360,
+     "stars": 8365,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 4422,
+     "stars": 4445,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4040,
+     "stars": 4043,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4003,
+     "stars": 4008,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3128,
+     "stars": 3135,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2365,
+     "stars": 2366,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1902,
+     "stars": 1904,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T05:15:01.631211+00:00",
+   "fetched_at": "2026-11-26T05:45:07.858888+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 152,
+     "reactions": 153,
      "comments": 76,
      "published_at": "2026-11-23T14:42:00Z"
     },
@@ -266,7 +266,7 @@
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 94,
+     "reactions": 97,
      "comments": 51,
      "published_at": "2026-11-25T08:29:06Z"
     },
@@ -303,17 +303,17 @@
      "published_at": "2026-11-20T08:55:01Z"
     },
     {
-     "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
-     "url": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh",
+     "title": "The Chairs Are Back. The Coffee Is On. \u2615",
+     "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
      "author": "xulingfeng",
-     "reactions": 119,
-     "comments": 59,
-     "published_at": "2026-11-19T03:35:10Z"
+     "reactions": 123,
+     "comments": 64,
+     "published_at": "2026-11-21T11:24:29Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T05:15:01.665960+00:00",
+   "fetched_at": "2026-11-26T05:45:08.183338+00:00",
    "stale": false,
    "items": [
     {
