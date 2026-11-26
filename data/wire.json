@@ -1,51 +1,60 @@
 {
- "generated_at": "2026-11-26T01:14:07.778341+00:00",
+ "generated_at": "2026-11-26T01:44:12.198091+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T01:14:04.860362+00:00",
+   "fetched_at": "2026-11-26T01:44:09.189781+00:00",
    "stale": false,
    "items": [
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 1104,
+     "score": 1137,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 480
+     "comments": 491
     },
     {
      "id": 50646108,
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
-     "score": 857,
+     "score": 890,
      "by": "Kotlopou",
      "time": 1795633887,
-     "comments": 706
+     "comments": 729
     },
     {
      "id": 50648050,
      "title": "Much shorter version of GRH Lean verification from Anthropic",
      "url": "https://github.com/lsernau/grh-lean",
-     "score": 246,
+     "score": 273,
      "by": "nb-t",
      "time": 1795643290,
-     "comments": 112
+     "comments": 124
+    },
+    {
+     "id": 50649864,
+     "title": "Tell HN: Lots of Ask HNs again",
+     "url": null,
+     "score": 50,
+     "by": "dang",
+     "time": 1795653814,
+     "comments": 22
     },
     {
      "id": 50647673,
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "score": 184,
+     "score": 198,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 119
+     "comments": 147
     },
     {
      "id": 50601280,
      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-     "score": 233,
+     "score": 245,
      "by": "bjin",
      "time": 1795365888,
      "comments": 71
@@ -54,69 +63,60 @@
      "id": 50647181,
      "title": "Slow Ubuntu security response times",
      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-     "score": 123,
+     "score": 140,
      "by": "gslin",
      "time": 1795639080,
-     "comments": 50
-    },
-    {
-     "id": 50649864,
-     "title": "Tell HN: Lots of Ask HNs again",
-     "url": null,
-     "score": 26,
-     "by": "dang",
-     "time": 1795653814,
-     "comments": 12
+     "comments": 56
     },
     {
      "id": 50643129,
      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-     "score": 432,
+     "score": 437,
      "by": "gumby",
      "time": 1795619672,
-     "comments": 104
-    },
-    {
-     "id": 50647161,
-     "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-     "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-     "score": 79,
-     "by": "dm",
-     "time": 1795638950,
-     "comments": 26
-    },
-    {
-     "id": 50648365,
-     "title": "Bare Metal Qwen",
-     "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-     "score": 52,
-     "by": "miohtama",
-     "time": 1795644934,
-     "comments": 5
+     "comments": 106
     },
     {
      "id": 50645541,
      "title": "Multiagent coding is the future",
      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
-     "score": 19,
+     "score": 31,
      "by": "akalin",
      "time": 1795630811,
+     "comments": 9
+    },
+    {
+     "id": 50647161,
+     "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+     "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+     "score": 83,
+     "by": "dm",
+     "time": 1795638950,
+     "comments": 28
+    },
+    {
+     "id": 50648365,
+     "title": "Bare Metal Qwen",
+     "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+     "score": 59,
+     "by": "miohtama",
+     "time": 1795644934,
      "comments": 7
     },
     {
-     "id": 50589784,
-     "title": "SSH is a GUI framework",
-     "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-     "score": 127,
-     "by": "teledream",
-     "time": 1795272761,
-     "comments": 65
+     "id": 50648323,
+     "title": "Deploying a payphone on a tiny Pacific Island",
+     "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+     "score": 36,
+     "by": "qzervaas",
+     "time": 1795644745,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T01:14:05.923594+00:00",
+   "fetched_at": "2026-11-26T01:44:10.095681+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T01:14:06.946926+00:00",
+   "fetched_at": "2026-11-26T01:44:11.126780+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12626,
+     "stars": 12636,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8323,
+     "stars": 8326,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 4175,
+     "stars": 4201,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 3970,
+     "stars": 3980,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 3952,
+     "stars": 3960,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3076,
+     "stars": 3084,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2336,
+     "stars": 2342,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1955,
+     "stars": 1956,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1890,
+     "stars": 1892,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T01:14:07.311474+00:00",
+   "fetched_at": "2026-11-26T01:44:11.526310+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 93,
+     "reactions": 94,
      "comments": 50,
      "published_at": "2026-11-25T08:29:06Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T01:14:07.430659+00:00",
+   "fetched_at": "2026-11-26T01:44:11.716774+00:00",
    "stale": false,
    "items": [
     {
