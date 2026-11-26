@@ -1,96 +1,96 @@
 {
- "generated_at": "2026-11-26T08:46:04.715844+00:00",
+ "generated_at": "2026-11-26T09:16:10.385901+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T08:46:00.122454+00:00",
+   "fetched_at": "2026-11-26T09:16:06.166311+00:00",
    "stale": false,
    "items": [
     {
      "id": 50646108,
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
-     "score": 1445,
+     "score": 1482,
      "by": "Kotlopou",
      "time": 1795633887,
-     "comments": 1258
+     "comments": 1291
     },
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 1392,
+     "score": 1409,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 591
+     "comments": 600
     },
     {
      "id": 50651719,
      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-     "score": 74,
+     "score": 89,
      "by": "joonehur",
      "time": 1795669979,
-     "comments": 9
-    },
-    {
-     "id": 50648050,
-     "title": "Much shorter version of GRH Lean verification from Anthropic",
-     "url": "https://github.com/lsernau/grh-lean",
-     "score": 438,
-     "by": "nb-t",
-     "time": 1795643290,
-     "comments": 223
+     "comments": 14
     },
     {
      "id": 50652184,
      "title": "Moat: Your OpenRouter Replacement",
      "url": "https://commandcode.ai/moat",
-     "score": 26,
+     "score": 44,
      "by": "amanverasia",
      "time": 1795674768,
-     "comments": 16
+     "comments": 26
     },
     {
-     "id": 50650892,
-     "title": "Minipg: PostgreSQL as a Single Executable",
-     "url": "https://progrium.github.io/minipg/",
-     "score": 109,
-     "by": "rguiscard",
-     "time": 1795662048,
-     "comments": 16
+     "id": 50648050,
+     "title": "Much shorter version of GRH Lean verification from Anthropic",
+     "url": "https://github.com/lsernau/grh-lean",
+     "score": 446,
+     "by": "nb-t",
+     "time": 1795643290,
+     "comments": 225
     },
     {
      "id": 50647673,
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "score": 358,
+     "score": 374,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 302
+     "comments": 316
+    },
+    {
+     "id": 50650892,
+     "title": "Minipg: PostgreSQL as a Single Executable",
+     "url": "https://progrium.github.io/minipg/",
+     "score": 114,
+     "by": "rguiscard",
+     "time": 1795662048,
+     "comments": 17
     },
     {
      "id": 50649834,
      "title": "Collection of preserved UI style guides",
      "url": "https://aresluna.org/ui-style-guides/",
-     "score": 150,
+     "score": 157,
      "by": "sohkamyung",
      "time": 1795653600,
-     "comments": 16
+     "comments": 18
     },
     {
      "id": 50649864,
      "title": "Tell HN: Lots of Ask HNs again",
      "url": null,
-     "score": 249,
+     "score": 253,
      "by": "dang",
      "time": 1795653814,
-     "comments": 91
+     "comments": 94
     },
     {
      "id": 50623232,
      "title": "Show HN: Synth Patch Hero",
      "url": "https://swarkentin.github.io/synth-patch-hero/",
-     "score": 29,
+     "score": 30,
      "by": "kaidon",
      "time": 1795490662,
      "comments": 7
@@ -99,24 +99,24 @@
      "id": 50598636,
      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-     "score": 82,
+     "score": 85,
      "by": "Michelangelo11",
      "time": 1795346984,
-     "comments": 21
+     "comments": 23
     },
     {
-     "id": 50647181,
-     "title": "Slow Ubuntu security response times",
-     "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-     "score": 278,
-     "by": "gslin",
-     "time": 1795639080,
-     "comments": 125
+     "id": 50601280,
+     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+     "score": 365,
+     "by": "bjin",
+     "time": 1795365888,
+     "comments": 104
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T08:46:01.546151+00:00",
+   "fetched_at": "2026-11-26T09:16:07.300525+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T08:46:03.372333+00:00",
+   "fetched_at": "2026-11-26T09:16:09.077084+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12834,
+     "stars": 12847,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8396,
+     "stars": 8402,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 4652,
+     "stars": 4690,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4071,
+     "stars": 4081,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4064,
+     "stars": 4073,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3164,
+     "stars": 3167,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2396,
+     "stars": 2403,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1960,
+     "stars": 1961,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1912,
+     "stars": 1913,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1849,
+     "stars": 1850,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T08:46:03.960252+00:00",
+   "fetched_at": "2026-11-26T09:16:09.599174+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 160,
+     "reactions": 165,
      "comments": 76,
      "published_at": "2026-11-23T14:42:00Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T08:46:04.090028+00:00",
+   "fetched_at": "2026-11-26T09:16:09.756811+00:00",
    "stale": false,
    "items": [
     {
