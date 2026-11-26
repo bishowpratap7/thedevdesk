@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T23:49:44.778160+00:00",
+ "generated_at": "2026-11-26T23:50:05.570664+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T23:49:40.476073+00:00",
+   "fetched_at": "2026-11-26T23:50:00.542836+00:00",
    "stale": false,
    "items": [
     {
@@ -36,10 +36,10 @@
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 219,
+     "score": 220,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 296
+     "comments": 297
     },
     {
      "id": 50657645,
@@ -54,7 +54,7 @@
      "id": 50658632,
      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
      "url": "https://github.com/eisenzopf/rvoip",
-     "score": 62,
+     "score": 63,
      "by": "zerosegfaults",
      "time": 1795720689,
      "comments": 13
@@ -99,7 +99,7 @@
      "id": 50652527,
      "title": "OpenAI may be in cost control mode",
      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-     "score": 233,
+     "score": 234,
      "by": "seizethecheese",
      "time": 1795678392,
      "comments": 216
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T23:49:42.496646+00:00",
+   "fetched_at": "2026-11-26T23:50:02.401423+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T23:49:43.757205+00:00",
+   "fetched_at": "2026-11-26T23:50:04.748580+00:00",
    "stale": false,
    "items": [
     {
@@ -211,7 +211,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 2809,
+     "stars": 2810,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T23:49:44.116477+00:00",
+   "fetched_at": "2026-11-26T23:50:05.213725+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T23:49:44.236191+00:00",
+   "fetched_at": "2026-11-26T23:50:05.298381+00:00",
    "stale": false,
    "items": [
     {
