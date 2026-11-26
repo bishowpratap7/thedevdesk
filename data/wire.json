@@ -1,72 +1,81 @@
 {
- "generated_at": "2026-11-26T12:46:52.371003+00:00",
+ "generated_at": "2026-11-26T13:16:58.722096+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-26T12:46:48.352967+00:00",
+   "fetched_at": "2026-11-26T13:16:54.318596+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50654289,
+     "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+     "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+     "score": 64,
+     "by": "e12e",
+     "time": 1795693849,
+     "comments": 14
+    },
     {
      "id": 50653667,
      "title": "Intel One Mono font",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 136,
+     "score": 163,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 77
+     "comments": 95
     },
     {
      "id": 50646108,
      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
      "url": "https://scottaaronson.blog/?p=10379",
-     "score": 1661,
+     "score": 1685,
      "by": "Kotlopou",
      "time": 1795633887,
-     "comments": 1479
+     "comments": 1510
     },
     {
      "id": 50644817,
      "title": "1Password Security Incident",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-     "score": 1494,
+     "score": 1506,
      "by": "lxhrstn",
      "time": 1795627106,
-     "comments": 643
-    },
-    {
-     "id": 50654289,
-     "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-     "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-     "score": 11,
-     "by": "e12e",
-     "time": 1795693849,
-     "comments": 1
+     "comments": 649
     },
     {
      "id": 50651719,
      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-     "score": 129,
+     "score": 139,
      "by": "joonehur",
      "time": 1795669979,
-     "comments": 20
+     "comments": 23
     },
     {
      "id": 50647673,
      "title": "The New York Times warns photographers not to update Photoshop over AI features",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "score": 440,
+     "score": 456,
      "by": "rmason",
      "time": 1795641482,
-     "comments": 364
+     "comments": 380
     },
     {
-     "id": 50652184,
-     "title": "Moat: Your OpenRouter Replacement",
-     "url": "https://commandcode.ai/moat",
-     "score": 111,
-     "by": "amanverasia",
-     "time": 1795674768,
-     "comments": 75
+     "id": 50650892,
+     "title": "Minipg: PostgreSQL as a Single Executable",
+     "url": "https://progrium.github.io/minipg/",
+     "score": 177,
+     "by": "rguiscard",
+     "time": 1795662048,
+     "comments": 25
+    },
+    {
+     "id": 50649834,
+     "title": "Collection of preserved UI style guides",
+     "url": "https://aresluna.org/ui-style-guides/",
+     "score": 266,
+     "by": "sohkamyung",
+     "time": 1795653600,
+     "comments": 39
     },
     {
      "id": 50654353,
@@ -81,42 +90,33 @@
      "id": 50648050,
      "title": "Much shorter version of GRH Lean verification from Anthropic",
      "url": "https://github.com/lsernau/grh-lean",
-     "score": 480,
+     "score": 486,
      "by": "nb-t",
      "time": 1795643290,
-     "comments": 263
-    },
-    {
-     "id": 50649834,
-     "title": "Collection of preserved UI style guides",
-     "url": "https://aresluna.org/ui-style-guides/",
-     "score": 260,
-     "by": "sohkamyung",
-     "time": 1795653600,
-     "comments": 30
-    },
-    {
-     "id": 50650892,
-     "title": "Minipg: PostgreSQL as a Single Executable",
-     "url": "https://progrium.github.io/minipg/",
-     "score": 168,
-     "by": "rguiscard",
-     "time": 1795662048,
-     "comments": 24
+     "comments": 274
     },
     {
      "id": 50649864,
      "title": "Tell HN: Lots of Ask HNs again",
      "url": null,
-     "score": 296,
+     "score": 308,
      "by": "dang",
      "time": 1795653814,
-     "comments": 113
+     "comments": 119
+    },
+    {
+     "id": 50647181,
+     "title": "Slow Ubuntu security response times",
+     "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+     "score": 337,
+     "by": "gslin",
+     "time": 1795639080,
+     "comments": 168
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-26T12:46:49.451922+00:00",
+   "fetched_at": "2026-11-26T13:16:55.455773+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-26T12:46:51.095837+00:00",
+   "fetched_at": "2026-11-26T13:16:57.227394+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 12947,
+     "stars": 12962,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "xcl-dev/xcl",
      "url": "https://github.com/xcl-dev/xcl",
-     "stars": 8442,
+     "stars": 8450,
      "language": "Rust",
      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
      "created_at": "2026-11-20T20:03:21Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 4945,
+     "stars": 4985,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4120,
+     "stars": 4126,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "AFK-surf/xnulinux",
      "url": "https://github.com/AFK-surf/xnulinux",
-     "stars": 4111,
+     "stars": 4118,
      "language": "C",
      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
      "created_at": "2026-11-20T10:18:31Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3193,
+     "stars": 3195,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2423,
+     "stars": 2431,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "R0Y00/Xbox2Windows",
      "url": "https://github.com/R0Y00/Xbox2Windows",
-     "stars": 1962,
+     "stars": 1961,
      "language": "Python",
      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
      "created_at": "2026-11-20T17:43:52Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1922,
+     "stars": 1926,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-26T12:46:51.610250+00:00",
+   "fetched_at": "2026-11-26T13:16:57.873589+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-26T12:46:51.763345+00:00",
+   "fetched_at": "2026-11-26T13:16:58.007074+00:00",
    "stale": false,
    "items": [
     {
