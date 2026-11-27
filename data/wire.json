@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T14:53:39.148292+00:00",
+ "generated_at": "2026-11-27T14:53:52.028201+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T14:53:34.308912+00:00",
+   "fetched_at": "2026-11-27T14:53:49.453959+00:00",
    "stale": false,
    "items": [
     {
@@ -18,7 +18,7 @@
      "id": 50665920,
      "title": "Kimi for Science: More scientific ideas, made possible",
      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-     "score": 82,
+     "score": 83,
      "by": "theanonymousone",
      "time": 1795780991,
      "comments": 34
@@ -27,7 +27,7 @@
      "id": 50657392,
      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-     "score": 24,
+     "score": 25,
      "by": "Bender",
      "time": 1795713877,
      "comments": 0
@@ -36,7 +36,7 @@
      "id": 50663595,
      "title": "The group chat where your AI talks behind your back",
      "url": "https://construct22.com/",
-     "score": 472,
+     "score": 473,
      "by": "utiiiD",
      "time": 1795761874,
      "comments": 210
@@ -99,10 +99,10 @@
      "id": 50661646,
      "title": "Hard Drive pricing has gotten bad",
      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "score": 454,
+     "score": 455,
      "by": "zdw",
      "time": 1795742029,
-     "comments": 396
+     "comments": 397
     },
     {
      "id": 50657645,
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T14:53:35.584461+00:00",
+   "fetched_at": "2026-11-27T14:53:50.455688+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T14:53:37.725861+00:00",
+   "fetched_at": "2026-11-27T14:53:51.407450+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6356,
+     "stars": 6357,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T14:53:38.530608+00:00",
+   "fetched_at": "2026-11-27T14:53:51.743123+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T14:53:38.629183+00:00",
+   "fetched_at": "2026-11-27T14:53:51.778885+00:00",
    "stale": false,
    "items": [
     {
