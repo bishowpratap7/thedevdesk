@@ -1,51 +1,60 @@
 {
- "generated_at": "2026-11-27T02:20:37.554013+00:00",
+ "generated_at": "2026-11-27T02:50:43.533732+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T02:20:33.699857+00:00",
+   "fetched_at": "2026-11-27T02:50:39.504705+00:00",
    "stale": false,
    "items": [
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 325,
+     "score": 355,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 171
+     "comments": 193
+    },
+    {
+     "id": 50661646,
+     "title": "Hard Drive pricing has gotten bad",
+     "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "score": 35,
+     "by": "zdw",
+     "time": 1795742029,
+     "comments": 5
     },
     {
      "id": 50659841,
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "score": 249,
+     "score": 261,
      "by": "dverlaeckt80",
      "time": 1795727285,
-     "comments": 49
+     "comments": 51
     },
     {
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 276,
+     "score": 281,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 345
+     "comments": 352
     },
     {
      "id": 50657265,
      "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 288,
+     "score": 294,
      "by": "julianlam",
      "time": 1795713089,
-     "comments": 71
+     "comments": 73
     },
     {
      "id": 50657645,
      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 216,
+     "score": 223,
      "by": "Bender",
      "time": 1795715265,
      "comments": 95
@@ -54,69 +63,60 @@
      "id": 50660273,
      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
      "url": "https://kendell.dev/blog/arkwrapper/",
-     "score": 45,
+     "score": 52,
      "by": "leafingensemble",
      "time": 1795730359,
-     "comments": 8
+     "comments": 9
     },
     {
      "id": 50653667,
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 471,
+     "score": 474,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 239
-    },
-    {
-     "id": 50658632,
-     "title": "Rvoip: VoIP stack in Rust",
-     "url": "https://github.com/eisenzopf/rvoip",
-     "score": 91,
-     "by": "zerosegfaults",
-     "time": 1795720689,
-     "comments": 18
+     "comments": 240
     },
     {
      "id": 50659640,
      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-     "score": 115,
+     "score": 125,
      "by": "liamg",
      "time": 1795726189,
-     "comments": 30
+     "comments": 39
+    },
+    {
+     "id": 50658632,
+     "title": "Rvoip: VoIP stack in Rust",
+     "url": "https://github.com/eisenzopf/rvoip",
+     "score": 94,
+     "by": "zerosegfaults",
+     "time": 1795720689,
+     "comments": 18
     },
     {
      "id": 50658193,
      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
      "url": "https://bui.preetham.top/charts/",
-     "score": 61,
+     "score": 65,
      "by": "ppmpreetham",
      "time": 1795718244,
      "comments": 10
     },
     {
-     "id": 50651099,
-     "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-     "url": "https://olumino.app",
-     "score": 81,
-     "by": "Wiyseful",
-     "time": 1795663986,
-     "comments": 38
-    },
-    {
-     "id": 50657936,
-     "title": "George Whitesides, 1939-2026",
-     "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-     "score": 67,
-     "by": "dverlaeckt80",
-     "time": 1795716787,
-     "comments": 7
+     "id": 50658498,
+     "title": "An introduction to uncertainty in machine learning",
+     "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+     "score": 15,
+     "by": "chrhenning",
+     "time": 1795719890,
+     "comments": 0
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T02:20:35.414329+00:00",
+   "fetched_at": "2026-11-27T02:50:41.331351+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T02:20:36.718534+00:00",
+   "fetched_at": "2026-11-27T02:50:42.612224+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13398,
+     "stars": 13414,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 5888,
+     "stars": 5917,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4252,
+     "stars": 4259,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3282,
+     "stars": 3281,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 3099,
+     "stars": 3143,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2536,
+     "stars": 2540,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,10 +211,18 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1958,
+     "stars": 1959,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
+    },
+    {
+     "full_name": "avatarmanz/VIctory-7900XTX",
+     "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+     "stars": 1853,
+     "language": "Rust",
+     "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+     "created_at": "2026-11-25T22:18:14Z"
     },
     {
      "full_name": "omonkeyz/xbox-emulator",
@@ -225,17 +233,9 @@
      "created_at": "2026-11-21T08:08:39Z"
     },
     {
-     "full_name": "avatarmanz/VIctory-7900XTX",
-     "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1852,
-     "language": "Rust",
-     "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
-     "created_at": "2026-11-25T22:18:14Z"
-    },
-    {
      "full_name": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "stars": 1653,
+     "stars": 1659,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-22T10:53:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T02:20:37.078826+00:00",
+   "fetched_at": "2026-11-27T02:50:43.050392+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T02:20:37.102478+00:00",
+   "fetched_at": "2026-11-27T02:50:43.079800+00:00",
    "stale": false,
    "items": [
     {
