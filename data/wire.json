@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-27T17:24:15.685890+00:00",
+ "generated_at": "2026-11-27T17:54:19.803483+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T17:24:12.767443+00:00",
+   "fetched_at": "2026-11-27T17:54:17.027121+00:00",
    "stale": false,
    "items": [
     {
      "id": 50667726,
      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
      "url": "https://bouncemarket.minhanhday.com/",
-     "score": 183,
+     "score": 219,
      "by": "mday404",
      "time": 1795791710,
-     "comments": 49
+     "comments": 63
     },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 80,
+     "score": 107,
      "by": "scanr",
      "time": 1795794031,
-     "comments": 33
+     "comments": 53
+    },
+    {
+     "id": 50669561,
+     "title": "I'm Scared of AI",
+     "url": "https://thesoapbox.email/archive/3",
+     "score": 18,
+     "by": "mgirkins",
+     "time": 1795801531,
+     "comments": 2
     },
     {
      "id": 50657392,
      "title": "First images of the impact of DART asteroid deflection experiment",
      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-     "score": 108,
+     "score": 115,
      "by": "Bender",
      "time": 1795713877,
-     "comments": 34
+     "comments": 36
     },
     {
      "id": 50667989,
      "title": "False computer-checked proofs",
      "url": "https://cr.yp.to/proofs/falseccp.html",
-     "score": 49,
+     "score": 73,
      "by": "_tk_",
      "time": 1795793169,
-     "comments": 20
+     "comments": 29
     },
     {
      "id": 50663595,
      "title": "Group chat where your AI talks behind your back",
      "url": "https://construct22.com/",
-     "score": 556,
+     "score": 580,
      "by": "utiiiD",
      "time": 1795761874,
-     "comments": 242
-    },
-    {
-     "id": 50665920,
-     "title": "Kimi for Science: More scientific ideas, made possible",
-     "url": "https://www.kimi.ai/news/kimi-for-science-program",
-     "score": 143,
-     "by": "theanonymousone",
-     "time": 1795780991,
-     "comments": 105
-    },
-    {
-     "id": 50665968,
-     "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-     "url": "https://eprint.iacr.org/2026/3020.pdf",
-     "score": 173,
-     "by": "yuvadam",
-     "time": 1795781331,
-     "comments": 76
+     "comments": 248
     },
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 969,
+     "score": 986,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 462
+     "comments": 464
     },
     {
-     "id": 50666375,
-     "title": "US Air Force's cloud computing platform hacked",
-     "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-     "score": 186,
-     "by": "freakynit",
-     "time": 1795784051,
-     "comments": 106
-    },
-    {
-     "id": 50663089,
-     "title": "The need for a formally verifiable mainstream programming language",
-     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-     "score": 234,
-     "by": "todsacerdoti",
-     "time": 1795756926,
-     "comments": 243
+     "id": 50665968,
+     "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+     "url": "https://eprint.iacr.org/2026/3020.pdf",
+     "score": 180,
+     "by": "yuvadam",
+     "time": 1795781331,
+     "comments": 77
     },
     {
      "id": 50667062,
      "title": "Making a 3D fantasy map like a 16th-Century atlas",
      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
-     "score": 20,
+     "score": 28,
      "by": "HugoDz",
      "time": 1795788172,
-     "comments": 1
+     "comments": 3
     },
     {
-     "id": 50667744,
-     "title": "GPT 6.2 Astra Solves a Historical Mystery",
-     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 91,
-     "by": "bookofjoe",
-     "time": 1795791797,
-     "comments": 39
+     "id": 50666375,
+     "title": "US Air Force's cloud computing platform hacked",
+     "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+     "score": 213,
+     "by": "freakynit",
+     "time": 1795784051,
+     "comments": 128
+    },
+    {
+     "id": 50665920,
+     "title": "Kimi for Science: More scientific ideas, made possible",
+     "url": "https://www.kimi.ai/news/kimi-for-science-program",
+     "score": 147,
+     "by": "theanonymousone",
+     "time": 1795780991,
+     "comments": 116
+    },
+    {
+     "id": 50663089,
+     "title": "The need for a formally verifiable mainstream programming language",
+     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+     "score": 240,
+     "by": "todsacerdoti",
+     "time": 1795756926,
+     "comments": 251
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T17:24:13.902000+00:00",
+   "fetched_at": "2026-11-27T17:54:17.992761+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T17:24:14.890826+00:00",
+   "fetched_at": "2026-11-27T17:54:18.958899+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13710,
+     "stars": 13713,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6474,
+     "stars": 6494,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,23 +179,15 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4419,
+     "stars": 4423,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
     },
     {
-     "full_name": "Belobug/VIctory-Belobug-AMD",
-     "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 4185,
-     "language": "Rust",
-     "description": null,
-     "created_at": "2026-11-25T09:41:37Z"
-    },
-    {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3343,
+     "stars": 3341,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -203,7 +195,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2608,
+     "stars": 2610,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,10 +203,18 @@
     {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 2025,
+     "stars": 2049,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
+    },
+    {
+     "full_name": "alesha-pro/llm.asm",
+     "url": "https://github.com/alesha-pro/llm.asm",
+     "stars": 1990,
+     "language": "Assembly",
+     "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+     "created_at": "2026-11-25T07:28:51Z"
     },
     {
      "full_name": "os6/nospeaker",
@@ -225,25 +225,25 @@
      "created_at": "2026-11-22T12:05:54Z"
     },
     {
-     "full_name": "alesha-pro/llm.asm",
-     "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 1970,
-     "language": "Assembly",
-     "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-     "created_at": "2026-11-25T07:28:51Z"
+     "full_name": "omonkeyz/xbox-emulator",
+     "url": "https://github.com/omonkeyz/xbox-emulator",
+     "stars": 1852,
+     "language": "Rust",
+     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+     "created_at": "2026-11-21T08:08:39Z"
     },
     {
-     "full_name": "avatarmanz/VIctory-7900XTX",
-     "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1922,
-     "language": "Rust",
-     "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
-     "created_at": "2026-11-25T22:18:14Z"
+     "full_name": "crhywun/g1-acq",
+     "url": "https://github.com/crhywun/g1-acq",
+     "stars": 1767,
+     "language": "JavaScript",
+     "description": null,
+     "created_at": "2026-11-22T10:53:17Z"
     }
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T17:24:15.276706+00:00",
+   "fetched_at": "2026-11-27T17:54:19.312903+00:00",
    "stale": false,
    "items": [
     {
@@ -298,8 +298,8 @@
      "title": "What was your win this week!?",
      "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d",
      "author": "Jess Lee",
-     "reactions": 51,
-     "comments": 23,
+     "reactions": 52,
+     "comments": 26,
      "published_at": "2026-11-27T14:00:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T17:24:15.343365+00:00",
+   "fetched_at": "2026-11-27T17:54:19.406823+00:00",
    "stale": false,
    "items": [
     {
