@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-27T11:22:53.093771+00:00",
+ "generated_at": "2026-11-27T11:52:59.632338+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T11:22:48.137123+00:00",
+   "fetched_at": "2026-11-27T11:52:54.854565+00:00",
    "stale": false,
    "items": [
     {
      "id": 50663595,
      "title": "The group chat where your AI talks behind your back",
      "url": "https://construct22.com/",
-     "score": 297,
+     "score": 323,
      "by": "utiiiD",
      "time": 1795761874,
-     "comments": 125
+     "comments": 139
     },
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 751,
+     "score": 763,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 372
-    },
-    {
-     "id": 50657530,
-     "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-     "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 423,
-     "by": "iantongeorge",
-     "time": 1795714607,
-     "comments": 485
-    },
-    {
-     "id": 50659841,
-     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-     "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "score": 379,
-     "by": "dverlaeckt80",
-     "time": 1795727285,
-     "comments": 92
-    },
-    {
-     "id": 50657265,
-     "title": "AMD-specific fork of llama.cpp",
-     "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 369,
-     "by": "julianlam",
-     "time": 1795713089,
-     "comments": 89
-    },
-    {
-     "id": 50661646,
-     "title": "Hard Drive pricing has gotten bad",
-     "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "score": 373,
-     "by": "zdw",
-     "time": 1795742029,
-     "comments": 294
-    },
-    {
-     "id": 50657645,
-     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 275,
-     "by": "Bender",
-     "time": 1795715265,
-     "comments": 138
+     "comments": 381
     },
     {
      "id": 50665488,
      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-     "score": 11,
+     "score": 38,
      "by": "conradqh",
      "time": 1795777744,
-     "comments": 1
+     "comments": 29
+    },
+    {
+     "id": 50657530,
+     "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+     "url": "https://github.com/antonpictures/youtube-punisher",
+     "score": 428,
+     "by": "iantongeorge",
+     "time": 1795714607,
+     "comments": 487
+    },
+    {
+     "id": 50659841,
+     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+     "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+     "score": 384,
+     "by": "dverlaeckt80",
+     "time": 1795727285,
+     "comments": 96
+    },
+    {
+     "id": 50657265,
+     "title": "AMD-specific fork of llama.cpp",
+     "url": "https://devnull.land/amd-specific-llama-cpp",
+     "score": 377,
+     "by": "julianlam",
+     "time": 1795713089,
+     "comments": 90
+    },
+    {
+     "id": 50661646,
+     "title": "Hard Drive pricing has gotten bad",
+     "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "score": 380,
+     "by": "zdw",
+     "time": 1795742029,
+     "comments": 302
+    },
+    {
+     "id": 50657645,
+     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "score": 277,
+     "by": "Bender",
+     "time": 1795715265,
+     "comments": 138
     },
     {
      "id": 50659640,
      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-     "score": 385,
+     "score": 396,
      "by": "liamg",
      "time": 1795726189,
-     "comments": 182
+     "comments": 185
     },
     {
-     "id": 50663089,
-     "title": "The need for a formally verifiable mainstream programming language",
-     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-     "score": 169,
-     "by": "todsacerdoti",
-     "time": 1795756926,
-     "comments": 145
+     "id": 50664191,
+     "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+     "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+     "score": 66,
+     "by": "anilgulecha",
+     "time": 1795767106,
+     "comments": 36
     },
     {
      "id": 50653667,
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 530,
+     "score": 532,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 257
+     "comments": 258
     },
     {
-     "id": 50664885,
-     "title": "'Cyber incident' forces UK Gov to take some services offline",
-     "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
-     "score": 27,
-     "by": "thorin",
-     "time": 1795772677,
-     "comments": 20
+     "id": 50663089,
+     "title": "The need for a formally verifiable mainstream programming language",
+     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+     "score": 174,
+     "by": "todsacerdoti",
+     "time": 1795756926,
+     "comments": 157
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T11:22:49.425638+00:00",
+   "fetched_at": "2026-11-27T11:52:56.302396+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T11:22:51.534583+00:00",
+   "fetched_at": "2026-11-27T11:52:58.288694+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13593,
+     "stars": 13596,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6210,
+     "stars": 6221,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4363,
+     "stars": 4370,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 3793,
+     "stars": 3824,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3320,
+     "stars": 3319,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2581,
+     "stars": 2583,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1970,
+     "stars": 1972,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "avatarmanz/VIctory-7900XTX",
      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1900,
+     "stars": 1902,
      "language": "Rust",
      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
      "created_at": "2026-11-25T22:18:14Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 1826,
+     "stars": 1841,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T11:22:52.272433+00:00",
+   "fetched_at": "2026-11-27T11:52:59.094933+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T11:22:52.432438+00:00",
+   "fetched_at": "2026-11-27T11:52:59.237070+00:00",
    "stale": false,
    "items": [
     {
