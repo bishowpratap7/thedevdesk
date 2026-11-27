@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-27T08:22:00.500940+00:00",
+ "generated_at": "2026-11-27T08:52:05.521513+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T08:21:56.947948+00:00",
+   "fetched_at": "2026-11-27T08:52:01.823862+00:00",
    "stale": false,
    "items": [
     {
      "id": 50663595,
      "title": "The group chat where your AI talks behind your back",
      "url": "https://construct22.com/",
-     "score": 109,
+     "score": 153,
      "by": "utiiiD",
      "time": 1795761874,
-     "comments": 33
+     "comments": 53
     },
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 606,
+     "score": 634,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 312
+     "comments": 327
     },
     {
      "id": 50663089,
      "title": "The need for a formally verifiable mainstream programming language",
      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-     "score": 115,
+     "score": 132,
      "by": "todsacerdoti",
      "time": 1795756926,
-     "comments": 81
+     "comments": 103
     },
     {
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 370,
+     "score": 380,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 442
+     "comments": 449
     },
     {
      "id": 50659841,
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "score": 349,
+     "score": 356,
      "by": "dverlaeckt80",
      "time": 1795727285,
-     "comments": 82
+     "comments": 90
     },
     {
      "id": 50661646,
      "title": "Hard Drive pricing has gotten bad",
      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "score": 310,
+     "score": 323,
      "by": "zdw",
      "time": 1795742029,
-     "comments": 208
+     "comments": 225
     },
     {
      "id": 50657265,
      "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 339,
+     "score": 345,
      "by": "julianlam",
      "time": 1795713089,
-     "comments": 82
+     "comments": 83
     },
     {
      "id": 50657645,
      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 255,
+     "score": 259,
      "by": "Bender",
      "time": 1795715265,
-     "comments": 130
+     "comments": 133
     },
     {
      "id": 50659640,
      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-     "score": 300,
+     "score": 316,
      "by": "liamg",
      "time": 1795726189,
-     "comments": 128
-    },
-    {
-     "id": 50653667,
-     "title": "Intel One Mono font (2023)",
-     "url": "https://github.com/intel/intel-one-mono",
-     "score": 514,
-     "by": "saikatsg",
-     "time": 1795687861,
-     "comments": 249
+     "comments": 133
     },
     {
      "id": 50663666,
      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-     "score": 34,
+     "score": 49,
      "by": "bryanrasmussen",
      "time": 1795762432,
-     "comments": 18
+     "comments": 37
+    },
+    {
+     "id": 50653667,
+     "title": "Intel One Mono font (2023)",
+     "url": "https://github.com/intel/intel-one-mono",
+     "score": 517,
+     "by": "saikatsg",
+     "time": 1795687861,
+     "comments": 250
     },
     {
      "id": 50658498,
      "title": "An introduction to uncertainty in machine learning",
      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-     "score": 69,
+     "score": 74,
      "by": "chrhenning",
      "time": 1795719890,
-     "comments": 1
+     "comments": 2
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T08:21:58.349579+00:00",
+   "fetched_at": "2026-11-27T08:52:03.553430+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T08:21:59.721672+00:00",
+   "fetched_at": "2026-11-27T08:52:04.822147+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13532,
+     "stars": 13547,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6119,
+     "stars": 6140,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4332,
+     "stars": 4337,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 3571,
+     "stars": 3609,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3305,
+     "stars": 3308,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2565,
+     "stars": 2567,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1967,
+     "stars": 1968,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "avatarmanz/VIctory-7900XTX",
      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1883,
+     "stars": 1886,
      "language": "Rust",
      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
      "created_at": "2026-11-25T22:18:14Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 1760,
+     "stars": 1778,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T08:22:00.126735+00:00",
+   "fetched_at": "2026-11-27T08:52:05.186263+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T08:22:00.145508+00:00",
+   "fetched_at": "2026-11-27T08:52:05.212287+00:00",
    "stale": false,
    "items": [
     {
