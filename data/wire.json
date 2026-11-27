@@ -1,60 +1,51 @@
 {
- "generated_at": "2026-11-27T11:52:59.632338+00:00",
+ "generated_at": "2026-11-27T12:23:05.999560+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T11:52:54.854565+00:00",
+   "fetched_at": "2026-11-27T12:23:01.288732+00:00",
    "stale": false,
    "items": [
     {
      "id": 50663595,
      "title": "The group chat where your AI talks behind your back",
      "url": "https://construct22.com/",
-     "score": 323,
+     "score": 354,
      "by": "utiiiD",
      "time": 1795761874,
-     "comments": 139
+     "comments": 159
     },
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 763,
+     "score": 782,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 381
-    },
-    {
-     "id": 50665488,
-     "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
-     "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-     "score": 38,
-     "by": "conradqh",
-     "time": 1795777744,
-     "comments": 29
-    },
-    {
-     "id": 50657530,
-     "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-     "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 428,
-     "by": "iantongeorge",
-     "time": 1795714607,
-     "comments": 487
+     "comments": 396
     },
     {
      "id": 50659841,
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "score": 384,
+     "score": 396,
      "by": "dverlaeckt80",
      "time": 1795727285,
-     "comments": 96
+     "comments": 100
+    },
+    {
+     "id": 50657530,
+     "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+     "url": "https://github.com/antonpictures/youtube-punisher",
+     "score": 433,
+     "by": "iantongeorge",
+     "time": 1795714607,
+     "comments": 493
     },
     {
      "id": 50657265,
      "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 377,
+     "score": 382,
      "by": "julianlam",
      "time": 1795713089,
      "comments": 90
@@ -63,60 +54,69 @@
      "id": 50661646,
      "title": "Hard Drive pricing has gotten bad",
      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "score": 380,
+     "score": 392,
      "by": "zdw",
      "time": 1795742029,
-     "comments": 302
+     "comments": 317
     },
     {
      "id": 50657645,
      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 277,
+     "score": 283,
      "by": "Bender",
      "time": 1795715265,
-     "comments": 138
+     "comments": 139
     },
     {
      "id": 50659640,
      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-     "score": 396,
+     "score": 412,
      "by": "liamg",
      "time": 1795726189,
-     "comments": 185
+     "comments": 193
     },
     {
      "id": 50664191,
      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
-     "score": 66,
+     "score": 85,
      "by": "anilgulecha",
      "time": 1795767106,
-     "comments": 36
+     "comments": 49
     },
     {
      "id": 50653667,
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 532,
+     "score": 534,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 258
+     "comments": 259
+    },
+    {
+     "id": 50663261,
+     "title": "Buy Nothing Day \u2013 Friday November 27th 2026",
+     "url": "https://www.buynothingday.co.uk/",
+     "score": 140,
+     "by": "f_allwein",
+     "time": 1795758762,
+     "comments": 29
     },
     {
      "id": 50663089,
      "title": "The need for a formally verifiable mainstream programming language",
      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-     "score": 174,
+     "score": 181,
      "by": "todsacerdoti",
      "time": 1795756926,
-     "comments": 157
+     "comments": 165
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T11:52:56.302396+00:00",
+   "fetched_at": "2026-11-27T12:23:02.589124+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T11:52:58.288694+00:00",
+   "fetched_at": "2026-11-27T12:23:04.644727+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13596,
+     "stars": 13603,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6221,
+     "stars": 6241,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4370,
+     "stars": 4373,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 3824,
+     "stars": 3862,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3319,
+     "stars": 3321,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2583,
+     "stars": 2584,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1972,
+     "stars": 1973,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "avatarmanz/VIctory-7900XTX",
      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1902,
+     "stars": 1906,
      "language": "Rust",
      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
      "created_at": "2026-11-25T22:18:14Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 1841,
+     "stars": 1847,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T11:52:59.094933+00:00",
+   "fetched_at": "2026-11-27T12:23:05.223715+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 143,
+     "reactions": 144,
      "comments": 90,
      "published_at": "2026-11-25T08:29:06Z"
     },
@@ -307,13 +307,13 @@
      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2",
      "author": "Hemapriya Kanagala",
      "reactions": 106,
-     "comments": 49,
+     "comments": 50,
      "published_at": "2026-11-25T15:26:38Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T11:52:59.237070+00:00",
+   "fetched_at": "2026-11-27T12:23:05.401539+00:00",
    "stale": false,
    "items": [
     {
