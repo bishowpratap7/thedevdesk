@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-27T20:24:53.587575+00:00",
+ "generated_at": "2026-11-27T20:54:58.825957+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T20:24:49.558757+00:00",
+   "fetched_at": "2026-11-27T20:54:55.482910+00:00",
    "stale": false,
    "items": [
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 255,
+     "score": 278,
      "by": "scanr",
      "time": 1795794031,
-     "comments": 143
+     "comments": 158
     },
     {
      "id": 50669765,
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-     "score": 94,
+     "score": 115,
      "by": "MickyTheMouse",
      "time": 1795802565,
-     "comments": 31
+     "comments": 42
     },
     {
      "id": 50643158,
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 32,
+     "score": 52,
      "by": "dr_red_dog",
      "time": 1795619813,
-     "comments": 75
-    },
-    {
-     "id": 50667726,
-     "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-     "url": "https://bouncemarket.minhanhday.com/",
-     "score": 278,
-     "by": "mday404",
-     "time": 1795791710,
      "comments": 86
     },
     {
      "id": 50662313,
      "title": "Citro\u00ebn Hydraulic System",
      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-     "score": 26,
+     "score": 36,
      "by": "o4c",
      "time": 1795749019,
-     "comments": 6
+     "comments": 13
+    },
+    {
+     "id": 50667726,
+     "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+     "url": "https://bouncemarket.minhanhday.com/",
+     "score": 285,
+     "by": "mday404",
+     "time": 1795791710,
+     "comments": 87
+    },
+    {
+     "id": 50670841,
+     "title": "The AT&T Unix PC (3B1) VM",
+     "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+     "score": 14,
+     "by": "ok123456",
+     "time": 1795808433,
+     "comments": 1
     },
     {
      "id": 50670757,
      "title": "Michael Nielsen took down his book on neural nets",
      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
-     "score": 94,
+     "score": 124,
      "by": "brandonb",
      "time": 1795807861,
-     "comments": 64
+     "comments": 84
     },
     {
      "id": 50667989,
      "title": "False computer-checked proofs",
      "url": "https://cr.yp.to/proofs/falseccp.html",
-     "score": 124,
+     "score": 130,
      "by": "_tk_",
      "time": 1795793169,
-     "comments": 56
+     "comments": 60
     },
     {
      "id": 50657392,
      "title": "First images of the impact of DART asteroid deflection experiment",
      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-     "score": 147,
+     "score": 151,
      "by": "Bender",
      "time": 1795713877,
-     "comments": 50
+     "comments": 51
     },
     {
      "id": 50669673,
      "title": "Show HN: DragDropMath \u2013 Learn math by feel",
      "url": "https://dragdropmath.com/",
-     "score": 19,
+     "score": 31,
      "by": "ziofill",
      "time": 1795802188,
-     "comments": 2
-    },
-    {
-     "id": 50670855,
-     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-     "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-     "score": 30,
-     "by": "DeepLogin",
-     "time": 1795808545,
-     "comments": 4
-    },
-    {
-     "id": 50663595,
-     "title": "Group chat where your AI talks behind your back",
-     "url": "https://construct22.com/",
-     "score": 627,
-     "by": "utiiiD",
-     "time": 1795761874,
-     "comments": 266
+     "comments": 6
     },
     {
      "id": 50667371,
      "title": "Rayshader 1.0: Exit the Matrix",
      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
-     "score": 19,
+     "score": 27,
      "by": "tylermw",
      "time": 1795789820,
-     "comments": 4
+     "comments": 6
+    },
+    {
+     "id": 50663595,
+     "title": "Group chat where your AI talks behind your back",
+     "url": "https://construct22.com/",
+     "score": 630,
+     "by": "utiiiD",
+     "time": 1795761874,
+     "comments": 271
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T20:24:51.749106+00:00",
+   "fetched_at": "2026-11-27T20:54:56.583743+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T20:24:52.736851+00:00",
+   "fetched_at": "2026-11-27T20:54:57.859812+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13756,
+     "stars": 13762,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6606,
+     "stars": 6622,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4430,
+     "stars": 4434,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3351,
+     "stars": 3353,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "ProjectLeonida/mandy",
      "url": "https://github.com/ProjectLeonida/mandy",
-     "stars": 2625,
+     "stars": 2627,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 2236,
+     "stars": 2403,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 2125,
+     "stars": 2136,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 2059,
+     "stars": 2081,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1987,
+     "stars": 1989,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T20:24:53.077399+00:00",
+   "fetched_at": "2026-11-27T20:54:58.214975+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T20:24:53.194039+00:00",
+   "fetched_at": "2026-11-27T20:54:58.304672+00:00",
    "stale": false,
    "items": [
     {
