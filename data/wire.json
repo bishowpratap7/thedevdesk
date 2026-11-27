@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-27T00:20:11.906499+00:00",
+ "generated_at": "2026-11-27T00:50:18.906522+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T00:20:07.425622+00:00",
+   "fetched_at": "2026-11-27T00:50:13.842548+00:00",
    "stale": false,
    "items": [
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 212,
+     "score": 239,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 117
+     "comments": 140
     },
     {
      "id": 50659841,
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "score": 205,
+     "score": 214,
      "by": "dverlaeckt80",
      "time": 1795727285,
-     "comments": 37
+     "comments": 40
     },
     {
      "id": 50657265,
      "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 269,
+     "score": 275,
      "by": "julianlam",
      "time": 1795713089,
-     "comments": 63
+     "comments": 64
     },
     {
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 231,
+     "score": 245,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 310
+     "comments": 318
     },
     {
      "id": 50657645,
-     "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+     "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 191,
+     "score": 195,
      "by": "Bender",
      "time": 1795715265,
-     "comments": 85
+     "comments": 88
     },
     {
      "id": 50658632,
-     "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+     "title": "Rvoip: VoIP stack in Rust",
      "url": "https://github.com/eisenzopf/rvoip",
-     "score": 66,
+     "score": 74,
      "by": "zerosegfaults",
      "time": 1795720689,
-     "comments": 14
+     "comments": 16
     },
     {
      "id": 50653667,
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 450,
+     "score": 453,
      "by": "saikatsg",
      "time": 1795687861,
-     "comments": 234
+     "comments": 235
+    },
+    {
+     "id": 50660273,
+     "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+     "url": "https://kendell.dev/blog/arkwrapper/",
+     "score": 28,
+     "by": "leafingensemble",
+     "time": 1795730359,
+     "comments": 4
     },
     {
      "id": 50651099,
      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
      "url": "https://olumino.app",
-     "score": 64,
+     "score": 69,
      "by": "Wiyseful",
      "time": 1795663986,
-     "comments": 34
-    },
-    {
-     "id": 50657936,
-     "title": "George Whitesides, 1939-2026",
-     "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-     "score": 51,
-     "by": "dverlaeckt80",
-     "time": 1795716787,
-     "comments": 6
+     "comments": 36
     },
     {
      "id": 50658193,
      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
      "url": "https://bui.preetham.top/charts/",
-     "score": 43,
+     "score": 47,
      "by": "ppmpreetham",
      "time": 1795718244,
-     "comments": 4
+     "comments": 7
+    },
+    {
+     "id": 50657936,
+     "title": "George Whitesides, 1939-2026",
+     "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+     "score": 56,
+     "by": "dverlaeckt80",
+     "time": 1795716787,
+     "comments": 7
     },
     {
      "id": 50653477,
      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-     "score": 214,
+     "score": 219,
      "by": "ritzaco",
      "time": 1795686263,
-     "comments": 188
-    },
-    {
-     "id": 50652527,
-     "title": "OpenAI may be in cost control mode",
-     "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-     "score": 246,
-     "by": "seizethecheese",
-     "time": 1795678392,
-     "comments": 232
+     "comments": 199
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T00:20:09.150734+00:00",
+   "fetched_at": "2026-11-27T00:50:15.609082+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T00:20:10.614989+00:00",
+   "fetched_at": "2026-11-27T00:50:17.793965+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13349,
+     "stars": 13365,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 5778,
+     "stars": 5802,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4228,
+     "stars": 4233,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3280,
+     "stars": 3282,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 2865,
+     "stars": 2921,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2530,
+     "stars": 2533,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "avatarmanz/VIctory-7900XTX",
      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1844,
+     "stars": 1846,
      "language": "Rust",
      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
      "created_at": "2026-11-25T22:18:14Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "stars": 1632,
+     "stars": 1635,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-22T10:53:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T00:20:11.141484+00:00",
+   "fetched_at": "2026-11-27T00:50:18.312556+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 178,
+     "reactions": 177,
      "comments": 88,
      "published_at": "2026-11-23T14:42:00Z"
     },
@@ -274,8 +274,8 @@
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 126,
-     "comments": 81,
+     "reactions": 128,
+     "comments": 83,
      "published_at": "2026-11-25T08:29:06Z"
     },
     {
@@ -290,7 +290,7 @@
      "title": "The Third Cup: Change Never Sleeps",
      "url": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
      "author": "xulingfeng",
-     "reactions": 118,
+     "reactions": 119,
      "comments": 58,
      "published_at": "2026-11-23T07:09:21Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T00:20:11.240298+00:00",
+   "fetched_at": "2026-11-27T00:50:18.410034+00:00",
    "stale": false,
    "items": [
     {
