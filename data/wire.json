@@ -1,69 +1,69 @@
 {
- "generated_at": "2026-11-27T22:55:17.448457+00:00",
+ "generated_at": "2026-11-27T23:25:21.669695+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T22:55:14.510777+00:00",
+   "fetched_at": "2026-11-27T23:25:18.682902+00:00",
    "stale": false,
    "items": [
     {
      "id": 50643158,
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 175,
+     "score": 221,
      "by": "dr_red_dog",
      "time": 1795619813,
-     "comments": 139
+     "comments": 152
     },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 353,
+     "score": 379,
      "by": "scanr",
      "time": 1795794031,
-     "comments": 195
+     "comments": 199
     },
     {
      "id": 50669765,
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-     "score": 186,
+     "score": 198,
      "by": "MickyTheMouse",
      "time": 1795802565,
-     "comments": 55
-    },
-    {
-     "id": 50672008,
-     "title": "9/UX: a Macintosh-inspired desktop for 9front",
-     "url": "https://progrium.github.io/9ux/",
-     "score": 23,
-     "by": "rbanffy",
-     "time": 1795816094,
-     "comments": 2
-    },
-    {
-     "id": 50662313,
-     "title": "Citro\u00ebn Hydraulic System",
-     "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-     "score": 87,
-     "by": "o4c",
-     "time": 1795749019,
-     "comments": 35
+     "comments": 56
     },
     {
      "id": 50672142,
      "title": "Source Control from Hell",
      "url": "https://frantic.im/git/",
-     "score": 14,
+     "score": 25,
      "by": "emschwartz",
      "time": 1795817204,
-     "comments": 3
+     "comments": 7
+    },
+    {
+     "id": 50672008,
+     "title": "9/UX: a Macintosh-inspired desktop for 9front",
+     "url": "https://progrium.github.io/9ux/",
+     "score": 34,
+     "by": "rbanffy",
+     "time": 1795816094,
+     "comments": 6
+    },
+    {
+     "id": 50662313,
+     "title": "Citro\u00ebn Hydraulic System",
+     "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+     "score": 112,
+     "by": "o4c",
+     "time": 1795749019,
+     "comments": 37
     },
     {
      "id": 50670841,
      "title": "The AT&T Unix PC (3B1) VM",
      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
-     "score": 39,
+     "score": 45,
      "by": "ok123456",
      "time": 1795808433,
      "comments": 7
@@ -72,51 +72,51 @@
      "id": 50670757,
      "title": "Michael Nielsen took down his book on neural nets",
      "url": "https://neuralnetworksanddeeplearning.com/",
-     "score": 284,
+     "score": 309,
      "by": "brandonb",
      "time": 1795807861,
-     "comments": 179
+     "comments": 193
     },
     {
      "id": 50667726,
      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
      "url": "https://bouncemarket.minhanhday.com/",
-     "score": 309,
+     "score": 314,
      "by": "mday404",
      "time": 1795791710,
      "comments": 106
     },
     {
-     "id": 50657392,
-     "title": "First images of the impact of DART asteroid deflection experiment",
-     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-     "score": 174,
-     "by": "Bender",
-     "time": 1795713877,
-     "comments": 53
-    },
-    {
-     "id": 50669673,
-     "title": "Show HN: DragDropMath \u2013 Learn math by feel",
-     "url": "https://dragdropmath.com/",
-     "score": 72,
-     "by": "ziofill",
-     "time": 1795802188,
-     "comments": 17
-    },
-    {
      "id": 50670855,
      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-     "score": 165,
+     "score": 193,
      "by": "DeepLogin",
      "time": 1795808545,
-     "comments": 89
+     "comments": 101
+    },
+    {
+     "id": 50657392,
+     "title": "First images of the impact of DART asteroid deflection experiment",
+     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+     "score": 178,
+     "by": "Bender",
+     "time": 1795713877,
+     "comments": 54
+    },
+    {
+     "id": 50671275,
+     "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+     "url": "https://github.com/skeeto/prospero",
+     "score": 20,
+     "by": "ingve",
+     "time": 1795810994,
+     "comments": 3
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T22:55:15.562474+00:00",
+   "fetched_at": "2026-11-27T23:25:19.852837+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T22:55:16.694992+00:00",
+   "fetched_at": "2026-11-27T23:25:20.854079+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13789,
+     "stars": 13799,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6693,
+     "stars": 6711,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4451,
+     "stars": 4455,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3358,
+     "stars": 3357,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 2917,
+     "stars": 3014,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ProjectLeonida/mandy",
      "url": "https://github.com/ProjectLeonida/mandy",
-     "stars": 2649,
+     "stars": 2678,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 2199,
+     "stars": 2213,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 2160,
+     "stars": 2180,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1991,
+     "stars": 1992,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "omonkeyz/xbox-emulator",
      "url": "https://github.com/omonkeyz/xbox-emulator",
-     "stars": 1849,
+     "stars": 1850,
      "language": "Rust",
      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
      "created_at": "2026-11-21T08:08:39Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T22:55:17.004298+00:00",
+   "fetched_at": "2026-11-27T23:25:21.304662+00:00",
    "stale": false,
    "items": [
     {
@@ -251,14 +251,14 @@
      "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
      "author": "Klaudia Grzondziel",
      "reactions": 102,
-     "comments": 41,
+     "comments": 42,
      "published_at": "2026-11-25T14:05:36Z"
     },
     {
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 150,
+     "reactions": 151,
      "comments": 98,
      "published_at": "2026-11-25T08:29:06Z"
     },
@@ -282,7 +282,7 @@
      "title": "What was your win this week!?",
      "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d",
      "author": "Jess Lee",
-     "reactions": 72,
+     "reactions": 73,
      "comments": 34,
      "published_at": "2026-11-27T14:00:00Z"
     },
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T22:55:17.048410+00:00",
+   "fetched_at": "2026-11-27T23:25:21.392732+00:00",
    "stale": false,
    "items": [
     {
