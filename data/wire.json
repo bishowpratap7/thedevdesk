@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-27T16:24:07.634926+00:00",
+ "generated_at": "2026-11-27T16:54:11.539480+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T16:24:03.123394+00:00",
+   "fetched_at": "2026-11-27T16:54:09.589649+00:00",
    "stale": false,
    "items": [
     {
      "id": 50667726,
      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
      "url": "https://bouncemarket.minhanhday.com/",
-     "score": 90,
+     "score": 149,
      "by": "mday404",
      "time": 1795791710,
-     "comments": 34
-    },
-    {
-     "id": 50657392,
-     "title": "First images of the impact of DART asteroid deflection experiment",
-     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-     "score": 90,
-     "by": "Bender",
-     "time": 1795713877,
-     "comments": 22
+     "comments": 42
     },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 19,
+     "score": 51,
      "by": "scanr",
      "time": 1795794031,
-     "comments": 4
+     "comments": 13
     },
     {
-     "id": 50663595,
-     "title": "The group chat where your AI talks behind your back",
-     "url": "https://construct22.com/",
-     "score": 526,
-     "by": "utiiiD",
-     "time": 1795761874,
-     "comments": 233
-    },
-    {
-     "id": 50665920,
-     "title": "Kimi for Science: More scientific ideas, made possible",
-     "url": "https://www.kimi.ai/news/kimi-for-science-program",
-     "score": 121,
-     "by": "theanonymousone",
-     "time": 1795780991,
-     "comments": 84
-    },
-    {
-     "id": 50665968,
-     "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-     "url": "https://eprint.iacr.org/2026/3020.pdf",
-     "score": 158,
-     "by": "yuvadam",
-     "time": 1795781331,
-     "comments": 71
+     "id": 50657392,
+     "title": "First images of the impact of DART asteroid deflection experiment",
+     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+     "score": 100,
+     "by": "Bender",
+     "time": 1795713877,
+     "comments": 26
     },
     {
      "id": 50667989,
      "title": "False Computer-Checked Proofs",
      "url": "https://cr.yp.to/proofs/falseccp.html",
-     "score": 9,
+     "score": 29,
      "by": "_tk_",
      "time": 1795793169,
-     "comments": 2
+     "comments": 7
+    },
+    {
+     "id": 50665920,
+     "title": "Kimi for Science: More scientific ideas, made possible",
+     "url": "https://www.kimi.ai/news/kimi-for-science-program",
+     "score": 133,
+     "by": "theanonymousone",
+     "time": 1795780991,
+     "comments": 91
+    },
+    {
+     "id": 50663595,
+     "title": "The group chat where your AI talks behind your back",
+     "url": "https://construct22.com/",
+     "score": 542,
+     "by": "utiiiD",
+     "time": 1795761874,
+     "comments": 239
+    },
+    {
+     "id": 50665968,
+     "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+     "url": "https://eprint.iacr.org/2026/3020.pdf",
+     "score": 165,
+     "by": "yuvadam",
+     "time": 1795781331,
+     "comments": 75
     },
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 934,
+     "score": 947,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 449
+     "comments": 457
     },
     {
      "id": 50666375,
      "title": "US Air Force's cloud computing platform hacked",
      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-     "score": 153,
+     "score": 171,
      "by": "freakynit",
      "time": 1795784051,
-     "comments": 84
+     "comments": 95
     },
     {
      "id": 50667744,
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 51,
+     "score": 74,
      "by": "bookofjoe",
      "time": 1795791797,
-     "comments": 16
+     "comments": 31
+    },
+    {
+     "id": 50667062,
+     "title": "Making a 3D fantasy map like a 16th-Century atlas",
+     "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+     "score": 13,
+     "by": "HugoDz",
+     "time": 1795788172,
+     "comments": 1
     },
     {
      "id": 50666279,
      "title": "New York and California age gating rules go into effect in the new year",
      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-     "score": 97,
+     "score": 110,
      "by": "frutiger",
      "time": 1795783420,
-     "comments": 104
-    },
-    {
-     "id": 50666436,
-     "title": "Mental Health Resources and Political Engagement",
-     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-     "score": 86,
-     "by": "bko",
-     "time": 1795784462,
-     "comments": 149
+     "comments": 137
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T16:24:04.035653+00:00",
+   "fetched_at": "2026-11-27T16:54:10.575324+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T16:24:06.874796+00:00",
+   "fetched_at": "2026-11-27T16:54:10.802250+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13692,
+     "stars": 13703,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6435,
+     "stars": 6453,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4414,
+     "stars": 4416,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 4121,
+     "stars": 4152,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3339,
+     "stars": 3342,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -209,25 +209,25 @@
      "created_at": "2026-11-23T23:54:39Z"
     },
     {
-     "full_name": "os6/nospeaker",
-     "url": "https://github.com/os6/nospeaker",
-     "stars": 1983,
-     "language": "Swift",
-     "description": "make your macbook's trackpad talk using its haptic motor",
-     "created_at": "2026-11-22T12:05:54Z"
-    },
-    {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 1974,
+     "stars": 2002,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
     },
     {
+     "full_name": "os6/nospeaker",
+     "url": "https://github.com/os6/nospeaker",
+     "stars": 1984,
+     "language": "Swift",
+     "description": "make your macbook's trackpad talk using its haptic motor",
+     "created_at": "2026-11-22T12:05:54Z"
+    },
+    {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 1939,
+     "stars": 1954,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T16:24:07.251565+00:00",
+   "fetched_at": "2026-11-27T16:54:11.131364+00:00",
    "stale": false,
    "items": [
     {
@@ -253,14 +253,6 @@
      "reactions": 99,
      "comments": 30,
      "published_at": "2026-11-25T14:05:36Z"
-    },
-    {
-     "title": "Tell us your story, and we might read it on the CodeNewbie Podcast \ud83c\udf99\ufe0f",
-     "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
-     "author": "Lauren Lee\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb",
-     "reactions": 64,
-     "comments": 44,
-     "published_at": "2026-11-20T16:28:49Z"
     },
     {
      "title": "The Price You Pay for Passion",
@@ -287,14 +279,6 @@
      "published_at": "2026-11-23T07:09:21Z"
     },
     {
-     "title": "Cozy Bytes \ud83c\udf7a | Rust::Who Owns the Cat? \ud83d\udc08\ud83e\udd80",
-     "url": "https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch",
-     "author": "nyaomaru",
-     "reactions": 111,
-     "comments": 38,
-     "published_at": "2026-11-20T16:21:37Z"
-    },
-    {
      "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
      "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
      "author": "Earl Grey",
@@ -309,11 +293,27 @@
      "reactions": 107,
      "comments": 51,
      "published_at": "2026-11-25T15:26:38Z"
+    },
+    {
+     "title": "The Chairs Are Back. The Coffee Is On. \u2615",
+     "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
+     "author": "xulingfeng",
+     "reactions": 123,
+     "comments": 64,
+     "published_at": "2026-11-21T11:24:29Z"
+    },
+    {
+     "title": "What was your win this week!?",
+     "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d",
+     "author": "Jess Lee",
+     "reactions": 45,
+     "comments": 20,
+     "published_at": "2026-11-27T14:00:00Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T16:24:07.344084+00:00",
+   "fetched_at": "2026-11-27T16:54:11.166564+00:00",
    "stale": false,
    "items": [
     {
