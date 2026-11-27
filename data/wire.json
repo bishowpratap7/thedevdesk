@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-27T03:50:56.560705+00:00",
+ "generated_at": "2026-11-27T04:21:02.514162+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T03:50:52.084628+00:00",
+   "fetched_at": "2026-11-27T04:20:58.388402+00:00",
    "stale": false,
    "items": [
     {
      "id": 50661646,
      "title": "Hard Drive pricing has gotten bad",
      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "score": 111,
+     "score": 150,
      "by": "zdw",
      "time": 1795742029,
-     "comments": 57
+     "comments": 75
     },
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 403,
+     "score": 426,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 222
+     "comments": 231
     },
     {
      "id": 50659841,
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "score": 281,
+     "score": 291,
      "by": "dverlaeckt80",
      "time": 1795727285,
-     "comments": 58
+     "comments": 63
     },
     {
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 297,
+     "score": 309,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 378
+     "comments": 382
     },
     {
      "id": 50657265,
      "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 301,
+     "score": 307,
      "by": "julianlam",
      "time": 1795713089,
      "comments": 74
@@ -54,69 +54,69 @@
      "id": 50657645,
      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 230,
+     "score": 240,
      "by": "Bender",
      "time": 1795715265,
-     "comments": 100
+     "comments": 102
     },
     {
-     "id": 50662322,
-     "title": "Google will show solo Android developers' phone numbers and addresses",
-     "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
-     "score": 28,
+     "id": 50662153,
+     "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+     "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+     "score": 12,
      "by": "nreece",
-     "time": 1795749101,
-     "comments": 6
-    },
-    {
-     "id": 50653667,
-     "title": "Intel One Mono font (2023)",
-     "url": "https://github.com/intel/intel-one-mono",
-     "score": 482,
-     "by": "saikatsg",
-     "time": 1795687861,
-     "comments": 244
-    },
-    {
-     "id": 50660273,
-     "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-     "url": "https://kendell.dev/blog/arkwrapper/",
-     "score": 59,
-     "by": "leafingensemble",
-     "time": 1795730359,
-     "comments": 10
+     "time": 1795747452,
+     "comments": 7
     },
     {
      "id": 50659640,
      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-     "score": 163,
+     "score": 177,
      "by": "liamg",
      "time": 1795726189,
-     "comments": 65
+     "comments": 69
     },
     {
-     "id": 50662217,
-     "title": "Show HN: Sqrin \u2013 A better screen share for Mac",
-     "url": "https://sqrin.app",
-     "score": 3,
-     "by": "stichoza",
-     "time": 1795748002,
-     "comments": 0
+     "id": 50653667,
+     "title": "Intel One Mono font (2023)",
+     "url": "https://github.com/intel/intel-one-mono",
+     "score": 487,
+     "by": "saikatsg",
+     "time": 1795687861,
+     "comments": 245
+    },
+    {
+     "id": 50660273,
+     "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+     "url": "https://kendell.dev/blog/arkwrapper/",
+     "score": 62,
+     "by": "leafingensemble",
+     "time": 1795730359,
+     "comments": 11
     },
     {
      "id": 50658498,
      "title": "An introduction to uncertainty in machine learning",
      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-     "score": 28,
+     "score": 33,
      "by": "chrhenning",
      "time": 1795719890,
      "comments": 0
+    },
+    {
+     "id": 50658193,
+     "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+     "url": "https://bui.preetham.top/charts/",
+     "score": 80,
+     "by": "ppmpreetham",
+     "time": 1795718244,
+     "comments": 10
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T03:50:53.836677+00:00",
+   "fetched_at": "2026-11-27T04:21:00.117152+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T03:50:55.168009+00:00",
+   "fetched_at": "2026-11-27T04:21:01.504669+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13442,
+     "stars": 13453,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 5957,
+     "stars": 5971,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4272,
+     "stars": 4277,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 3238,
+     "stars": 3269,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2545,
+     "stars": 2547,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1961,
+     "stars": 1962,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "avatarmanz/VIctory-7900XTX",
      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1855,
+     "stars": 1862,
      "language": "Rust",
      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
      "created_at": "2026-11-25T22:18:14Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "stars": 1669,
+     "stars": 1677,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-22T10:53:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T03:50:55.788343+00:00",
+   "fetched_at": "2026-11-27T04:21:01.982463+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T03:50:55.922406+00:00",
+   "fetched_at": "2026-11-27T04:21:02.007352+00:00",
    "stale": false,
    "items": [
     {
