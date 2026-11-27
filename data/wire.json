@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T09:52:16.507485+00:00",
+ "generated_at": "2026-11-27T09:52:31.590683+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T09:52:12.660274+00:00",
+   "fetched_at": "2026-11-27T09:52:26.907884+00:00",
    "stale": false,
    "items": [
     {
@@ -18,7 +18,7 @@
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 687,
+     "score": 688,
      "by": "jlelse",
      "time": 1795729665,
      "comments": 341
@@ -33,6 +33,15 @@
      "comments": 466
     },
     {
+     "id": 50663089,
+     "title": "The need for a formally verifiable mainstream programming language",
+     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+     "score": 149,
+     "by": "todsacerdoti",
+     "time": 1795756926,
+     "comments": 123
+    },
+    {
      "id": 50659841,
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
@@ -40,15 +49,6 @@
      "by": "dverlaeckt80",
      "time": 1795727285,
      "comments": 90
-    },
-    {
-     "id": 50663089,
-     "title": "The need for a formally verifiable mainstream programming language",
-     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-     "score": 148,
-     "by": "todsacerdoti",
-     "time": 1795756926,
-     "comments": 123
     },
     {
      "id": 50661646,
@@ -84,13 +84,13 @@
      "score": 348,
      "by": "liamg",
      "time": 1795726189,
-     "comments": 157
+     "comments": 158
     },
     {
      "id": 50664325,
      "title": "Claude sabotaging SOTA ML research tasks",
      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-     "score": 38,
+     "score": 39,
      "by": "baobabKoodaa",
      "time": 1795768088,
      "comments": 17
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T09:52:14.125640+00:00",
+   "fetched_at": "2026-11-27T09:52:28.151994+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T09:52:15.569552+00:00",
+   "fetched_at": "2026-11-27T09:52:30.214606+00:00",
    "stale": false,
    "items": [
     {
@@ -187,7 +187,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 3681,
+     "stars": 3682,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T09:52:15.989740+00:00",
+   "fetched_at": "2026-11-27T09:52:30.778607+00:00",
    "stale": false,
    "items": [
     {
@@ -267,7 +267,7 @@
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
      "reactions": 178,
-     "comments": 89,
+     "comments": 90,
      "published_at": "2026-11-23T14:42:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T09:52:16.123465+00:00",
+   "fetched_at": "2026-11-27T09:52:30.914158+00:00",
    "stale": false,
    "items": [
     {
