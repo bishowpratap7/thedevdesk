@@ -1,24 +1,15 @@
 {
- "generated_at": "2026-11-27T19:54:36.096148+00:00",
+ "generated_at": "2026-11-27T19:54:47.835917+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T19:54:33.487610+00:00",
+   "fetched_at": "2026-11-27T19:54:44.605201+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50670757,
-     "title": "Michael Nielsen took down his book on neural nets",
-     "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
-     "score": 33,
-     "by": "brandonb",
-     "time": 1795807861,
-     "comments": 14
-    },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 230,
+     "score": 231,
      "by": "scanr",
      "time": 1795794031,
      "comments": 128
@@ -42,10 +33,19 @@
      "comments": 82
     },
     {
+     "id": 50670757,
+     "title": "Michael Nielsen took down his book on neural nets",
+     "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+     "score": 35,
+     "by": "brandonb",
+     "time": 1795807861,
+     "comments": 16
+    },
+    {
      "id": 50657392,
      "title": "First images of the impact of DART asteroid deflection experiment",
      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-     "score": 140,
+     "score": 141,
      "by": "Bender",
      "time": 1795713877,
      "comments": 51
@@ -81,7 +81,7 @@
      "id": 50669673,
      "title": "Show HN: DragDropMath \u2013 Learn math by feel",
      "url": "https://dragdropmath.com/",
-     "score": 10,
+     "score": 11,
      "by": "ziofill",
      "time": 1795802188,
      "comments": 1
@@ -90,7 +90,7 @@
      "id": 50669561,
      "title": "I'm Scared of AI",
      "url": "https://thesoapbox.email/archive/3",
-     "score": 181,
+     "score": 182,
      "by": "mgirkins",
      "time": 1795801531,
      "comments": 193
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T19:54:34.426870+00:00",
+   "fetched_at": "2026-11-27T19:54:45.712623+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T19:54:35.401547+00:00",
+   "fetched_at": "2026-11-27T19:54:46.850511+00:00",
    "stale": false,
    "items": [
     {
@@ -211,7 +211,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 2054,
+     "stars": 2057,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T19:54:35.794475+00:00",
+   "fetched_at": "2026-11-27T19:54:47.258075+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T19:54:35.860053+00:00",
+   "fetched_at": "2026-11-27T19:54:47.321260+00:00",
    "stale": false,
    "items": [
     {
