@@ -1,69 +1,69 @@
 {
- "generated_at": "2026-11-27T07:21:50.051990+00:00",
+ "generated_at": "2026-11-27T07:51:55.406613+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-27T07:21:46.210174+00:00",
+   "fetched_at": "2026-11-27T07:51:51.777132+00:00",
    "stale": false,
    "items": [
-    {
-     "id": 50663089,
-     "title": "The need for a formally verifiable mainstream programming language",
-     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-     "score": 82,
-     "by": "todsacerdoti",
-     "time": 1795756926,
-     "comments": 51
-    },
     {
      "id": 50663595,
      "title": "The group chat where your AI talks behind your back",
      "url": "https://construct22.com/",
-     "score": 26,
+     "score": 59,
      "by": "utiiiD",
      "time": 1795761874,
-     "comments": 6
+     "comments": 14
+    },
+    {
+     "id": 50663089,
+     "title": "The need for a formally verifiable mainstream programming language",
+     "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+     "score": 96,
+     "by": "todsacerdoti",
+     "time": 1795756926,
+     "comments": 63
     },
     {
      "id": 50660180,
      "title": "AI made self-hosting fun again",
      "url": "https://janlukas.blog/posts/ai-self-hosting",
-     "score": 569,
+     "score": 587,
      "by": "jlelse",
      "time": 1795729665,
-     "comments": 296
+     "comments": 303
     },
     {
      "id": 50661646,
      "title": "Hard Drive pricing has gotten bad",
      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "score": 278,
+     "score": 295,
      "by": "zdw",
      "time": 1795742029,
-     "comments": 182
+     "comments": 188
     },
     {
      "id": 50657530,
      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
      "url": "https://github.com/antonpictures/youtube-punisher",
-     "score": 354,
+     "score": 363,
      "by": "iantongeorge",
      "time": 1795714607,
-     "comments": 422
+     "comments": 431
     },
     {
      "id": 50659841,
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-     "score": 338,
+     "score": 341,
      "by": "dverlaeckt80",
      "time": 1795727285,
-     "comments": 77
+     "comments": 80
     },
     {
      "id": 50657265,
      "title": "AMD-specific fork of llama.cpp",
      "url": "https://devnull.land/amd-specific-llama-cpp",
-     "score": 332,
+     "score": 337,
      "by": "julianlam",
      "time": 1795713089,
      "comments": 82
@@ -72,43 +72,43 @@
      "id": 50657645,
      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "score": 249,
+     "score": 250,
      "by": "Bender",
      "time": 1795715265,
      "comments": 124
     },
     {
-     "id": 50662933,
-     "title": "\"What's Claude's Fursona?\" and Other Questions",
-     "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-     "score": 70,
-     "by": "Mond_",
-     "time": 1795755378,
-     "comments": 43
+     "id": 50659640,
+     "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+     "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+     "score": 280,
+     "by": "liamg",
+     "time": 1795726189,
+     "comments": 126
     },
     {
      "id": 50653667,
      "title": "Intel One Mono font (2023)",
      "url": "https://github.com/intel/intel-one-mono",
-     "score": 505,
+     "score": 511,
      "by": "saikatsg",
      "time": 1795687861,
      "comments": 249
     },
     {
-     "id": 50659640,
-     "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
-     "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-     "score": 264,
-     "by": "liamg",
-     "time": 1795726189,
-     "comments": 117
+     "id": 50662933,
+     "title": "\"What's Claude's Fursona?\" and Other Questions",
+     "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+     "score": 73,
+     "by": "Mond_",
+     "time": 1795755378,
+     "comments": 44
     },
     {
      "id": 50658498,
      "title": "An introduction to uncertainty in machine learning",
      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-     "score": 58,
+     "score": 65,
      "by": "chrhenning",
      "time": 1795719890,
      "comments": 1
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-27T07:21:47.707123+00:00",
+   "fetched_at": "2026-11-27T07:51:53.174110+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-27T07:21:49.267417+00:00",
+   "fetched_at": "2026-11-27T07:51:54.483418+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13513,
+     "stars": 13520,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "4lwayz/portwatch-vi",
      "url": "https://github.com/4lwayz/portwatch-vi",
-     "stars": 6074,
+     "stars": 6098,
      "language": "JavaScript",
      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
      "created_at": "2026-11-21T23:16:41Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "EL4CTEO/fast-anything",
      "url": "https://github.com/EL4CTEO/fast-anything",
-     "stars": 4318,
+     "stars": 4326,
      "language": "Rust",
      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
      "created_at": "2026-11-21T14:40:27Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "Belobug/VIctory-Belobug-AMD",
      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-     "stars": 3493,
+     "stars": 3542,
      "language": "Rust",
      "description": null,
      "created_at": "2026-11-25T09:41:37Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3299,
+     "stars": 3302,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "ubiquitarianism/leonida",
      "url": "https://github.com/ubiquitarianism/leonida",
-     "stars": 2554,
+     "stars": 2559,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 1965,
+     "stars": 1966,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "avatarmanz/VIctory-7900XTX",
      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-     "stars": 1878,
+     "stars": 1881,
      "language": "Rust",
      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
      "created_at": "2026-11-25T22:18:14Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 1722,
+     "stars": 1736,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-27T07:21:49.709666+00:00",
+   "fetched_at": "2026-11-27T07:51:54.897970+00:00",
    "stale": false,
    "items": [
     {
@@ -266,7 +266,7 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 177,
+     "reactions": 178,
      "comments": 88,
      "published_at": "2026-11-23T14:42:00Z"
     },
@@ -275,7 +275,7 @@
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
      "reactions": 131,
-     "comments": 86,
+     "comments": 87,
      "published_at": "2026-11-25T08:29:06Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-27T07:21:49.751380+00:00",
+   "fetched_at": "2026-11-27T07:51:54.995234+00:00",
    "stale": false,
    "items": [
     {
