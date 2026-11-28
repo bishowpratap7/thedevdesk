@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T05:56:33.038888+00:00",
+ "generated_at": "2026-11-28T05:56:49.446988+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-28T05:56:30.164581+00:00",
+   "fetched_at": "2026-11-28T05:56:44.079358+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-28T05:56:31.241537+00:00",
+   "fetched_at": "2026-11-28T05:56:45.223231+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-28T05:56:32.232162+00:00",
+   "fetched_at": "2026-11-28T05:56:47.771773+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13870,
+     "stars": 13871,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 4122,
+     "stars": 4123,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Reukix/Reloc",
      "url": "https://github.com/Reukix/Reloc",
-     "stars": 1835,
+     "stars": 1836,
      "language": "Swift",
      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
      "created_at": "2026-11-25T17:29:48Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-28T05:56:32.565651+00:00",
+   "fetched_at": "2026-11-28T05:56:48.456127+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-28T05:56:32.619950+00:00",
+   "fetched_at": "2026-11-28T05:56:48.607313+00:00",
    "stale": false,
    "items": [
     {
