@@ -1,33 +1,42 @@
 {
- "generated_at": "2026-11-28T11:28:19.912802+00:00",
+ "generated_at": "2026-11-28T11:58:25.737420+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-28T11:28:16.331422+00:00",
+   "fetched_at": "2026-11-28T11:58:21.946245+00:00",
    "stale": false,
    "items": [
+    {
+     "id": 50676672,
+     "title": "Farewell",
+     "url": "https://github.com/p-e-w/heretic/issues/601",
+     "score": 8,
+     "by": "nolist_policy",
+     "time": 1795866146,
+     "comments": 1
+    },
     {
      "id": 50674218,
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "url": "https://unkernel.dev",
-     "score": 364,
+     "score": 379,
      "by": "nreece",
      "time": 1795835960,
-     "comments": 91
+     "comments": 98
     },
     {
      "id": 50632052,
      "title": "Loom seamlessly combines weaving, knitting and braiding",
      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-     "score": 140,
+     "score": 147,
      "by": "PaulHoule",
      "time": 1795543845,
-     "comments": 15
+     "comments": 17
     },
     {
      "id": 50672565,
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-     "score": 434,
+     "score": 447,
      "by": "ComputedCamp995",
      "time": 1795820789,
      "comments": 161
@@ -36,87 +45,78 @@
      "id": 50674452,
      "title": "Knuth: Moratorium on Error Reports",
      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
-     "score": 135,
+     "score": 156,
      "by": "ultraficial",
      "time": 1795837761,
-     "comments": 64
+     "comments": 74
     },
     {
      "id": 50657346,
      "title": "The Balatro Timeline",
      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-     "score": 396,
+     "score": 410,
      "by": "sheepscreek",
      "time": 1795713627,
-     "comments": 101
+     "comments": 107
     },
     {
      "id": 50643158,
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 457,
+     "score": 459,
      "by": "dr_red_dog",
      "time": 1795619813,
-     "comments": 287
+     "comments": 289
     },
     {
      "id": 50666724,
      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
-     "score": 79,
+     "score": 84,
      "by": "robtherobber",
      "time": 1795786220,
-     "comments": 19
+     "comments": 20
     },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 536,
+     "score": 542,
      "by": "scanr",
      "time": 1795794031,
-     "comments": 277
+     "comments": 280
     },
     {
      "id": 50648760,
      "title": "Coherent Energy Transformations: What elements can you make?",
      "url": "https://starfire.tech/shock/",
-     "score": 8,
+     "score": 11,
      "by": "jerlendds",
      "time": 1795647068,
-     "comments": 1
+     "comments": 2
     },
     {
      "id": 50650253,
      "title": "Sydney Fire Ant Infestation",
      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
-     "score": 64,
+     "score": 68,
      "by": "altilunium",
      "time": 1795656782,
-     "comments": 40
+     "comments": 43
     },
     {
      "id": 50669765,
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-     "score": 315,
+     "score": 319,
      "by": "MickyTheMouse",
      "time": 1795802565,
      "comments": 102
-    },
-    {
-     "id": 50644341,
-     "title": "What Is the Metabolism-First Theory for the Origin of Life?",
-     "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-     "score": 29,
-     "by": "ibobev",
-     "time": 1795624901,
-     "comments": 7
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-28T11:28:17.830710+00:00",
+   "fetched_at": "2026-11-28T11:58:23.573771+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-28T11:28:19.089813+00:00",
+   "fetched_at": "2026-11-28T11:58:24.784618+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13971,
+     "stars": 13982,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 5025,
+     "stars": 5101,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3372,
+     "stars": 3374,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "ProjectLeonida/mandy",
      "url": "https://github.com/ProjectLeonida/mandy",
-     "stars": 3085,
+     "stars": 3098,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 2630,
+     "stars": 2662,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 2476,
+     "stars": 2490,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Reukix/Reloc",
      "url": "https://github.com/Reukix/Reloc",
-     "stars": 2077,
+     "stars": 2117,
      "language": "Swift",
      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
      "created_at": "2026-11-25T17:29:48Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "stars": 1838,
+     "stars": 1841,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-22T10:53:17Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-     "stars": 1723,
+     "stars": 1727,
      "language": "Rust",
      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
      "created_at": "2026-11-22T18:50:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-28T11:28:19.467132+00:00",
+   "fetched_at": "2026-11-28T11:58:25.252403+00:00",
    "stale": false,
    "items": [
     {
@@ -258,7 +258,7 @@
      "title": "The Price You Pay for Passion",
      "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
      "author": "Sylwia Laskowska",
-     "reactions": 160,
+     "reactions": 161,
      "comments": 100,
      "published_at": "2026-11-25T08:29:06Z"
     },
@@ -266,7 +266,7 @@
      "title": "What are you Grateful for this Thanksgiving?",
      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
      "author": "FrancisTR\u1d05\u1d07\u1d20",
-     "reactions": 187,
+     "reactions": 189,
      "comments": 96,
      "published_at": "2026-11-23T14:42:00Z"
     },
@@ -298,22 +298,22 @@
      "title": "I Built My First Multi-Agent System on AWS, and It Was Easier Than I Expected",
      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2",
      "author": "Hemapriya Kanagala",
-     "reactions": 110,
-     "comments": 63,
+     "reactions": 111,
+     "comments": 64,
      "published_at": "2026-11-25T15:26:38Z"
     },
     {
-     "title": "The Chairs Are Back. The Coffee Is On. \u2615",
-     "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
-     "author": "xulingfeng",
-     "reactions": 123,
-     "comments": 64,
-     "published_at": "2026-11-21T11:24:29Z"
+     "title": "Necoz Is Building a New House!! \ud83d\udef8 All Cats, Follow Me!! \ud83d\udc08\ud83d\ude80",
+     "url": "https://dev.to/necoz/necoz-is-building-a-new-house-all-cats-follow-me-530n",
+     "author": "nyaomaru",
+     "reactions": 117,
+     "comments": 54,
+     "published_at": "2026-11-22T13:27:10Z"
     }
    ]
   },
   "status": {
-   "fetched_at": "2026-11-28T11:28:19.504394+00:00",
+   "fetched_at": "2026-11-28T11:58:25.369248+00:00",
    "stale": false,
    "items": [
     {
