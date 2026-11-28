@@ -1,122 +1,122 @@
 {
- "generated_at": "2026-11-28T10:27:47.402070+00:00",
+ "generated_at": "2026-11-28T10:57:53.622255+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-28T10:27:43.321909+00:00",
+   "fetched_at": "2026-11-28T10:57:48.948292+00:00",
    "stale": false,
    "items": [
     {
      "id": 50674218,
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "url": "https://unkernel.dev",
-     "score": 319,
+     "score": 345,
      "by": "nreece",
      "time": 1795835960,
-     "comments": 77
+     "comments": 83
     },
     {
      "id": 50632052,
      "title": "Loom seamlessly combines weaving, knitting and braiding",
      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-     "score": 123,
+     "score": 133,
      "by": "PaulHoule",
      "time": 1795543845,
-     "comments": 12
+     "comments": 14
     },
     {
      "id": 50672565,
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-     "score": 404,
+     "score": 416,
      "by": "ComputedCamp995",
      "time": 1795820789,
-     "comments": 153
+     "comments": 159
     },
     {
      "id": 50657346,
      "title": "The Balatro Timeline",
      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-     "score": 374,
+     "score": 385,
      "by": "sheepscreek",
      "time": 1795713627,
-     "comments": 90
+     "comments": 96
     },
     {
      "id": 50674452,
      "title": "Knuth: Moratorium on Error Reports",
      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
-     "score": 100,
+     "score": 115,
      "by": "ultraficial",
      "time": 1795837761,
-     "comments": 52
+     "comments": 57
+    },
+    {
+     "id": 50648760,
+     "title": "Coherent Energy Transformations: What elements can you make?",
+     "url": "https://starfire.tech/shock/",
+     "score": 6,
+     "by": "jerlendds",
+     "time": 1795647068,
+     "comments": 0
     },
     {
      "id": 50643158,
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 449,
+     "score": 453,
      "by": "dr_red_dog",
      "time": 1795619813,
-     "comments": 282
+     "comments": 285
     },
     {
      "id": 50666724,
      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
-     "score": 72,
+     "score": 77,
      "by": "robtherobber",
      "time": 1795786220,
-     "comments": 15
+     "comments": 18
     },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 530,
+     "score": 533,
      "by": "scanr",
      "time": 1795794031,
-     "comments": 273
+     "comments": 274
     },
     {
      "id": 50650253,
      "title": "Sydney Fire Ant Infestation",
      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
-     "score": 59,
+     "score": 60,
      "by": "altilunium",
      "time": 1795656782,
-     "comments": 37
+     "comments": 40
     },
     {
      "id": 50669765,
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-     "score": 306,
+     "score": 310,
      "by": "MickyTheMouse",
      "time": 1795802565,
-     "comments": 98
+     "comments": 100
     },
     {
      "id": 50644341,
      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-     "score": 23,
+     "score": 26,
      "by": "ibobev",
      "time": 1795624901,
      "comments": 7
-    },
-    {
-     "id": 50662313,
-     "title": "Citro\u00ebn Hydraulic System",
-     "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-     "score": 204,
-     "by": "o4c",
-     "time": 1795749019,
-     "comments": 60
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-28T10:27:44.423700+00:00",
+   "fetched_at": "2026-11-28T10:57:50.093322+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-28T10:27:46.085127+00:00",
+   "fetched_at": "2026-11-28T10:57:51.962315+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13951,
+     "stars": 13956,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 4856,
+     "stars": 4938,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "ProjectLeonida/mandy",
      "url": "https://github.com/ProjectLeonida/mandy",
-     "stars": 3064,
+     "stars": 3074,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 2593,
+     "stars": 2612,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 2448,
+     "stars": 2461,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Reukix/Reloc",
      "url": "https://github.com/Reukix/Reloc",
-     "stars": 2028,
+     "stars": 2052,
      "language": "Swift",
      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
      "created_at": "2026-11-25T17:29:48Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "stars": 1836,
+     "stars": 1837,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-22T10:53:17Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-     "stars": 1712,
+     "stars": 1717,
      "language": "Rust",
      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
      "created_at": "2026-11-22T18:50:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-28T10:27:46.577404+00:00",
+   "fetched_at": "2026-11-28T10:57:52.548509+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-28T10:27:46.759229+00:00",
+   "fetched_at": "2026-11-28T10:57:52.715057+00:00",
    "stale": false,
    "items": [
     {
