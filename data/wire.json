@@ -1,96 +1,96 @@
 {
- "generated_at": "2026-11-28T10:58:14.198348+00:00",
+ "generated_at": "2026-11-28T11:28:19.912802+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-28T10:58:10.327023+00:00",
+   "fetched_at": "2026-11-28T11:28:16.331422+00:00",
    "stale": false,
    "items": [
     {
      "id": 50674218,
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "url": "https://unkernel.dev",
-     "score": 345,
+     "score": 364,
      "by": "nreece",
      "time": 1795835960,
-     "comments": 83
+     "comments": 91
     },
     {
      "id": 50632052,
      "title": "Loom seamlessly combines weaving, knitting and braiding",
      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-     "score": 133,
+     "score": 140,
      "by": "PaulHoule",
      "time": 1795543845,
-     "comments": 14
+     "comments": 15
     },
     {
      "id": 50672565,
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-     "score": 416,
+     "score": 434,
      "by": "ComputedCamp995",
      "time": 1795820789,
-     "comments": 159
-    },
-    {
-     "id": 50657346,
-     "title": "The Balatro Timeline",
-     "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-     "score": 385,
-     "by": "sheepscreek",
-     "time": 1795713627,
-     "comments": 96
+     "comments": 161
     },
     {
      "id": 50674452,
      "title": "Knuth: Moratorium on Error Reports",
      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
-     "score": 115,
+     "score": 135,
      "by": "ultraficial",
      "time": 1795837761,
-     "comments": 57
+     "comments": 64
     },
     {
-     "id": 50648760,
-     "title": "Coherent Energy Transformations: What elements can you make?",
-     "url": "https://starfire.tech/shock/",
-     "score": 6,
-     "by": "jerlendds",
-     "time": 1795647068,
-     "comments": 0
+     "id": 50657346,
+     "title": "The Balatro Timeline",
+     "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+     "score": 396,
+     "by": "sheepscreek",
+     "time": 1795713627,
+     "comments": 101
     },
     {
      "id": 50643158,
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 453,
+     "score": 457,
      "by": "dr_red_dog",
      "time": 1795619813,
-     "comments": 285
+     "comments": 287
     },
     {
      "id": 50666724,
      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
-     "score": 77,
+     "score": 79,
      "by": "robtherobber",
      "time": 1795786220,
-     "comments": 18
+     "comments": 19
     },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 533,
+     "score": 536,
      "by": "scanr",
      "time": 1795794031,
-     "comments": 274
+     "comments": 277
+    },
+    {
+     "id": 50648760,
+     "title": "Coherent Energy Transformations: What elements can you make?",
+     "url": "https://starfire.tech/shock/",
+     "score": 8,
+     "by": "jerlendds",
+     "time": 1795647068,
+     "comments": 1
     },
     {
      "id": 50650253,
      "title": "Sydney Fire Ant Infestation",
      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
-     "score": 60,
+     "score": 64,
      "by": "altilunium",
      "time": 1795656782,
      "comments": 40
@@ -99,16 +99,16 @@
      "id": 50669765,
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-     "score": 310,
+     "score": 315,
      "by": "MickyTheMouse",
      "time": 1795802565,
-     "comments": 100
+     "comments": 102
     },
     {
      "id": 50644341,
      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-     "score": 26,
+     "score": 29,
      "by": "ibobev",
      "time": 1795624901,
      "comments": 7
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-28T10:58:11.958350+00:00",
+   "fetched_at": "2026-11-28T11:28:17.830710+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-28T10:58:13.286985+00:00",
+   "fetched_at": "2026-11-28T11:28:19.089813+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13956,
+     "stars": 13971,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 4941,
+     "stars": 5025,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3373,
+     "stars": 3372,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "ProjectLeonida/mandy",
      "url": "https://github.com/ProjectLeonida/mandy",
-     "stars": 3074,
+     "stars": 3085,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 2612,
+     "stars": 2630,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 2461,
+     "stars": 2476,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "Reukix/Reloc",
      "url": "https://github.com/Reukix/Reloc",
-     "stars": 2052,
+     "stars": 2077,
      "language": "Swift",
      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
      "created_at": "2026-11-25T17:29:48Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "stars": 1837,
+     "stars": 1838,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-22T10:53:17Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-     "stars": 1717,
+     "stars": 1723,
      "language": "Rust",
      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
      "created_at": "2026-11-22T18:50:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-28T10:58:13.726692+00:00",
+   "fetched_at": "2026-11-28T11:28:19.467132+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-28T10:58:13.829169+00:00",
+   "fetched_at": "2026-11-28T11:28:19.504394+00:00",
    "stale": false,
    "items": [
     {
