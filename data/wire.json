@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-28T10:57:53.622255+00:00",
+ "generated_at": "2026-11-28T10:58:14.198348+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-28T10:57:48.948292+00:00",
+   "fetched_at": "2026-11-28T10:58:10.327023+00:00",
    "stale": false,
    "items": [
     {
@@ -116,7 +116,7 @@
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-28T10:57:50.093322+00:00",
+   "fetched_at": "2026-11-28T10:58:11.958350+00:00",
    "stale": false,
    "items": [
     {
@@ -157,7 +157,7 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-28T10:57:51.962315+00:00",
+   "fetched_at": "2026-11-28T10:58:13.286985+00:00",
    "stale": false,
    "items": [
     {
@@ -171,7 +171,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 4938,
+     "stars": 4941,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-28T10:57:52.548509+00:00",
+   "fetched_at": "2026-11-28T10:58:13.726692+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-28T10:57:52.715057+00:00",
+   "fetched_at": "2026-11-28T10:58:13.829169+00:00",
    "stale": false,
    "items": [
     {
