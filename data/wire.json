@@ -1,69 +1,78 @@
 {
- "generated_at": "2026-11-28T08:57:29.528759+00:00",
+ "generated_at": "2026-11-28T09:27:35.236646+00:00",
  "sections": {
   "top_stories": {
-   "fetched_at": "2026-11-28T08:57:24.953516+00:00",
+   "fetched_at": "2026-11-28T09:27:30.980426+00:00",
    "stale": false,
    "items": [
     {
      "id": 50674218,
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "url": "https://unkernel.dev",
-     "score": 253,
+     "score": 274,
      "by": "nreece",
      "time": 1795835960,
-     "comments": 50
+     "comments": 64
     },
     {
      "id": 50632052,
      "title": "Loom seamlessly combines weaving, knitting and braiding",
      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-     "score": 82,
+     "score": 98,
      "by": "PaulHoule",
      "time": 1795543845,
-     "comments": 7
+     "comments": 10
     },
     {
      "id": 50672565,
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-     "score": 359,
+     "score": 376,
      "by": "ComputedCamp995",
      "time": 1795820789,
-     "comments": 138
+     "comments": 143
     },
     {
      "id": 50657346,
      "title": "The Balatro Timeline",
      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-     "score": 321,
+     "score": 352,
      "by": "sheepscreek",
      "time": 1795713627,
-     "comments": 70
+     "comments": 74
     },
     {
      "id": 50643158,
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-     "score": 435,
+     "score": 439,
      "by": "dr_red_dog",
      "time": 1795619813,
-     "comments": 277
+     "comments": 279
+    },
+    {
+     "id": 50674452,
+     "title": "Knuth: Moratorium on Error Reports",
+     "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+     "score": 72,
+     "by": "ultraficial",
+     "time": 1795837761,
+     "comments": 29
     },
     {
      "id": 50666724,
      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
-     "score": 51,
+     "score": 58,
      "by": "robtherobber",
      "time": 1795786220,
-     "comments": 6
+     "comments": 8
     },
     {
      "id": 50668145,
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "score": 515,
+     "score": 519,
      "by": "scanr",
      "time": 1795794031,
      "comments": 269
@@ -72,25 +81,16 @@
      "id": 50650253,
      "title": "Sydney Fire Ant Infestation",
      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
-     "score": 56,
+     "score": 59,
      "by": "altilunium",
      "time": 1795656782,
-     "comments": 28
-    },
-    {
-     "id": 50674452,
-     "title": "Knuth: Moratorium on Error Reports",
-     "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
-     "score": 51,
-     "by": "ultraficial",
-     "time": 1795837761,
-     "comments": 17
+     "comments": 32
     },
     {
      "id": 50669765,
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-     "score": 297,
+     "score": 300,
      "by": "MickyTheMouse",
      "time": 1795802565,
      "comments": 95
@@ -99,24 +99,24 @@
      "id": 50644341,
      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-     "score": 14,
+     "score": 17,
      "by": "ibobev",
      "time": 1795624901,
-     "comments": 3
+     "comments": 4
     },
     {
      "id": 50662313,
      "title": "Citro\u00ebn Hydraulic System",
      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-     "score": 190,
+     "score": 199,
      "by": "o4c",
      "time": 1795749019,
-     "comments": 59
+     "comments": 60
     }
    ]
   },
   "releases": {
-   "fetched_at": "2026-11-28T08:57:26.149680+00:00",
+   "fetched_at": "2026-11-28T09:27:32.102964+00:00",
    "stale": false,
    "items": [
     {
@@ -157,13 +157,13 @@
    ]
   },
   "trending": {
-   "fetched_at": "2026-11-28T08:57:27.985051+00:00",
+   "fetched_at": "2026-11-28T09:27:33.767332+00:00",
    "stale": false,
    "items": [
     {
      "full_name": "Marvisak/VIctory",
      "url": "https://github.com/Marvisak/VIctory",
-     "stars": 13912,
+     "stars": 13923,
      "language": "Rust",
      "description": "An attempt at running GTA VI on PC",
      "created_at": "2026-11-23T21:47:25Z"
@@ -171,7 +171,7 @@
     {
      "full_name": "trustno1-coder/VIctory-NVIDIA",
      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-     "stars": 4602,
+     "stars": 4678,
      "language": "Rust",
      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
      "created_at": "2026-11-25T23:35:29Z"
@@ -179,7 +179,7 @@
     {
      "full_name": "fxceless/victory-fork",
      "url": "https://github.com/fxceless/victory-fork",
-     "stars": 3369,
+     "stars": 3371,
      "language": "Rust",
      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
      "created_at": "2026-11-24T18:02:37Z"
@@ -187,7 +187,7 @@
     {
      "full_name": "ProjectLeonida/mandy",
      "url": "https://github.com/ProjectLeonida/mandy",
-     "stars": 3035,
+     "stars": 3049,
      "language": "Python",
      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
      "created_at": "2026-11-23T23:54:39Z"
@@ -195,7 +195,7 @@
     {
      "full_name": "nexu-io/opengame",
      "url": "https://github.com/nexu-io/opengame",
-     "stars": 2537,
+     "stars": 2561,
      "language": "TypeScript",
      "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
      "created_at": "2026-11-25T10:35:45Z"
@@ -203,7 +203,7 @@
     {
      "full_name": "alesha-pro/llm.asm",
      "url": "https://github.com/alesha-pro/llm.asm",
-     "stars": 2404,
+     "stars": 2417,
      "language": "Assembly",
      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
      "created_at": "2026-11-25T07:28:51Z"
@@ -211,7 +211,7 @@
     {
      "full_name": "os6/nospeaker",
      "url": "https://github.com/os6/nospeaker",
-     "stars": 2000,
+     "stars": 2001,
      "language": "Swift",
      "description": "make your macbook's trackpad talk using its haptic motor",
      "created_at": "2026-11-22T12:05:54Z"
@@ -219,7 +219,7 @@
     {
      "full_name": "Reukix/Reloc",
      "url": "https://github.com/Reukix/Reloc",
-     "stars": 1965,
+     "stars": 1979,
      "language": "Swift",
      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
      "created_at": "2026-11-25T17:29:48Z"
@@ -227,7 +227,7 @@
     {
      "full_name": "crhywun/g1-acq",
      "url": "https://github.com/crhywun/g1-acq",
-     "stars": 1828,
+     "stars": 1830,
      "language": "JavaScript",
      "description": null,
      "created_at": "2026-11-22T10:53:17Z"
@@ -235,7 +235,7 @@
     {
      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-     "stars": 1696,
+     "stars": 1699,
      "language": "Rust",
      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
      "created_at": "2026-11-22T18:50:17Z"
@@ -243,7 +243,7 @@
    ]
   },
   "community": {
-   "fetched_at": "2026-11-28T08:57:28.532372+00:00",
+   "fetched_at": "2026-11-28T09:27:34.263774+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d",
      "author": "Jess Lee",
      "reactions": 87,
-     "comments": 43,
+     "comments": 44,
      "published_at": "2026-11-27T14:00:00Z"
     },
     {
@@ -313,7 +313,7 @@
    ]
   },
   "status": {
-   "fetched_at": "2026-11-28T08:57:28.725499+00:00",
+   "fetched_at": "2026-11-28T09:27:34.438939+00:00",
    "stale": false,
    "items": [
     {
@@ -325,8 +325,8 @@
     {
      "name": "Cloudflare",
      "home": "https://www.cloudflarestatus.com",
-     "indicator": "major",
-     "description": "Partial System Outage"
+     "indicator": "minor",
+     "description": "Partially Degraded Service"
     },
     {
      "name": "npm",
